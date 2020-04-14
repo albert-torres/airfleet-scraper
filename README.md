@@ -38,5 +38,7 @@ _CC BY-NC-SA 4.0_
 
 ## Zenodo DOI
 
-[![DOI](https://zenodo.org/badge/253335140.svg)](https://zenodo.org/badge/latestdoi/253335140)
+* Software [![DOI](https://zenodo.org/badge/253335140.svg)](https://zenodo.org/badge/latestdoi/253335140)
+* Dataset [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3752107.svg)](https://doi.org/10.5281/zenodo.3752107)
+
 
