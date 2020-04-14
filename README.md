@@ -33,8 +33,10 @@ optional arguments:
 ## Author
 Albert Torres Rubio
 
-
 ## License
 _CC BY-NC-SA 4.0_
 
+## Zenodo DOI
+
+[![DOI](https://zenodo.org/badge/253335140.svg)](https://zenodo.org/badge/latestdoi/253335140)
 
