@@ -5,11 +5,7 @@ Extracts data from _airfleets.net_. It iterates through all or the selected airc
 
 Developed in Python.
 
-## Author
-Albert Torres Rubio
-
 ## Project structure
-
 * **code/main.py**: Entrypoint of the .
 * **code/scraper.py**: Web scraper.
 * **data/**: stores output datasets from the scraper.
@@ -17,7 +13,6 @@ Albert Torres Rubio
 * **requirements.txt**: Needed libraries.
 
 ## Requirements
-
 * Python 3+
 
 To install requirements:
@@ -25,7 +20,6 @@ To install requirements:
 `pip3 install -r requirements.txt`
 
 ## Entrypoint
-
 `python3 main.py`
 
 optional arguments:
@@ -35,8 +29,12 @@ optional arguments:
   -a  [ ...], --aircraft  [ ...] Aircraft type to scrape (Ex.: "Comac C919, Boeing 737") / All types selected if no argument
 
   -q, --quiet, Selenium driver performs silently
+  
+## Author
+Albert Torres Rubio
 
 
 ## License
-
 _CC BY-NC-SA 4.0_
+
+
