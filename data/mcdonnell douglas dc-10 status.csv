@@ -1,0 +1,1545 @@
+serialNumber,lnNumber,familyType,Type,firstFlight,planeAge,testRegistration,enginesType,enginesNumber,registration,deliveryDate,operator,remark,status
+46500,1,McDonnell Douglas DC-10,DC10-10,29/07/1970,,N10DC,CF6-6K,3,N101AA,08/12/1972,American Airlines,Scrapped in 2002,Scrapped
+46501,2,McDonnell Douglas DC-10,DC10-10,17/12/1970,,N101AA,CF6-6D1A,3,N10DC,01/12/1972,McDonnell Douglas,,Transferred
+46501,2,McDonnell Douglas DC-10,DC10-10,17/12/1970,,N101AA,CF6-6D1A,3,G-BELO,03/06/1977,Laker Airways,,Transferred
+46501,2,McDonnell Douglas DC-10,DC10-10,17/12/1970,,N101AA,CF6-6D1A,3,N183AT,21/02/1983,American Trans Air,,Transferred
+46501,2,McDonnell Douglas DC-10,DC10-10,17/12/1970,,N101AA,CF6-6D1A,3,G-GCAL,01/02/1986,Cal Air International,,Transferred
+46501,2,McDonnell Douglas DC-10,DC10-10,17/12/1970,,N101AA,CF6-6D1A,3,G-GCAL,01/01/1989,Novair,,Transferred
+46501,2,McDonnell Douglas DC-10,DC10-10,17/12/1970,,N101AA,CF6-6D1A,3,N220AU,27/11/1991,Orbis,Stored 11/2016preserved at DMA 7 nov 2016 at the Pima air & space museum,Stored
+46502,3,McDonnell Douglas DC-10,DC10-10,16/10/1970,,,CF6-6K,3,N102AA,27/06/1972,American Airlines,Scrapped 16/05/06 as N531FE,Scrapped
+46503,5,McDonnell Douglas DC-10,DC10-10,11/02/1971,,,CF6-6K,3,N103AA,29/07/1971,American Airlines,Scrapped at AMS in 2002,Scrapped
+46504,7,McDonnell Douglas DC-10,DC10-10,30/03/1971,,,CF6-6K,3,N104AA,17/09/1971,American Airlines,Scrapped in 1996,Scrapped
+46505,9,McDonnell Douglas DC-10,DC10-10,11/05/1971,,,CF6-6K,3,N105AA,09/11/1971,American Airlines,Scrapped 01/2002,Scrapped
+46506,12,McDonnell Douglas DC-10,DC10-10,30/06/1971,,,CF6-6K,3,N106AA,10/12/1971,American Airlines,Scrapped 12/2001,Scrapped
+46507,13,McDonnell Douglas DC-10,DC10-10,15/07/1971,,,CF6-6K,3,N107AA,15/12/1971,American Airlines,Scrapped at Goodyear in 2002,Scrapped
+46508,20,McDonnell Douglas DC-10,DC10-10,08/10/1971,,,CF6-6K,3,N108AA,31/01/1972,American Airlines,Stored at AMS,Stored
+46509,21,McDonnell Douglas DC-10,DC10-10,19/10/1971,,,CF6-6K,3,N109AA,21/01/1972,American Airlines,Scrapped at AMA 09 1995,Scrapped
+46510,22,McDonnell Douglas DC-10,DC10-10,29/10/1971,,,CF6-6K,3,N110AA,28/02/1972,American Airlines,,Written off
+46511,23,McDonnell Douglas DC-10,DC10-10,10/01/1972,,,CF6-6K,3,N111AA,15/03/1972,American Airlines,Scrapped at AMA 09 1995,Scrapped
+46512,24,McDonnell Douglas DC-10,DC10-10,14/01/1972,,,CF6-6K,3,N112AA,30/03/1972,American Airlines,Broken up at GYR 11 August 2002,Scrapped
+46513,30,McDonnell Douglas DC-10,DC10-10,21/02/1972,,,CF6-6K,3,N113AA,20/04/1972,American Airlines,"Broken up in Amarillo, Texas on 14.02.1995",Scrapped
+46514,31,McDonnell Douglas DC-10,DC10-10,28/02/1972,,,CF6-6K,3,N114AA,17/05/1972,American Airlines,"Broken up in Amarillo, Texas on 12.06.1995",Scrapped
+46515,37,McDonnell Douglas DC-10,DC10-10,03/04/1972,,,CF6-6K,3,N115AA,26/05/1972,American Airlines,,Transferred
+46515,37,McDonnell Douglas DC-10,DC10-10,03/04/1972,,,CF6-6K,3,N542FE,25/06/1997,Federal Express,Scrapped on 16.05.2002,Scrapped
+46516,48,McDonnell Douglas DC-10,DC10-10,21/06/1972,,,CF6-6K,3,N116AA,14/07/1972,American Airlines,,Transferred
+46516,48,McDonnell Douglas DC-10,DC10-10,21/06/1972,,,CF6-6K,3,N116AA,17/02/1994,Hawaiian Airlines,,Scrapped
+46517,49,McDonnell Douglas DC-10,DC10-10,28/06/1972,,,CF6-6K,3,N117AA,21/07/1972,American Airlines,,Transferred
+46517,49,McDonnell Douglas DC-10,DC10-10,28/06/1972,,,CF6-6K,3,N545FE,17/09/1996,Federal Express,Broken up at Goodyear 2005,Scrapped
+46518,51,McDonnell Douglas DC-10,DC10-10,11/07/1972,,,CF6-6K,3,N118AA,29/07/1972,American Airlines,,Transferred
+46518,51,McDonnell Douglas DC-10,DC10-10,11/07/1972,,,CF6-6K,3,N547FE,13/08/1997,Federal Express,Scrapped on 16.05.2002,Scrapped
+46519,52,McDonnell Douglas DC-10,DC10-10,18/07/1972,,,CF6-6K,3,N119AA,11/08/1972,American Airlines,,Transferred
+46519,52,McDonnell Douglas DC-10,DC10-10,18/07/1972,,,CF6-6K,3,N119AA,29/07/1994,Hawaiian Airlines,,Scrapped
+46520,54,McDonnell Douglas DC-10,DC10-10,28/07/1972,,,CF6-6K,3,N120AA,24/08/1972,American Airlines,,Transferred
+46520,54,McDonnell Douglas DC-10,DC10-10,28/07/1972,,,CF6-6K,3,N549FE,17/09/1997,Federal Express,Scrapped 2002,Scrapped
+46521,55,McDonnell Douglas DC-10,DC10-10,03/08/1972,47.7,,CF6-6K,3,N121AA,01/09/1972,American Airlines,,Transferred
+46521,55,McDonnell Douglas DC-10,DC10-10,03/08/1972,47.7,,CF6-6K,3,N550FE,17/07/1997,Federal Express,Converted to freighter,Active
+46522,56,McDonnell Douglas DC-10,DC10-10,10/08/1972,,,CF6-6K,3,N122AA,18/09/1972,American Airlines,Stored at Tulsa 1994,Transferred
+46522,56,McDonnell Douglas DC-10,DC10-10,10/08/1972,,,CF6-6K,3,N122AA,18/03/1994,Hawaiian Airlines,,Stored
+46523,58,McDonnell Douglas DC-10,DC10-10,22/08/1972,,,CF6-6K,3,N123AA,20/10/1972,American Airlines,Scrapped 05/2002 with Fedex,Scrapped
+46524,65,McDonnell Douglas DC-10,DC10-10,30/09/1972,,,CF6-6K,3,N124AA,17/11/1972,American Airlines,,Transferred
+46524,65,McDonnell Douglas DC-10,DC10-10,30/09/1972,,,CF6-6K,3,99-0910,22/08/2000,US Air Force,,Transferred
+46524,65,McDonnell Douglas DC-10,DC10-10,30/09/1972,,,CF6-6K,3,N910SF,04/09/2001,Raytheon USA,,Scrapped
+46525,72,McDonnell Douglas DC-10,DC10-10,09/11/1972,,,CF6-6K,3,N125AA,19/12/1972,American Airlines,,Transferred
+46525,72,McDonnell Douglas DC-10,DC10-10,09/11/1972,,,CF6-6K,3,N125AA,22/06/1997,Hawaiian Airlines,,Transferred
+46525,72,McDonnell Douglas DC-10,DC10-10,09/11/1972,,,CF6-6K,3,N557FE,01/05/2003,Federal Express,Still Stored at Mojave 01/2006 - Scrapped 10/2010,Stored
+46540,268,McDonnell Douglas DC-10,DC10-30F,29/11/1978,,,GE CF6-50C2,3,C-GCPC,27/03/1979,Cp Air,,Transferred
+46540,268,McDonnell Douglas DC-10,DC10-30F,29/11/1978,,,GE CF6-50C2,3,PP-VMO,05/04/1979,Varig,,Transferred
+46540,268,McDonnell Douglas DC-10,DC10-30F,29/11/1978,,,GE CF6-50C2,3,C-GCPC,02/04/1980,Cp Air,,Transferred
+46540,268,McDonnell Douglas DC-10,DC10-30F,29/11/1978,,,GE CF6-50C2,3,C-GCPC,26/04/1987,Canadian Airlines,Converted to DC10-30F,Transferred
+46540,268,McDonnell Douglas DC-10,DC10-30F,29/11/1978,,,GE CF6-50C2,3,N304SP,02/08/2005,Centurion Air Cargo,,Transferred
+46540,268,McDonnell Douglas DC-10,DC10-30F,29/11/1978,,,GE CF6-50C2,3,PR-MTC,24/12/2008,Master Top Linhas Aereas,Ceased operations 10/2011,Stored
+46541,281,McDonnell Douglas DC-10,DC10-30,28/03/1979,,,GE CF6-50C2,3,C-GCPD,19/07/1979,Cp Air,,Transferred
+46541,281,McDonnell Douglas DC-10,DC10-30,28/03/1979,,,GE CF6-50C2,3,PP-VMP,21/07/1979,Varig,,Transferred
+46541,281,McDonnell Douglas DC-10,DC10-30,28/03/1979,,,GE CF6-50C2,3,C-GCPD,14/06/1980,Cp Air,,Transferred
+46541,281,McDonnell Douglas DC-10,DC10-30,28/03/1979,,,GE CF6-50C2,3,C-GCPD,26/04/1987,Canadian Airlines,,Transferred
+46541,281,McDonnell Douglas DC-10,DC10-30,28/03/1979,,,GE CF6-50C2,3,N541SA,29/11/2000,World Airways,Converted to DC10-30F - ret to lessor 02/2004,Transferred
+46541,281,McDonnell Douglas DC-10,DC10-30,28/03/1979,,,GE CF6-50C2,3,5X-DAS,16/08/2005,DAS Air,Stored 12/2006,Scrapped
+46542,295,McDonnell Douglas DC-10,DC10-30,27/07/1979,,,GE CF6-50C2,3,C-GCPE,02/11/1979,Cp Air,,Transferred
+46542,295,McDonnell Douglas DC-10,DC10-30,27/07/1979,,,GE CF6-50C2,3,C-GCPE,26/04/1987,Canadian Airlines,,Transferred
+46542,295,McDonnell Douglas DC-10,DC10-30,27/07/1979,,,GE CF6-50C2,3,S2-ADN,20/11/2000,Biman Bangladesh,01/07/05  - Skidded 35 meters off the runway at Chittagong(CGP) (0/10),Written off
+46543,341,McDonnell Douglas DC-10,DC10-30,05/09/1980,,,GE CF6-50C2,3,C-GCPF,26/11/1980,Cp Air,Named Empress of Buenos Aires,Transferred
+46543,341,McDonnell Douglas DC-10,DC10-30,05/09/1980,,,GE CF6-50C2,3,C-GCPF,11/07/1983,United Airlines,,Transferred
+46543,341,McDonnell Douglas DC-10,DC10-30,05/09/1980,,,GE CF6-50C2,3,C-GCPF,01/06/1987,Canadian Airlines,,Transferred
+46543,341,McDonnell Douglas DC-10,DC10-30,05/09/1980,,,GE CF6-50C2,3,S2-ACS,15/12/1999,Biman Bangladesh,Returned to lessor 03/2008,Stored
+46550,46,McDonnell Douglas DC-10,DC10-30,00/01/1900,,N1339U,GE CF6-50C2,3,PH-DTA,15/03/1974,KLM,,Transferred
+46550,46,McDonnell Douglas DC-10,DC10-30,00/01/1900,,N1339U,GE CF6-50C2,3,N525MD,08/07/1995,Kras Air,,Transferred
+46550,46,McDonnell Douglas DC-10,DC10-30,00/01/1900,,N1339U,GE CF6-50C2,3,N12089,28/08/1997,Continental Airlines,"retired to Greenwood Mississippi around Jan 2001, being scrapped by Memphis Group",Scrapped
+46551,60,McDonnell Douglas DC-10,DC10-30,01/09/1972,,N1342U,GE CF6-50C2,3,PH-DTB,03/12/1972,KLM,,Transferred
+46551,60,McDonnell Douglas DC-10,DC10-30,01/09/1972,,N1342U,GE CF6-50C2,3,N229NW,17/08/1995,Northwest Airlines,Stored at Marana 09/2005 - Opa Locka 05/2006 - Scrapped 01/2007,Scrapped
+46552,71,McDonnell Douglas DC-10,DC10-30,03/11/1972,,,GE CF6-50C2,3,PH-DTC,06/02/1973,KLM,,Transferred
+46552,71,McDonnell Douglas DC-10,DC10-30,03/11/1972,,,GE CF6-50C2,3,PH-DTC,01/10/1973,Garuda,,Transferred
+46552,71,McDonnell Douglas DC-10,DC10-30,03/11/1972,,,GE CF6-50C2,3,PH-DTC,03/05/1975,Philippine Airlines,,Transferred
+46552,71,McDonnell Douglas DC-10,DC10-30,03/11/1972,,,GE CF6-50C2,3,PH-DTC,16/11/1976,KLM,,Transferred
+46552,71,McDonnell Douglas DC-10,DC10-30,03/11/1972,,,GE CF6-50C2,3,N230NW,17/08/1995,Northwest Airlines,Stored at Marana 01/09/05 - Broken up in September 2005,Scrapped
+46553,82,McDonnell Douglas DC-10,DC10-30,13/01/1973,,,GE CF6-50C2,3,PH-DTD,28/02/1973,KLM,,Transferred
+46553,82,McDonnell Douglas DC-10,DC10-30,13/01/1973,,,GE CF6-50C2,3,PH-DTD,23/08/1994,McDonnell Douglas,,Transferred
+46553,82,McDonnell Douglas DC-10,DC10-30,13/01/1973,,,GE CF6-50C2,3,N533MD,18/04/1996,Kras Air,,Transferred
+46553,82,McDonnell Douglas DC-10,DC10-30,13/01/1973,,,GE CF6-50C2,3,N14090,18/07/1997,Continental Airlines,Scrapped,Scrapped
+46554,84,McDonnell Douglas DC-10,DC10-30,24/01/1973,,N1349U,GE CF6-50C2,3,PH-DTE,09/02/1973,KLM,,Transferred
+46554,84,McDonnell Douglas DC-10,DC10-30,24/01/1973,,N1349U,GE CF6-50C2,3,N130FA,21/02/1984,Trans Union,,Transferred
+46554,84,McDonnell Douglas DC-10,DC10-30,24/01/1973,,N1349U,GE CF6-50C2,3,SE-DFG,09/09/1985,SAS Scandinavian Airlines,,Transferred
+46554,84,McDonnell Douglas DC-10,DC10-30,24/01/1973,,N1349U,GE CF6-50C2,3,LN-ALN,13/04/1988,SAS Scandinavian Airlines,,Transferred
+46554,84,McDonnell Douglas DC-10,DC10-30,24/01/1973,,N1349U,GE CF6-50C2,3,YU-AMD,01/06/1989,JAT Airways,,Transferred
+46554,84,McDonnell Douglas DC-10,DC10-30,24/01/1973,,N1349U,GE CF6-50C2,3,V2-LEA,13/11/1992,Skyjet,,Transferred
+46554,84,McDonnell Douglas DC-10,DC10-30,24/01/1973,,N1349U,GE CF6-50C2,3,V2-LEA,20/11/1992,Air Zaire,,Transferred
+46554,84,McDonnell Douglas DC-10,DC10-30,24/01/1973,,N1349U,GE CF6-50C2,3,V2-LEA,01/01/1993,Skyjet,,Transferred
+46554,84,McDonnell Douglas DC-10,DC10-30,24/01/1973,,N1349U,GE CF6-50C2,3,V2-LEA,01/04/1994,Sobelair,,Transferred
+46554,84,McDonnell Douglas DC-10,DC10-30,24/01/1973,,N1349U,GE CF6-50C2,3,OO-PHN,07/06/1994,Skyjet,,Transferred
+46554,84,McDonnell Douglas DC-10,DC10-30,24/01/1973,,N1349U,GE CF6-50C2,3,OO-PHN,01/07/1994,Sobelair,,Transferred
+46554,84,McDonnell Douglas DC-10,DC10-30,24/01/1973,,N1349U,GE CF6-50C2,3,OO-PHN,01/09/1994,Skyjet,,Transferred
+46554,84,McDonnell Douglas DC-10,DC10-30,24/01/1973,,N1349U,GE CF6-50C2,3,OO-PHN,10/12/1994,Shabair,,Transferred
+46554,84,McDonnell Douglas DC-10,DC10-30,24/01/1973,,N1349U,GE CF6-50C2,3,OO-PHN,10/02/1995,VASP,,Transferred
+46554,84,McDonnell Douglas DC-10,DC10-30,24/01/1973,,N1349U,GE CF6-50C2,3,OO-PHN,03/02/1996,Skyjet,,Transferred
+46554,84,McDonnell Douglas DC-10,DC10-30,24/01/1973,,N1349U,GE CF6-50C2,3,9G-PHN,31/05/1996,Ghana Airways,,Transferred
+46554,84,McDonnell Douglas DC-10,DC10-30,24/01/1973,,N1349U,GE CF6-50C2,3,9G-PHN,03/06/2000,Ghana Airways,Stored 2002  Named Wolfgang Amadeus MozartScrapped,Scrapped
+46555,91,McDonnell Douglas DC-10,DC10-30,01/03/1973,,,GE CF6-50C2,3,PH-DTF,13/04/1973,KLM,,Transferred
+46555,91,McDonnell Douglas DC-10,DC10-30,01/03/1973,,,GE CF6-50C2,3,YV-133C,01/04/1977,VIASA,,Transferred
+46555,91,McDonnell Douglas DC-10,DC10-30,01/03/1973,,,GE CF6-50C2,3,YV-133C,28/07/1983,World Airways,,Transferred
+46555,91,McDonnell Douglas DC-10,DC10-30,01/03/1973,,,GE CF6-50C2,3,N143AA,22/06/1984,American Airlines,,Transferred
+46555,91,McDonnell Douglas DC-10,DC10-30,01/03/1973,,,GE CF6-50C2,3,N143AA,10/08/2001,Omni Air International,"Broken up by Omni International in Tulsa, Oklahoma",Scrapped
+46556,146,McDonnell Douglas DC-10,DC10-30,25/02/1974,,,GE CF6-50C2,3,PH-DTG,03/04/1974,KLM,,Transferred
+46556,146,McDonnell Douglas DC-10,DC10-30,25/02/1974,,,GE CF6-50C2,3,YV-134C,30/05/1978,VIASA,,Transferred
+46556,146,McDonnell Douglas DC-10,DC10-30,25/02/1974,,,GE CF6-50C2,3,EC-GTB,01/09/1998,Iberia,Stored at San Antonio texas reg N8094L 07/2005 - Scrapped at Opa Locka,Scrapped
+46557,197,McDonnell Douglas DC-10,DC10-30,05/03/1975,,,GE CF6-50C2,3,PH-DTH,15/04/1975,KLM,,Transferred
+46557,197,McDonnell Douglas DC-10,DC10-30,05/03/1975,,,GE CF6-50C2,3,PH-DTH,24/04/1975,VIASA,,Transferred
+46557,197,McDonnell Douglas DC-10,DC10-30,05/03/1975,,,GE CF6-50C2,3,YV-138C,01/04/1979,KLM,,Transferred
+46557,197,McDonnell Douglas DC-10,DC10-30,05/03/1975,,,GE CF6-50C2,3,YV-138C,26/07/1980,VIASA,ScrappedStored at Marana 2002 as N435AV,Scrapped
+46575,57,McDonnell Douglas DC-10,DC10-30,16/08/1972,,N1340U,GE CF6-50C2,3,HB-IHA,30/11/1972,Swissair,,Transferred
+46575,57,McDonnell Douglas DC-10,DC10-30,16/08/1972,,N1340U,GE CF6-50C2,3,HC-BKO,02/09/1983,Ecuatoriana,,Transferred
+46575,57,McDonnell Douglas DC-10,DC10-30,16/08/1972,,N1340U,GE CF6-50C2,3,PP-SFB,01/05/1996,VASP,,Transferred
+46575,57,McDonnell Douglas DC-10,DC10-30,16/08/1972,,N1340U,GE CF6-50C2,3,PP-SFB,17/11/1996,Ecuatoriana,Scrapped,Scrapped
+46576,73,McDonnell Douglas DC-10,DC10-30,14/11/1972,,,GE CF6-50C2,3,HB-IHB,05/02/1973,Swissair,,Transferred
+46576,73,McDonnell Douglas DC-10,DC10-30,14/11/1972,,,GE CF6-50C2,3,EC-DUG,09/04/1984,Spantax,,Transferred
+46576,73,McDonnell Douglas DC-10,DC10-30,14/11/1972,,,GE CF6-50C2,3,N19072,20/10/1986,Continental Airlines,Scrapped,Scrapped
+46577,114,McDonnell Douglas DC-10,DC10-30,02/07/1973,,,GE CF6-50C2,3,HB-IHC,10/09/1973,Swissair,,Transferred
+46577,114,McDonnell Douglas DC-10,DC10-30,02/07/1973,,,GE CF6-50C2,3,N220NW,13/09/1991,Northwest Airlines,Scrapped at Maxton 11/2002,Scrapped
+46578,131,McDonnell Douglas DC-10,DC10-30,30/10/1973,,,GE CF6-50C2,3,HB-IHD,06/12/1973,Swissair,,Transferred
+46578,131,McDonnell Douglas DC-10,DC10-30,30/10/1973,,,GE CF6-50C2,3,YU-AMC,01/05/1988,JAT Airways,,Transferred
+46578,131,McDonnell Douglas DC-10,DC10-30,30/10/1973,,,GE CF6-50C2,3,VR-BMP,01/01/1993,Electra Airlines,,Transferred
+46578,131,McDonnell Douglas DC-10,DC10-30,30/10/1973,,,GE CF6-50C2,3,N228NW,07/07/1995,Northwest Airlines,Scrapped 12/2002,Scrapped
+46579,132,McDonnell Douglas DC-10,DC10-30,18/12/1973,,,GE CF6-50C2,3,HB-IHE,06/02/1974,Swissair,,Transferred
+46579,132,McDonnell Douglas DC-10,DC10-30,18/12/1973,,,GE CF6-50C2,3,N221NW,24/05/1991,Northwest Airlines,Stored at Marana 10/2005,Scrapped
+46580,183,McDonnell Douglas DC-10,DC10-30,15/11/1974,,,GE CF6-50C2,3,HB-IHF,11/01/1975,Swissair,,Transferred
+46580,183,McDonnell Douglas DC-10,DC10-30,15/11/1974,,,GE CF6-50C2,3,N223NW,21/10/1991,Northwest Airlines,Stored 11/09/2006,Transferred
+46580,183,McDonnell Douglas DC-10,DC10-30,15/11/1974,,,GE CF6-50C2,3,N223NW,29/12/2006,ATA Airlines,Stored for spares MZJ by ATA in 2007,Transferred
+46580,183,McDonnell Douglas DC-10,DC10-30,15/11/1974,,,GE CF6-50C2,3,N223NW,08/08/2008,World Airways,,Scrapped
+46581,184,McDonnell Douglas DC-10,DC10-30,22/11/1974,,,GE CF6-50C2,3,HB-IHG,14/02/1975,Swissair,,Transferred
+46581,184,McDonnell Douglas DC-10,DC10-30,22/11/1974,,,GE CF6-50C2,3,N224NW,31/05/1991,Northwest Airlines,Stored at Marana 10/2006,Transferred
+46581,184,McDonnell Douglas DC-10,DC10-30,22/11/1974,,,GE CF6-50C2,3,N224NW,26/01/2007,ATA Airlines,Stored at MZJ for spares,Transferred
+46581,184,McDonnell Douglas DC-10,DC10-30,22/11/1974,,,GE CF6-50C2,3,N224NW,08/08/2008,World Airways,,Stored
+46582,187,McDonnell Douglas DC-10,DC10-30,17/12/1974,,,GE CF6-50C2,3,HB-IHH,21/02/1975,Swissair,,Transferred
+46582,187,McDonnell Douglas DC-10,DC10-30,17/12/1974,,,GE CF6-50C2,3,N225NW,18/02/1992,Northwest Airlines,Stored 11/2006,Transferred
+46582,187,McDonnell Douglas DC-10,DC10-30,17/12/1974,,,GE CF6-50C2,3,N225NW,01/08/2007,ATA Airlines,,Transferred
+46582,187,McDonnell Douglas DC-10,DC10-30,17/12/1974,,,GE CF6-50C2,3,N706TZ,11/10/2007,ATA Airlines,Ceased operations 02 april 08,Transferred
+46582,187,McDonnell Douglas DC-10,DC10-30,17/12/1974,,,GE CF6-50C2,3,N706TZ,08/08/2008,World Airways,Stored,Scrapped
+46583,292,McDonnell Douglas DC-10,DC10-30,02/07/1979,,N1002X,GE CF6-50C2,3,HB-IHL,03/03/1980,Swissair,,Transferred
+46583,292,McDonnell Douglas DC-10,DC10-30,02/07/1979,,N1002X,GE CF6-50C2,3,N226NW,27/02/1992,Northwest Airlines,,Transferred
+46583,292,McDonnell Douglas DC-10,DC10-30,02/07/1979,,N1002X,GE CF6-50C2,3,N226NW,06/02/2007,ATA Airlines,,Transferred
+46583,292,McDonnell Douglas DC-10,DC10-30,02/07/1979,,N1002X,GE CF6-50C2,3,N701TZ,05/05/2007,ATA Airlines,Ceased operations 02 april 08,Transferred
+46583,292,McDonnell Douglas DC-10,DC10-30,02/07/1979,,N1002X,GE CF6-50C2,3,N139WA,17/08/2008,World Airways,Reg cancelled 07/2010,Stored
+46584,293,McDonnell Douglas DC-10,DC10-30,11/07/1979,,N1002Y,GE CF6-50C2,3,HB-IHM,01/02/1980,Swissair,,Transferred
+46584,293,McDonnell Douglas DC-10,DC10-30,11/07/1979,,N1002Y,GE CF6-50C2,3,N15069,02/08/1992,Continental Airlines,,Stored
+46590,266,McDonnell Douglas DC-10,DC10-30,06/11/1978,,,GE CF6-50C2,3,G-BFGI,22/01/1979,British Caledonian,,Transferred
+46590,266,McDonnell Douglas DC-10,DC10-30,06/11/1978,,,GE CF6-50C2,3,N68065,30/01/1987,Continental Airlines,,Transferred
+46590,266,McDonnell Douglas DC-10,DC10-30,06/11/1978,,,GE CF6-50C2,3,N401JR,02/06/2001,DAS Air,Converted to DC10-30F,Transferred
+46590,266,McDonnell Douglas DC-10,DC10-30,06/11/1978,,,GE CF6-50C2,3,Z-AVT,17/09/2006,Avient,Stored in 2012 (Used as part of a building)  Scrapped  in 2017. tail used in club in bali,Scrapped
+46591,287,McDonnell Douglas DC-10,DC10-30,18/05/1979,,,GE CF6-50C2,3,G-BGAT,08/08/1979,British Caledonian,,Transferred
+46591,287,McDonnell Douglas DC-10,DC10-30,18/05/1979,,,GE CF6-50C2,3,N13066,05/06/1987,Continental Airlines,Broken up at  Opa loke 08/2003,Scrapped
+46595,299,McDonnell Douglas DC-10,DC10-30,30/08/1979,,,GE CF6-50C2,3,D-ADPO,21/11/1979,Condor,,Transferred
+46595,299,McDonnell Douglas DC-10,DC10-30,30/08/1979,,,GE CF6-50C2,3,N540AX,18/12/1998,Omni Air International,WFU Victorville 31/10/06  Scrapped,Scrapped
+46595,299,McDonnell Douglas DC-10,DC10-30,30/08/1979,,,GE CF6-50C2,3,D-ADPO,21/11/1979,Condor,,Transferred
+46595,299,McDonnell Douglas DC-10,DC10-30,30/08/1979,,,GE CF6-50C2,3,N540AX,18/12/1998,Omni Air International,WFU Victorville 31/10/06  Scrapped,Scrapped
+46596,301,McDonnell Douglas DC-10,DC10-30,18/09/1979,,,GE CF6-50C2,3,D-ADQO,15/12/1979,Condor,,Transferred
+46596,301,McDonnell Douglas DC-10,DC10-30,18/09/1979,,,GE CF6-50C2,3,N630AX,30/09/1999,Omni Air International,Scrapped - Used for parts,Scrapped
+46600,4,McDonnell Douglas DC-10,DC10-10,18/01/1971,,,CF6-6K,3,N1801U,25/05/1972,United Airlines,,Transferred
+46600,4,McDonnell Douglas DC-10,DC10-10,18/01/1971,,,CF6-6K,3,N364FE,02/07/1998,Federal Express,18/12/03 Menphis USA - Converted to freighter,Written off
+46601,6,McDonnell Douglas DC-10,DC10-10,08/03/1971,,,CF6-6K,3,N1802U,29/07/1971,United Airlines,,Transferred
+46601,6,McDonnell Douglas DC-10,DC10-10,08/03/1971,,,CF6-6K,3,N365FE,06/11/1997,Federal Express,Stored 03/2019Converted to DC10-10F,Stored
+46602,8,McDonnell Douglas DC-10,DC10-10,19/05/1971,,,CF6-6K,3,N1803U,03/06/1972,United Airlines,,Transferred
+46602,8,McDonnell Douglas DC-10,DC10-10,19/05/1971,,,CF6-6K,3,N366FE,26/09/1997,Federal Express,Stored 07/2015Converted to DC10-10F  Named Gretchen,Stored
+46603,10,McDonnell Douglas DC-10,DC10-10,28/05/1971,,,CF6-6K,3,N1804U,27/09/1971,United Airlines,"Scrapped at Armore, OK",Scrapped
+46604,11,McDonnell Douglas DC-10,DC10-10,16/06/1971,,,CF6-6K,3,N1805U,29/10/1971,United Airlines,Scrapped at Armore in 1999,Scrapped
+46605,15,McDonnell Douglas DC-10,DC10-10F,10/08/1971,,,CF6-6K,3,N1806U,23/12/1971,United Airlines,,Transferred
+46605,15,McDonnell Douglas DC-10,DC10-10F,10/08/1971,,,CF6-6K,3,N367FE,04/08/1997,Federal Express,Stored 01/2014Converted to DC10-10F,Stored
+46606,17,McDonnell Douglas DC-10,DC10-10,03/09/1971,,,CF6-6K,3,N1807U,20/12/1971,United Airlines,,Transferred
+46606,17,McDonnell Douglas DC-10,DC10-10,03/09/1971,,,CF6-6K,3,N368FE,21/08/1997,Federal Express,Stored 02/2020Converted to DC10-10F - Entered in service 07/2005,Stored
+46607,25,McDonnell Douglas DC-10,DC10-10,20/01/1972,,,CF6-6K,3,N1808U,27/02/1972,United Airlines,,Transferred
+46607,25,McDonnell Douglas DC-10,DC10-10,20/01/1972,,,CF6-6K,3,N369FE,21/08/1997,Federal Express,Converted to DC10-10F,Stored
+46608,26,McDonnell Douglas DC-10,DC10-10F,02/02/1972,,,CF6-6K,3,N1809U,29/02/1972,United Airlines,,Transferred
+46608,26,McDonnell Douglas DC-10,DC10-10F,02/02/1972,,,CF6-6K,3,N370FE,21/08/1997,Federal Express,,Written off
+46609,27,McDonnell Douglas DC-10,DC10-10F,09/02/1972,,,CF6-6K,3,N1810U,20/04/1972,United Airlines,,Transferred
+46609,27,McDonnell Douglas DC-10,DC10-10F,09/02/1972,,,CF6-6K,3,N371FE,12/01/1998,Federal Express,Stored 05/2015Converted to DC10-10F,Stored
+46610,32,McDonnell Douglas DC-10,DC10-10F,03/03/1972,,,CF6-6K,3,N1811U,24/04/1972,United Airlines,,Transferred
+46610,32,McDonnell Douglas DC-10,DC10-10F,03/03/1972,,,CF6-6K,3,N372FE,24/09/1998,Federal Express,Stored 06/2018Converted to freighter,Stored
+46611,35,McDonnell Douglas DC-10,DC10-10F,20/03/1972,,,CF6-6K,3,N1812U,27/05/1972,United Airlines,,Transferred
+46611,35,McDonnell Douglas DC-10,DC10-10F,20/03/1972,,,CF6-6K,3,N373FE,18/12/1997,Federal Express,Stored 10/2016Converted to DC10-10F,Stored
+46612,39,McDonnell Douglas DC-10,DC10-10F,18/04/1972,,,CF6-6K,3,N1813U,23/06/1972,United Airlines,,Transferred
+46612,39,McDonnell Douglas DC-10,DC10-10F,18/04/1972,,,CF6-6K,3,N374FE,15/05/1998,Federal Express,Converted to DC10-10F - Stored 01/2010  Scrapped,Scrapped
+46613,42,McDonnell Douglas DC-10,DC10-10F,06/05/1972,,,CF6-6K,3,N1814U,07/07/1972,United Airlines,,Transferred
+46613,42,McDonnell Douglas DC-10,DC10-10F,06/05/1972,,,CF6-6K,3,N375FE,10/03/1998,Federal Express,Stored 04/2020Converted to DC10-10F - Stored 01/2010 - Back in service 06/2010  Named Claude,Stored
+46614,45,McDonnell Douglas DC-10,DC10-10,07/06/1972,,,CF6-6K,3,N1815U,30/01/1973,United Airlines,,Scrapped
+46615,76,McDonnell Douglas DC-10,DC10-10,01/12/1972,47.4,,CF6-6K,3,N1816U,22/03/1973,United Airlines,,Transferred
+46615,76,McDonnell Douglas DC-10,DC10-10,01/12/1972,47.4,,CF6-6K,3,N381FE,11/03/1999,Federal Express,Converted to DC10-10F,Active
+46616,86,McDonnell Douglas DC-10,DC10-10,03/02/1973,47.2,,CF6-6K,3,N1817U,22/03/1973,United Airlines,,Transferred
+46616,86,McDonnell Douglas DC-10,DC10-10,03/02/1973,47.2,,CF6-6K,3,N383FE,11/03/1999,Federal Express,Converted to DC10-10F,Active
+46617,89,McDonnell Douglas DC-10,DC10-10,20/02/1973,,,CF6-6K,3,N1818U,06/04/1973,United Airlines,,Transferred
+46617,89,McDonnell Douglas DC-10,DC10-10,20/02/1973,,,CF6-6K,3,N384FE,02/07/1998,Federal Express,Converted to freighterStored 03/2012,Stored
+46618,118,McDonnell Douglas DC-10,DC10-10,27/07/1973,,,CF6-6K,3,N1819U,12/04/1973,United Airlines,,Written off
+46619,119,McDonnell Douglas DC-10,DC10-10,03/08/1973,,,CF6-6K,3,N1820U,22/02/1974,United Airlines,,Transferred
+46619,119,McDonnell Douglas DC-10,DC10-10,03/08/1973,,,CF6-6K,3,N385FE,18/07/1997,Federal Express,Stored 11/2018 - To be scrapped Converted to DC10-10F,Stored
+46620,138,McDonnell Douglas DC-10,DC10-10,20/12/1973,,,CF6-6K,3,N1821U,13/02/1974,United Airlines,,Transferred
+46620,138,McDonnell Douglas DC-10,DC10-10,20/12/1973,,,CF6-6K,3,N386FE,22/04/1997,Federal Express,Stored 03/2013Converted to freighter,Stored
+46621,140,McDonnell Douglas DC-10,DC10-10,14/01/1974,,,CF6-6K,3,N1822U,25/04/1974,United Airlines,,Transferred
+46621,140,McDonnell Douglas DC-10,DC10-10,14/01/1974,,,CF6-6K,3,N387FE,22/04/1997,Federal Express,Converted to DC10-10FStored 01/2013,Stored
+46622,144,McDonnell Douglas DC-10,DC10-10,11/02/1974,,,CF6-6K,3,N1823U,02/05/1974,United Airlines,,Transferred
+46622,144,McDonnell Douglas DC-10,DC10-10,11/02/1974,,,CF6-6K,3,N388FE,23/01/1997,Federal Express,Converted to freighterStored 10/2011,Stored
+46623,154,McDonnell Douglas DC-10,DC10-10,22/04/1974,,,CF6-6K,3,N1824U,19/06/1974,United Airlines,,Transferred
+46623,154,McDonnell Douglas DC-10,DC10-10,22/04/1974,,,CF6-6K,3,N389FE,05/11/1998,Federal Express,Stored 01/2019Converted to DC10-10F,Stored
+46624,155,McDonnell Douglas DC-10,DC10-10,29/04/1974,46,,CF6-6K,3,N1825U,26/06/1974,United Airlines,,Transferred
+46624,155,McDonnell Douglas DC-10,DC10-10,29/04/1974,46,,CF6-6K,3,N390FE,13/02/1997,Federal Express,Converted to freighter,Active
+46625,169,McDonnell Douglas DC-10,DC10-10,07/08/1974,,,CF6-6K,3,N1826U,27/02/1975,United Airlines,,Transferred
+46625,169,McDonnell Douglas DC-10,DC10-10,07/08/1974,,,CF6-6K,3,N1826U,22/03/1986,World Airways,,Transferred
+46625,169,McDonnell Douglas DC-10,DC10-10,07/08/1974,,,CF6-6K,3,N1826U,16/09/1986,United Airlines,,Transferred
+46625,169,McDonnell Douglas DC-10,DC10-10,07/08/1974,,,CF6-6K,3,N1826U,31/12/1993,Leisure Air,,Transferred
+46625,169,McDonnell Douglas DC-10,DC10-10,07/08/1974,,,CF6-6K,3,N1826U,18/11/1994,United Airlines,,Transferred
+46625,169,McDonnell Douglas DC-10,DC10-10,07/08/1974,,,CF6-6K,3,N391FE,21/05/1997,Federal Express,Converted to DC10-10F -  	aircraft lost to incident on 07/28/06,Scrapped
+46626,198,McDonnell Douglas DC-10,DC10-10,12/03/1974,,,CF6-6K,3,N1827U,25/04/1975,United Airlines,,Transferred
+46626,198,McDonnell Douglas DC-10,DC10-10,12/03/1974,,,CF6-6K,3,N1827U,20/04/1986,World Airways,,Transferred
+46626,198,McDonnell Douglas DC-10,DC10-10,12/03/1974,,,CF6-6K,3,N1827U,01/06/1986,United Airlines,,Transferred
+46626,198,McDonnell Douglas DC-10,DC10-10,12/03/1974,,,CF6-6K,3,N1827U,01/03/1994,Leisure Air,,Transferred
+46626,198,McDonnell Douglas DC-10,DC10-10,12/03/1974,,,CF6-6K,3,N1827U,18/11/1994,United Airlines,,Transferred
+46626,198,McDonnell Douglas DC-10,DC10-10,12/03/1974,,,CF6-6K,3,N392FE,31/01/1997,Federal Express,Stored 01/2015Converted to DC10-10F,Stored
+46627,205,McDonnell Douglas DC-10,DC10-10,16/05/1975,,,CF6-6K,3,N1828U,23/06/1975,United Airlines,,Transferred
+46627,205,McDonnell Douglas DC-10,DC10-10,16/05/1975,,,CF6-6K,3,N1828U,30/04/1986,World Airways,,Transferred
+46627,205,McDonnell Douglas DC-10,DC10-10,16/05/1975,,,CF6-6K,3,N1828U,15/09/1986,United Airlines,,Transferred
+46627,205,McDonnell Douglas DC-10,DC10-10,16/05/1975,,,CF6-6K,3,N393FE,12/11/1999,Federal Express,Stored 10/2009,Stored
+46628,207,McDonnell Douglas DC-10,DC10-10,20/06/1975,44.8,,CF6-6K,3,N1829U,24/07/1975,United Airlines,,Transferred
+46628,207,McDonnell Douglas DC-10,DC10-10,20/06/1975,44.8,,CF6-6K,3,N1829U,09/05/1986,World Airways,,Transferred
+46628,207,McDonnell Douglas DC-10,DC10-10,20/06/1975,44.8,,CF6-6K,3,N1829U,15/09/1986,United Airlines,,Transferred
+46628,207,McDonnell Douglas DC-10,DC10-10,20/06/1975,44.8,,CF6-6K,3,N394FE,13/08/2001,Federal Express,Converted to freighter,Active
+46629,208,McDonnell Douglas DC-10,DC10-10,30/06/1975,,,CF6-6K,3,N1830U,04/08/1975,United Airlines,,Transferred
+46629,208,McDonnell Douglas DC-10,DC10-10,30/06/1975,,,CF6-6K,3,N395FE,21/01/1999,Federal Express,Stored 01/2014Converted to DC10-10F,Stored
+46630,209,McDonnell Douglas DC-10,DC10-10,11/07/1975,44.8,,CF6-6K,3,N1831U,20/08/1975,United Airlines,,Transferred
+46630,209,McDonnell Douglas DC-10,DC10-10,11/07/1975,44.8,,CF6-6K,3,N396FE,27/05/1999,Federal Express,Converted to freighter,Active
+46631,210,McDonnell Douglas DC-10,DC10-10F,18/07/1975,,,CF6-6K,3,N1832U,23/09/1975,United Airlines,,Transferred
+46631,210,McDonnell Douglas DC-10,DC10-10F,18/07/1975,,,CF6-6K,3,N397FE,21/01/1997,Federal Express,Stored 01/2015Converted to DC10-10F,Stored
+46632,296,McDonnell Douglas DC-10,DC10-10,06/08/1979,,,CF6-6K,3,N1838U,30/11/1979,United Airlines,Currently at Marana,Scrapped
+46633,297,McDonnell Douglas DC-10,DC10-10,14/08/1979,,,CF6-6K,3,N1839U,15/02/1980,United Airlines,,Transferred
+46633,297,McDonnell Douglas DC-10,DC10-10,14/08/1979,,,CF6-6K,3,N358FE,02/10/2001,Federal Express,Stored 11/2019Converted to freighter,Stored
+46634,298,McDonnell Douglas DC-10,DC10-10,22/08/1979,,,CF6-6K,3,N1841U,31/01/1980,United Airlines,,Transferred
+46634,298,McDonnell Douglas DC-10,DC10-10,22/08/1979,,,CF6-6K,3,N398FE,15/07/1999,Federal Express,Stored 01/2015Converted to freighter,Stored
+46635,307,McDonnell Douglas DC-10,DC10-10,08/11/1979,40.4,,CF6-6K,3,N1842U,28/02/1980,United Airlines,,Transferred
+46635,307,McDonnell Douglas DC-10,DC10-10,08/11/1979,40.4,,CF6-6K,3,N359FE,02/10/2001,Federal Express,Converted to freighter,Active
+46636,309,McDonnell Douglas DC-10,DC10-10,28/11/1979,40.4,,CF6-6K,3,N1843U,14/03/1980,United Airlines,,Transferred
+46636,309,McDonnell Douglas DC-10,DC10-10,28/11/1979,40.4,,CF6-6K,3,N360FE,30/08/2001,Federal Express,Converted to freighter,Active
+46640,240,McDonnell Douglas DC-10,DC10-30,25/07/1977,,,GE CF6-50C2,3,9M-MAT,21/09/1977,Malaysia Airlines,,Transferred
+46640,240,McDonnell Douglas DC-10,DC10-30,25/07/1977,,,GE CF6-50C2,3,9M-MAT,25/06/1994,LOT Polish Airlines,,Transferred
+46640,240,McDonnell Douglas DC-10,DC10-30,25/07/1977,,,GE CF6-50C2,3,N233NW,21/02/1996,Northwest Airlines,Stored at Opa Locka 06/2006 - Scrapped 01/2007,Scrapped
+46645,283,McDonnell Douglas DC-10,DC10-10,16/04/1979,,,CF6-6K,3,N912WA,19/07/1979,Western Airlines,,Transferred
+46645,283,McDonnell Douglas DC-10,DC10-10,16/04/1979,,,CF6-6K,3,N912WA,01/04/1987,Delta Air Lines,,Transferred
+46645,283,McDonnell Douglas DC-10,DC10-10,16/04/1979,,,CF6-6K,3,N912WA,06/05/1988,Scanair,,Transferred
+46645,283,McDonnell Douglas DC-10,DC10-10,16/04/1979,,,CF6-6K,3,N912WA,16/06/1988,American Airlines,,Transferred
+46645,283,McDonnell Douglas DC-10,DC10-10,16/04/1979,,,CF6-6K,3,SE-DHX,14/03/1989,Scanair,,Transferred
+46645,283,McDonnell Douglas DC-10,DC10-10,16/04/1979,,,CF6-6K,3,SE-DHX,14/06/1989,World Airways,,Transferred
+46645,283,McDonnell Douglas DC-10,DC10-10,16/04/1979,,,CF6-6K,3,SE-DHX,01/06/1990,Malaysia Airlines,,Transferred
+46645,283,McDonnell Douglas DC-10,DC10-10,16/04/1979,,,CF6-6K,3,SE-DHX,01/06/1991,Scanair,,Transferred
+46645,283,McDonnell Douglas DC-10,DC10-10,16/04/1979,,,CF6-6K,3,SE-DHX,15/07/1991,Sun Country Airlines,,Transferred
+46645,283,McDonnell Douglas DC-10,DC10-10,16/04/1979,,,CF6-6K,3,N571SC,01/02/1994,Sun Country Airlines,,Transferred
+46645,283,McDonnell Douglas DC-10,DC10-10,16/04/1979,,,CF6-6K,3,N571SC,11/06/1998,Ryan Int,,Transferred
+46645,283,McDonnell Douglas DC-10,DC10-10,16/04/1979,,,CF6-6K,3,N571SC,03/11/1998,Skyservice USA,,Transferred
+46645,283,McDonnell Douglas DC-10,DC10-10,16/04/1979,,,CF6-6K,3,N571RY,07/07/2000,Skyservice USA,,Scrapped
+46646,285,McDonnell Douglas DC-10,DC10-10,02/07/1979,,,CF6-6K,3,N913WA,28/07/1979,Western Airlines,,Transferred
+46646,285,McDonnell Douglas DC-10,DC10-10,02/07/1979,,,CF6-6K,3,N913WA,01/04/1987,Delta Air Lines,,Transferred
+46646,285,McDonnell Douglas DC-10,DC10-10,02/07/1979,,,CF6-6K,3,N913WA,24/06/1988,Scanair,,Transferred
+46646,285,McDonnell Douglas DC-10,DC10-10,02/07/1979,,,CF6-6K,3,SE-DHS,12/12/1988,Scanair,,Transferred
+46646,285,McDonnell Douglas DC-10,DC10-10,02/07/1979,,,CF6-6K,3,SE-DHS,01/01/1994,Premiair,,Transferred
+46646,285,McDonnell Douglas DC-10,DC10-10,02/07/1979,,,CF6-6K,3,OY-CNS,19/12/1996,Premiair,,Transferred
+46646,285,McDonnell Douglas DC-10,DC10-10,02/07/1979,,,CF6-6K,3,G-DPSP,29/08/2000,Airtours,,Transferred
+46646,285,McDonnell Douglas DC-10,DC10-10,02/07/1979,,,CF6-6K,3,G-DPSP,08/02/2002,My Travel Airways,,Transferred
+46646,285,McDonnell Douglas DC-10,DC10-10,02/07/1979,,,CF6-6K,3,3D-MRR,19/11/2004,Executive Aero Space,Stored at JNB 06/2005,Stored
+46660,220,McDonnell Douglas DC-10,DC10-40,31/12/1975,,N8705Q,,,JA8532,16/04/1976,Japan Airlines,,Transferred
+46660,220,McDonnell Douglas DC-10,DC10-40,31/12/1975,,N8705Q,,,JA8532,16/10/1986,Japan Asia Airways,,Transferred
+46660,220,McDonnell Douglas DC-10,DC10-40,31/12/1975,,N8705Q,,,JA8532,11/04/1997,Japan Airlines,Sold to Vivaldi 03/2005 as N660VV,Stored
+46661,224,McDonnell Douglas DC-10,DC10-40F,09/03/1976,,N19B,PW JT9D-59A,3,N54652,09/03/1976,McDonnell Douglas,,Transferred
+46661,224,McDonnell Douglas DC-10,DC10-40F,09/03/1976,,N19B,PW JT9D-59A,3,JA8533,25/05/1976,Japan Airlines,,Transferred
+46661,224,McDonnell Douglas DC-10,DC10-40F,09/03/1976,,N19B,PW JT9D-59A,3,N141WE,30/11/1998,Challenge Air Cargo,Converted to freighter,Transferred
+46661,224,McDonnell Douglas DC-10,DC10-40F,09/03/1976,,N19B,PW JT9D-59A,3,N141WE,01/01/2001,Centurion Air Cargo,,Transferred
+46661,224,McDonnell Douglas DC-10,DC10-40F,09/03/1976,,N19B,PW JT9D-59A,3,VP-BDG,10/10/2003,Aeroflot,wfu at Helsinki 31/03/2008,Transferred
+46661,224,McDonnell Douglas DC-10,DC10-40F,09/03/1976,,N19B,PW JT9D-59A,3,N141WE,02/07/2008,Arrow Air,Stored 08/2009  Lsd From Wilmington Trust Co Trustee,Stored
+46662,230,McDonnell Douglas DC-10,DC10-40,21/06/1976,,N19B,,,JA8535,13/08/1976,Japan Airlines,,Transferred
+46662,230,McDonnell Douglas DC-10,DC10-40,21/06/1976,,N19B,,,JA8535,01/09/1994,Japan Asia Airways,,Transferred
+46662,230,McDonnell Douglas DC-10,DC10-40,21/06/1976,,N19B,,,JA8535,16/02/1995,Japan Asia Airways,,Transferred
+46662,230,McDonnell Douglas DC-10,DC10-40,21/06/1976,,N19B,,,JA8535,10/05/1995,Japan Asia Airways,,Transferred
+46662,230,McDonnell Douglas DC-10,DC10-40,21/06/1976,,N19B,,,JA8535,01/08/1995,Japan Asia Airways,,Transferred
+46662,230,McDonnell Douglas DC-10,DC10-40,21/06/1976,,N19B,,,JA8535,29/07/1996,Japan Airlines,Stored 08/04/05 as N662VV,Stored
+46685,284,McDonnell Douglas DC-10,DC10-30,24/04/1979,,,GE CF6-50C2,3,PK-GIE,27/07/1979,Garuda,,Written off
+46686,286,McDonnell Douglas DC-10,DC10-30,10/05/1979,,,GE CF6-50C2,3,PK-GIF,22/08/1979,Garuda,Stored 04/2004,Stored
+46700,14,McDonnell Douglas DC-10,DC10-10,28/07/1971,,,CF6-6K,3,N60NA,01/11/1971,National Airlines (Old),,Transferred
+46700,14,McDonnell Douglas DC-10,DC10-10,28/07/1971,,,CF6-6K,3,N60NA,07/01/1980,Pan Am,,Transferred
+46700,14,McDonnell Douglas DC-10,DC10-10,28/07/1971,,,CF6-6K,3,N145AA,24/01/1984,American Airlines,Scrapped in 2002 with Fedex,Scrapped
+46701,16,McDonnell Douglas DC-10,DC10-10,23/08/1971,,,CF6-6K,3,N61NA,19/11/1971,National Airlines (Old),,Transferred
+46701,16,McDonnell Douglas DC-10,DC10-10,23/08/1971,,,CF6-6K,3,N61NA,07/01/1980,Pan Am,,Transferred
+46701,16,McDonnell Douglas DC-10,DC10-10,23/08/1971,,,CF6-6K,3,N146AA,15/06/1984,American Airlines,,Transferred
+46701,16,McDonnell Douglas DC-10,DC10-10,23/08/1971,,,CF6-6K,3,N146AA,30/05/1994,Hawaiian Airlines,,Scrapped
+46702,18,McDonnell Douglas DC-10,DC10-10,16/09/1971,,,CF6-6K,3,N62NA,21/12/1971,National Airlines (Old),,Transferred
+46702,18,McDonnell Douglas DC-10,DC10-10,16/09/1971,,,CF6-6K,3,N62NA,07/01/1980,Pan Am,,Transferred
+46702,18,McDonnell Douglas DC-10,DC10-10,16/09/1971,,,CF6-6K,3,N147AA,14/05/1984,American Airlines,Scrapped 06/1998,Scrapped
+46703,19,McDonnell Douglas DC-10,DC10-10,28/09/1971,,,CF6-6K,3,N63NA,12/01/1972,National Airlines (Old),,Transferred
+46703,19,McDonnell Douglas DC-10,DC10-10,28/09/1971,,,CF6-6K,3,N63NA,07/01/1980,Pan Am,,Transferred
+46703,19,McDonnell Douglas DC-10,DC10-10,28/09/1971,,,CF6-6K,3,N148AA,20/05/1984,American Airlines,,Transferred
+46703,19,McDonnell Douglas DC-10,DC10-10,28/09/1971,,,CF6-6K,3,N148AA,01/02/1994,Hawaiian Airlines,,Stored
+46703,19,McDonnell Douglas DC-10,DC10-10,28/09/1971,,,CF6-6K,3,N63NA,12/01/1972,National Airlines (Old),,Transferred
+46703,19,McDonnell Douglas DC-10,DC10-10,28/09/1971,,,CF6-6K,3,N63NA,07/01/1980,Pan Am,,Transferred
+46703,19,McDonnell Douglas DC-10,DC10-10,28/09/1971,,,CF6-6K,3,N148AA,20/05/1984,American Airlines,,Transferred
+46703,19,McDonnell Douglas DC-10,DC10-10,28/09/1971,,,CF6-6K,3,N148AA,01/02/1994,Hawaiian Airlines,,Stored
+46704,29,McDonnell Douglas DC-10,DC10-10,15/02/1972,,N1337U,CF6-6K,3,TC-JAV,10/12/1972,THY Turkish Airlines,Crashed 03/03/74 at Ermenoville,Written off
+46705,33,McDonnell Douglas DC-10,DC10-10,09/03/1972,,N1338U,CF6-6K,3,TC-JAU,02/12/1972,THY Turkish Airlines,,Transferred
+46705,33,McDonnell Douglas DC-10,DC10-10,09/03/1972,,N1338U,CF6-6K,3,TC-JAU,01/12/1987,Bogazici Hava T,,Transferred
+46705,33,McDonnell Douglas DC-10,DC10-10,09/03/1972,,N1338U,CF6-6K,3,N68058,16/11/1989,Federal Express,Converted to DC10-10F - Stored 03/2009,Stored
+46706,38,McDonnell Douglas DC-10,DC10-10,08/04/1972,,,CF6-6K,3,N64NA,10/05/1972,National Airlines (Old),,Transferred
+46706,38,McDonnell Douglas DC-10,DC10-10,08/04/1972,,,CF6-6K,3,N64NA,07/01/1980,Pan Am,,Transferred
+46706,38,McDonnell Douglas DC-10,DC10-10,08/04/1972,,,CF6-6K,3,N151AA,06/02/1984,American Airlines,,Transferred
+46706,38,McDonnell Douglas DC-10,DC10-10,08/04/1972,,,CF6-6K,3,N151AA,21/12/1995,Hawaiian Airlines,,Transferred
+46706,38,McDonnell Douglas DC-10,DC10-10,08/04/1972,,,CF6-6K,3,N360AX,24/12/1997,Omni Air International,reg canx 12/01/04,Scrapped
+46707,61,McDonnell Douglas DC-10,DC10-10,08/09/1972,,,CF6-6K,3,N65NA,13/10/1972,National Airlines (Old),,Transferred
+46707,61,McDonnell Douglas DC-10,DC10-10,08/09/1972,,,CF6-6K,3,N65NA,07/01/1980,Pan Am,,Transferred
+46707,61,McDonnell Douglas DC-10,DC10-10,08/09/1972,,,CF6-6K,3,N152AA,24/06/1984,American Airlines,,Transferred
+46707,61,McDonnell Douglas DC-10,DC10-10,08/09/1972,,,CF6-6K,3,N152AA,08/08/1994,Hawaiian Airlines,,Transferred
+46707,61,McDonnell Douglas DC-10,DC10-10,08/09/1972,,,CF6-6K,3,N553FE,01/09/2005,Federal Express,Stored at Mojave  Scrapped 06/2007,Scrapped
+46708,62,McDonnell Douglas DC-10,DC10-10F,15/09/1972,,,CF6-6K,3,N66NA,19/10/1972,National Airlines (Old),,Transferred
+46708,62,McDonnell Douglas DC-10,DC10-10F,15/09/1972,,,CF6-6K,3,N66NA,07/01/1980,Pan Am,,Transferred
+46708,62,McDonnell Douglas DC-10,DC10-10F,15/09/1972,,,CF6-6K,3,N153AA,22/07/1984,American Airlines,,Transferred
+46708,62,McDonnell Douglas DC-10,DC10-10F,15/09/1972,,,CF6-6K,3,N153AA,29/08/1994,Hawaiian Airlines,,Transferred
+46708,62,McDonnell Douglas DC-10,DC10-10F,15/09/1972,,,CF6-6K,3,N554FE,15/11/2002,Federal Express,Stored 12/2016Converted to MD-10 05/2007,Stored
+46709,68,McDonnell Douglas DC-10,DC10-10,14/10/1972,,,CF6-6K,3,N67NA,30/11/1972,National Airlines (Old),,Transferred
+46709,68,McDonnell Douglas DC-10,DC10-10,14/10/1972,,,CF6-6K,3,N67NA,07/01/1980,Pan Am,,Transferred
+46709,68,McDonnell Douglas DC-10,DC10-10,14/10/1972,,,CF6-6K,3,N154AA,04/11/1983,American Airlines,Stored at Goodyear 2000 - Scrapped in 2002,Scrapped
+46710,70,McDonnell Douglas DC-10,DC10-10,31/10/1972,,,CF6-6K,3,N68NA,12/12/1972,National Airlines (Old),,Transferred
+46710,70,McDonnell Douglas DC-10,DC10-10,31/10/1972,,,CF6-6K,3,N68NA,07/01/1980,Pan Am,,Transferred
+46710,70,McDonnell Douglas DC-10,DC10-10,31/10/1972,,,CF6-6K,3,N160AA,01/11/1983,American Airlines,,Transferred
+46710,70,McDonnell Douglas DC-10,DC10-10,31/10/1972,,,CF6-6K,3,N160AA,09/01/1997,Hawaiian Airlines,,Transferred
+46710,70,McDonnell Douglas DC-10,DC10-10,31/10/1972,,,CF6-6K,3,N556FE,13/07/2001,Federal Express,Stored 02/2013Converted to freighter 01/2006,Stored
+46711,105,McDonnell Douglas DC-10,DC10-30,15/05/1973,,,GE CF6-50C2,3,N80NA,11/06/1973,National Airlines (Old),,Transferred
+46711,105,McDonnell Douglas DC-10,DC10-30,15/05/1973,,,GE CF6-50C2,3,N80NA,07/01/1980,Pan Am,,Transferred
+46711,105,McDonnell Douglas DC-10,DC10-30,15/05/1973,,,GE CF6-50C2,3,N139AA,24/02/1984,American Airlines,,Written off
+46712,106,McDonnell Douglas DC-10,DC10-30,19/05/1973,,,GE CF6-50C2,3,N81NA,18/06/1973,National Airlines (Old),,Transferred
+46712,106,McDonnell Douglas DC-10,DC10-30,19/05/1973,,,GE CF6-50C2,3,N81NA,07/01/1980,Pan Am,Named Clipper Atmosphere,Transferred
+46712,106,McDonnell Douglas DC-10,DC10-30,19/05/1973,,,GE CF6-50C2,3,CC-CJN,12/06/1981,LAN Chile,,Transferred
+46712,106,McDonnell Douglas DC-10,DC10-30,19/05/1973,,,GE CF6-50C2,3,N81NA,13/06/1982,Pan Am,,Transferred
+46712,106,McDonnell Douglas DC-10,DC10-30,19/05/1973,,,GE CF6-50C2,3,N140AA,15/03/1984,American Airlines,,Transferred
+46712,106,McDonnell Douglas DC-10,DC10-30,19/05/1973,,,GE CF6-50C2,3,N140AA,20/06/1996,Transaero Airlines,,Transferred
+46712,106,McDonnell Douglas DC-10,DC10-30,19/05/1973,,,GE CF6-50C2,3,N140AA,29/11/1998,Hawaiian Airlines,,Transferred
+46712,106,McDonnell Douglas DC-10,DC10-30,19/05/1973,,,GE CF6-50C2,3,9G-AND,24/10/2003,Ghana Airways,Stored at Marana 02/09/04,Scrapped
+46713,165,McDonnell Douglas DC-10,DC10-30,10/07/1974,,,GE CF6-50C2,3,N82NA,20/06/1975,National Airlines (Old),,Transferred
+46713,165,McDonnell Douglas DC-10,DC10-30,10/07/1974,,,GE CF6-50C2,3,N82NA,07/01/1980,Pan Am,Named Clipper Aurora,Transferred
+46713,165,McDonnell Douglas DC-10,DC10-30,10/07/1974,,,GE CF6-50C2,3,N141AA,02/04/1984,American Airlines,,Transferred
+46713,165,McDonnell Douglas DC-10,DC10-30,10/07/1974,,,GE CF6-50C2,3,N141AA,05/06/1996,Transaero Airlines,,Transferred
+46713,165,McDonnell Douglas DC-10,DC10-30,10/07/1974,,,GE CF6-50C2,3,N141AA,22/02/1999,Hawaiian Airlines,,Transferred
+46713,165,McDonnell Douglas DC-10,DC10-30,10/07/1974,,,GE CF6-50C2,3,9G-ANE,23/11/2003,Ghana Airways,Ret to lessor 09/2004 - Scrapped at Marana on July 2007,Scrapped
+46714,167,McDonnell Douglas DC-10,DC10-30,24/07/1974,,,GE CF6-50C2,3,N83NA,16/06/1975,National Airlines (Old),,Transferred
+46714,167,McDonnell Douglas DC-10,DC10-30,24/07/1974,,,GE CF6-50C2,3,N83NA,07/01/1980,Pan Am,,Transferred
+46714,167,McDonnell Douglas DC-10,DC10-30,24/07/1974,,,GE CF6-50C2,3,N142AA,19/04/1984,American Airlines,,Transferred
+46714,167,McDonnell Douglas DC-10,DC10-30,24/07/1974,,,GE CF6-50C2,3,N142AA,28/06/1996,Transaero Airlines,,Stored
+46727,83,McDonnell Douglas DC-10,DC10-10,18/01/1973,,N1348U,CF6-6K,3,G-BBSZ,20/05/1974,Laker Airways,,Transferred
+46727,83,McDonnell Douglas DC-10,DC10-10,18/01/1973,,N1348U,CF6-6K,3,G-BBSZ,01/10/1977,Air Algerie,,Transferred
+46727,83,McDonnell Douglas DC-10,DC10-10,18/01/1973,,N1348U,CF6-6K,3,N917CL,01/05/1982,Capitol Air,,Transferred
+46727,83,McDonnell Douglas DC-10,DC10-10,18/01/1973,,N1348U,CF6-6K,3,N917JW,06/09/1983,Arrow Air,,Transferred
+46727,83,McDonnell Douglas DC-10,DC10-10,18/01/1973,,N1348U,CF6-6K,3,N917JW,01/11/1984,World Airways,,Transferred
+46727,83,McDonnell Douglas DC-10,DC10-10,18/01/1973,,N1348U,CF6-6K,3,EC-EAZ,15/10/1986,Spantax,,Transferred
+46727,83,McDonnell Douglas DC-10,DC10-10,18/01/1973,,N1348U,CF6-6K,3,N917JW,09/06/1987,American Airlines,,Transferred
+46727,83,McDonnell Douglas DC-10,DC10-10,18/01/1973,,N1348U,CF6-6K,3,N917JW,05/07/1987,Spantax,,Transferred
+46727,83,McDonnell Douglas DC-10,DC10-10,18/01/1973,,N1348U,CF6-6K,3,N917JW,01/04/1989,Key Airlines,,Transferred
+46727,83,McDonnell Douglas DC-10,DC10-10,18/01/1973,,N1348U,CF6-6K,3,N917JW,01/04/1989,Key Airlines,,Transferred
+46727,83,McDonnell Douglas DC-10,DC10-10,18/01/1973,,N1348U,CF6-6K,3,N917JW,01/06/1989,Garuda,,Transferred
+46727,83,McDonnell Douglas DC-10,DC10-10,18/01/1973,,N1348U,CF6-6K,3,N40KA,01/09/1989,Key Airlines,,Transferred
+46727,83,McDonnell Douglas DC-10,DC10-10,18/01/1973,,N1348U,CF6-6K,3,N104WA,03/05/1990,World Airways,,Transferred
+46727,83,McDonnell Douglas DC-10,DC10-10,18/01/1973,,N1348U,CF6-6K,3,N104WA,30/07/1994,Arca Aerovias Colombianas,Converted to freighter - Scrapped at MCM 08/2009,Scrapped
+46750,28,McDonnell Douglas DC-10,DC10-40,28/02/1972,,,,,N141US,13/06/1973,Northwest Airlines,,Scrapped
+46751,36,McDonnell Douglas DC-10,DC10-40,24/03/1972,,,,,N142US,16/02/1973,Northwest Airlines,,Transferred
+46751,36,McDonnell Douglas DC-10,DC10-40,24/03/1972,,,,,N184AT,07/06/1984,American Trans Air,,Written off
+46752,53,McDonnell Douglas DC-10,DC10-40,24/07/1972,,,,,N143US,10/11/1972,Northwest Airlines,,Transferred
+46752,53,McDonnell Douglas DC-10,DC10-40,24/07/1972,,,,,N143US,28/06/1984,Dominicana,,Transferred
+46752,53,McDonnell Douglas DC-10,DC10-40,24/07/1972,,,,,N133JC,17/10/1984,Air Panama International,,Transferred
+46752,53,McDonnell Douglas DC-10,DC10-40,24/07/1972,,,,,N133JC,17/05/1986,Northwest Airlines,Sold to Amcomp 08/01/04,Stored
+46753,66,McDonnell Douglas DC-10,DC10-40,05/10/1972,,,,,N144US,12/12/1972,Northwest Airlines,,Transferred
+46753,66,McDonnell Douglas DC-10,DC10-40,05/10/1972,,,,,N144JC,01/04/1986,Northwest Airlines,,Transferred
+46753,66,McDonnell Douglas DC-10,DC10-40,05/10/1972,,,,,N144JC,16/06/1986,Sun Country Airlines,,Transferred
+46753,66,McDonnell Douglas DC-10,DC10-40,05/10/1972,,,,,N144JC,20/07/1991,Northwest Airlines,Sold to Amcomp 08/01/04,Stored
+46754,79,McDonnell Douglas DC-10,DC10-40,15/12/1972,,,,,N145US,31/01/1973,Northwest Airlines,Scrapped 09/2005,Scrapped
+46755,97,McDonnell Douglas DC-10,DC10-40,31/03/1973,,,,,N146US,09/05/1973,Northwest Airlines,Scrapped,Scrapped
+46756,102,McDonnell Douglas DC-10,DC10-40,28/04/1973,,,,,N147US,02/06/1973,Northwest Airlines,Scrapped 09/2005,Scrapped
+46757,108,McDonnell Douglas DC-10,DC10-40,31/05/1973,,,,,N148US,06/07/1973,Northwest Airlines,Scrapped 09/2005,Scrapped
+46758,111,McDonnell Douglas DC-10,DC10-40,15/06/1973,,,,,N149US,25/07/1973,Northwest Airlines,Scrapped 09/2005,Scrapped
+46759,113,McDonnell Douglas DC-10,DC10-40,27/06/1973,,,,,N150US,31/07/1973,Northwest Airlines,,Scrapped
+46760,120,McDonnell Douglas DC-10,DC10-40,10/08/1973,,,,,N151US,30/10/1973,Northwest Airlines,Scrapped 9/2002,Scrapped
+46761,124,McDonnell Douglas DC-10,DC10-40,10/09/1973,,,,,N152US,07/11/1973,Northwest Airlines,,Scrapped
+46762,126,McDonnell Douglas DC-10,DC10-40,21/09/1973,,,,,N153US,14/11/1973,Northwest Airlines,,Scrapped
+46763,128,McDonnell Douglas DC-10,DC10-40,08/10/1973,,,,,N154US,28/11/1973,Northwest Airlines,,Scrapped
+46764,130,McDonnell Douglas DC-10,DC10-40,23/10/1973,,,,,N155US,12/12/1973,Northwest Airlines,Scrapped 10/2003,Scrapped
+46765,143,McDonnell Douglas DC-10,DC10-40,01/02/1974,,,,,N156US,08/03/1974,Northwest Airlines,,Scrapped
+46766,151,McDonnell Douglas DC-10,DC10-40,01/04/1974,,,,,N157US,17/05/1974,Northwest Airlines,,Scrapped
+46767,161,McDonnell Douglas DC-10,DC10-40,11/06/1974,,,,,N158US,19/07/1974,Northwest Airlines,Scrapped 06/2002,Scrapped
+46768,164,McDonnell Douglas DC-10,DC10-40,02/07/1974,,,,,N159US,09/08/1974,Northwest Airlines,,Stored
+46769,168,McDonnell Douglas DC-10,DC10-40,31/07/1974,,,,,N160US,10/09/1974,Northwest Airlines,Scrapped at Greenwood 01/2003,Scrapped
+46770,175,McDonnell Douglas DC-10,DC10-40,19/09/1974,,,,,N161US,05/11/1974,Northwest Airlines,,Scrapped
+46771,180,McDonnell Douglas DC-10,DC10-40,25/10/1974,,,,,N162US,06/12/1974,Northwest Airlines,,Scrapped
+46800,96,McDonnell Douglas DC-10,DC10-30CF,27/03/1973,47,,GE CF6-50C2,3,N101TV,19/04/1973,Trans International Airlines,,Transferred
+46800,96,McDonnell Douglas DC-10,DC10-30CF,27/03/1973,47,,GE CF6-50C2,3,N101TV,01/10/1979,Transamerica Airlines,,Transferred
+46800,96,McDonnell Douglas DC-10,DC10-30CF,27/03/1973,47,,GE CF6-50C2,3,N101TV,01/10/1979,Nigeria Airways,,Transferred
+46800,96,McDonnell Douglas DC-10,DC10-30CF,27/03/1973,47,,GE CF6-50C2,3,N101TV,15/03/1981,Air Florida,,Transferred
+46800,96,McDonnell Douglas DC-10,DC10-30CF,27/03/1973,47,,GE CF6-50C2,3,N301FE,20/04/1984,Federal Express,,Transferred
+46800,96,McDonnell Douglas DC-10,DC10-30CF,27/03/1973,47,,GE CF6-50C2,3,N301FE,02/09/2001,Federal Express,Converted to freighter,Transferred
+46800,96,McDonnell Douglas DC-10,DC10-30CF,27/03/1973,47,,GE CF6-50C2,3,N301FE,30/03/2010,Project Orbis,,Transferred
+46800,96,McDonnell Douglas DC-10,DC10-30CF,27/03/1973,47,,GE CF6-50C2,3,N330AU,12/04/2011,Project Orbis,Std at VCV 13/05/2012 until 04/05/2016,Active
+46801,103,McDonnell Douglas DC-10,DC10-30CF,02/05/1973,,,GE CF6-50C2,3,N102TV,04/06/1973,Trans International Airlines,,Transferred
+46801,103,McDonnell Douglas DC-10,DC10-30CF,02/05/1973,,,GE CF6-50C2,3,N102TV,01/10/1979,Transamerica Airlines,,Transferred
+46801,103,McDonnell Douglas DC-10,DC10-30CF,02/05/1973,,,GE CF6-50C2,3,N102TV,15/04/1981,Air Florida,,Transferred
+46801,103,McDonnell Douglas DC-10,DC10-30CF,02/05/1973,,,GE CF6-50C2,3,N302FE,19/03/1984,Federal Express,Stored 01/2015,Stored
+46802,110,McDonnell Douglas DC-10,DC10-30CF,11/06/1973,46.8,,GE CF6-50C2,3,N103TV,02/07/1973,Trans International Airlines,,Transferred
+46802,110,McDonnell Douglas DC-10,DC10-30CF,11/06/1973,46.8,,GE CF6-50C2,3,N103TV,01/10/1979,Transamerica Airlines,,Transferred
+46802,110,McDonnell Douglas DC-10,DC10-30CF,11/06/1973,46.8,,GE CF6-50C2,3,N103TV,01/12/1981,Air Florida,,Transferred
+46802,110,McDonnell Douglas DC-10,DC10-30CF,11/06/1973,46.8,,GE CF6-50C2,3,N303FE,29/02/1984,Federal Express,Converted to freighter  Named Macy,Active
+46825,81,McDonnell Douglas DC-10,DC10-30CF,28/02/1973,,,GE CF6-50C2,3,N1031F,21/04/1973,ONA,,Transferred
+46825,81,McDonnell Douglas DC-10,DC10-30CF,28/02/1973,,,GE CF6-50C2,3,N1031F,01/11/1975,Saudia,,Written off
+46826,109,McDonnell Douglas DC-10,DC10-30CF,06/06/1974,,,GE CF6-50C2,3,N1032F,26/09/1973,ONA,,Written off
+46835,277,McDonnell Douglas DC-10,DC10-30CF,30/03/1979,,,GE CF6-50C2,3,N106WA,27/04/1979,World Airways,,Transferred
+46835,277,McDonnell Douglas DC-10,DC10-30CF,30/03/1979,,,GE CF6-50C2,3,N106WA,01/09/1981,Malaysia Airlines,,Transferred
+46835,277,McDonnell Douglas DC-10,DC10-30CF,30/03/1979,,,GE CF6-50C2,3,N106WA,07/01/1989,Sabena,,Transferred
+46835,277,McDonnell Douglas DC-10,DC10-30CF,30/03/1979,,,GE CF6-50C2,3,N106WA,01/06/1990,Malaysia Airlines,,Transferred
+46835,277,McDonnell Douglas DC-10,DC10-30CF,30/03/1979,,,GE CF6-50C2,3,N106WA,26/06/1991,Malaysia Airlines,,Transferred
+46835,277,McDonnell Douglas DC-10,DC10-30CF,30/03/1979,,,GE CF6-50C2,3,N106WA,01/01/1993,World Airways,,Transferred
+46835,277,McDonnell Douglas DC-10,DC10-30CF,30/03/1979,,,GE CF6-50C2,3,N317FE,15/08/1994,Federal Express,Stored 05/2015,Stored
+46836,280,McDonnell Douglas DC-10,DC10-30CF,20/03/1979,,,GE CF6-50C2,3,N107WA,21/05/1979,World Airways,,Transferred
+46836,280,McDonnell Douglas DC-10,DC10-30CF,20/03/1979,,,GE CF6-50C2,3,N107WA,20/05/1993,Garuda,Operated by World Airways,Transferred
+46836,280,McDonnell Douglas DC-10,DC10-30CF,20/03/1979,,,GE CF6-50C2,3,N107WA,08/12/1993,World Airways,,Transferred
+46836,280,McDonnell Douglas DC-10,DC10-30CF,20/03/1979,,,GE CF6-50C2,3,N107WA,14/05/1994,Malaysia Airlines,Operated by World Airways,Transferred
+46836,280,McDonnell Douglas DC-10,DC10-30CF,20/03/1979,,,GE CF6-50C2,3,N107WA,07/06/1996,World Airways,,Transferred
+46836,280,McDonnell Douglas DC-10,DC10-30CF,20/03/1979,,,GE CF6-50C2,3,N107WA,22/06/1997,VASP,,Transferred
+46836,280,McDonnell Douglas DC-10,DC10-30CF,20/03/1979,,,GE CF6-50C2,3,N107WA,25/01/1998,World Airways,Scrapped in 2006,Scrapped
+46837,282,McDonnell Douglas DC-10,DC10-30CF,04/05/1979,40.9,,GE CF6-50C2,3,N108WA,29/05/1979,World Airways,,Transferred
+46837,282,McDonnell Douglas DC-10,DC10-30CF,04/05/1979,40.9,,GE CF6-50C2,3,N108WA,20/05/1993,Malaysia Airlines,Operated by World Airways,Transferred
+46837,282,McDonnell Douglas DC-10,DC10-30CF,04/05/1979,40.9,,GE CF6-50C2,3,N108WA,29/08/1993,World Airways,,Transferred
+46837,282,McDonnell Douglas DC-10,DC10-30CF,04/05/1979,40.9,,GE CF6-50C2,3,N318FE,05/07/1994,Federal Express,Named Annabelle,Active
+46850,63,McDonnell Douglas DC-10,DC10-30,21/09/1972,,N1341U,GE CF6-50C2,3,F-BTDB,18/02/1973,UTA,,Transferred
+46850,63,McDonnell Douglas DC-10,DC10-30,21/09/1972,,N1341U,GE CF6-50C2,3,F-BTDB,01/11/1992,Air France,,Transferred
+46850,63,McDonnell Douglas DC-10,DC10-30,21/09/1972,,N1341U,GE CF6-50C2,3,OO-JOT,06/06/1994,ChallengAir,,Transferred
+46850,63,McDonnell Douglas DC-10,DC10-30,21/09/1972,,N1341U,GE CF6-50C2,3,OO-JOT,01/07/1995,TAROM,,Transferred
+46850,63,McDonnell Douglas DC-10,DC10-30,21/09/1972,,N1341U,GE CF6-50C2,3,OO-JOT,01/11/1995,ChallengAir,,Transferred
+46850,63,McDonnell Douglas DC-10,DC10-30,21/09/1972,,N1341U,GE CF6-50C2,3,OO-JOT,16/12/1995,Air Europe Italy,,Transferred
+46850,63,McDonnell Douglas DC-10,DC10-30,21/09/1972,,N1341U,GE CF6-50C2,3,OO-JOT,20/03/1996,Corsair,,Transferred
+46850,63,McDonnell Douglas DC-10,DC10-30,21/09/1972,,N1341U,GE CF6-50C2,3,N13088,08/10/1997,Continental Airlines,Scrapped at MJV in March 2008,Scrapped
+46851,85,McDonnell Douglas DC-10,DC10-30,30/01/1973,,N1350U,GE CF6-50C2,3,F-BTDC,19/03/1973,UTA,,Transferred
+46851,85,McDonnell Douglas DC-10,DC10-30,30/01/1973,,N1350U,GE CF6-50C2,3,HS-TGA,30/03/1975,Thai Airways,Named Phimara,Transferred
+46851,85,McDonnell Douglas DC-10,DC10-30,30/01/1973,,N1350U,GE CF6-50C2,3,F-BTDC,15/05/1977,UTA,,Transferred
+46851,85,McDonnell Douglas DC-10,DC10-30,30/01/1973,,N1350U,GE CF6-50C2,3,F-BTDC,01/11/1992,Air France,,Transferred
+46851,85,McDonnell Douglas DC-10,DC10-30,30/01/1973,,N1350U,GE CF6-50C2,3,F-GTDH,25/03/1995,AOM French Airlines,,Transferred
+46851,85,McDonnell Douglas DC-10,DC10-30,30/01/1973,,N1350U,GE CF6-50C2,3,F-GTDH,01/10/2001,Air Lib,Scrapped in 2004,Scrapped
+46852,93,McDonnell Douglas DC-10,DC10-30,13/03/1973,,,GE CF6-50C2,3,N54629,01/05/1973,UTA,,Transferred
+46852,93,McDonnell Douglas DC-10,DC10-30,13/03/1973,,,GE CF6-50C2,3,F-BTDF,29/01/1988,UTA,,Transferred
+46852,93,McDonnell Douglas DC-10,DC10-30,13/03/1973,,,GE CF6-50C2,3,N54629,21/03/1988,UTA,,Written off
+46853,134,McDonnell Douglas DC-10,DC10-30,20/11/1973,,,GE CF6-50C2,3,N54639,18/01/1974,UTA,,Transferred
+46853,134,McDonnell Douglas DC-10,DC10-30,20/11/1973,,,GE CF6-50C2,3,F-BTDE,07/10/1983,UTA,,Transferred
+46853,134,McDonnell Douglas DC-10,DC10-30,20/11/1973,,,GE CF6-50C2,3,F-BTDE,08/03/1993,AOM French Airlines,,Transferred
+46853,134,McDonnell Douglas DC-10,DC10-30,20/11/1973,,,GE CF6-50C2,3,F-BTDE,01/10/2001,Air Lib,Stored at CHR - Scrapped 05/2010,Scrapped
+46854,193,McDonnell Douglas DC-10,DC10-30,05/02/1975,,,GE CF6-50C2,3,N54649,19/03/1975,UTA,,Transferred
+46854,193,McDonnell Douglas DC-10,DC10-30,05/02/1975,,,GE CF6-50C2,3,N54649,01/11/1992,Air France,,Transferred
+46854,193,McDonnell Douglas DC-10,DC10-30,05/02/1975,,,GE CF6-50C2,3,F-GTDF,10/11/1994,AOM French Airlines,,Transferred
+46854,193,McDonnell Douglas DC-10,DC10-30,05/02/1975,,,GE CF6-50C2,3,F-GTDF,08/03/2002,Aerolyon,,Stored
+46868,171,McDonnell Douglas DC-10,DC10-30,10/09/1974,,,GE CF6-50C2,3,LN-RKA,01/10/1974,SAS Scandinavian Airlines,,Transferred
+46868,171,McDonnell Douglas DC-10,DC10-30,10/09/1974,,,GE CF6-50C2,3,HB-IHP,28/09/1989,Swissair,,Transferred
+46868,171,McDonnell Douglas DC-10,DC10-30,10/09/1974,,,GE CF6-50C2,3,N211NW,23/01/1991,Northwest Airlines,Stored at Marana 01/2005,Stored
+46869,174,McDonnell Douglas DC-10,DC10-30,12/09/1975,,,GE CF6-50C2,3,SE-DFD,04/11/1974,SAS Scandinavian Airlines,,Transferred
+46869,174,McDonnell Douglas DC-10,DC10-30,12/09/1975,,,GE CF6-50C2,3,F-ODLZ,29/11/1990,Air Outre Mer,,Transferred
+46869,174,McDonnell Douglas DC-10,DC10-30,12/09/1975,,,GE CF6-50C2,3,F-ODLZ,01/03/1992,AOM French Airlines,,Transferred
+46869,174,McDonnell Douglas DC-10,DC10-30,12/09/1975,,,GE CF6-50C2,3,F-GTLZ,21/04/2001,AOM French Airlines,,Transferred
+46869,174,McDonnell Douglas DC-10,DC10-30,12/09/1975,,,GE CF6-50C2,3,F-GTLZ,01/10/2001,Air Lib,Aircraft seen in storage at Orly 12-June-05 in all-white colours - Scrapped 10/07/08,Scrapped
+46870,217,McDonnell Douglas DC-10,DC10-30,18/11/1975,,,GE CF6-50C2,3,OY-KDA,18/12/1975,SAS Scandinavian Airlines,,Transferred
+46870,217,McDonnell Douglas DC-10,DC10-30,18/11/1975,,,GE CF6-50C2,3,F-GHOI,18/10/1989,UTA,lsd to Scibe Airlift 12/1998,Transferred
+46870,217,McDonnell Douglas DC-10,DC10-30,18/11/1975,,,GE CF6-50C2,3,F-GHOI,02/05/1994,AOM French Airlines,,Transferred
+46870,217,McDonnell Douglas DC-10,DC10-30,18/11/1975,,,GE CF6-50C2,3,F-GHOI,01/10/2001,Air Lib,,Stored
+46870,217,McDonnell Douglas DC-10,DC10-30,18/11/1975,,,GE CF6-50C2,3,OY-KDA,18/12/1975,SAS Scandinavian Airlines,,Transferred
+46870,217,McDonnell Douglas DC-10,DC10-30,18/11/1975,,,GE CF6-50C2,3,F-GHOI,18/10/1989,UTA,lsd to Scibe Airlift 12/1998,Transferred
+46870,217,McDonnell Douglas DC-10,DC10-30,18/11/1975,,,GE CF6-50C2,3,F-GHOI,02/05/1994,AOM French Airlines,,Transferred
+46870,217,McDonnell Douglas DC-10,DC10-30,18/11/1975,,,GE CF6-50C2,3,F-GHOI,01/10/2001,Air Lib,,Stored
+46871,219,McDonnell Douglas DC-10,DC10-30F,26/11/1975,44.4,,GE CF6-50C2,3,LN-RKB,23/01/1976,SAS Scandinavian Airlines,Named haakon viking,Transferred
+46871,219,McDonnell Douglas DC-10,DC10-30F,26/11/1975,44.4,,GE CF6-50C2,3,N311FE,23/12/1985,Federal Express,Converted to DC10-30F,Transferred
+46871,219,McDonnell Douglas DC-10,DC10-30F,26/11/1975,44.4,,GE CF6-50C2,3,N311FE,02/08/2002,Federal Express,Converted to freighterStored 03/2012 to 2013  Named Sherrese,Active
+46872,233,McDonnell Douglas DC-10,DC10-30,06/10/1976,,,GE CF6-50C2,3,SE-DFE,02/12/1976,SAS Scandinavian Airlines,,Transferred
+46872,233,McDonnell Douglas DC-10,DC10-30,06/10/1976,,,GE CF6-50C2,3,F-ODLX,18/05/1990,Air Outre Mer,,Transferred
+46872,233,McDonnell Douglas DC-10,DC10-30,06/10/1976,,,GE CF6-50C2,3,F-ODLX,10/11/1991,Cubana,,Transferred
+46872,233,McDonnell Douglas DC-10,DC10-30,06/10/1976,,,GE CF6-50C2,3,F-ODLX,01/03/1992,AOM French Airlines,,Transferred
+46872,233,McDonnell Douglas DC-10,DC10-30,06/10/1976,,,GE CF6-50C2,3,F-GLYS,24/12/1999,Aerolyon,10/2004 stored at ROW,Scrapped
+46890,77,McDonnell Douglas DC-10,DC10-30,06/12/1972,,,GE CF6-50C2,3,TU-TAL,28/02/1973,Air Afrique,,Transferred
+46890,77,McDonnell Douglas DC-10,DC10-30,06/12/1972,,,GE CF6-50C2,3,TU-TAL,06/02/1985,JAT Airways,,Transferred
+46890,77,McDonnell Douglas DC-10,DC10-30,06/12/1972,,,GE CF6-50C2,3,TU-TAL,13/11/1986,Air Afrique,,Transferred
+46890,77,McDonnell Douglas DC-10,DC10-30,06/12/1972,,,GE CF6-50C2,3,F-GTDI,05/01/1996,AOM French Airlines,,Written off
+46891,127,McDonnell Douglas DC-10,DC10-30F,25/09/1973,,,GE CF6-50C2,3,PH-MBG,13/11/1973,Martinair Holland,,Transferred
+46891,127,McDonnell Douglas DC-10,DC10-30F,25/09/1973,,,GE CF6-50C2,3,PH-MBG,02/01/1980,Martinair Holland,,Transferred
+46891,127,McDonnell Douglas DC-10,DC10-30F,25/09/1973,,,GE CF6-50C2,3,N105WA,13/10/1988,World Airways,,Transferred
+46891,127,McDonnell Douglas DC-10,DC10-30F,25/09/1973,,,GE CF6-50C2,3,N105WA,01/10/1991,Malaysia Airlines,,Transferred
+46891,127,McDonnell Douglas DC-10,DC10-30F,25/09/1973,,,GE CF6-50C2,3,N105WA,01/01/1993,World Airways,,Transferred
+46891,127,McDonnell Douglas DC-10,DC10-30F,25/09/1973,,,GE CF6-50C2,3,UN-10200,23/12/1994,AVCOM,,Transferred
+46891,127,McDonnell Douglas DC-10,DC10-30F,25/09/1973,,,GE CF6-50C2,3,RA-10200,23/05/1995,AVCOM,,Transferred
+46891,127,McDonnell Douglas DC-10,DC10-30F,25/09/1973,,,GE CF6-50C2,3,OO-HVA,15/11/1995,ChallengAir,,Transferred
+46891,127,McDonnell Douglas DC-10,DC10-30F,25/09/1973,,,GE CF6-50C2,3,XA-TDC,03/04/1996,STAF Carga,,Transferred
+46891,127,McDonnell Douglas DC-10,DC10-30F,25/09/1973,,,GE CF6-50C2,3,XA-TDC,16/08/1998,TAESA,,Transferred
+46891,127,McDonnell Douglas DC-10,DC10-30F,25/09/1973,,,GE CF6-50C2,3,XA-TDC,03/08/1999,TAESA,,Transferred
+46891,127,McDonnell Douglas DC-10,DC10-30F,25/09/1973,,,GE CF6-50C2,3,OB-1749,12/10/2000,Cielos del Peru,Stored in 2001,Scrapped
+46892,204,McDonnell Douglas DC-10,DC10-30,09/05/1975,,,GE CF6-50C2,3,TU-TAM,19/06/1975,Air Afrique,,Transferred
+46892,204,McDonnell Douglas DC-10,DC10-30,09/05/1975,,,GE CF6-50C2,3,HS-TGB,27/06/1975,Thai Airways,Named Sriwanna,Transferred
+46892,204,McDonnell Douglas DC-10,DC10-30,09/05/1975,,,GE CF6-50C2,3,TU-TAM,20/05/1976,Air Afrique,,Transferred
+46892,204,McDonnell Douglas DC-10,DC10-30,09/05/1975,,,GE CF6-50C2,3,TU-TAM,01/11/1992,AOM French Airlines,,Transferred
+46892,204,McDonnell Douglas DC-10,DC10-30,09/05/1975,,,GE CF6-50C2,3,TU-TAM,01/11/1992,Cubana,,Transferred
+46892,204,McDonnell Douglas DC-10,DC10-30,09/05/1975,,,GE CF6-50C2,3,F-GNEM,30/07/1993,AOM French Airlines,,Transferred
+46892,204,McDonnell Douglas DC-10,DC10-30,09/05/1975,,,GE CF6-50C2,3,F-GNEM,01/10/2001,Air Lib,Stored at Nimes Garons 2004 - Scrapped 10/2008,Scrapped
+46900,34,McDonnell Douglas DC-10,DC10-10,15/03/1972,,,CF6-6K,3,N68041,14/04/1972,Continental Airlines,,Transferred
+46900,34,McDonnell Douglas DC-10,DC10-10,15/03/1972,,,CF6-6K,3,N68041,01/01/1994,Continental Micronesia,,Transferred
+46900,34,McDonnell Douglas DC-10,DC10-10,15/03/1972,,,CF6-6K,3,N68041,15/05/1998,Continental Airlines,,Transferred
+46900,34,McDonnell Douglas DC-10,DC10-10,15/03/1972,,,CF6-6K,3,N68041,06/12/1999,Emery Worldwide Airlines,Converted to DC10-10F,Transferred
+46900,34,McDonnell Douglas DC-10,DC10-10,15/03/1972,,,CF6-6K,3,N68041,24/10/2004,Arrow Air,"Ceased operations on June 29, 2010",Scrapped
+46901,40,McDonnell Douglas DC-10,DC10-10,22/04/1972,,,CF6-6K,3,N68042,22/05/1972,Continental Airlines,,Transferred
+46901,40,McDonnell Douglas DC-10,DC10-10,22/04/1972,,,CF6-6K,3,N68042,09/04/1999,Emery Worldwide Airlines,Converted to DC10-10F,Stored
+46902,41,McDonnell Douglas DC-10,DC10-10,29/04/1972,,,CF6-6K,3,N68043,19/05/1972,Continental Airlines,,Transferred
+46902,41,McDonnell Douglas DC-10,DC10-10,29/04/1972,,,CF6-6K,3,N68043,05/07/1994,Continental Micronesia,,Transferred
+46902,41,McDonnell Douglas DC-10,DC10-10,29/04/1972,,,CF6-6K,3,N68043,21/03/1998,Continental Airlines,,Transferred
+46902,41,McDonnell Douglas DC-10,DC10-10,29/04/1972,,,CF6-6K,3,N68043,01/01/2000,Emery Worldwide Airlines,Converted to DC10-10F,Stored
+46903,43,McDonnell Douglas DC-10,DC10-10F,15/05/1972,,,CF6-6K,3,N68044,09/06/1972,Continental Airlines,,Transferred
+46903,43,McDonnell Douglas DC-10,DC10-10F,15/05/1972,,,CF6-6K,3,N68044,31/05/1994,Continental Micronesia,,Transferred
+46903,43,McDonnell Douglas DC-10,DC10-10F,15/05/1972,,,CF6-6K,3,N68044,30/03/1998,Continental Airlines,,Transferred
+46903,43,McDonnell Douglas DC-10,DC10-10F,15/05/1972,,,CF6-6K,3,N68044,01/01/2000,Emery Worldwide Airlines,Converted to DC10-10F,Transferred
+46903,43,McDonnell Douglas DC-10,DC10-10F,15/05/1972,,,CF6-6K,3,N68044,02/05/2005,Cielos del Peru,,Transferred
+46903,43,McDonnell Douglas DC-10,DC10-10F,15/05/1972,,,CF6-6K,3,N68044,04/12/2006,Centurion Air Cargo,Reg cancelled 06/2007,Transferred
+46903,43,McDonnell Douglas DC-10,DC10-10F,15/05/1972,,,CF6-6K,3,CP-2489,01/07/2007,TAB Cargo,,Stored
+46904,44,McDonnell Douglas DC-10,DC10-10,20/05/1972,,,CF6-6K,3,N68045,23/06/1972,Continental Airlines,,Written off
+46905,47,McDonnell Douglas DC-10,DC10-10,14/06/1972,,,CF6-6K,3,G-AZZC,26/10/1972,Laker Airways,,Transferred
+46905,47,McDonnell Douglas DC-10,DC10-10,14/06/1972,,,CF6-6K,3,G-AZZC,01/11/1979,Malaysia Airlines,,Transferred
+46905,47,McDonnell Douglas DC-10,DC10-10,14/06/1972,,,CF6-6K,3,N902CL,07/10/1982,Capitol Air,,Transferred
+46905,47,McDonnell Douglas DC-10,DC10-10,14/06/1972,,,CF6-6K,3,N902JW,11/05/1983,Arrow Air,,Transferred
+46905,47,McDonnell Douglas DC-10,DC10-10,14/06/1972,,,CF6-6K,3,N902JW,01/01/1984,Dominicana,,Transferred
+46905,47,McDonnell Douglas DC-10,DC10-10,14/06/1972,,,CF6-6K,3,N902JW,01/03/1985,World Airways,,Transferred
+46905,47,McDonnell Douglas DC-10,DC10-10,14/06/1972,,,CF6-6K,3,N902JW,02/04/1987,American Airlines,,Transferred
+46905,47,McDonnell Douglas DC-10,DC10-10,14/06/1972,,,CF6-6K,3,N52UA,21/10/1987,UAS,,Transferred
+46905,47,McDonnell Douglas DC-10,DC10-10,14/06/1972,,,CF6-6K,3,N52UA,20/01/1988,Spantax,,Transferred
+46905,47,McDonnell Douglas DC-10,DC10-10,14/06/1972,,,CF6-6K,3,N102UA,26/05/1988,World Airways,,Transferred
+46905,47,McDonnell Douglas DC-10,DC10-10,14/06/1972,,,CF6-6K,3,N102UA,20/06/1989,Mexicana,,Transferred
+46905,47,McDonnell Douglas DC-10,DC10-10,14/06/1972,,,CF6-6K,3,N102UA,01/01/1990,Malaysia Airlines,,Transferred
+46905,47,McDonnell Douglas DC-10,DC10-10,14/06/1972,,,CF6-6K,3,N102UA,01/10/1990,World Airways,,Transferred
+46905,47,McDonnell Douglas DC-10,DC10-10,14/06/1972,,,CF6-6K,3,N102UA,15/05/1993,Transtar Airlines,,Transferred
+46905,47,McDonnell Douglas DC-10,DC10-10,14/06/1972,,,CF6-6K,3,N573SC,06/10/1994,Sun Country Airlines,Scrapped 01/1998,Scrapped
+46906,50,McDonnell Douglas DC-10,DC10-10,06/07/1972,,,CF6-6K,3,G-AZZD,16/11/1972,Laker Airways,,Transferred
+46906,50,McDonnell Douglas DC-10,DC10-10,06/07/1972,,,CF6-6K,3,G-AZZD,01/10/1977,Air Algerie,,Transferred
+46906,50,McDonnell Douglas DC-10,DC10-10,06/07/1972,,,CF6-6K,3,N916CL,01/05/1982,Capitol Air,,Transferred
+46906,50,McDonnell Douglas DC-10,DC10-10,06/07/1972,,,CF6-6K,3,N916JW,16/04/1984,Arrow Air,,Transferred
+46906,50,McDonnell Douglas DC-10,DC10-10,06/07/1972,,,CF6-6K,3,N916JW,18/10/1984,World Airways,,Transferred
+46906,50,McDonnell Douglas DC-10,DC10-10,06/07/1972,,,CF6-6K,3,N171AA,20/01/1987,American Airlines,This aircraft appears in the opening secenes of the 1989 movie An Innocent Man,Transferred
+46906,50,McDonnell Douglas DC-10,DC10-10,06/07/1972,,,CF6-6K,3,N171AA,26/05/1994,Hawaiian Airlines,,Transferred
+46906,50,McDonnell Douglas DC-10,DC10-10,06/07/1972,,,CF6-6K,3,N171AA,13/06/1996,Hawaiian Airlines,,Scrapped
+46907,78,McDonnell Douglas DC-10,DC10-10,11/12/1972,,,CF6-6K,3,TC-JAY,27/02/1973,THY Turkish Airlines,,Transferred
+46907,78,McDonnell Douglas DC-10,DC10-10,11/12/1972,,,CF6-6K,3,TC-JAY,01/09/1980,Nigeria Airways,,Transferred
+46907,78,McDonnell Douglas DC-10,DC10-10,11/12/1972,,,CF6-6K,3,TC-JAY,01/12/1987,Bogazici Hava T,,Transferred
+46907,78,McDonnell Douglas DC-10,DC10-10,11/12/1972,,,CF6-6K,3,N68059,11/01/1990,Federal Express,Converted to DC10-10FStored 04/2012,Stored
+46908,95,McDonnell Douglas DC-10,DC10-10,22/03/1973,,,CF6-6K,3,N901WA,19/04/1973,Western Airlines,,Transferred
+46908,95,McDonnell Douglas DC-10,DC10-10,22/03/1973,,,CF6-6K,3,N166AA,08/04/1985,American Airlines,,Transferred
+46908,95,McDonnell Douglas DC-10,DC10-10,22/03/1973,,,CF6-6K,3,N558FE,08/06/1999,Federal Express,Scrapped in 2002,Scrapped
+46910,182,McDonnell Douglas DC-10,DC10-30,08/11/1974,,,GE CF6-50C2,3,ZK-NZP,13/12/1974,Air New Zealand,Crashed 28/11/79 Mt Erebus,Written off
+46911,189,McDonnell Douglas DC-10,DC10-30,08/01/1975,,,GE CF6-50C2,3,ZK-NZQ,20/02/1975,Air New Zealand,,Transferred
+46911,189,McDonnell Douglas DC-10,DC10-30,08/01/1975,,,GE CF6-50C2,3,N138AA,17/09/1982,American Airlines,,Transferred
+46911,189,McDonnell Douglas DC-10,DC10-30,08/01/1975,,,GE CF6-50C2,3,N14074,26/04/1987,Continental Airlines,Converted to DC10-30F - Stored at Goodyear 2005,Scrapped
+46912,188,McDonnell Douglas DC-10,DC10-30,24/12/1974,,,GE CF6-50C2,3,HL7316,07/02/1975,Korean Air,,Transferred
+46912,188,McDonnell Douglas DC-10,DC10-30,24/12/1974,,,GE CF6-50C2,3,N234NW,01/07/1996,Northwest Airlines,Stored 09/01/07 - wfu at Marana since 22/02/2007,Transferred
+46912,188,McDonnell Douglas DC-10,DC10-30,24/12/1974,,,GE CF6-50C2,3,N234NW,23/04/2007,ATA Airlines,,Transferred
+46912,188,McDonnell Douglas DC-10,DC10-30,24/12/1974,,,GE CF6-50C2,3,N702TZ,30/07/2007,ATA Airlines,Ceased operations 02 april 08,Transferred
+46912,188,McDonnell Douglas DC-10,DC10-30,24/12/1974,,,GE CF6-50C2,3,N702TZ,08/08/2008,World Airways,Stored 09/2009  Scrapped,Scrapped
+46913,206,McDonnell Douglas DC-10,DC10-40,16/06/1975,,N54652,,,JA8534,23/11/1976,Japan Airlines,,Transferred
+46913,206,McDonnell Douglas DC-10,DC10-40,16/06/1975,,N54652,,,JA8534,27/11/1986,Japan Asia Airways,,Transferred
+46913,206,McDonnell Douglas DC-10,DC10-40,16/06/1975,,N54652,,,JA8534,01/04/1991,Japan Airlines,,Transferred
+46913,206,McDonnell Douglas DC-10,DC10-40,16/06/1975,,N54652,,,JA8534,19/07/1993,Japan Airlines,,Transferred
+46913,206,McDonnell Douglas DC-10,DC10-40,16/06/1975,,N54652,,,JA8534,28/05/1994,Japan Asia Airways,,Transferred
+46913,206,McDonnell Douglas DC-10,DC10-40,16/06/1975,,N54652,,,JA8534,18/07/1997,Japan Airlines,,Transferred
+46913,206,McDonnell Douglas DC-10,DC10-40,16/06/1975,,N54652,,,N913VV,17/11/2004,Vivaldi Overseas,Stored 02/2009,Stored
+46914,195,McDonnell Douglas DC-10,DC10-30,19/02/1975,,,GE CF6-50C2,3,PH-DTK,27/03/1975,KLM,,Transferred
+46914,195,McDonnell Douglas DC-10,DC10-30,19/02/1975,,,GE CF6-50C2,3,PH-DTK,01/04/1975,Philippine Airlines,,Transferred
+46914,195,McDonnell Douglas DC-10,DC10-30,19/02/1975,,,GE CF6-50C2,3,PH-DTK,16/05/1984,Thai Airways,,Transferred
+46914,195,McDonnell Douglas DC-10,DC10-30,19/02/1975,,,GE CF6-50C2,3,N163AA,02/04/1985,American Airlines,Scrapped at Marana in 2002,Scrapped
+46915,199,McDonnell Douglas DC-10,DC10-30,19/03/1975,,,GE CF6-50C2,3,HL7317,25/04/1975,Korean Air,,Transferred
+46915,199,McDonnell Douglas DC-10,DC10-30,19/03/1975,,,GE CF6-50C2,3,N235NW,07/08/1996,Northwest Airlines,Stored at Marana 11/2006,Transferred
+46915,199,McDonnell Douglas DC-10,DC10-30,19/03/1975,,,GE CF6-50C2,3,N705TZ,21/09/2007,ATA Airlines,Ceased operations 02 april 08,Transferred
+46915,199,McDonnell Douglas DC-10,DC10-30,19/03/1975,,,GE CF6-50C2,3,N705TZ,08/08/2008,World Airways,Stored 03/2011,Stored
+46916,202,McDonnell Douglas DC-10,DC10-30,17/04/1975,,,GE CF6-50C2,3,PP-VMD,12/06/1975,Varig,,Transferred
+46916,202,McDonnell Douglas DC-10,DC10-30,17/04/1975,,,GE CF6-50C2,3,C-GBQQ,17/03/1998,Canadian Airlines,,Stored
+46917,211,McDonnell Douglas DC-10,DC10-30,28/07/1975,,,GE CF6-50C2,3,D-ADLO,01/12/1975,Lufthansa,,Transferred
+46917,211,McDonnell Douglas DC-10,DC10-30,28/07/1975,,,GE CF6-50C2,3,D-ADLO,24/01/1995,Condor,,Transferred
+46917,211,McDonnell Douglas DC-10,DC10-30,28/07/1975,,,GE CF6-50C2,3,N13086,10/11/1997,Continental Airlines,,Transferred
+46917,211,McDonnell Douglas DC-10,DC10-30,28/07/1975,,,GE CF6-50C2,3,N303WL,27/07/2001,World Airways,Converted to freighter - Stored 09/2009 - lsd from PICL,Transferred
+46917,211,McDonnell Douglas DC-10,DC10-30,28/07/1975,,,GE CF6-50C2,3,C-GKFT,04/05/2012,Kelowna Flightcraft,,Transferred
+46917,211,McDonnell Douglas DC-10,DC10-30,28/07/1975,,,GE CF6-50C2,3,C-GKFT,01/04/2015,KF Cargo,Stored 09/2018 as N917KW kmw leasing,Stored
+46918,223,McDonnell Douglas DC-10,DC10-30,20/02/1976,,,GE CF6-50C2,3,PK-GIA,22/03/1976,Garuda,,Transferred
+46918,223,McDonnell Douglas DC-10,DC10-30,20/02/1976,,,GE CF6-50C2,3,PK-GIA,01/11/1985,Continental Airlines,,Transferred
+46918,223,McDonnell Douglas DC-10,DC10-30,20/02/1976,,,GE CF6-50C2,3,PK-GIA,18/04/1987,Garuda,Stored 09/2005,Stored
+46919,226,McDonnell Douglas DC-10,DC10-30,13/04/1976,,,GE CF6-50C2,3,PK-GIB,29/05/1976,Garuda,,Transferred
+46919,226,McDonnell Douglas DC-10,DC10-30,13/04/1976,,,GE CF6-50C2,3,PK-GIB,10/11/1985,Continental Airlines,,Transferred
+46919,226,McDonnell Douglas DC-10,DC10-30,13/04/1976,,,GE CF6-50C2,3,PK-GIB,17/09/1987,Malaysia Airlines,,Transferred
+46919,226,McDonnell Douglas DC-10,DC10-30,13/04/1976,,,GE CF6-50C2,3,PK-GIB,02/01/1988,Garuda,Stored at CGK 09/2005,Stored
+46920,212,McDonnell Douglas DC-10,DC10-40,06/08/1975,,N8702Q,,,JA8530,09/04/1976,Japan Airlines,,Transferred
+46920,212,McDonnell Douglas DC-10,DC10-40,06/08/1975,,N8702Q,,,N140WE,10/09/1998,Challenge Air Cargo,,Transferred
+46920,212,McDonnell Douglas DC-10,DC10-40,06/08/1975,,N8702Q,,,N140WE,01/01/2001,Centurion Air Cargo,Stored at MIA,Transferred
+46920,212,McDonnell Douglas DC-10,DC10-40,06/08/1975,,N8702Q,,,N140WE,31/07/2004,South Winds Cargo,Stored 12/2005,Transferred
+46920,212,McDonnell Douglas DC-10,DC10-40,06/08/1975,,N8702Q,,,N140WE,05/09/2006,Arrow Air,Stored at Opa Locka 02/2009,Stored
+46921,214,McDonnell Douglas DC-10,DC10-30,10/07/1975,,N8704Q,GE CF6-50C2,3,N54640,01/10/1975,McDonnell Douglas,,Transferred
+46921,214,McDonnell Douglas DC-10,DC10-30,10/07/1975,,N8704Q,GE CF6-50C2,3,G-BEBM,23/02/1977,British Caledonian,,Transferred
+46921,214,McDonnell Douglas DC-10,DC10-30,10/07/1975,,N8704Q,GE CF6-50C2,3,G-BEBM,14/04/1988,British Airways,,Transferred
+46921,214,McDonnell Douglas DC-10,DC10-30,10/07/1975,,N8704Q,GE CF6-50C2,3,N608GC,02/07/1999,Gemini Air Cargo,Converted to DC10-30F,Transferred
+46921,214,McDonnell Douglas DC-10,DC10-30,10/07/1975,,N8704Q,GE CF6-50C2,3,5X-BON,24/12/2003,DAS Air,lsd from Finova - Stored 12/2006,Transferred
+46921,214,McDonnell Douglas DC-10,DC10-30,10/07/1975,,N8704Q,GE CF6-50C2,3,C-GKFA,10/09/2008,Kelowna Flightcraft,Scrapped 08/2015Stored 04/2015,Scrapped
+46922,221,McDonnell Douglas DC-10,DC10-30,19/01/1976,,,GE CF6-50C2,3,EC-CSJ,23/02/1976,Iberia,Named Costa de la Luz,Transferred
+46922,221,McDonnell Douglas DC-10,DC10-30,19/01/1976,,,GE CF6-50C2,3,N14075,01/04/1996,Continental Airlines,,Transferred
+46922,221,McDonnell Douglas DC-10,DC10-30,19/01/1976,,,GE CF6-50C2,3,N14075,27/10/2000,World Airways,Stored 09/2009,Stored
+46923,216,McDonnell Douglas DC-10,DC10-40,14/10/1975,,N8703Q,,,JA8531,12/04/1976,Japan Airlines,,Transferred
+46923,216,McDonnell Douglas DC-10,DC10-40,14/10/1975,,N8703Q,,,JA8531,21/12/1987,Japan Asia Airways,,Transferred
+46923,216,McDonnell Douglas DC-10,DC10-40,14/10/1975,,N8703Q,,,JA8531,21/07/1990,Japan Airlines,,Transferred
+46923,216,McDonnell Douglas DC-10,DC10-40,14/10/1975,,N8703Q,,,JA8531,30/09/1990,Japan Asia Airways,,Transferred
+46923,216,McDonnell Douglas DC-10,DC10-40,14/10/1975,,N8703Q,,,JA8531,17/04/1997,Japan Airlines,,Transferred
+46923,216,McDonnell Douglas DC-10,DC10-40,14/10/1975,,N8703Q,,,N469V,29/07/2004,Global Air Tanker,,Stored
+46924,218,McDonnell Douglas DC-10,DC10-30CF,29/10/1975,,,GE CF6-50C2,3,PH-MBN,26/11/1975,Martinair Holland,,Transferred
+46924,218,McDonnell Douglas DC-10,DC10-30CF,29/10/1975,,,GE CF6-50C2,3,PH-MBN,01/10/1977,Mandala Airlines,,Transferred
+46924,218,McDonnell Douglas DC-10,DC10-30CF,29/10/1975,,,GE CF6-50C2,3,PH-MBN,01/10/1979,Singapore Airlines,,Transferred
+46924,218,McDonnell Douglas DC-10,DC10-30CF,29/10/1975,,,GE CF6-50C2,3,PH-MBN,01/09/1981,Garuda,,Transferred
+46924,218,McDonnell Douglas DC-10,DC10-30CF,29/10/1975,,,GE CF6-50C2,3,PH-MBN,01/10/1981,Martinair Holland,,Transferred
+46924,218,McDonnell Douglas DC-10,DC10-30CF,29/10/1975,,,GE CF6-50C2,3,PH-MBN,29/04/1992,World Airways,,Transferred
+46924,218,McDonnell Douglas DC-10,DC10-30CF,29/10/1975,,,GE CF6-50C2,3,PH-MBN,25/06/1992,Martinair Holland,,Written off
+46925,87,McDonnell Douglas DC-10,DC10-30,08/02/1973,,N54627,GE CF6-50C2,3,EC-CBN,20/03/1973,Iberia,,Written off
+46926,99,McDonnell Douglas DC-10,DC10-30,10/04/1973,,,GE CF6-50C2,3,EC-CBO,19/03/1973,Iberia,Named Costa del Sol,Transferred
+46926,99,McDonnell Douglas DC-10,DC10-30,10/04/1973,,,GE CF6-50C2,3,N37078,30/10/1996,Continental Airlines,,Stored
+46927,100,McDonnell Douglas DC-10,DC10-30,14/04/1973,,,GE CF6-50C2,3,EC-CBP,29/05/1973,Iberia,Named Costa Dorada,Transferred
+46927,100,McDonnell Douglas DC-10,DC10-30,14/04/1973,,,GE CF6-50C2,3,N14079,20/03/1997,Continental Airlines,,Stored
+46928,104,McDonnell Douglas DC-10,DC10-10,09/05/1973,,,CF6-6K,3,N902WA,12/06/1973,Western Airlines,,Transferred
+46928,104,McDonnell Douglas DC-10,DC10-10,09/05/1973,,,CF6-6K,3,N902WA,01/04/1987,Delta Air Lines,,Transferred
+46928,104,McDonnell Douglas DC-10,DC10-10,09/05/1973,,,CF6-6K,3,N902WA,30/03/1989,World Airways,,Transferred
+46928,104,McDonnell Douglas DC-10,DC10-10,09/05/1973,,,CF6-6K,3,N902WA,01/05/1989,Malaysia Airlines,,Transferred
+46928,104,McDonnell Douglas DC-10,DC10-10,09/05/1973,,,CF6-6K,3,N902WA,01/11/1990,World Airways,,Transferred
+46928,104,McDonnell Douglas DC-10,DC10-10,09/05/1973,,,CF6-6K,3,N902WA,01/03/1991,UAS,,Transferred
+46928,104,McDonnell Douglas DC-10,DC10-10,09/05/1973,,,CF6-6K,3,9Q-CSS,21/08/1993,Shabair,,Transferred
+46928,104,McDonnell Douglas DC-10,DC10-10,09/05/1973,,,CF6-6K,3,N101AS,17/05/1995,UAS,Std at Ostend til 04/1995 then scrapped at Nimes,Scrapped
+46929,107,McDonnell Douglas DC-10,DC10-10,24/05/1973,,,CF6-6K,3,N903WA,21/06/1973,Western Airlines,,Written off
+46930,112,McDonnell Douglas DC-10,DC10-10,21/06/1973,,,CF6-6K,3,N904WA,20/07/1973,Western Airlines,,Transferred
+46930,112,McDonnell Douglas DC-10,DC10-10,21/06/1973,,,CF6-6K,3,N904WA,01/06/1981,Capitol Air,,Transferred
+46930,112,McDonnell Douglas DC-10,DC10-10,21/06/1973,,,CF6-6K,3,N904WA,30/04/1983,Hawaii Express,,Transferred
+46930,112,McDonnell Douglas DC-10,DC10-10,21/06/1973,,,CF6-6K,3,N904WA,23/03/1984,World Airways,,Transferred
+46930,112,McDonnell Douglas DC-10,DC10-10,21/06/1973,,,CF6-6K,3,N904WA,20/11/1984,Arrow Air,,Transferred
+46930,112,McDonnell Douglas DC-10,DC10-10,21/06/1973,,,CF6-6K,3,N904WA,13/01/1986,Air Hawaii,,Transferred
+46930,112,McDonnell Douglas DC-10,DC10-10,21/06/1973,,,CF6-6K,3,N167AA,01/10/1986,American Airlines,,Transferred
+46930,112,McDonnell Douglas DC-10,DC10-10,21/06/1973,,,CF6-6K,3,N559FE,05/08/1999,Federal Express,Stored 12/2019Named Francesca,Stored
+46931,137,McDonnell Douglas DC-10,DC10-30F,12/12/1973,,N54637,GE CF6-50C2,3,AP-AXC,01/03/1974,Pakistan International Airlines,,Transferred
+46931,137,McDonnell Douglas DC-10,DC10-30F,12/12/1973,,N54637,GE CF6-50C2,3,C-FCRA,27/09/1986,Cp Air,,Transferred
+46931,137,McDonnell Douglas DC-10,DC10-30F,12/12/1973,,N54637,GE CF6-50C2,3,C-FCRA,26/04/1987,Canadian Airlines,,Transferred
+46931,137,McDonnell Douglas DC-10,DC10-30F,12/12/1973,,N54637,GE CF6-50C2,3,XA-AMR,29/09/1989,Aeromexico,,Transferred
+46931,137,McDonnell Douglas DC-10,DC10-30F,12/12/1973,,N54637,GE CF6-50C2,3,N832LA,15/06/1994,Leisure Air,,Transferred
+46931,137,McDonnell Douglas DC-10,DC10-30F,12/12/1973,,N54637,GE CF6-50C2,3,N832LA,25/04/1996,Laker Airways,,Transferred
+46931,137,McDonnell Douglas DC-10,DC10-30F,12/12/1973,,N54637,GE CF6-50C2,3,N832LA,31/07/2000,Gemini Air Cargo,Converted to DC10-30F,Transferred
+46931,137,McDonnell Douglas DC-10,DC10-30F,12/12/1973,,N54637,GE CF6-50C2,3,N614GC,13/06/2002,Gemini Air Cargo,,Transferred
+46931,137,McDonnell Douglas DC-10,DC10-30F,12/12/1973,,N54637,GE CF6-50C2,3,N614GC,13/06/2003,Cielos del Peru,Stored 02/2012,Stored
+46932,158,McDonnell Douglas DC-10,DC10-30F,20/05/1974,,,GE CF6-50C2,3,9Q-CLT,26/06/1974,Air Zaire,,Transferred
+46932,158,McDonnell Douglas DC-10,DC10-30F,20/05/1974,,,GE CF6-50C2,3,9Q-CLT,01/11/1975,Air Tchad,,Transferred
+46932,158,McDonnell Douglas DC-10,DC10-30F,20/05/1974,,,GE CF6-50C2,3,G-NIUK,09/06/1985,British Caledonian,,Transferred
+46932,158,McDonnell Douglas DC-10,DC10-30F,20/05/1974,,,GE CF6-50C2,3,G-NIUK,14/04/1988,British Airways,,Transferred
+46932,158,McDonnell Douglas DC-10,DC10-30F,20/05/1974,,,GE CF6-50C2,3,G-NIUK,27/05/1992,Kuwait Airways,,Transferred
+46932,158,McDonnell Douglas DC-10,DC10-30F,20/05/1974,,,GE CF6-50C2,3,G-NIUK,14/10/1993,British Airways,,Transferred
+46932,158,McDonnell Douglas DC-10,DC10-30F,20/05/1974,,,GE CF6-50C2,3,G-NIUK,01/09/1994,Caledonian Airways,,Transferred
+46932,158,McDonnell Douglas DC-10,DC10-30F,20/05/1974,,,GE CF6-50C2,3,G-NIUK,12/02/1997,British Airways,,Transferred
+46932,158,McDonnell Douglas DC-10,DC10-30F,20/05/1974,,,GE CF6-50C2,3,N609GC,16/12/1999,Gemini Air Cargo,Converted to DC10-30F - ret to Finova 12/12/03,Transferred
+46932,158,McDonnell Douglas DC-10,DC10-30F,20/05/1974,,,GE CF6-50C2,3,N609GC,14/10/2004,Centurion Air Cargo,,Transferred
+46932,158,McDonnell Douglas DC-10,DC10-30F,20/05/1974,,,GE CF6-50C2,3,N609GC,26/10/2006,Cielos del Peru,,Transferred
+46932,158,McDonnell Douglas DC-10,DC10-30F,20/05/1974,,,GE CF6-50C2,3,PP-MTP,15/01/2010,Master Top Linhas Aereas,Ceased operations 10/2011,Stored
+46933,159,McDonnell Douglas DC-10,DC10-30,28/05/1974,,,GE CF6-50C2,3,PH-DTI,27/06/1974,KLM,,Transferred
+46933,159,McDonnell Douglas DC-10,DC10-30,28/05/1974,,,GE CF6-50C2,3,PH-DTI,11/07/1974,Philippine Airlines,,Transferred
+46933,159,McDonnell Douglas DC-10,DC10-30,28/05/1974,,,GE CF6-50C2,3,N801AL,01/05/1984,Aloha Airlines,,Transferred
+46933,159,McDonnell Douglas DC-10,DC10-30,28/05/1974,,,GE CF6-50C2,3,OY-KDB,01/03/1985,SAS Scandinavian Airlines,,Transferred
+46933,159,McDonnell Douglas DC-10,DC10-30,28/05/1974,,,GE CF6-50C2,3,N109WA,02/04/1990,World Airways,,Transferred
+46933,159,McDonnell Douglas DC-10,DC10-30,28/05/1974,,,GE CF6-50C2,3,N109WA,01/06/1990,Garuda,,Transferred
+46933,159,McDonnell Douglas DC-10,DC10-30,28/05/1974,,,GE CF6-50C2,3,9M-MAZ,27/09/1990,Malaysia Airlines,,Transferred
+46933,159,McDonnell Douglas DC-10,DC10-30,28/05/1974,,,GE CF6-50C2,3,9M-MAZ,07/07/1995,LOT Polish Airlines,,Transferred
+46933,159,McDonnell Douglas DC-10,DC10-30,28/05/1974,,,GE CF6-50C2,3,9M-MAZ,19/12/1995,World Airways,,Transferred
+46933,159,McDonnell Douglas DC-10,DC10-30,28/05/1974,,,GE CF6-50C2,3,9M-MAZ,21/03/1996,Malaysia Airlines,,Transferred
+46933,159,McDonnell Douglas DC-10,DC10-30,28/05/1974,,,GE CF6-50C2,3,9M-MAZ,01/06/1996,World Airways,,Transferred
+46933,159,McDonnell Douglas DC-10,DC10-30,28/05/1974,,,GE CF6-50C2,3,9G-ANC,12/03/2000,Ghana Airways,,Stored
+46934,160,McDonnell Douglas DC-10,DC10-30,04/06/1974,,N19B,GE CF6-50C2,3,HL7315,09/02/1975,Korean Air,,Transferred
+46934,160,McDonnell Douglas DC-10,DC10-30,04/06/1974,,N19B,GE CF6-50C2,3,N236NW,07/08/1996,Northwest Airlines,Stored at MSP 05/2005,Transferred
+46934,160,McDonnell Douglas DC-10,DC10-30,04/06/1974,,N19B,GE CF6-50C2,3,N236NW,24/08/2006,Omni Air International,Stored at Tulsa 11/2007  Scrapped,Scrapped
+46935,172,McDonnell Douglas DC-10,DC10-30,28/08/1974,,,GE CF6-50C2,3,AP-AXE,19/10/1974,Pakistan International Airlines,,Written off
+46936,147,McDonnell Douglas DC-10,DC10-30,04/03/1974,,,GE CF6-50C2,3,XA-DUG,17/04/1974,Aeromexico,,Transferred
+46936,147,McDonnell Douglas DC-10,DC10-30,04/03/1974,,,GE CF6-50C2,3,N417DG,01/11/1989,Aeromexico,,Transferred
+46936,147,McDonnell Douglas DC-10,DC10-30,04/03/1974,,,GE CF6-50C2,3,N831LA,27/05/1994,Leisure Air,,Transferred
+46936,147,McDonnell Douglas DC-10,DC10-30,04/03/1974,,,GE CF6-50C2,3,G-BWIN,21/11/1995,Caledonian Airways,,Transferred
+46936,147,McDonnell Douglas DC-10,DC10-30,04/03/1974,,,GE CF6-50C2,3,N831LA,19/07/1996,Laker Airways,,Transferred
+46936,147,McDonnell Douglas DC-10,DC10-30,04/03/1974,,,GE CF6-50C2,3,N831LA,13/02/1998,TransMile,,Transferred
+46936,147,McDonnell Douglas DC-10,DC10-30,04/03/1974,,,GE CF6-50C2,3,N831LA,10/08/1998,Virgin Express,,Transferred
+46936,147,McDonnell Douglas DC-10,DC10-30,04/03/1974,,,GE CF6-50C2,3,N831LA,24/09/1998,Laker Airways,,Transferred
+46936,147,McDonnell Douglas DC-10,DC10-30,04/03/1974,,,GE CF6-50C2,3,N831LA,23/08/2000,Emery Worldwide Airlines,Converted to DC10-30F,Transferred
+46936,147,McDonnell Douglas DC-10,DC10-30,04/03/1974,,,GE CF6-50C2,3,N831LA,18/07/2002,Cielos del Peru,Wfu 09/2007,Stored
+46937,152,McDonnell Douglas DC-10,DC10-30F,08/04/1974,,,GE CF6-50C2,3,XA-DUH,16/05/1974,Aeromexico,,Transferred
+46937,152,McDonnell Douglas DC-10,DC10-30F,08/04/1974,,,GE CF6-50C2,3,N8228P,01/07/1989,Aeromexico,,Transferred
+46937,152,McDonnell Douglas DC-10,DC10-30F,08/04/1974,,,GE CF6-50C2,3,N833LA,05/04/1996,Laker Airways,,Transferred
+46937,152,McDonnell Douglas DC-10,DC10-30F,08/04/1974,,,GE CF6-50C2,3,N833LA,25/02/1998,TransMile,,Transferred
+46937,152,McDonnell Douglas DC-10,DC10-30F,08/04/1974,,,GE CF6-50C2,3,N833LA,01/08/2000,Emery Worldwide Airlines,Converted to DC10-30F,Transferred
+46937,152,McDonnell Douglas DC-10,DC10-30F,08/04/1974,,,GE CF6-50C2,3,N833LA,29/07/2002,Cielos del Peru,,Transferred
+46937,152,McDonnell Douglas DC-10,DC10-30F,08/04/1974,,,GE CF6-50C2,3,CP-2555,01/06/2008,TAB Cargo,,Stored
+46938,153,McDonnell Douglas DC-10,DC10-10,15/04/1974,,,CF6-6K,3,N905WA,14/05/1974,Western Airlines,,Transferred
+46938,153,McDonnell Douglas DC-10,DC10-10,15/04/1974,,,CF6-6K,3,N905WA,01/07/1981,Capitol Air,,Transferred
+46938,153,McDonnell Douglas DC-10,DC10-10,15/04/1974,,,CF6-6K,3,N905WA,05/04/1983,Hawaii Express,,Transferred
+46938,153,McDonnell Douglas DC-10,DC10-10,15/04/1974,,,CF6-6K,3,N905WA,23/03/1984,World Airways,,Transferred
+46938,153,McDonnell Douglas DC-10,DC10-10,15/04/1974,,,CF6-6K,3,N905WA,01/11/1984,Arrow Air,,Transferred
+46938,153,McDonnell Douglas DC-10,DC10-10,15/04/1974,,,CF6-6K,3,N905WA,01/09/1985,Air Panama International,,Transferred
+46938,153,McDonnell Douglas DC-10,DC10-10,15/04/1974,,,CF6-6K,3,N905WA,20/11/1985,Air Hawaii,,Transferred
+46938,153,McDonnell Douglas DC-10,DC10-10,15/04/1974,,,CF6-6K,3,N168AA,01/10/1986,American Airlines,,Transferred
+46938,153,McDonnell Douglas DC-10,DC10-10,15/04/1974,,,CF6-6K,3,N560FE,17/11/1999,Federal Express,Stored 12/2019Converted to DC10-10F,Stored
+46939,203,McDonnell Douglas DC-10,DC10-10,29/04/1975,45,,CF6-6K,3,N906WA,03/06/1975,Western Airlines,,Transferred
+46939,203,McDonnell Douglas DC-10,DC10-10,29/04/1975,45,,CF6-6K,3,N906WA,01/04/1987,Delta Air Lines,,Transferred
+46939,203,McDonnell Douglas DC-10,DC10-10,29/04/1975,45,,CF6-6K,3,N1849U,17/03/1989,United Airlines,,Transferred
+46939,203,McDonnell Douglas DC-10,DC10-10,29/04/1975,45,,CF6-6K,3,N357FE,29/11/2000,Federal Express,,Active
+46940,141,McDonnell Douglas DC-10,DC10-30,21/01/1974,,,GE CF6-50C2,3,AP-AXD,02/04/1974,Pakistan International Airlines,,Transferred
+46940,141,McDonnell Douglas DC-10,DC10-30,21/01/1974,,,GE CF6-50C2,3,C-FCRB,09/05/1986,Cp Air,,Transferred
+46940,141,McDonnell Douglas DC-10,DC10-30,21/01/1974,,,GE CF6-50C2,3,C-FCRB,26/04/1987,Canadian Airlines,,Transferred
+46940,141,McDonnell Douglas DC-10,DC10-30,21/01/1974,,,GE CF6-50C2,3,PP-SOM,28/06/1991,VASP,,Transferred
+46940,141,McDonnell Douglas DC-10,DC10-30,21/01/1974,,,GE CF6-50C2,3,N76073,14/04/1993,Continental Airlines,,Stored
+46941,176,McDonnell Douglas DC-10,DC10-30,26/09/1974,,,GE CF6-50C2,3,PP-VMQ,07/11/1974,Varig,Scrapped at Tucson 07/2002,Scrapped
+46942,162,McDonnell Douglas DC-10,DC10-10,18/06/1974,,,CF6-6K,3,N69NA,25/06/1975,National Airlines (Old),,Transferred
+46942,162,McDonnell Douglas DC-10,DC10-10,18/06/1974,,,CF6-6K,3,N69NA,07/01/1980,Pan Am,,Transferred
+46942,162,McDonnell Douglas DC-10,DC10-10,18/06/1974,,,CF6-6K,3,N161AA,25/11/1983,American Airlines,,Transferred
+46942,162,McDonnell Douglas DC-10,DC10-10,18/06/1974,,,CF6-6K,3,N161AA,09/01/1996,Hawaiian Airlines,,Transferred
+46942,162,McDonnell Douglas DC-10,DC10-10,18/06/1974,,,CF6-6K,3,N450AX,08/11/1997,Omni Air International,,Transferred
+46942,162,McDonnell Douglas DC-10,DC10-10,18/06/1974,,,CF6-6K,3,N450AX,01/01/2005,10 Tanker Air Carrier,Stroed 11/2014,Stored
+46943,163,McDonnell Douglas DC-10,DC10-10,25/06/1974,,,CF6-6K,3,N70NA,23/06/1975,National Airlines (Old),,Transferred
+46943,163,McDonnell Douglas DC-10,DC10-10,25/06/1974,,,CF6-6K,3,N70NA,07/01/1980,Pan Am,,Transferred
+46943,163,McDonnell Douglas DC-10,DC10-10,25/06/1974,,,CF6-6K,3,N162AA,20/07/1984,American Airlines,,Transferred
+46943,163,McDonnell Douglas DC-10,DC10-10,25/06/1974,,,CF6-6K,3,N162AA,07/11/1996,Hawaiian Airlines,,Scrapped
+46944,133,McDonnell Douglas DC-10,DC10-30,13/11/1973,,,GE CF6-50C2,3,PP-VMA,29/05/1974,Varig,,Transferred
+46944,133,McDonnell Douglas DC-10,DC10-30,13/11/1973,,,GE CF6-50C2,3,YV-51C,09/03/1999,Avensa,,Transferred
+46944,133,McDonnell Douglas DC-10,DC10-30,13/11/1973,,,GE CF6-50C2,3,YV-69C,17/07/2001,Avensa,,Transferred
+46944,133,McDonnell Douglas DC-10,DC10-30,13/11/1973,,,GE CF6-50C2,3,YV-1052C,14/05/2003,SBA Airlines,Stored 10/2005,Stored
+46945,156,McDonnell Douglas DC-10,DC10-30,06/05/1974,,,GE CF6-50C2,3,PP-VMB,18/06/1974,Varig,,Transferred
+46945,156,McDonnell Douglas DC-10,DC10-30,06/05/1974,,,GE CF6-50C2,3,YV-50C,14/12/1998,Avensa,,Scrapped
+46945,156,McDonnell Douglas DC-10,DC10-30,06/05/1974,,,GE CF6-50C2,3,PP-VMB,18/06/1974,Varig,,Transferred
+46945,156,McDonnell Douglas DC-10,DC10-30,06/05/1974,,,GE CF6-50C2,3,YV-50C,14/12/1998,Avensa,,Scrapped
+46946,222,McDonnell Douglas DC-10,DC10-10,04/02/1976,,,CF6-6K,3,N907WA,22/06/1976,Western Airlines,,Transferred
+46946,222,McDonnell Douglas DC-10,DC10-10,04/02/1976,,,CF6-6K,3,N907WA,01/04/1987,Delta Air Lines,,Transferred
+46946,222,McDonnell Douglas DC-10,DC10-10,04/02/1976,,,CF6-6K,3,N907WA,17/04/1989,Mexicana,,Transferred
+46946,222,McDonnell Douglas DC-10,DC10-10,04/02/1976,,,CF6-6K,3,N907WA,29/11/1994,Sun Country Airlines,,Transferred
+46946,222,McDonnell Douglas DC-10,DC10-10,04/02/1976,,,CF6-6K,3,N946LL,01/04/1997,Laker Airways,,Scrapped
+46947,247,McDonnell Douglas DC-10,DC10-10,07/11/1977,42.4,,CF6-6K,3,N126AA,10/02/1978,American Airlines,,Transferred
+46947,247,McDonnell Douglas DC-10,DC10-10,07/11/1977,42.4,,CF6-6K,3,N126AA,01/06/2001,Hawaiian Airlines,,Transferred
+46947,247,McDonnell Douglas DC-10,DC10-10,07/11/1977,42.4,,CF6-6K,3,N126AA,14/03/2003,Federal Express,,Transferred
+46947,247,McDonnell Douglas DC-10,DC10-10,07/11/1977,42.4,,CF6-6K,3,N562FE,26/07/2004,Federal Express,,Active
+46948,249,McDonnell Douglas DC-10,DC10-10F,09/12/1977,,,CF6-6K,3,N127AA,20/03/1978,American Airlines,,Transferred
+46948,249,McDonnell Douglas DC-10,DC10-10F,09/12/1977,,,CF6-6K,3,N127AA,25/04/2001,Hawaiian Airlines,,Transferred
+46948,249,McDonnell Douglas DC-10,DC10-10F,09/12/1977,,,CF6-6K,3,N127AA,15/04/2003,Federal Express,,Transferred
+46948,249,McDonnell Douglas DC-10,DC10-10F,09/12/1977,,,CF6-6K,3,N563FE,01/07/2005,Federal Express,,Stored
+46949,179,McDonnell Douglas DC-10,DC10-30F,17/10/1974,,N54643,GE CF6-50C,3,G-BEBL,31/03/1977,British Caledonian,,Transferred
+46949,179,McDonnell Douglas DC-10,DC10-30F,17/10/1974,,N54643,GE CF6-50C,3,G-BEBL,14/04/1988,British Airways,,Transferred
+46949,179,McDonnell Douglas DC-10,DC10-30F,17/10/1974,,N54643,GE CF6-50C,3,PP-VQY,29/04/2001,VARIG Logistica,Converted to freighter - Stored at LIM 04/2008 as n949pl (PICL Aviation),Transferred
+46949,179,McDonnell Douglas DC-10,DC10-30F,17/10/1974,,N54643,GE CF6-50C,3,C-GKFB,10/09/2008,Kelowna Flightcraft,Scrapped 06/2016Stored 06/2015,Scrapped
+46950,242,McDonnell Douglas DC-10,DC10-30,22/07/1977,,,GE CF6-50C2,3,ZK-NZT,10/11/1977,Air New Zealand,,Transferred
+46950,242,McDonnell Douglas DC-10,DC10-30,22/07/1977,,,GE CF6-50C2,3,CC-CJT,13/06/1982,LAN Chile,,Transferred
+46950,242,McDonnell Douglas DC-10,DC10-30,22/07/1977,,,GE CF6-50C2,3,N164AA,17/06/1986,American Airlines,Scrapped 02/2002,Scrapped
+46951,246,McDonnell Douglas DC-10,DC10-30,17/10/1977,,,GE CF6-50C2,3,PK-GID,13/01/1978,Garuda,Stored at CGK,Stored
+46952,185,McDonnell Douglas DC-10,DC10-30,03/12/1974,,N54646,GE CF6-50C2,3,PH-DTL,26/02/1975,KLM,,Transferred
+46952,185,McDonnell Douglas DC-10,DC10-30,03/12/1974,,N54646,GE CF6-50C2,3,PH-DTL,30/03/1975,Garuda,,Transferred
+46952,185,McDonnell Douglas DC-10,DC10-30,03/12/1974,,N54646,GE CF6-50C2,3,HS-TGC,18/05/1976,Thai Airways,Named Sriwanna,Transferred
+46952,185,McDonnell Douglas DC-10,DC10-30,03/12/1974,,N54646,GE CF6-50C2,3,PH-DTL,13/03/1977,KLM,,Transferred
+46952,185,McDonnell Douglas DC-10,DC10-30,03/12/1974,,N54646,GE CF6-50C2,3,PH-DTL,17/04/1991,VIASA,,Transferred
+46952,185,McDonnell Douglas DC-10,DC10-30,03/12/1974,,N54646,GE CF6-50C2,3,PH-DTL,28/12/1992,African Safari Airways,,Transferred
+46952,185,McDonnell Douglas DC-10,DC10-30,03/12/1974,,N54646,GE CF6-50C2,3,5Y-MBA,22/07/1998,African Safari Airways,,Transferred
+46952,185,McDonnell Douglas DC-10,DC10-30,03/12/1974,,N54646,GE CF6-50C2,3,5X-ONE,01/02/2002,Africa One,Scrapped at EGBP 05/2004,Scrapped
+46953,225,McDonnell Douglas DC-10,DC10-30,24/03/1976,,,GE CF6-50C2,3,EC-CSK,14/05/1976,Iberia,,Transferred
+46953,225,McDonnell Douglas DC-10,DC10-30,24/03/1976,,,GE CF6-50C2,3,YV-139C,31/03/1994,VIASA,,Transferred
+46953,225,McDonnell Douglas DC-10,DC10-30,24/03/1976,,,GE CF6-50C2,3,EC-GNG,18/01/1997,Iberia,Named Cornisa Cantabrica -  	Scrapped Greenwood 2008,Scrapped
+46954,227,McDonnell Douglas DC-10,DC10-30,29/04/1976,,,GE CF6-50C2,3,ZK-NZS,07/06/1976,Air New Zealand,,Transferred
+46954,227,McDonnell Douglas DC-10,DC10-30,29/04/1976,,,GE CF6-50C2,3,ZK-NZS,01/03/1978,Malaysia Airlines,,Transferred
+46954,227,McDonnell Douglas DC-10,DC10-30,29/04/1976,,,GE CF6-50C2,3,ZK-NZS,01/04/1979,National Airlines (Old),,Transferred
+46954,227,McDonnell Douglas DC-10,DC10-30,29/04/1976,,,GE CF6-50C2,3,CC-CJS,29/06/1982,LAN Chile,,Transferred
+46954,227,McDonnell Douglas DC-10,DC10-30,29/04/1976,,,GE CF6-50C2,3,SE-DFH,01/08/1986,SAS Scandinavian Airlines,,Transferred
+46954,227,McDonnell Douglas DC-10,DC10-30,29/04/1976,,,GE CF6-50C2,3,SE-DFH,04/10/1986,Scanair,,Transferred
+46954,227,McDonnell Douglas DC-10,DC10-30,29/04/1976,,,GE CF6-50C2,3,SE-DFH,30/03/1987,SAS Scandinavian Airlines,,Transferred
+46954,227,McDonnell Douglas DC-10,DC10-30,29/04/1976,,,GE CF6-50C2,3,F-ODLY,24/10/1990,Air Outre Mer,,Transferred
+46954,227,McDonnell Douglas DC-10,DC10-30,29/04/1976,,,GE CF6-50C2,3,F-ODLY,01/03/1992,AOM French Airlines,,Transferred
+46954,227,McDonnell Douglas DC-10,DC10-30,29/04/1976,,,GE CF6-50C2,3,F-GTLY,05/05/2000,AOM French Airlines,,Transferred
+46954,227,McDonnell Douglas DC-10,DC10-30,29/04/1976,,,GE CF6-50C2,3,F-GTLY,01/10/2001,Air Lib,,Stored
+46955,228,McDonnell Douglas DC-10,DC10-30,17/05/1976,,,GE CF6-50C2,3,9M-MAS,02/08/1976,Malaysia Airlines,,Transferred
+46955,228,McDonnell Douglas DC-10,DC10-30,17/05/1976,,,GE CF6-50C2,3,9M-MAS,02/03/1996,World Airways,,Transferred
+46955,228,McDonnell Douglas DC-10,DC10-30,17/05/1976,,,GE CF6-50C2,3,N800WR,16/05/1999,DAS Air,,Written off
+46956,235,McDonnell Douglas DC-10,DC10-30CF,11/11/1976,43.4,,GE CF6-50C2,3,PH-MBP,23/12/1976,Martinair Holland,,Transferred
+46956,235,McDonnell Douglas DC-10,DC10-30CF,11/11/1976,43.4,,GE CF6-50C2,3,PH-MBP,01/11/1977,Garuda,,Transferred
+46956,235,McDonnell Douglas DC-10,DC10-30CF,11/11/1976,43.4,,GE CF6-50C2,3,PH-MBP,07/10/1978,Garuda,,Transferred
+46956,235,McDonnell Douglas DC-10,DC10-30CF,11/11/1976,43.4,,GE CF6-50C2,3,PH-MBP,01/01/1979,Philippine Airlines,,Transferred
+46956,235,McDonnell Douglas DC-10,DC10-30CF,11/11/1976,43.4,,GE CF6-50C2,3,PH-MBP,03/01/1980,Martinair Holland,,Transferred
+46956,235,McDonnell Douglas DC-10,DC10-30CF,11/11/1976,43.4,,GE CF6-50C2,3,T-235,03/02/1995,Royal Netherlands Air Force,,Active
+46957,231,McDonnell Douglas DC-10,DC10-30,27/07/1976,,,GE CF6-50C2,3,5N-ANN,14/10/1976,Nigeria Airways,Scrapped at Lagos 03/2008,Scrapped
+46958,232,McDonnell Douglas DC-10,DC10-30,31/08/1976,,,GE CF6-50C2,3,RP-C2003,22/10/1976,Philippine Airlines,,Transferred
+46958,232,McDonnell Douglas DC-10,DC10-30,31/08/1976,,,GE CF6-50C2,3,RP-C2003,23/06/1981,Nigeria Airways,,Transferred
+46958,232,McDonnell Douglas DC-10,DC10-30,31/08/1976,,,GE CF6-50C2,3,RP-C2003,25/01/1982,Philippine Airlines,,Transferred
+46958,232,McDonnell Douglas DC-10,DC10-30,31/08/1976,,,GE CF6-50C2,3,EI-DLA,06/07/1994,Leisure Air,,Transferred
+46958,232,McDonnell Douglas DC-10,DC10-30,31/08/1976,,,GE CF6-50C2,3,EI-DLA,30/07/1996,Continental Airlines,Scrapped 2003,Scrapped
+46959,234,McDonnell Douglas DC-10,DC10-30,20/12/1976,,N8707Q,GE CF6-50C2,3,HS-TGD,03/03/1977,Thai Airways,,Transferred
+46959,234,McDonnell Douglas DC-10,DC10-30,20/12/1976,,N8707Q,GE CF6-50C2,3,HS-TMC,01/01/1987,Thai Airways,Named Chaiprakarn,Transferred
+46959,234,McDonnell Douglas DC-10,DC10-30,20/12/1976,,N8707Q,GE CF6-50C2,3,OY-KDC,06/12/1987,SAS Scandinavian Airlines,,Transferred
+46959,234,McDonnell Douglas DC-10,DC10-30,20/12/1976,,N8707Q,GE CF6-50C2,3,9M-MAW,05/10/1990,Malaysia Airlines,,Transferred
+46959,234,McDonnell Douglas DC-10,DC10-30,20/12/1976,,N8707Q,GE CF6-50C2,3,9M-MAW,29/06/1995,World Airways,,Transferred
+46959,234,McDonnell Douglas DC-10,DC10-30,20/12/1976,,N8707Q,GE CF6-50C2,3,9M-MAW,09/11/1996,Malaysia Airlines,,Transferred
+46959,234,McDonnell Douglas DC-10,DC10-30,20/12/1976,,N8707Q,GE CF6-50C2,3,9G-ANB,07/10/1999,Ghana Airways,,Stored
+46960,237,McDonnell Douglas DC-10,DC10-30CF,08/03/1977,,,GE CF6-50C2,3,N1033F,09/05/1977,ONA,,Transferred
+46960,237,McDonnell Douglas DC-10,DC10-30CF,08/03/1977,,,GE CF6-50C2,3,HL7339,11/08/1978,Korean Air,Crashed 23/12/83 at Anchorage,Written off
+46961,236,McDonnell Douglas DC-10,DC10-30,01/02/1977,,,GE CF6-50C2,3,HS-TGE,05/05/1977,Thai Airways,,Transferred
+46961,236,McDonnell Douglas DC-10,DC10-30,01/02/1977,,,GE CF6-50C2,3,HS-TMD,01/01/1987,Thai Airways,Named Hariphunchai,Transferred
+46961,236,McDonnell Douglas DC-10,DC10-30,01/02/1977,,,GE CF6-50C2,3,LN-RKD,30/12/1987,SAS Scandinavian Airlines,,Transferred
+46961,236,McDonnell Douglas DC-10,DC10-30,01/02/1977,,,GE CF6-50C2,3,9M-MAX,21/10/1990,Malaysia Airlines,,Transferred
+46961,236,McDonnell Douglas DC-10,DC10-30,01/02/1977,,,GE CF6-50C2,3,N232NW,01/04/1996,Northwest Airlines,Stored at Marana 10/2005 - Back in service 12/2005 - Broken up 03/2006,Scrapped
+46962,238,McDonnell Douglas DC-10,DC10-30CF,13/04/1977,,,GE CF6-50C2,3,N1034F,06/06/1977,ONA,,Transferred
+46962,238,McDonnell Douglas DC-10,DC10-30CF,13/04/1977,,,GE CF6-50C2,3,N1034F,24/10/1978,Spantax,,Transferred
+46962,238,McDonnell Douglas DC-10,DC10-30CF,13/04/1977,,,GE CF6-50C2,3,EC-DEG,01/12/1978,Spantax,Crashed 14/09.82 at Malaga,Written off
+46963,244,McDonnell Douglas DC-10,DC10-30,02/09/1977,,,GE CF6-50C2,3,F-BTDD,02/11/1977,UTA,,Transferred
+46963,244,McDonnell Douglas DC-10,DC10-30,02/09/1977,,,GE CF6-50C2,3,F-BTDD,01/11/1992,Air France,,Transferred
+46963,244,McDonnell Douglas DC-10,DC10-30,02/09/1977,,,GE CF6-50C2,3,F-BTDD,02/07/1993,AOM French Airlines,,Transferred
+46963,244,McDonnell Douglas DC-10,DC10-30,02/09/1977,,,GE CF6-50C2,3,F-BTDD,21/01/1997,Aerolyon,Stored at FNI (Nimes) with L-Air colors (never fly with L-Air) - Scrapped 10/2008,Scrapped
+46964,239,McDonnell Douglas DC-10,DC10-30,16/05/1977,,,GE CF6-50C2,3,PK-GIC,03/10/1977,Garuda,Stored at CGK,Stored
+46965,245,McDonnell Douglas DC-10,DC10-30,26/09/1977,,,GE CF6-50C2,3,D-ADMO,09/12/1977,Lufthansa,,Transferred
+46965,245,McDonnell Douglas DC-10,DC10-30,26/09/1977,,,GE CF6-50C2,3,D-ADMO,01/10/1992,Sabena,,Transferred
+46965,245,McDonnell Douglas DC-10,DC10-30,26/09/1977,,,GE CF6-50C2,3,D-ADMO,11/10/1992,Lufthansa,,Transferred
+46965,245,McDonnell Douglas DC-10,DC10-30,26/09/1977,,,GE CF6-50C2,3,N600GC,11/10/1995,Sun Country Airlines,Converted to DC10-30F,Transferred
+46965,245,McDonnell Douglas DC-10,DC10-30,26/09/1977,,,GE CF6-50C2,3,N600GC,14/04/1997,Gemini Air Cargo,Named Stephen - Stored at Roswell 02/2008,Stored
+46966,262,McDonnell Douglas DC-10,DC10-40,21/09/1978,,,,,JA8536,20/11/1978,Japan Airlines,,Transferred
+46966,262,McDonnell Douglas DC-10,DC10-40,21/09/1978,,,,,N142WE,26/02/1999,Ten Forty Corporation,,Transferred
+46966,262,McDonnell Douglas DC-10,DC10-40,21/09/1978,,,,,N142WE,30/08/1999,Challenge Air Cargo,Converted to DC10-40F,Transferred
+46966,262,McDonnell Douglas DC-10,DC10-40,21/09/1978,,,,,N142WE,16/08/2002,Centurion Air Cargo,,Transferred
+46966,262,McDonnell Douglas DC-10,DC10-40,21/09/1978,,,,,VP-BDH,16/10/2003,Aeroflot,Stored 12/2008,Transferred
+46966,262,McDonnell Douglas DC-10,DC10-40,21/09/1978,,,,,N142WE,05/02/2009,Arrow Air,Scrapped 05/2010,Scrapped
+46967,265,McDonnell Douglas DC-10,DC10-40,26/10/1978,,,,,JA8537,18/01/1979,Japan Airlines,,Transferred
+46967,265,McDonnell Douglas DC-10,DC10-40,26/10/1978,,,,,JA8537,01/01/1988,Japan Asia Airways,,Transferred
+46967,265,McDonnell Douglas DC-10,DC10-40,26/10/1978,,,,,JA8537,01/01/1990,Japan Airlines,,Transferred
+46967,265,McDonnell Douglas DC-10,DC10-40,26/10/1978,,,,,JA8537,01/01/1994,Japan Asia Airways,,Transferred
+46967,265,McDonnell Douglas DC-10,DC10-40,26/10/1978,,,,,JA8537,02/04/1997,Japan Airlines,Stored 28/09/04 as N967VV,Stored
+46968,243,McDonnell Douglas DC-10,DC10-30,12/08/1977,,,GE CF6-50C2,3,5N-ANR,18/10/1977,Nigeria Airways,,Written off
+46969,241,McDonnell Douglas DC-10,DC10-30,06/09/1977,,,GE CF6-50C2,3,HB-IHI,21/10/1977,Swissair,,Transferred
+46969,241,McDonnell Douglas DC-10,DC10-30,06/09/1977,,,GE CF6-50C2,3,N227NW,23/06/1992,Northwest Airlines,Stored 02/2006  Scrapped 11/2007,Scrapped
+46970,269,McDonnell Douglas DC-10,DC10-10F,12/01/1979,41.2,N1002D,CF6-6D1A,3,G-GFAL,27/02/1979,Laker Airways,,Transferred
+46970,269,McDonnell Douglas DC-10,DC10-10F,12/01/1979,41.2,N1002D,CF6-6D1A,3,G-BJZD,22/02/1982,British Caledonian,,Transferred
+46970,269,McDonnell Douglas DC-10,DC10-10F,12/01/1979,41.2,N1002D,CF6-6D1A,3,G-BJZD,01/03/1983,British Caledonian,,Transferred
+46970,269,McDonnell Douglas DC-10,DC10-10F,12/01/1979,41.2,N1002D,CF6-6D1A,3,G-BJZD,27/10/1985,Cal Air International,,Transferred
+46970,269,McDonnell Douglas DC-10,DC10-10F,12/01/1979,41.2,N1002D,CF6-6D1A,3,G-BJZD,01/01/1989,Novair,,Transferred
+46970,269,McDonnell Douglas DC-10,DC10-10F,12/01/1979,41.2,N1002D,CF6-6D1A,3,N10060,05/11/1994,Federal Express,Converted to DC10-10F,Active
+46971,258,McDonnell Douglas DC-10,DC10-30,26/07/1978,,,GE CF6-50C2,3,PH-AAI,26/07/1978,Citicorp,,Transferred
+46971,258,McDonnell Douglas DC-10,DC10-30,26/07/1978,,,GE CF6-50C2,3,YV-135C,21/09/1978,VIASA,,Scrapped
+46972,276,McDonnell Douglas DC-10,DC10-30,16/02/1979,,,GE CF6-50C2,3,PH-AAJ,20/04/1979,Citicorp,,Transferred
+46972,276,McDonnell Douglas DC-10,DC10-30,16/02/1979,,,GE CF6-50C2,3,YV-136C,20/04/1979,VIASA,,Transferred
+46972,276,McDonnell Douglas DC-10,DC10-30,16/02/1979,,,GE CF6-50C2,3,EC-GTC,01/09/1998,Iberia,Scrapped at MAD 1998,Scrapped
+46973,272,McDonnell Douglas DC-10,DC10-10F,08/02/1979,,,CF6-6K,3,G-GSKY,21/03/1979,Laker Airways,,Transferred
+46973,272,McDonnell Douglas DC-10,DC10-10F,08/02/1979,,,CF6-6K,3,G-BJZE,22/02/1982,British Caledonian,,Transferred
+46973,272,McDonnell Douglas DC-10,DC10-10F,08/02/1979,,,CF6-6K,3,G-BJZE,01/03/1983,British Caledonian,,Transferred
+46973,272,McDonnell Douglas DC-10,DC10-10F,08/02/1979,,,CF6-6K,3,G-BJZE,27/10/1985,Cal Air International,,Transferred
+46973,272,McDonnell Douglas DC-10,DC10-10F,08/02/1979,,,CF6-6K,3,G-BJZE,01/01/1989,Novair,,Transferred
+46973,272,McDonnell Douglas DC-10,DC10-10F,08/02/1979,,,CF6-6K,3,G-BJZE,09/12/1993,World Airways,Converted to DC10-10FStored as N591LF,Transferred
+46973,272,McDonnell Douglas DC-10,DC10-10F,08/02/1979,,,CF6-6K,3,N40061,02/11/1994,Federal Express,Stored 10/2018,Stored
+46974,274,McDonnell Douglas DC-10,DC10-40,30/01/1979,,,,,JA8538,04/04/1979,Japan Airlines,Stored 09/2005,Transferred
+46974,274,McDonnell Douglas DC-10,DC10-40,30/01/1979,,,,,N974VV,14/04/2006,Omega Air,,Stored
+46975,248,McDonnell Douglas DC-10,DC10-30F,23/11/1977,,,GE CF6-50C2,3,N103WA,07/03/1978,World Airways,,Transferred
+46975,248,McDonnell Douglas DC-10,DC10-30F,23/11/1977,,,GE CF6-50C2,3,N1856U,18/04/1986,United Airlines,,Stored
+46976,254,McDonnell Douglas DC-10,DC10-30,23/05/1978,,N8712Q,GE CF6-50C2,3,C-GXRB,14/12/1978,Wardair Canada,,Transferred
+46976,254,McDonnell Douglas DC-10,DC10-30,23/05/1978,,N8712Q,GE CF6-50C2,3,EI-BZD,19/04/1989,Garuda,,Transferred
+46976,254,McDonnell Douglas DC-10,DC10-30,23/05/1978,,N8712Q,GE CF6-50C2,3,N602DC,01/06/1992,LAPSA Air Paraguay,,Transferred
+46976,254,McDonnell Douglas DC-10,DC10-30,23/05/1978,,N8712Q,GE CF6-50C2,3,N400JR,13/12/1997,DAS Air,Converted to DC10-30F,Transferred
+46976,254,McDonnell Douglas DC-10,DC10-30,23/05/1978,,N8712Q,GE CF6-50C2,3,5X-JOS,16/03/2004,DAS Air,Stored at VCV 02/2007,Stored
+46977,251,McDonnell Douglas DC-10,DC10-10,16/01/1978,,,CF6-6K,3,N908WA,13/03/1978,Western Airlines,,Transferred
+46977,251,McDonnell Douglas DC-10,DC10-10,16/01/1978,,,CF6-6K,3,N908WA,01/04/1987,Delta Air Lines,,Transferred
+46977,251,McDonnell Douglas DC-10,DC10-10,16/01/1978,,,CF6-6K,3,N908WA,17/05/1988,Scanair,,Transferred
+46977,251,McDonnell Douglas DC-10,DC10-10,16/01/1978,,,CF6-6K,3,N908WA,28/06/1988,American Airlines,,Transferred
+46977,251,McDonnell Douglas DC-10,DC10-10,16/01/1978,,,CF6-6K,3,SE-DHZ,12/01/1989,Scanair,,Transferred
+46977,251,McDonnell Douglas DC-10,DC10-10,16/01/1978,,,CF6-6K,3,SE-DHZ,20/06/1991,Sun Country Airlines,,Transferred
+46977,251,McDonnell Douglas DC-10,DC10-10,16/01/1978,,,CF6-6K,3,N572SC,19/04/1994,Sun Country Airlines,,Transferred
+46977,251,McDonnell Douglas DC-10,DC10-10,16/01/1978,,,CF6-6K,3,N572SC,09/06/1998,Ryan Int,,Transferred
+46977,251,McDonnell Douglas DC-10,DC10-10,16/01/1978,,,CF6-6K,3,N572SC,25/01/1999,Skyservice USA,,Transferred
+46977,251,McDonnell Douglas DC-10,DC10-10,16/01/1978,,,CF6-6K,3,N572RY,27/07/2000,Skyservice USA,,Stored
+46978,256,McDonnell Douglas DC-10,DC10-30F,27/06/1978,,,GE CF6-50C2,3,C-GXRC,03/11/1978,Wardair Canada,,Transferred
+46978,256,McDonnell Douglas DC-10,DC10-30F,27/06/1978,,,GE CF6-50C2,3,OH-LHE,27/09/1988,Finnair,,Transferred
+46978,256,McDonnell Douglas DC-10,DC10-30F,27/06/1978,,,GE CF6-50C2,3,OH-LHE,03/05/1992,Garuda,,Transferred
+46978,256,McDonnell Douglas DC-10,DC10-30F,27/06/1978,,,GE CF6-50C2,3,OH-LHE,03/05/1993,THY Turkish Airlines,,Transferred
+46978,256,McDonnell Douglas DC-10,DC10-30F,27/06/1978,,,GE CF6-50C2,3,OH-LHE,25/06/1993,Finnair,,Transferred
+46978,256,McDonnell Douglas DC-10,DC10-30F,27/06/1978,,,GE CF6-50C2,3,OH-LHE,26/05/1994,Air Liberte,,Transferred
+46978,256,McDonnell Douglas DC-10,DC10-30F,27/06/1978,,,GE CF6-50C2,3,N607GC,10/11/1997,Gemini Air Cargo,Ceased operations 12 aug 2008,Transferred
+46978,256,McDonnell Douglas DC-10,DC10-30F,27/06/1978,,,GE CF6-50C2,3,ZS-GAC,23/10/2013,Global Aviation,Scrapped 01/2020,Scrapped
+46981,259,McDonnell Douglas DC-10,DC10-30,09/08/1978,,,GE CF6-50C2,3,YU-AMA,08/12/1978,JAT Airways,,Transferred
+46981,259,McDonnell Douglas DC-10,DC10-30,09/08/1978,,,GE CF6-50C2,3,F-OKBB,11/11/1993,Express One International,,Transferred
+46981,259,McDonnell Douglas DC-10,DC10-30,09/08/1978,,,GE CF6-50C2,3,F-OKBB,23/09/1994,Shabair,,Transferred
+46981,259,McDonnell Douglas DC-10,DC10-30,09/08/1978,,,GE CF6-50C2,3,F-GPVE,20/12/1994,Air Liberte,,Transferred
+46981,259,McDonnell Douglas DC-10,DC10-30,09/08/1978,,,GE CF6-50C2,3,N37077,09/09/1996,Continental Airlines,Scrapped in 2010,Scrapped
+46982,290,McDonnell Douglas DC-10,DC10-30,14/06/1979,,YV-137C,GE CF6-50C2,3,PH-AAK,05/10/1979,Citicorp,,Transferred
+46982,290,McDonnell Douglas DC-10,DC10-30,14/06/1979,,YV-137C,GE CF6-50C2,3,YV-137C,05/10/1979,VIASA,,Transferred
+46982,290,McDonnell Douglas DC-10,DC10-30,14/06/1979,,YV-137C,GE CF6-50C2,3,EC-GTD,01/09/1998,Iberia,reg N8094Z 01/07/05 - Stored in Greenwood,Scrapped
+46983,252,McDonnell Douglas DC-10,DC10-10,30/01/1978,,,CF6-6K,3,N909WA,18/05/1978,Western Airlines,,Transferred
+46983,252,McDonnell Douglas DC-10,DC10-10,30/01/1978,,,CF6-6K,3,N909WA,01/04/1987,Delta Air Lines,,Transferred
+46983,252,McDonnell Douglas DC-10,DC10-10,30/01/1978,,,CF6-6K,3,N909WA,14/06/1988,American Airlines,,Transferred
+46983,252,McDonnell Douglas DC-10,DC10-10,30/01/1978,,,CF6-6K,3,SE-DHY,12/11/1988,Scanair,,Transferred
+46983,252,McDonnell Douglas DC-10,DC10-10,30/01/1978,,,CF6-6K,3,SE-DHY,30/11/1993,Sun Country Airlines,,Transferred
+46983,252,McDonnell Douglas DC-10,DC10-10,30/01/1978,,,CF6-6K,3,SE-DHY,16/04/1994,Premiair,,Transferred
+46983,252,McDonnell Douglas DC-10,DC10-10,30/01/1978,,,CF6-6K,3,OY-CNY,09/05/1995,Premiair,,Transferred
+46983,252,McDonnell Douglas DC-10,DC10-10,30/01/1978,,,CF6-6K,3,G-TDTW,25/10/2000,Airtours,,Transferred
+46983,252,McDonnell Douglas DC-10,DC10-10,30/01/1978,,,CF6-6K,3,G-TDTW,08/02/2002,My Travel Airways,,Transferred
+46983,252,McDonnell Douglas DC-10,DC10-10,30/01/1978,,,CF6-6K,3,3D-MRQ,18/10/2004,Executive Aero Space,Stored at JNB 06/2005,Transferred
+46983,252,McDonnell Douglas DC-10,DC10-10,30/01/1978,,,CF6-6K,3,ZS-GAW,29/05/2013,Global Aviation,Scrapped,Scrapped
+46984,250,McDonnell Douglas DC-10,DC10-10F,23/12/1977,,,CF6-6K,3,N128AA,01/05/1978,American Airlines,,Transferred
+46984,250,McDonnell Douglas DC-10,DC10-10F,23/12/1977,,,CF6-6K,3,N128AA,15/02/1999,Hawaiian Airlines,,Transferred
+46984,250,McDonnell Douglas DC-10,DC10-10F,23/12/1977,,,CF6-6K,3,N564FE,21/03/2003,Federal Express,Stored 10/2016Converted to MD10F,Stored
+46985,264,McDonnell Douglas DC-10,DC10-30CF,13/10/1978,,,GE CF6-50C2,3,PH-MBT,20/12/1978,Martinair Holland,,Transferred
+46985,264,McDonnell Douglas DC-10,DC10-30CF,13/10/1978,,,GE CF6-50C2,3,PH-MBT,01/10/1979,Garuda,lsd from Martinair,Transferred
+46985,264,McDonnell Douglas DC-10,DC10-30CF,13/10/1978,,,GE CF6-50C2,3,PH-MBT,21/12/1987,Qantas,lsd from Martinair,Transferred
+46985,264,McDonnell Douglas DC-10,DC10-30CF,13/10/1978,,,GE CF6-50C2,3,PH-MBT,17/10/1989,KLM,,Transferred
+46985,264,McDonnell Douglas DC-10,DC10-30CF,13/10/1978,,,GE CF6-50C2,3,PH-MBT,25/06/1992,World Airways,,Transferred
+46985,264,McDonnell Douglas DC-10,DC10-30CF,13/10/1978,,,GE CF6-50C2,3,PH-MBT,08/07/1992,Martinair Holland,,Transferred
+46985,264,McDonnell Douglas DC-10,DC10-30CF,13/10/1978,,,GE CF6-50C2,3,T-264,29/09/1995,Royal Netherlands Air Force,Stored 10/2019. To Omega Tanker,Transferred
+46985,264,McDonnell Douglas DC-10,DC10-30CF,13/10/1978,,,GE CF6-50C2,3,N264DE,19/02/2020,Omega Air,,Stored
+46986,253,McDonnell Douglas DC-10,DC10-30CF,02/05/1978,,,GE CF6-50C2,3,N104WA,15/06/1978,World Airways,,Transferred
+46986,253,McDonnell Douglas DC-10,DC10-30CF,02/05/1978,,,GE CF6-50C2,3,N1857U,01/05/1986,United Airlines,,Stored
+46987,255,McDonnell Douglas DC-10,DC10-30CF,13/06/1978,,,GE CF6-50C2,3,N105WA,04/08/1978,World Airways,,Transferred
+46987,255,McDonnell Douglas DC-10,DC10-30CF,13/06/1978,,,GE CF6-50C2,3,N1858U,01/05/1986,United Airlines,,Transferred
+46987,255,McDonnell Douglas DC-10,DC10-30CF,13/06/1978,,,GE CF6-50C2,3,T-255,01/11/2004,Royal Netherlands Air Force,Stored 04/2014 - To be scrapped,Stored
+46988,278,McDonnell Douglas DC-10,DC10-30,05/03/1979,,,GE CF6-50C2,3,YU-AMB,14/05/1979,JAT Airways,Scrapped at FNI 06/2005,Scrapped
+46989,271,McDonnell Douglas DC-10,DC10-10,03/01/1979,,,CF6-6K,3,N130AA,15/03/1979,American Airlines,,Transferred
+46989,271,McDonnell Douglas DC-10,DC10-10,03/01/1979,,,CF6-6K,3,N566FE,07/05/1999,Federal Express,Stored 12/2018Converted to freighter,Stored
+46990,260,McDonnell Douglas DC-10,DC10-30,23/08/1978,,,GE CF6-50C2,3,9V-SDA,23/10/1978,Singapore Airlines,,Transferred
+46990,260,McDonnell Douglas DC-10,DC10-30,23/08/1978,,,GE CF6-50C2,3,C-GFHX,18/10/1981,Wardair Canada,,Transferred
+46990,260,McDonnell Douglas DC-10,DC10-30,23/08/1978,,,GE CF6-50C2,3,C-GFHX,02/05/1988,Canadian Airlines,,Transferred
+46990,260,McDonnell Douglas DC-10,DC10-30,23/08/1978,,,GE CF6-50C2,3,F-GGMZ,05/04/1989,Minerve,,Transferred
+46990,260,McDonnell Douglas DC-10,DC10-30,23/08/1978,,,GE CF6-50C2,3,F-GGMZ,01/03/1992,AOM French Airlines,,Transferred
+46990,260,McDonnell Douglas DC-10,DC10-30,23/08/1978,,,GE CF6-50C2,3,XA-SYE,15/06/1995,TAESA,,Transferred
+46990,260,McDonnell Douglas DC-10,DC10-30,23/08/1978,,,GE CF6-50C2,3,XA-SYE,01/06/1996,TAESA,,Transferred
+46990,260,McDonnell Douglas DC-10,DC10-30,23/08/1978,,,GE CF6-50C2,3,OY-CNO,09/04/1997,Premiair,,Transferred
+46990,260,McDonnell Douglas DC-10,DC10-30,23/08/1978,,,GE CF6-50C2,3,OY-CNO,21/04/1998,Airtours,,Transferred
+46990,260,McDonnell Douglas DC-10,DC10-30,23/08/1978,,,GE CF6-50C2,3,G-BYDA,25/03/1999,Airtours,,Transferred
+46990,260,McDonnell Douglas DC-10,DC10-30,23/08/1978,,,GE CF6-50C2,3,G-BYDA,08/02/2002,My Travel Airways,Stored at Manchester 2005 - Scrapped at Kemble 06/2005,Scrapped
+46991,261,McDonnell Douglas DC-10,DC10-30,07/09/1978,,,GE CF6-50C2,3,9V-SDC,31/01/1979,Singapore Airlines,,Transferred
+46991,261,McDonnell Douglas DC-10,DC10-30,07/09/1978,,,GE CF6-50C2,3,C-GCPJ,18/03/1982,Cp Air,,Transferred
+46991,261,McDonnell Douglas DC-10,DC10-30,07/09/1978,,,GE CF6-50C2,3,C-GCPJ,26/04/1987,Canadian Airlines,,Transferred
+46991,261,McDonnell Douglas DC-10,DC10-30,07/09/1978,,,GE CF6-50C2,3,N35084,03/02/1997,Continental Airlines,,Transferred
+46991,261,McDonnell Douglas DC-10,DC10-30,07/09/1978,,,GE CF6-50C2,3,N35084,12/12/2000,Hawaiian Airlines,,Stored
+46992,257,McDonnell Douglas DC-10,DC10-30CF,12/07/1978,41.7,,GE CF6-50C2,3,N1035F,08/09/1978,ONA,,Transferred
+46992,257,McDonnell Douglas DC-10,DC10-30CF,12/07/1978,41.7,,GE CF6-50C2,3,N1035F,01/12/1978,Seaboard World,,Transferred
+46992,257,McDonnell Douglas DC-10,DC10-30CF,12/07/1978,41.7,,GE CF6-50C2,3,N1035F,03/01/1979,Loftleidir,,Transferred
+46992,257,McDonnell Douglas DC-10,DC10-30CF,12/07/1978,41.7,,GE CF6-50C2,3,N1035F,01/10/1979,Garuda,,Transferred
+46992,257,McDonnell Douglas DC-10,DC10-30CF,12/07/1978,41.7,,GE CF6-50C2,3,N1035F,11/03/1980,Air Florida,,Transferred
+46992,257,McDonnell Douglas DC-10,DC10-30CF,12/07/1978,41.7,,GE CF6-50C2,3,EC-DSF,16/09/1982,Spantax,,Transferred
+46992,257,McDonnell Douglas DC-10,DC10-30CF,12/07/1978,41.7,,GE CF6-50C2,3,N304FE,04/05/1984,Federal Express,,Active
+46993,263,McDonnell Douglas DC-10,DC10-30,03/10/1978,,,GE CF6-50C2,3,9V-SDB,29/11/1978,Singapore Airlines,,Transferred
+46993,263,McDonnell Douglas DC-10,DC10-30,03/10/1978,,,GE CF6-50C2,3,S2-ACO,16/08/1983,Biman Bangladesh,Named City of Shah Makhdum,Stored
+46994,273,McDonnell Douglas DC-10,DC10-10F,22/01/1979,,,CF6-6K,3,N131AA,03/04/1979,American Airlines,,Transferred
+46994,273,McDonnell Douglas DC-10,DC10-10F,22/01/1979,,,CF6-6K,3,N567FE,07/06/2001,Federal Express,Stored 02/2018Converted to freighter 02/2006,Stored
+46995,275,McDonnell Douglas DC-10,DC10-30,08/02/1979,,,GE CF6-50C2,3,9V-SDD,03/03/1979,Singapore Airlines,,Transferred
+46995,275,McDonnell Douglas DC-10,DC10-30,08/02/1979,,,GE CF6-50C2,3,S2-ACP,09/08/1983,Biman Bangladesh,Stored 11/2013,Stored
+46996,270,McDonnell Douglas DC-10,DC10-10,16/12/1978,,,CF6-6K,3,N129AA,27/02/1979,American Airlines,,Transferred
+46996,270,McDonnell Douglas DC-10,DC10-10,16/12/1978,,,CF6-6K,3,N129AA,23/10/1999,Hawaiian Airlines,,Transferred
+46996,270,McDonnell Douglas DC-10,DC10-10,16/12/1978,,,CF6-6K,3,N565FE,01/05/2003,Federal Express,,Transferred
+46996,270,McDonnell Douglas DC-10,DC10-10,16/12/1978,,,CF6-6K,3,N565FE,26/07/2004,Federal Express,Stored 10/2009,Stored
+46997,288,McDonnell Douglas DC-10,DC10-30,29/05/1979,,,GE CF6-50C2,3,TU-TAN,10/08/1979,Air Afrique,,Transferred
+46997,288,McDonnell Douglas DC-10,DC10-30,29/05/1979,,,GE CF6-50C2,3,F-GTDG,23/02/1995,AOM French Airlines,,Transferred
+46997,288,McDonnell Douglas DC-10,DC10-30,29/05/1979,,,GE CF6-50C2,3,F-GTDG,25/05/1995,Garuda,,Transferred
+46997,288,McDonnell Douglas DC-10,DC10-30,29/05/1979,,,GE CF6-50C2,3,F-GTDG,20/06/1995,AOM French Airlines,,Transferred
+46997,288,McDonnell Douglas DC-10,DC10-30,29/05/1979,,,GE CF6-50C2,3,F-GTDG,23/01/2004,Sud Airlines,Delivery FNI-MRS 23/01/04 then Stored at CDG - Departed CDG 06/01/05 as N997GA - scrapped at Opa Locka at 10/01/05,Scrapped
+46997,288,McDonnell Douglas DC-10,DC10-30,29/05/1979,,,GE CF6-50C2,3,TU-TAN,10/08/1979,Air Afrique,,Transferred
+46997,288,McDonnell Douglas DC-10,DC10-30,29/05/1979,,,GE CF6-50C2,3,F-GTDG,23/02/1995,AOM French Airlines,,Transferred
+46997,288,McDonnell Douglas DC-10,DC10-30,29/05/1979,,,GE CF6-50C2,3,F-GTDG,25/05/1995,Garuda,,Transferred
+46997,288,McDonnell Douglas DC-10,DC10-30,29/05/1979,,,GE CF6-50C2,3,F-GTDG,20/06/1995,AOM French Airlines,,Transferred
+46997,288,McDonnell Douglas DC-10,DC10-30,29/05/1979,,,GE CF6-50C2,3,F-GTDG,23/01/2004,Sud Airlines,Delivery FNI-MRS 23/01/04 then Stored at CDG - Departed CDG 06/01/05 as N997GA - scrapped at Opa Locka at 10/01/05,Scrapped
+46998,267,McDonnell Douglas DC-10,DC10-30,15/11/1978,,,GE CF6-50C2,3,HB-IHK,31/01/1979,Balair,,Transferred
+46998,267,McDonnell Douglas DC-10,DC10-30,15/11/1978,,,GE CF6-50C2,3,PH-MCO,15/01/1993,Martinair Holland,,Transferred
+46998,267,McDonnell Douglas DC-10,DC10-30,15/11/1978,,,GE CF6-50C2,3,N526MD,14/11/1994,McDonnell Douglas,,Transferred
+46998,267,McDonnell Douglas DC-10,DC10-30,15/11/1978,,,GE CF6-50C2,3,OO-LRM,24/06/1995,Corsair,,Transferred
+46998,267,McDonnell Douglas DC-10,DC10-30,15/11/1978,,,GE CF6-50C2,3,OO-LRM,28/05/1997,Caledonian Airways,,Transferred
+46998,267,McDonnell Douglas DC-10,DC10-30,15/11/1978,,,GE CF6-50C2,3,OO-LRM,01/05/1998,ChallengAir,,Transferred
+46998,267,McDonnell Douglas DC-10,DC10-30,15/11/1978,,,GE CF6-50C2,3,N526MD,03/05/2000,Challenge Air,,Transferred
+46998,267,McDonnell Douglas DC-10,DC10-30,15/11/1978,,,GE CF6-50C2,3,N526MD,13/04/2001,World Airways,Converted to DC10-30F,Transferred
+46998,267,McDonnell Douglas DC-10,DC10-30,15/11/1978,,,GE CF6-50C2,3,N526MD,19/11/2004,Arrow Air,Stored at OPF 07/2010,Stored
+46999,289,McDonnell Douglas DC-10,DC10-30,06/06/1979,,,GE CF6-50C2,3,9V-SDE,29/08/1979,Singapore Airlines,,Transferred
+46999,289,McDonnell Douglas DC-10,DC10-30,06/06/1979,,,GE CF6-50C2,3,PP-VMZ,27/03/1980,Varig,,Transferred
+46999,289,McDonnell Douglas DC-10,DC10-30,06/06/1979,,,GE CF6-50C2,3,N518MD,13/01/1992,McDonnell Douglas,,Transferred
+46999,289,McDonnell Douglas DC-10,DC10-30,06/06/1979,,,GE CF6-50C2,3,N114WA,01/03/1992,World Airways,,Transferred
+46999,289,McDonnell Douglas DC-10,DC10-30,06/06/1979,,,GE CF6-50C2,3,N114WA,01/05/1992,Garuda,,Transferred
+46999,289,McDonnell Douglas DC-10,DC10-30,06/06/1979,,,GE CF6-50C2,3,N114WA,17/07/1993,World Airways,,Transferred
+46999,289,McDonnell Douglas DC-10,DC10-30,06/06/1979,,,GE CF6-50C2,3,S2-ADA,20/07/1993,Biman Bangladesh,,Transferred
+46999,289,McDonnell Douglas DC-10,DC10-30,06/06/1979,,,GE CF6-50C2,3,N524MD,01/11/1994,McDonnell Douglas,,Transferred
+46999,289,McDonnell Douglas DC-10,DC10-30,06/06/1979,,,GE CF6-50C2,3,N524MD,07/09/1995,Aeroflot,Converted to DC10-30F,Transferred
+46999,289,McDonnell Douglas DC-10,DC10-30,06/06/1979,,,GE CF6-50C2,3,N524MD,19/11/2004,Arrow Air,lsd from Miami Leasing - Stored at OPF 07/2010,Scrapped
+47800,92,McDonnell Douglas DC-10,DC10-10,07/03/1973,,,CF6-6K,3,N68046,12/04/1973,Continental Airlines,,Transferred
+47800,92,McDonnell Douglas DC-10,DC10-10,07/03/1973,,,CF6-6K,3,N68046,01/10/1994,Continental Micronesia,,Scrapped
+47801,98,McDonnell Douglas DC-10,DC10-10,05/04/1973,,,CF6-6K,3,N68047,10/05/1973,Continental Airlines,,Transferred
+47801,98,McDonnell Douglas DC-10,DC10-10,05/04/1973,,,CF6-6K,3,N68047,07/05/1994,Continental Micronesia,,Transferred
+47801,98,McDonnell Douglas DC-10,DC10-10,05/04/1973,,,CF6-6K,3,N68047,28/06/1998,Continental Airlines,,Transferred
+47801,98,McDonnell Douglas DC-10,DC10-10,05/04/1973,,,CF6-6K,3,N68047,14/04/2000,Emery Worldwide Airlines,Converted to DC10-10F,Transferred
+47801,98,McDonnell Douglas DC-10,DC10-10,05/04/1973,,,CF6-6K,3,N68047,02/07/2005,Arrow Air,Damaged 04/06/06 while overran the runway,Stored
+47802,101,McDonnell Douglas DC-10,DC10-10,24/04/1973,,,CF6-6K,3,N68048,23/05/1973,Continental Airlines,,Stored
+47803,139,McDonnell Douglas DC-10,DC10-10CF,20/12/1973,,,,,N68049,04/02/1974,Continental Airlines,,Transferred
+47803,139,McDonnell Douglas DC-10,DC10-10CF,20/12/1973,,,,,N68049,21/05/1981,Federal Express,Stored 04/2016,Stored
+47804,142,McDonnell Douglas DC-10,DC10-10CF,17/01/1974,,,,,N68050,04/03/1974,Continental Airlines,,Transferred
+47804,142,McDonnell Douglas DC-10,DC10-10CF,17/01/1974,,,,,N68050,15/09/1980,Federal Express,Stored 12/2012,Stored
+47805,145,McDonnell Douglas DC-10,DC10-10CF,18/02/1974,,,,,N68051,08/04/1974,Continental Airlines,,Transferred
+47805,145,McDonnell Douglas DC-10,DC10-10CF,18/02/1974,,,,,N68051,05/11/1986,Federal Express,Stored 08/2015,Stored
+47806,148,McDonnell Douglas DC-10,DC10-10F,11/03/1974,,,CF6-6K,3,N68052,11/04/1974,Continental Airlines,,Transferred
+47806,148,McDonnell Douglas DC-10,DC10-10F,11/03/1974,,,CF6-6K,3,N68052,14/04/1983,Federal Express,Stored 04/2015,Stored
+47807,173,McDonnell Douglas DC-10,DC10-10CF,17/12/1974,,,,,N68053,18/02/1975,Continental Airlines,,Transferred
+47807,173,McDonnell Douglas DC-10,DC10-10CF,17/12/1974,,,,,N68053,14/04/1983,Federal Express,Stored 03/2019,Stored
+47808,177,McDonnell Douglas DC-10,DC10-10CF,13/01/1975,,,,,N68054,10/03/1975,Continental Airlines,,Transferred
+47808,177,McDonnell Douglas DC-10,DC10-10CF,13/01/1975,,,,,N68054,19/03/1980,Federal Express,Stored 03/2015,Stored
+47809,191,McDonnell Douglas DC-10,DC10-10CF,21/01/1975,,,,,N68055,17/03/1975,Continental Airlines,,Transferred
+47809,191,McDonnell Douglas DC-10,DC10-10CF,21/01/1975,,,,,N68055,03/03/1980,Federal Express,,Written off
+47810,194,McDonnell Douglas DC-10,DC10-10CF,05/02/1975,,,,,N68056,24/03/1975,Continental Airlines,,Transferred
+47810,194,McDonnell Douglas DC-10,DC10-10CF,05/02/1975,,,,,N68056,10/10/1986,Federal Express,Stored at VCV 03/2009,Stored
+47811,302,McDonnell Douglas DC-10,DC10-30,26/09/1979,,,GE CF6-50C2,3,G-BGXE,05/01/1980,Laker Airways,,Transferred
+47811,302,McDonnell Douglas DC-10,DC10-30,26/09/1979,,,GE CF6-50C2,3,G-BGXE,01/09/1980,Malaysia Airlines,,Transferred
+47811,302,McDonnell Douglas DC-10,DC10-30,26/09/1979,,,GE CF6-50C2,3,G-BGXE,16/04/1982,McDonnell Douglas,,Transferred
+47811,302,McDonnell Douglas DC-10,DC10-30,26/09/1979,,,GE CF6-50C2,3,N1852U,14/09/1984,United Airlines,Converted to freighter,Transferred
+47811,302,McDonnell Douglas DC-10,DC10-30,26/09/1979,,,GE CF6-50C2,3,N323FE,16/02/2001,Federal Express,ret to UA after lease 01/2006,Stored
+47812,303,McDonnell Douglas DC-10,DC10-30,04/10/1979,,,GE CF6-50C2,3,G-BGXF,05/01/1980,Laker Airways,,Transferred
+47812,303,McDonnell Douglas DC-10,DC10-30,04/10/1979,,,GE CF6-50C2,3,G-BGXF,18/01/1981,LAN Chile,,Transferred
+47812,303,McDonnell Douglas DC-10,DC10-30,04/10/1979,,,GE CF6-50C2,3,G-BGXF,13/05/1982,McDonnell Douglas,,Transferred
+47812,303,McDonnell Douglas DC-10,DC10-30,04/10/1979,,,GE CF6-50C2,3,N1853U,31/08/1984,United Airlines,Converted to freighter,Scrapped
+47813,312,McDonnell Douglas DC-10,DC10-30,24/12/1979,,,GE CF6-50C2,3,G-BGXG,24/03/1980,Laker Airways,,Transferred
+47813,312,McDonnell Douglas DC-10,DC10-30,24/12/1979,,,GE CF6-50C2,3,N1854U,21/09/1984,United Airlines,Converted to freighter,Transferred
+47813,312,McDonnell Douglas DC-10,DC10-30,24/12/1979,,,GE CF6-50C2,3,N326FE,23/03/2001,Federal Express,ret to UA after lease 02/2006,Transferred
+47813,312,McDonnell Douglas DC-10,DC10-30,24/12/1979,,,GE CF6-50C2,3,N326FE,28/07/2008,Logistic Air,Stored 04/2009,Stored
+47814,315,McDonnell Douglas DC-10,DC10-30,25/01/1980,,,GE CF6-50C2,3,G-BGXH,30/04/1980,Laker Airways,,Transferred
+47814,315,McDonnell Douglas DC-10,DC10-30,25/01/1980,,,GE CF6-50C2,3,N5463Y,01/09/1984,SAS Scandinavian Airlines,,Transferred
+47814,315,McDonnell Douglas DC-10,DC10-30,25/01/1980,,,GE CF6-50C2,3,LN-RKC,01/09/1985,SAS Scandinavian Airlines,,Transferred
+47814,315,McDonnell Douglas DC-10,DC10-30,25/01/1980,,,GE CF6-50C2,3,LN-RKC,04/05/1991,World Airways,,Transferred
+47814,315,McDonnell Douglas DC-10,DC10-30,25/01/1980,,,GE CF6-50C2,3,LN-RKC,21/10/1991,SAS Scandinavian Airlines,,Transferred
+47814,315,McDonnell Douglas DC-10,DC10-30,25/01/1980,,,GE CF6-50C2,3,F-GLMX,22/11/1991,Minerve,,Transferred
+47814,315,McDonnell Douglas DC-10,DC10-30,25/01/1980,,,GE CF6-50C2,3,F-GLMX,01/03/1992,AOM French Airlines,,Transferred
+47814,315,McDonnell Douglas DC-10,DC10-30,25/01/1980,,,GE CF6-50C2,3,F-GLMX,01/04/1995,Garuda,,Transferred
+47814,315,McDonnell Douglas DC-10,DC10-30,25/01/1980,,,GE CF6-50C2,3,F-GLMX,21/06/1995,AOM French Airlines,,Transferred
+47814,315,McDonnell Douglas DC-10,DC10-30,25/01/1980,,,GE CF6-50C2,3,F-GLMX,01/10/2001,Air Lib,Aircraft seen in storage at Orly 12-June-05 with AOM and Cubana titles - Preserved at ORY 12/2007 - Scrapped 07/2008,Scrapped
+47815,325,McDonnell Douglas DC-10,DC10-30,07/12/1979,,,GE CF6-50C2,3,G-BGXI,24/06/1980,Laker Airways,,Transferred
+47815,325,McDonnell Douglas DC-10,DC10-30,07/12/1979,,,GE CF6-50C2,3,G-BGXI,17/12/1980,LAN Chile,,Transferred
+47815,325,McDonnell Douglas DC-10,DC10-30,07/12/1979,,,GE CF6-50C2,3,N5464M,01/09/1984,SAS Scandinavian Airlines,,Transferred
+47815,325,McDonnell Douglas DC-10,DC10-30,07/12/1979,,,GE CF6-50C2,3,SE-DFF,08/08/1985,SAS Scandinavian Airlines,,Transferred
+47815,325,McDonnell Douglas DC-10,DC10-30,07/12/1979,,,GE CF6-50C2,3,F-GKMY,22/02/1991,Minerve,,Transferred
+47815,325,McDonnell Douglas DC-10,DC10-30,07/12/1979,,,GE CF6-50C2,3,F-GKMY,01/03/1992,AOM French Airlines,,Transferred
+47815,325,McDonnell Douglas DC-10,DC10-30,07/12/1979,,,GE CF6-50C2,3,F-GKMY,20/06/1995,AOM French Airlines,,Transferred
+47815,325,McDonnell Douglas DC-10,DC10-30,07/12/1979,,,GE CF6-50C2,3,F-GKMY,01/10/2001,Air Lib,,Stored
+47816,316,McDonnell Douglas DC-10,DC10-30,04/02/1980,,,GE CF6-50C2,3,G-BHDH,30/04/1980,British Caledonian,,Transferred
+47816,316,McDonnell Douglas DC-10,DC10-30,04/02/1980,,,GE CF6-50C2,3,G-BHDH,14/04/1988,British Airways,,Transferred
+47816,316,McDonnell Douglas DC-10,DC10-30,04/02/1980,,,GE CF6-50C2,3,G-BHDH,06/04/1993,Caledonian Airways,,Transferred
+47816,316,McDonnell Douglas DC-10,DC10-30,04/02/1980,,,GE CF6-50C2,3,G-BHDH,31/10/1995,British Airways,,Transferred
+47816,316,McDonnell Douglas DC-10,DC10-30,04/02/1980,,,GE CF6-50C2,3,G-BHDH,05/06/2000,Emery Worldwide Airlines,Converted to DC10-30F,Transferred
+47816,316,McDonnell Douglas DC-10,DC10-30,04/02/1980,,,GE CF6-50C2,3,N144WE,31/05/2002,Omni Air International,Ex N279AX,Transferred
+47816,316,McDonnell Douglas DC-10,DC10-30,04/02/1980,,,GE CF6-50C2,3,N279AX,28/01/2004,Centurion Air Cargo,Stored at SFB 05/2009,Stored
+47817,300,McDonnell Douglas DC-10,DC10-30,10/09/1979,,,GE CF6-50C2,3,9V-SDF,30/11/1979,Singapore Airlines,,Transferred
+47817,300,McDonnell Douglas DC-10,DC10-30,10/09/1979,,,GE CF6-50C2,3,PP-VMR,01/12/1979,Varig,,Transferred
+47817,300,McDonnell Douglas DC-10,DC10-30,10/09/1979,,,GE CF6-50C2,3,9V-SDF,24/11/1980,Singapore Airlines,,Transferred
+47817,300,McDonnell Douglas DC-10,DC10-30,10/09/1979,,,GE CF6-50C2,3,S2-ACQ,30/11/1983,Biman Bangladesh,StoredUsed for spares,Stored
+47818,305,McDonnell Douglas DC-10,DC10-30,23/10/1979,,,GE CF6-50C2,3,9V-SDG,25/01/1980,Singapore Airlines,,Transferred
+47818,305,McDonnell Douglas DC-10,DC10-30,23/10/1979,,,GE CF6-50C2,3,PP-VMS,25/01/1980,Varig,,Transferred
+47818,305,McDonnell Douglas DC-10,DC10-30,23/10/1979,,,GE CF6-50C2,3,N519MD,13/01/1992,McDonnell Douglas,,Transferred
+47818,305,McDonnell Douglas DC-10,DC10-30,23/10/1979,,,GE CF6-50C2,3,N115WA,01/03/1992,World Airways,,Transferred
+47818,305,McDonnell Douglas DC-10,DC10-30,23/10/1979,,,GE CF6-50C2,3,N115WA,28/04/1992,Garuda,,Transferred
+47818,305,McDonnell Douglas DC-10,DC10-30,23/10/1979,,,GE CF6-50C2,3,S2-ADB,20/07/1993,Biman Bangladesh,,Transferred
+47818,305,McDonnell Douglas DC-10,DC10-30,23/10/1979,,,GE CF6-50C2,3,N537MD,11/09/1996,McDonnell Douglas,,Transferred
+47818,305,McDonnell Douglas DC-10,DC10-30,23/10/1979,,,GE CF6-50C2,3,G-LYON,11/03/1998,Caledonian Airways,,Transferred
+47818,305,McDonnell Douglas DC-10,DC10-30,23/10/1979,,,GE CF6-50C2,3,G-LYON,27/03/2000,JMC Airlines,,Transferred
+47818,305,McDonnell Douglas DC-10,DC10-30,23/10/1979,,,GE CF6-50C2,3,5X-ROY,26/06/2002,DAS Air,Converted to DC10-30F,Transferred
+47818,305,McDonnell Douglas DC-10,DC10-30,23/10/1979,,,GE CF6-50C2,3,Z-ALT,01/06/2007,Avient,Stored 07/2013 as N495DC  Scrapped 09/2015,Scrapped
+47819,314,McDonnell Douglas DC-10,DC10-30CF,17/01/1980,,,GE CF6-50C2,3,N109WA,09/04/1980,World Airways,,Transferred
+47819,314,McDonnell Douglas DC-10,DC10-30CF,17/01/1980,,,GE CF6-50C2,3,N109WA,25/03/1983,Air Florida,,Transferred
+47819,314,McDonnell Douglas DC-10,DC10-30CF,17/01/1980,,,GE CF6-50C2,3,N109WA,01/07/1985,Malaysia Airlines,,Transferred
+47819,314,McDonnell Douglas DC-10,DC10-30CF,17/01/1980,,,GE CF6-50C2,3,N1859U,10/04/1986,United Airlines,,Transferred
+47819,314,McDonnell Douglas DC-10,DC10-30CF,17/01/1980,,,GE CF6-50C2,3,PR-BME,05/09/2002,Brasmex,Cesed operations,Transferred
+47819,314,McDonnell Douglas DC-10,DC10-30CF,17/01/1980,,,GE CF6-50C2,3,N478CT,19/02/2005,Arrow Air,Stored at OPF 07/2010,Scrapped
+47820,317,McDonnell Douglas DC-10,DC10-30CF,03/04/1980,40,,GE CF6-50C2,3,N112WA,14/05/1980,World Airways,,Transferred
+47820,317,McDonnell Douglas DC-10,DC10-30CF,03/04/1980,40,,GE CF6-50C2,3,N112WA,25/01/1989,Lufthansa,,Transferred
+47820,317,McDonnell Douglas DC-10,DC10-30CF,03/04/1980,40,,GE CF6-50C2,3,N112WA,01/07/1989,Garuda,,Transferred
+47820,317,McDonnell Douglas DC-10,DC10-30CF,03/04/1980,40,,GE CF6-50C2,3,N112WA,01/07/1990,Malaysia Airlines,,Transferred
+47820,317,McDonnell Douglas DC-10,DC10-30CF,03/04/1980,40,,GE CF6-50C2,3,N112WA,01/08/1990,World Airways,,Transferred
+47820,317,McDonnell Douglas DC-10,DC10-30CF,03/04/1980,40,,GE CF6-50C2,3,N112WA,01/05/1991,Malaysia Airlines,,Transferred
+47820,317,McDonnell Douglas DC-10,DC10-30CF,03/04/1980,40,,GE CF6-50C2,3,N112WA,16/06/1992,Malaysia Airlines,,Transferred
+47820,317,McDonnell Douglas DC-10,DC10-30CF,03/04/1980,40,,GE CF6-50C2,3,N112WA,30/08/1992,World Airways,,Transferred
+47820,317,McDonnell Douglas DC-10,DC10-30CF,03/04/1980,40,,GE CF6-50C2,3,N112WA,25/05/1993,Malaysia Airlines,,Transferred
+47820,317,McDonnell Douglas DC-10,DC10-30CF,03/04/1980,40,,GE CF6-50C2,3,N112WA,14/07/1993,World Airways,,Transferred
+47820,317,McDonnell Douglas DC-10,DC10-30CF,03/04/1980,40,,GE CF6-50C2,3,N112WA,14/05/1994,Malaysia Airlines,,Transferred
+47820,317,McDonnell Douglas DC-10,DC10-30CF,03/04/1980,40,,GE CF6-50C2,3,N319FE,02/09/1994,Federal Express,,Active
+47821,320,McDonnell Douglas DC-10,DC10-30CF,07/03/1980,,,GE CF6-50C2,3,N113WA,27/05/1980,World Airways,,Written off
+47822,304,McDonnell Douglas DC-10,DC10-40,12/10/1979,,,,,JA8539,07/01/1980,Japan Airlines,,Transferred
+47822,304,McDonnell Douglas DC-10,DC10-40,12/10/1979,,,,,JA8539,26/10/1990,Japan Air Charter,,Transferred
+47822,304,McDonnell Douglas DC-10,DC10-40,12/10/1979,,,,,JA8539,03/07/1991,Japan Airlines,,Transferred
+47822,304,McDonnell Douglas DC-10,DC10-40,12/10/1979,,,,,JA8539,23/01/1992,Japan Air Charter,Stored 26/11/2003 as N822V,Stored
+47823,306,McDonnell Douglas DC-10,DC10-40,31/10/1979,,,,,JA8540,24/12/1979,Japan Airlines,,Transferred
+47823,306,McDonnell Douglas DC-10,DC10-40,31/10/1979,,,,,VP-BDE,08/03/2002,Aeroflot,Stored 12/2008,Transferred
+47823,306,McDonnell Douglas DC-10,DC10-40,31/10/1979,,,,,UP-DC101,04/04/2009,Deta Air,Stored 11/2012 as N823VV  Lsd From Wtc,Stored
+47824,308,McDonnell Douglas DC-10,DC10-40,16/11/1979,,N10020,,,JA8541,20/03/1980,Japan Airlines,Stored 10/2005,Transferred
+47824,308,McDonnell Douglas DC-10,DC10-40,16/11/1979,,N10020,,,N824VV,01/10/2018,Omega Air,,On order
+47825,310,McDonnell Douglas DC-10,DC10-40,06/12/1979,,,,,JA8542,17/04/1980,Japan Airlines,Stored 10/2005,Stored
+47826,313,McDonnell Douglas DC-10,DC10-40,09/01/1980,,,,,JA8543,22/05/1980,Japan Airlines,Stored 10/2005,Transferred
+47826,313,McDonnell Douglas DC-10,DC10-40,09/01/1980,,,,,N826VV,01/10/2018,Omega Air,To enter in service,On order
+47827,294,McDonnell Douglas DC-10,DC10-10F,19/07/1979,,,CF6-6K,3,N132AA,13/11/1979,American Airlines,,Transferred
+47827,294,McDonnell Douglas DC-10,DC10-10F,19/07/1979,,,CF6-6K,3,N132AA,04/07/2000,Hawaiian Airlines,,Transferred
+47827,294,McDonnell Douglas DC-10,DC10-10F,19/07/1979,,,CF6-6K,3,N568FE,01/07/2005,Federal Express,Converted MD-10-10 on 15/06/06,Stored
+47828,319,McDonnell Douglas DC-10,DC10-10F,28/02/1980,,,CF6-6K,3,N133AA,15/05/1980,American Airlines,,Transferred
+47828,319,McDonnell Douglas DC-10,DC10-10F,28/02/1980,,,CF6-6K,3,N133AA,12/02/2001,Hawaiian Airlines,,Transferred
+47828,319,McDonnell Douglas DC-10,DC10-10F,28/02/1980,,,CF6-6K,3,N569FE,18/02/2003,Federal Express,Converted to MD-10FStored 02/2013,Stored
+47829,321,McDonnell Douglas DC-10,DC10-10,17/03/1980,,,CF6-6K,3,N134AA,23/05/1980,American Airlines,,Transferred
+47829,321,McDonnell Douglas DC-10,DC10-10,17/03/1980,,,CF6-6K,3,N570FE,16/04/1999,Federal Express,Stored 12/2015Converted to freighter,Stored
+47830,323,McDonnell Douglas DC-10,DC10-10F,03/04/1980,40,,CF6-6K,3,N135AA,09/06/1980,American Airlines,,Transferred
+47830,323,McDonnell Douglas DC-10,DC10-10F,03/04/1980,40,,CF6-6K,3,N135AA,13/03/2000,Hawaiian Airlines,,Transferred
+47830,323,McDonnell Douglas DC-10,DC10-10F,03/04/1980,40,,CF6-6K,3,N571FE,19/03/2002,Federal Express,Converted to freighter 12/2005,Active
+47831,327,McDonnell Douglas DC-10,DC10-30,07/05/1980,,,GE CF6-50C2,3,G-BHDI,21/07/1980,British Caledonian,,Transferred
+47831,327,McDonnell Douglas DC-10,DC10-30,07/05/1980,,,GE CF6-50C2,3,G-BHDI,14/04/1988,British Airways,,Transferred
+47831,327,McDonnell Douglas DC-10,DC10-30,07/05/1980,,,GE CF6-50C2,3,LX-TLD,10/02/2000,Cargo Lion,Converted to DC10-30F,Transferred
+47831,327,McDonnell Douglas DC-10,DC10-30,07/05/1980,,,GE CF6-50C2,3,N402JR,31/07/2001,DAS Air,,Transferred
+47831,327,McDonnell Douglas DC-10,DC10-30,07/05/1980,,,GE CF6-50C2,3,5X-JCR,25/02/2004,DAS Air,Stored 09/2006,Transferred
+47831,327,McDonnell Douglas DC-10,DC10-30,07/05/1980,,,GE CF6-50C2,3,N450ML,06/09/2006,Arrow Air,"Ceased operations on June 29, 2010",Stored
+47832,318,McDonnell Douglas DC-10,DC10-10,20/02/1980,40.1,,CF6-6K,3,N914WA,12/05/1980,Western Airlines,,Transferred
+47832,318,McDonnell Douglas DC-10,DC10-10,20/02/1980,40.1,,CF6-6K,3,N914WA,01/04/1987,Delta Air Lines,,Transferred
+47832,318,McDonnell Douglas DC-10,DC10-10,20/02/1980,40.1,,CF6-6K,3,SE-DHU,30/11/1988,Scanair,,Transferred
+47832,318,McDonnell Douglas DC-10,DC10-10,20/02/1980,40.1,,CF6-6K,3,SE-DHU,01/01/1994,Premiair,,Transferred
+47832,318,McDonnell Douglas DC-10,DC10-10,20/02/1980,40.1,,CF6-6K,3,OY-CNU,15/05/1995,Premiair,,Transferred
+47832,318,McDonnell Douglas DC-10,DC10-10,20/02/1980,40.1,,CF6-6K,3,G-TAOS,01/08/2000,Airtours,,Transferred
+47832,318,McDonnell Douglas DC-10,DC10-10,20/02/1980,40.1,,CF6-6K,3,G-TAOS,08/02/2002,My Travel Airways,,Transferred
+47832,318,McDonnell Douglas DC-10,DC10-10,20/02/1980,40.1,,CF6-6K,3,3D-MRS,18/10/2004,Executive Aero Space,Stored at JNB 07/2005 - reg ZS-GAS 04/2006,Transferred
+47832,318,McDonnell Douglas DC-10,DC10-10,20/02/1980,40.1,,CF6-6K,3,S9-GAS,01/12/2007,Unknown,,Active
+47833,322,McDonnell Douglas DC-10,DC10-10,25/03/1980,,,CF6-6K,3,N915WA,05/06/1980,Western Airlines,,Transferred
+47833,322,McDonnell Douglas DC-10,DC10-10,25/03/1980,,,CF6-6K,3,N915WA,01/04/1987,Delta Air Lines,,Transferred
+47833,322,McDonnell Douglas DC-10,DC10-10,25/03/1980,,,CF6-6K,3,SE-DHT,22/12/1988,Scanair,,Transferred
+47833,322,McDonnell Douglas DC-10,DC10-10,25/03/1980,,,CF6-6K,3,SE-DHT,01/01/1994,Premiair,,Transferred
+47833,322,McDonnell Douglas DC-10,DC10-10,25/03/1980,,,CF6-6K,3,SE-DHT,09/01/1995,Sun Country Airlines,,Transferred
+47833,322,McDonnell Douglas DC-10,DC10-10,25/03/1980,,,CF6-6K,3,OY-CNT,31/05/1995,Premiair,Scrapped at BOH in 2001,Scrapped
+47834,324,McDonnell Douglas DC-10,DC10-30,11/04/1980,,,GE CF6-50C2,3,EC-DHZ,23/06/1980,Iberia,Named Costas Canarias - Scrapped at Opa Locka 09/2005,Scrapped
+47835,326,McDonnell Douglas DC-10,DC10-30CF,09/06/1980,39.8,,GE CF6-50C2,3,OO-SLD,09/07/1980,Sabena,,Transferred
+47835,326,McDonnell Douglas DC-10,DC10-30CF,09/06/1980,39.8,,GE CF6-50C2,3,N320FE,20/02/1992,Federal Express,Stored 05/2019 to 09/2019 Named Kyndall,Active
+47836,330,McDonnell Douglas DC-10,DC10-30CF,15/07/1980,39.7,,GE CF6-50C2,3,OO-SLE,14/08/1980,Sabena,,Transferred
+47836,330,McDonnell Douglas DC-10,DC10-30CF,15/07/1980,39.7,,GE CF6-50C2,3,N321FE,01/07/1992,Federal Express,,Active
+47837,328,McDonnell Douglas DC-10,DC10-30,15/05/1980,,,GE CF6-50C2,3,N84NA,06/08/1980,Pan Am,,Transferred
+47837,328,McDonnell Douglas DC-10,DC10-30,15/05/1980,,,GE CF6-50C2,3,N1855U,29/04/1985,United Airlines,Scrapped at Las Vegas,Scrapped
+47838,338,McDonnell Douglas DC-10,DC10-30,11/08/1980,,,GE CF6-50C2,3,RP-C2114,25/11/1980,Philippine Airlines,,Transferred
+47838,338,McDonnell Douglas DC-10,DC10-30,11/08/1980,,,GE CF6-50C2,3,G-GOKT,02/05/1996,Caledonian Airways,,Transferred
+47838,338,McDonnell Douglas DC-10,DC10-30,11/08/1980,,,GE CF6-50C2,3,G-GOKT,27/03/2000,JMC Airlines,,Transferred
+47838,338,McDonnell Douglas DC-10,DC10-30,11/08/1980,,,GE CF6-50C2,3,N352WL,31/05/2001,World Airways,Stored at Greenwood MS as of last year 2005,Scrapped
+47840,337,McDonnell Douglas DC-10,DC10-30F,01/08/1980,,N19B,GE CF6-50C2,3,G-BHDJ,16/10/1980,British Caledonian,,Transferred
+47840,337,McDonnell Douglas DC-10,DC10-30F,01/08/1980,,N19B,GE CF6-50C2,3,G-BHDJ,14/04/1988,British Airways,,Transferred
+47840,337,McDonnell Douglas DC-10,DC10-30F,01/08/1980,,N19B,GE CF6-50C2,3,N612GC,19/10/1999,Gemini Air Cargo,Converted to DC10-30F,Transferred
+47840,337,McDonnell Douglas DC-10,DC10-30F,01/08/1980,,N19B,GE CF6-50C2,3,N612GC,19/10/2004,Centurion Air Cargo,,Transferred
+47840,337,McDonnell Douglas DC-10,DC10-30F,01/08/1980,,N19B,GE CF6-50C2,3,N612GC,01/06/2010,Cielos del Peru,Stored 06/2011,Transferred
+47840,337,McDonnell Douglas DC-10,DC10-30F,01/08/1980,,N19B,GE CF6-50C2,3,YV524T,18/10/2012,Solar Cargo,Scrapped 01/2019,Scrapped
+47841,329,McDonnell Douglas DC-10,DC10-30F,23/05/1980,,,GE CF6-50C2,3,PP-VMT,31/07/1980,Varig,Converted to DC10-30F,Transferred
+47841,329,McDonnell Douglas DC-10,DC10-30F,23/05/1980,,,GE CF6-50C2,3,PP-VMT,01/01/2006,VARIG Logistica,Stored at GRU 05/2008 then VCP 10/2008 - Stored at MZJ 08/2009 as N576SH  Scrapped,Scrapped
+47842,332,McDonnell Douglas DC-10,DC10-30F,19/06/1980,,,GE CF6-50C2,3,PP-VMU,09/10/1980,Varig,Converted to DC10-30F,Transferred
+47842,332,McDonnell Douglas DC-10,DC10-30F,19/06/1980,,,GE CF6-50C2,3,PP-VMU,01/01/2000,VARIG Logistica,Scrapped 09/2017Stored at MAO 03/2008 - Left Brazil 12/2009 as N578SH - lsd from Pegasus Aviation,Scrapped
+47843,335,McDonnell Douglas DC-10,DC10-30,16/07/1980,,,GE CF6-50C2,3,PP-VMV,09/10/1980,Varig,,Transferred
+47843,335,McDonnell Douglas DC-10,DC10-30,16/07/1980,,,GE CF6-50C2,3,N335SJ,29/10/1999,Skyjet,Converted to DC10-30F,Transferred
+47843,335,McDonnell Douglas DC-10,DC10-30,16/07/1980,,,GE CF6-50C2,3,N335SJ,30/06/2000,DAS Air,,Transferred
+47843,335,McDonnell Douglas DC-10,DC10-30,16/07/1980,,,GE CF6-50C2,3,SX-CVC,11/11/2001,Electra Airlines,Stored at Nimes 2003,Transferred
+47843,335,McDonnell Douglas DC-10,DC10-30,16/07/1980,,,GE CF6-50C2,3,I-CGIA,01/05/2006,CargoItalia,Stored at FNI 11/2008,Stored
+47844,336,McDonnell Douglas DC-10,DC10-30,24/07/1980,,,GE CF6-50C2,3,PP-VMW,10/11/1980,Varig,,Transferred
+47844,336,McDonnell Douglas DC-10,DC10-30,24/07/1980,,,GE CF6-50C2,3,PP-VMW,01/07/1994,Pluna,,Transferred
+47844,336,McDonnell Douglas DC-10,DC10-30,24/07/1980,,,GE CF6-50C2,3,N237NW,30/12/1997,Northwest Airlines,Stored 08/01/07 - wfu at Marana since 21/02/2007,Transferred
+47844,336,McDonnell Douglas DC-10,DC10-30,24/07/1980,,,GE CF6-50C2,3,N237NW,30/03/2007,ATA Airlines,,Transferred
+47844,336,McDonnell Douglas DC-10,DC10-30,24/07/1980,,,GE CF6-50C2,3,N136WA,22/02/2008,World Airways,Stored 07/2010,Stored
+47845,356,McDonnell Douglas DC-10,DC10-30,17/03/1981,,,GE CF6-50C2,3,PP-VMX,09/06/1981,Varig,,Transferred
+47845,356,McDonnell Douglas DC-10,DC10-30,17/03/1981,,,GE CF6-50C2,3,PP-VMX,03/10/1993,LAPSA Air Paraguay,,Transferred
+47845,356,McDonnell Douglas DC-10,DC10-30,17/03/1981,,,GE CF6-50C2,3,PP-VMX,27/01/1994,Varig,,Transferred
+47845,356,McDonnell Douglas DC-10,DC10-30,17/03/1981,,,GE CF6-50C2,3,PP-VMX,06/04/1994,Garuda,,Transferred
+47845,356,McDonnell Douglas DC-10,DC10-30,17/03/1981,,,GE CF6-50C2,3,PP-VMX,01/07/1994,Varig,,Transferred
+47845,356,McDonnell Douglas DC-10,DC10-30,17/03/1981,,,GE CF6-50C2,3,N242NW,02/09/1999,Northwest Airlines,Stored at Marana 02/2006,Transferred
+47845,356,McDonnell Douglas DC-10,DC10-30,17/03/1981,,,GE CF6-50C2,3,N242NW,23/04/2007,ATA Airlines,,Transferred
+47845,356,McDonnell Douglas DC-10,DC10-30,17/03/1981,,,GE CF6-50C2,3,N138WA,23/02/2008,World Airways,Stored 11/2010 - Scrapped,Scrapped
+47846,69,McDonnell Douglas DC-10,DC10-30,26/10/1972,,,GE CF6-50C2,3,ZK-NZL,11/01/1973,Air New Zealand,,Transferred
+47846,69,McDonnell Douglas DC-10,DC10-30,26/10/1972,,,GE CF6-50C2,3,N136AA,21/10/1981,American Airlines,Crashed 21/05/88 at Dallas Ft Worth during TO,Written off
+47847,116,McDonnell Douglas DC-10,DC10-30,13/07/1973,,,GE CF6-50C2,3,ZK-NZM,14/09/1973,Air New Zealand,,Transferred
+47847,116,McDonnell Douglas DC-10,DC10-30,13/07/1973,,,GE CF6-50C2,3,N137AA,16/07/1982,American Airlines,Scrapped in 2002,Scrapped
+47848,136,McDonnell Douglas DC-10,DC10-30,06/12/1973,,,GE CF6-50C2,3,ZK-NZN,18/01/1974,Air New Zealand,,Transferred
+47848,136,McDonnell Douglas DC-10,DC10-30,06/12/1973,,,GE CF6-50C2,3,ZK-NZN,26/11/1978,Malaysia Airlines,,Transferred
+47848,136,McDonnell Douglas DC-10,DC10-30,06/12/1973,,,GE CF6-50C2,3,N821L,14/04/1981,Western Airlines,,Transferred
+47848,136,McDonnell Douglas DC-10,DC10-30,06/12/1973,,,GE CF6-50C2,3,N821L,21/09/1983,Air Pacific,,Transferred
+47848,136,McDonnell Douglas DC-10,DC10-30,06/12/1973,,,GE CF6-50C2,3,N144AA,03/01/1985,American Airlines,Scrapped in 2002,Scrapped
+47848,136,McDonnell Douglas DC-10,DC10-30,06/12/1973,,,GE CF6-50C2,3,ZK-NZN,18/01/1974,Air New Zealand,,Transferred
+47848,136,McDonnell Douglas DC-10,DC10-30,06/12/1973,,,GE CF6-50C2,3,ZK-NZN,26/11/1978,Malaysia Airlines,,Transferred
+47848,136,McDonnell Douglas DC-10,DC10-30,06/12/1973,,,GE CF6-50C2,3,N821L,14/04/1981,Western Airlines,,Transferred
+47848,136,McDonnell Douglas DC-10,DC10-30,06/12/1973,,,GE CF6-50C2,3,N821L,21/09/1983,Air Pacific,,Transferred
+47848,136,McDonnell Douglas DC-10,DC10-30,06/12/1973,,,GE CF6-50C2,3,N144AA,03/01/1985,American Airlines,Scrapped in 2002,Scrapped
+47849,213,McDonnell Douglas DC-10,DC10-30,22/08/1975,,,GE CF6-50C2,3,ZK-NZR,02/10/1975,Air New Zealand,,Transferred
+47849,213,McDonnell Douglas DC-10,DC10-30,22/08/1975,,,GE CF6-50C2,3,F-GDJK,18/12/1982,LAM Linhas Aereas De Mocambique,,Transferred
+47849,213,McDonnell Douglas DC-10,DC10-30,22/08/1975,,,GE CF6-50C2,3,F-GDJK,27/05/1992,Air Martinique,,Transferred
+47849,213,McDonnell Douglas DC-10,DC10-30,22/08/1975,,,GE CF6-50C2,3,F-GNDC,14/12/1993,AOM French Airlines,,Transferred
+47849,213,McDonnell Douglas DC-10,DC10-30,22/08/1975,,,GE CF6-50C2,3,F-GNDC,01/10/2001,Air Lib,Scrapped 08/2004,Scrapped
+47850,331,McDonnell Douglas DC-10,DC10-30,11/06/1980,,,GE CF6-50C2,3,N68060,28/08/1980,Continental Airlines,,Transferred
+47850,331,McDonnell Douglas DC-10,DC10-30,11/06/1980,,,GE CF6-50C2,3,N68060,17/11/1999,Hawaiian Airlines,,Stored
+47851,334,McDonnell Douglas DC-10,DC10-30,08/07/1980,,,GE CF6-50C2,3,N12061,25/09/1980,Continental Airlines,,Transferred
+47851,334,McDonnell Douglas DC-10,DC10-30,08/07/1980,,,GE CF6-50C2,3,N12061,11/11/1999,Hawaiian Airlines,,Stored
+47852,340,McDonnell Douglas DC-10,DC10-40,27/08/1980,,,,,JA8544,09/12/1980,Japan Airlines,,Transferred
+47852,340,McDonnell Douglas DC-10,DC10-40,27/08/1980,,,,,JA8544,01/07/1989,Japan Asia Airways,,Transferred
+47852,340,McDonnell Douglas DC-10,DC10-40,27/08/1980,,,,,JA8544,01/01/1990,Japan Airlines,,Transferred
+47852,340,McDonnell Douglas DC-10,DC10-40,27/08/1980,,,,,JA8544,20/08/1993,Japan Air Charter,Stored at Mojave as N852V 04/2004,Transferred
+47852,340,McDonnell Douglas DC-10,DC10-40,27/08/1980,,,,,N852V,14/07/2004,Global Airtanker,Stored at Marana 02/2006,Stored
+47853,343,McDonnell Douglas DC-10,DC10-40,29/09/1980,,,,,JA8545,19/12/1980,Japan Airlines,,Transferred
+47853,343,McDonnell Douglas DC-10,DC10-40,29/09/1980,,,,,JA8545,16/08/1992,Japan Asia Airways,,Transferred
+47853,343,McDonnell Douglas DC-10,DC10-40,29/09/1980,,,,,JA8545,27/10/1995,Japan Asia Airways,,Transferred
+47853,343,McDonnell Douglas DC-10,DC10-40,29/09/1980,,,,,JA8545,08/11/1995,Japan Airlines,Stored at Goodyear 08/2005,Transferred
+47853,343,McDonnell Douglas DC-10,DC10-40,29/09/1980,,,,,N853VV,01/01/2019,Omega Air,To enter in service,On order
+47855,349,McDonnell Douglas DC-10,DC10-40,09/12/1980,,N13627,,,JA8546,26/03/1981,Japan Airlines,,Transferred
+47855,349,McDonnell Douglas DC-10,DC10-40,09/12/1980,,N13627,,,VP-BDF,25/07/2002,Aeroflot,Converted to DC10-40F - Stored 10/2008,Transferred
+47855,349,McDonnell Douglas DC-10,DC10-40,09/12/1980,,N13627,,,UP-DC102,19/02/2009,Deta Air,Stored 12/2012 as N855VV (WTC),Stored
+47856,366,McDonnell Douglas DC-10,DC10-40,04/09/1981,,,,,JA8547,09/12/1981,Japan Airlines,,Transferred
+47856,366,McDonnell Douglas DC-10,DC10-40,04/09/1981,,,,,JA8547,24/04/1995,Japan Air Charter,,Stored
+47857,367,McDonnell Douglas DC-10,DC10-40,23/09/1981,,,,,JA8548,27/01/1982,Japan Airlines,,Stored
+47861,75,McDonnell Douglas DC-10,DC10-30,21/01/1973,,,GE CF6-50C2,3,I-DYNA,06/02/1973,Alitalia,Named Galileo Galilei,Transferred
+47861,75,McDonnell Douglas DC-10,DC10-30,21/01/1973,,,GE CF6-50C2,3,N3878P,27/12/1982,McDonnell Douglas,,Transferred
+47861,75,McDonnell Douglas DC-10,DC10-30,21/01/1973,,,GE CF6-50C2,3,N3878P,15/12/1983,Aeromexico,,Transferred
+47861,75,McDonnell Douglas DC-10,DC10-30,21/01/1973,,,GE CF6-50C2,3,XA-RIY,13/06/1989,Aeromexico,,Transferred
+47861,75,McDonnell Douglas DC-10,DC10-30,21/01/1973,,,GE CF6-50C2,3,V2-LEH,21/03/1995,Skyjet,,Transferred
+47861,75,McDonnell Douglas DC-10,DC10-30,21/01/1973,,,GE CF6-50C2,3,V2-LEH,26/05/1996,Excalibur,,Transferred
+47861,75,McDonnell Douglas DC-10,DC10-30,21/01/1973,,,GE CF6-50C2,3,V2-LEH,01/07/1996,Viasa,,Transferred
+47861,75,McDonnell Douglas DC-10,DC10-30,21/01/1973,,,GE CF6-50C2,3,XA-TFM,20/12/1996,TAESA,,Transferred
+47861,75,McDonnell Douglas DC-10,DC10-30,21/01/1973,,,GE CF6-50C2,3,N39081,01/04/1997,Continental Airlines,,Stored
+47862,88,McDonnell Douglas DC-10,DC10-30,14/02/1973,,,GE CF6-50C2,3,I-DYNE,21/03/1973,Alitalia,Named Dante Alighieri,Transferred
+47862,88,McDonnell Douglas DC-10,DC10-30,14/02/1973,,,GE CF6-50C2,3,N390EA,15/01/1986,Eastern Airlines EAL,,Transferred
+47862,88,McDonnell Douglas DC-10,DC10-30,14/02/1973,,,GE CF6-50C2,3,N390EA,09/10/1986,Continental Airlines,,Transferred
+47862,88,McDonnell Douglas DC-10,DC10-30,14/02/1973,,,GE CF6-50C2,3,N12064,01/06/1990,Continental Airlines,,Stored
+47863,94,McDonnell Douglas DC-10,DC10-30,17/03/1973,,,GE CF6-50C2,3,I-DYNI,20/04/1973,Alitalia,Named Michelangelo Buonarroti,Transferred
+47863,94,McDonnell Douglas DC-10,DC10-30,17/03/1973,,,GE CF6-50C2,3,N3878M,28/12/1982,McDonnell Douglas,,Transferred
+47863,94,McDonnell Douglas DC-10,DC10-30,17/03/1973,,,GE CF6-50C2,3,N3878M,27/04/1984,Continental Airlines,,Transferred
+47863,94,McDonnell Douglas DC-10,DC10-30,17/03/1973,,,GE CF6-50C2,3,N14062,01/03/1985,Continental Airlines,Vasp colors on the right side (1998),Scrapped
+47864,121,McDonnell Douglas DC-10,DC10-30,17/08/1973,,,GE CF6-50C2,3,I-DYNO,13/11/1973,Alitalia,,Transferred
+47864,121,McDonnell Douglas DC-10,DC10-30,17/08/1973,,,GE CF6-50C2,3,I-DYNO,16/09/1982,Sabena,,Transferred
+47864,121,McDonnell Douglas DC-10,DC10-30,17/08/1973,,,GE CF6-50C2,3,N3878F,29/12/1982,McDonnell Douglas,,Transferred
+47864,121,McDonnell Douglas DC-10,DC10-30,17/08/1973,,,GE CF6-50C2,3,N3878F,18/06/1984,Continental Airlines,,Transferred
+47864,121,McDonnell Douglas DC-10,DC10-30,17/08/1973,,,GE CF6-50C2,3,N14063,01/03/1985,Continental Airlines,Named Benvenuto Cellini,Stored
+47865,135,McDonnell Douglas DC-10,DC10-30,29/11/1973,,,GE CF6-50C2,3,I-DYNU,22/01/1974,Alitalia,Named Guglielmo Marconi,Transferred
+47865,135,McDonnell Douglas DC-10,DC10-30,29/11/1973,,,GE CF6-50C2,3,OH-LHD,28/10/1983,Finnair,,Transferred
+47865,135,McDonnell Douglas DC-10,DC10-30,29/11/1973,,,GE CF6-50C2,3,OH-LHD,03/08/1984,Malaysia Airlines,,Transferred
+47865,135,McDonnell Douglas DC-10,DC10-30,29/11/1973,,,GE CF6-50C2,3,OH-LHD,11/09/1984,Malaysia Airlines,,Transferred
+47865,135,McDonnell Douglas DC-10,DC10-30,29/11/1973,,,GE CF6-50C2,3,OH-LHD,30/09/1984,Finnair,,Transferred
+47865,135,McDonnell Douglas DC-10,DC10-30,29/11/1973,,,GE CF6-50C2,3,OH-LHD,15/06/1993,Express One International,,Transferred
+47865,135,McDonnell Douglas DC-10,DC10-30,29/11/1973,,,GE CF6-50C2,3,OH-LHD,21/02/1994,LOT Polish Airlines,,Transferred
+47865,135,McDonnell Douglas DC-10,DC10-30,29/11/1973,,,GE CF6-50C2,3,OH-LHD,26/03/1994,Finnair,,Transferred
+47865,135,McDonnell Douglas DC-10,DC10-30,29/11/1973,,,GE CF6-50C2,3,F-GPVD,02/07/1994,Air Liberte,,Transferred
+47865,135,McDonnell Douglas DC-10,DC10-30,29/11/1973,,,GE CF6-50C2,3,F-GPVD,01/10/2001,Air Lib,Scrapped at Opa Locka on 14/01/2005,Scrapped
+47866,149,McDonnell Douglas DC-10,DC10-30,18/03/1974,,,GE CF6-50C2,3,I-DYNB,19/04/1974,Alitalia,Named Giotto di Bondone,Transferred
+47866,149,McDonnell Douglas DC-10,DC10-30,18/03/1974,,,GE CF6-50C2,3,N391EA,27/06/1985,Eastern Airlines EAL,,Transferred
+47866,149,McDonnell Douglas DC-10,DC10-30,18/03/1974,,,GE CF6-50C2,3,N13067,21/09/1990,Continental Airlines,Scrapped in 2012,Scrapped
+47867,178,McDonnell Douglas DC-10,DC10-30,10/10/1974,,,GE CF6-50C2,3,I-DYNC,18/02/1975,Alitalia,Named Luigi Pirandello,Transferred
+47867,178,McDonnell Douglas DC-10,DC10-30,10/10/1974,,,GE CF6-50C2,3,I-DYNC,12/04/1982,Sabena,,Transferred
+47867,178,McDonnell Douglas DC-10,DC10-30,10/10/1974,,,GE CF6-50C2,3,N392EA,29/11/1985,Eastern Airlines EAL,,Transferred
+47867,178,McDonnell Douglas DC-10,DC10-30,10/10/1974,,,GE CF6-50C2,3,N41068,10/12/1990,Continental Airlines,,Transferred
+47867,178,McDonnell Douglas DC-10,DC10-30,10/10/1974,,,GE CF6-50C2,3,N392EA,22/09/1995,Continental Micronesia,,Transferred
+47867,178,McDonnell Douglas DC-10,DC10-30,10/10/1974,,,GE CF6-50C2,3,N41068,03/02/1996,Continental Airlines,,Transferred
+47867,178,McDonnell Douglas DC-10,DC10-30,10/10/1974,,,GE CF6-50C2,3,YV-60C,01/01/2002,Avensa,,Transferred
+47867,178,McDonnell Douglas DC-10,DC10-30,10/10/1974,,,GE CF6-50C2,3,YV-1040C,24/09/2002,SBA Airlines,Stored 10/2005 named Ciudad Puerto de la cruz,Stored
+47868,200,McDonnell Douglas DC-10,DC10-30,26/03/1975,,,GE CF6-50C2,3,I-DYND,05/05/1975,Alitalia,Named Enrico Fermi,Transferred
+47868,200,McDonnell Douglas DC-10,DC10-30,26/03/1975,,,GE CF6-50C2,3,AP-BBL,25/05/1983,Pakistan International Airlines,,Transferred
+47868,200,McDonnell Douglas DC-10,DC10-30,26/03/1975,,,GE CF6-50C2,3,C-FCRE,19/12/1985,Cp Air,,Transferred
+47868,200,McDonnell Douglas DC-10,DC10-30,26/03/1975,,,GE CF6-50C2,3,C-FCRE,26/04/1987,Canadian Airlines,,Transferred
+47868,200,McDonnell Douglas DC-10,DC10-30,26/03/1975,,,GE CF6-50C2,3,PP-SON,21/06/1991,VASP,,Transferred
+47868,200,McDonnell Douglas DC-10,DC10-30,26/03/1975,,,GE CF6-50C2,3,C-FCRE,01/03/1995,Canadian Airlines,,Stored
+47870,339,McDonnell Douglas DC-10,DC10-30F,19/08/1980,,,GE CF6-50C2,3,N305FE,07/09/1984,Federal Express,,Transferred
+47870,339,McDonnell Douglas DC-10,DC10-30F,19/08/1980,,,GE CF6-50C2,3,N305FE,05/04/2003,Cielos del Peru,,Stored
+47886,90,McDonnell Douglas DC-10,DC10-30,24/02/1973,,N54633,GE CF6-50C2,3,9Q-CLI,08/06/1973,Air Zaire,,Transferred
+47886,90,McDonnell Douglas DC-10,DC10-30,24/02/1973,,N54633,GE CF6-50C2,3,9Q-CLI,01/11/1975,Air Tchad,,Transferred
+47886,90,McDonnell Douglas DC-10,DC10-30,24/02/1973,,N54633,GE CF6-50C2,3,9Q-CLI,18/10/1977,Sabena,,Transferred
+47886,90,McDonnell Douglas DC-10,DC10-30,24/02/1973,,N54633,GE CF6-50C2,3,9Q-CLI,01/01/1978,Sabena,,Transferred
+47886,90,McDonnell Douglas DC-10,DC10-30,24/02/1973,,N54633,GE CF6-50C2,3,9Q-CLI,19/02/1979,Sabena,,Transferred
+47886,90,McDonnell Douglas DC-10,DC10-30,24/02/1973,,N54633,GE CF6-50C2,3,F-OGQC,01/02/1986,Air Zaire,,Transferred
+47886,90,McDonnell Douglas DC-10,DC10-30,24/02/1973,,N54633,GE CF6-50C2,3,9Q-CLI,22/12/1988,Air Zaire,Stored at Tel Aviv since 10/1992 then scrapped in 2002,Scrapped
+47887,125,McDonnell Douglas DC-10,DC10-30,17/09/1973,,N54634,GE CF6-50C2,3,HS-VGE,25/11/1974,Air Siam,,Transferred
+47887,125,McDonnell Douglas DC-10,DC10-30,17/09/1973,,N54634,GE CF6-50C2,3,HL7328,25/02/1977,Korean Air,,Written off
+47888,291,McDonnell Douglas DC-10,DC10-30,22/06/1979,,,GE CF6-50C2,3,YA-LAS,21/09/1979,Ariana Afghan Airlines,,Transferred
+47888,291,McDonnell Douglas DC-10,DC10-30,22/06/1979,,,GE CF6-50C2,3,G-MULL,21/03/1985,British Caledonian,,Transferred
+47888,291,McDonnell Douglas DC-10,DC10-30,22/06/1979,,,GE CF6-50C2,3,G-MULL,14/04/1988,British Airways,,Transferred
+47888,291,McDonnell Douglas DC-10,DC10-30,22/06/1979,,,GE CF6-50C2,3,N47888,01/12/2002,Centurion Air Cargo,Stored at LIM 05/2010,Transferred
+47888,291,McDonnell Douglas DC-10,DC10-30,22/06/1979,,,GE CF6-50C2,3,N900AR,22/11/2010,Cielos del Peru,Stored 08/2011,Stored
+47889,229,McDonnell Douglas DC-10,DC10-30,03/06/1976,,N19B,GE CF6-50C2,3,AP-AYM,25/08/1976,Pakistan International Airlines,,Transferred
+47889,229,McDonnell Douglas DC-10,DC10-30,03/06/1976,,N19B,GE CF6-50C2,3,C-FCRD,28/10/1986,Cp Air,,Transferred
+47889,229,McDonnell Douglas DC-10,DC10-30,03/06/1976,,N19B,GE CF6-50C2,3,C-FCRD,26/04/1987,Canadian Airlines,,Transferred
+47889,229,McDonnell Douglas DC-10,DC10-30,03/06/1976,,N19B,GE CF6-50C2,3,PP-SOV,15/11/1991,VASP,,Transferred
+47889,229,McDonnell Douglas DC-10,DC10-30,03/06/1976,,N19B,GE CF6-50C2,3,PP-SOV,09/12/1994,AeroPeru,,Transferred
+47889,229,McDonnell Douglas DC-10,DC10-30,03/06/1976,,N19B,GE CF6-50C2,3,C-FCRD,15/02/1995,Canadian Airlines,Stored at Goodyear,Transferred
+47889,229,McDonnell Douglas DC-10,DC10-30,03/06/1976,,N19B,GE CF6-50C2,3,N306FV,22/09/2005,Centurion Air Cargo,Stored 07/2007,Stored
+47906,115,McDonnell Douglas DC-10,DC10-30CF,09/07/1973,,,GE CF6-50C2,3,OO-SLA,18/09/1973,Sabena,,Transferred
+47906,115,McDonnell Douglas DC-10,DC10-30CF,09/07/1973,,,GE CF6-50C2,3,OO-SLA,15/06/1986,JAT Airways,,Transferred
+47906,115,McDonnell Douglas DC-10,DC10-30CF,09/07/1973,,,GE CF6-50C2,3,OO-SLA,12/06/1987,JAT Airways,,Transferred
+47906,115,McDonnell Douglas DC-10,DC10-30CF,09/07/1973,,,GE CF6-50C2,3,OO-SLA,13/11/1989,Zambian Airways,,Transferred
+47906,115,McDonnell Douglas DC-10,DC10-30CF,09/07/1973,,,GE CF6-50C2,3,OO-SLA,11/02/1990,Zambian Airways,,Transferred
+47906,115,McDonnell Douglas DC-10,DC10-30CF,09/07/1973,,,GE CF6-50C2,3,OO-SLA,19/03/1990,Sabena,,Transferred
+47906,115,McDonnell Douglas DC-10,DC10-30CF,09/07/1973,,,GE CF6-50C2,3,N116WA,08/12/1994,World Airways,,Transferred
+47906,115,McDonnell Douglas DC-10,DC10-30CF,09/07/1973,,,GE CF6-50C2,3,5X-JOE,26/10/1995,DAS Air,Stored at MSEScrapped 05/2012,Scrapped
+47907,157,McDonnell Douglas DC-10,DC10-30CF,13/05/1974,,,GE CF6-50C2,3,OO-SLB,10/06/1974,Sabena,,Transferred
+47907,157,McDonnell Douglas DC-10,DC10-30CF,13/05/1974,,,GE CF6-50C2,3,N10MB,04/08/1994,Nippon Miniature Ballbearing,,Transferred
+47907,157,McDonnell Douglas DC-10,DC10-30CF,13/05/1974,,,GE CF6-50C2,3,N10MB,03/07/2002,Omega Air Honduras,,Transferred
+47907,157,McDonnell Douglas DC-10,DC10-30CF,13/05/1974,,,GE CF6-50C2,3,Z-ARL,01/10/2004,Avient,Stored in 2012,Stored
+47908,215,McDonnell Douglas DC-10,DC10-30CF,18/09/1975,,,GE CF6-50C2,3,OO-SLC,27/10/1975,Sabena,,Transferred
+47908,215,McDonnell Douglas DC-10,DC10-30CF,18/09/1975,,,GE CF6-50C2,3,OO-SLC,28/01/1991,Royal Air Force,,Transferred
+47908,215,McDonnell Douglas DC-10,DC10-30CF,18/09/1975,,,GE CF6-50C2,3,OO-SLC,05/03/1991,Sabena,,Transferred
+47908,215,McDonnell Douglas DC-10,DC10-30CF,18/09/1975,,,GE CF6-50C2,3,N322FE,27/10/1992,Federal Express,,Transferred
+47908,215,McDonnell Douglas DC-10,DC10-30CF,18/09/1975,,,GE CF6-50C2,3,N322FE,01/08/2004,Cielos del Peru,,Transferred
+47908,215,McDonnell Douglas DC-10,DC10-30CF,18/09/1975,,,GE CF6-50C2,3,PP-MTA,01/05/2006,Master Top Linhas Aereas,Ceased operations 10/2011,Stored
+47921,117,McDonnell Douglas DC-10,DC10-30,20/07/1973,,,GE CF6-50C2,3,D-ADAO,12/11/1973,Lufthansa,,Transferred
+47921,117,McDonnell Douglas DC-10,DC10-30,20/07/1973,,,GE CF6-50C2,3,N601GC,12/12/1995,Sun Country Airlines,Converted to freighter,Transferred
+47921,117,McDonnell Douglas DC-10,DC10-30,20/07/1973,,,GE CF6-50C2,3,N601GC,22/04/1997,Gemini Air Cargo,Named Molly - Stored 07/2007 - Scrapped 11/2010,Scrapped
+47922,122,McDonnell Douglas DC-10,DC10-30,24/08/1973,,,GE CF6-50C2,3,D-ADBO,15/01/1974,Lufthansa,,Transferred
+47922,122,McDonnell Douglas DC-10,DC10-30,24/08/1973,,,GE CF6-50C2,3,9J-AFN,01/09/1990,Zambian Airways,,Transferred
+47922,122,McDonnell Douglas DC-10,DC10-30,24/08/1973,,,GE CF6-50C2,3,D-ADBO,17/01/1991,Lufthansa,,Transferred
+47922,122,McDonnell Douglas DC-10,DC10-30,24/08/1973,,,GE CF6-50C2,3,N603GC,08/11/1995,Gemini Air Cargo,Converted to DC10-30F,Transferred
+47922,122,McDonnell Douglas DC-10,DC10-30,24/08/1973,,,GE CF6-50C2,3,N603GC,23/05/1996,Sun Country Airlines,,Transferred
+47922,122,McDonnell Douglas DC-10,DC10-30,24/08/1973,,,GE CF6-50C2,3,N603GC,01/11/1996,Gemini Air Cargo,,Scrapped
+47923,123,McDonnell Douglas DC-10,DC10-30,31/08/1973,,,GE CF6-50C2,3,D-ADCO,11/02/1974,Lufthansa,Named Doris,Transferred
+47923,123,McDonnell Douglas DC-10,DC10-30,31/08/1973,,,GE CF6-50C2,3,N602GC,29/12/1995,Gemini Air Cargo,Converted to DC10-30F,Transferred
+47923,123,McDonnell Douglas DC-10,DC10-30,31/08/1973,,,GE CF6-50C2,3,N602GC,18/03/1996,Sun Country Airlines,,Transferred
+47923,123,McDonnell Douglas DC-10,DC10-30,31/08/1973,,,GE CF6-50C2,3,N602GC,28/03/1997,Gemini Air Cargo,Stored at Roswell 04/2008,Stored
+47924,129,McDonnell Douglas DC-10,DC10-30,15/10/1973,,,GE CF6-50C2,3,D-ADDO,15/02/1974,Lufthansa,Named Eward,Transferred
+47924,129,McDonnell Douglas DC-10,DC10-30,15/10/1973,,,GE CF6-50C2,3,N604GC,30/01/1996,Gemini Air Cargo,Converted to DC10-30F - Stored 02/2008,Stored
+47925,166,McDonnell Douglas DC-10,DC10-30,17/07/1974,,,GE CF6-50C2,3,D-ADFO,14/11/1974,Lufthansa,,Transferred
+47925,166,McDonnell Douglas DC-10,DC10-30,17/07/1974,,,GE CF6-50C2,3,N605GC,21/02/1996,Gemini Air Cargo,Ceased operations 12 aug 2008,Stored
+47926,170,McDonnell Douglas DC-10,DC10-30,14/08/1974,,,GE CF6-50C2,3,D-ADGO,03/01/1975,Lufthansa,,Transferred
+47926,170,McDonnell Douglas DC-10,DC10-30,14/08/1974,,,GE CF6-50C2,3,D-ADGO,03/06/1992,Kuwait Airways,,Transferred
+47926,170,McDonnell Douglas DC-10,DC10-30,14/08/1974,,,GE CF6-50C2,3,D-ADGO,24/06/1992,Lufthansa,,Transferred
+47926,170,McDonnell Douglas DC-10,DC10-30,14/08/1974,,,GE CF6-50C2,3,OO-SLG,16/12/1994,Sabena,,Transferred
+47926,170,McDonnell Douglas DC-10,DC10-30,14/08/1974,,,GE CF6-50C2,3,N59083,06/05/1997,Continental Airlines,,Transferred
+47926,170,McDonnell Douglas DC-10,DC10-30,14/08/1974,,,GE CF6-50C2,3,N59083,15/08/2002,Omni Air International,Stored at VCV 10/2007,Scrapped
+47927,190,McDonnell Douglas DC-10,DC10-30,15/01/1975,,,GE CF6-50C2,3,D-ADHO,28/02/1975,Lufthansa,,Transferred
+47927,190,McDonnell Douglas DC-10,DC10-30,15/01/1975,,,GE CF6-50C2,3,OO-SLH,27/10/1994,Sabena,,Transferred
+47927,190,McDonnell Douglas DC-10,DC10-30,15/01/1975,,,GE CF6-50C2,3,N49082,13/11/1996,Continental Airlines,,Transferred
+47927,190,McDonnell Douglas DC-10,DC10-30,15/01/1975,,,GE CF6-50C2,3,N49082,18/04/2003,Omni Air International,Stored at VCV 10/2007,Transferred
+47927,190,McDonnell Douglas DC-10,DC10-30,15/01/1975,,,GE CF6-50C2,3,N108AX,01/01/2009,Omni Air International,Scrapped 04/2011,Scrapped
+47928,192,McDonnell Douglas DC-10,DC10-30F,29/01/1975,,N54644,GE CF6-50C2,3,C-GKFD,Due,Kelowna Flightcraft,lsd from pilc aviation,Transferred
+47928,192,McDonnell Douglas DC-10,DC10-30F,29/01/1975,,N54644,GE CF6-50C2,3,D-ADJO,10/03/1975,Lufthansa,,Transferred
+47928,192,McDonnell Douglas DC-10,DC10-30F,29/01/1975,,N54644,GE CF6-50C2,3,D-ADJO,14/07/1994,Sabena,,Transferred
+47928,192,McDonnell Douglas DC-10,DC10-30F,29/01/1975,,N54644,GE CF6-50C2,3,D-ADJO,22/03/1995,Condor,,Transferred
+47928,192,McDonnell Douglas DC-10,DC10-30F,29/01/1975,,N54644,GE CF6-50C2,3,N17087,13/11/1997,Continental Airlines,,Transferred
+47928,192,McDonnell Douglas DC-10,DC10-30F,29/01/1975,,N54644,GE CF6-50C2,3,N304WL,31/10/2001,World Airways,Converted to DC10-30F - Stored 09/2009,Transferred
+47928,192,McDonnell Douglas DC-10,DC10-30F,29/01/1975,,N54644,GE CF6-50C2,3,C-GKFD,17/02/2010,Kelowna Flightcraft,,Transferred
+47928,192,McDonnell Douglas DC-10,DC10-30F,29/01/1975,,N54644,GE CF6-50C2,3,C-GKFD,01/04/2015,KF Cargo,Stored 09/2018 as N928KW,Stored
+47929,196,McDonnell Douglas DC-10,DC10-30,26/02/1975,,,GE CF6-50C2,3,D-ADKO,31/03/1975,Lufthansa,Named Naomi,Transferred
+47929,196,McDonnell Douglas DC-10,DC10-30,26/02/1975,,,GE CF6-50C2,3,PP-AJM,17/09/1994,Skyjet Brazil,,Transferred
+47929,196,McDonnell Douglas DC-10,DC10-30,26/02/1975,,,GE CF6-50C2,3,N606GC,01/12/1996,Gemini Air Cargo,Ceased operations 12 aug 2008,Stored
+47956,181,McDonnell Douglas DC-10,DC10-30,27/11/1974,,,GE CF6-50C2,3,OH-LHA,27/01/1975,Finnair,,Transferred
+47956,181,McDonnell Douglas DC-10,DC10-30,27/11/1974,,,GE CF6-50C2,3,OH-LHA,16/04/1987,JAT Airways,,Transferred
+47956,181,McDonnell Douglas DC-10,DC10-30,27/11/1974,,,GE CF6-50C2,3,OH-LHA,31/10/1988,Finnair,,Transferred
+47956,181,McDonnell Douglas DC-10,DC10-30,27/11/1974,,,GE CF6-50C2,3,OH-LHA,04/06/1993,Express One International,,Transferred
+47956,181,McDonnell Douglas DC-10,DC10-30,27/11/1974,,,GE CF6-50C2,3,OH-LHA,15/11/1994,World Airways,,Transferred
+47956,181,McDonnell Douglas DC-10,DC10-30,27/11/1974,,,GE CF6-50C2,3,OH-LHA,13/05/1995,Malaysia Airlines,,Transferred
+47956,181,McDonnell Douglas DC-10,DC10-30,27/11/1974,,,GE CF6-50C2,3,OH-LHA,12/06/1995,World Airways,,Transferred
+47956,181,McDonnell Douglas DC-10,DC10-30,27/11/1974,,,GE CF6-50C2,3,OH-LHA,25/08/1995,Finnair,,Transferred
+47956,181,McDonnell Douglas DC-10,DC10-30,27/11/1974,,,GE CF6-50C2,3,F-GPVA,14/06/1996,Air Liberte,,Transferred
+47956,181,McDonnell Douglas DC-10,DC10-30,27/11/1974,,,GE CF6-50C2,3,F-GPVA,01/10/2001,Air Lib,Scrapped at Opa Locka OPF in early 2005 with reg N956PT,Scrapped
+47957,201,McDonnell Douglas DC-10,DC10-30,18/04/1975,45,,GE CF6-50C2,3,OH-LHB,06/05/1975,Finnair,,Transferred
+47957,201,McDonnell Douglas DC-10,DC10-30,18/04/1975,45,,GE CF6-50C2,3,OH-LHB,01/09/1981,Nigeria Airways,,Transferred
+47957,201,McDonnell Douglas DC-10,DC10-30,18/04/1975,45,,GE CF6-50C2,3,OH-LHB,31/03/1993,VASP,,Transferred
+47957,201,McDonnell Douglas DC-10,DC10-30,18/04/1975,45,,GE CF6-50C2,3,OH-LHB,23/06/1994,Birgenair,,Transferred
+47957,201,McDonnell Douglas DC-10,DC10-30,18/04/1975,45,,GE CF6-50C2,3,OH-LHB,13/09/1994,Finnair,,Transferred
+47957,201,McDonnell Douglas DC-10,DC10-30,18/04/1975,45,,GE CF6-50C2,3,F-GPVB,27/06/1995,Air Liberte,,Transferred
+47957,201,McDonnell Douglas DC-10,DC10-30,18/04/1975,45,,GE CF6-50C2,3,N17085,30/05/1997,Continental Airlines,,Transferred
+47957,201,McDonnell Douglas DC-10,DC10-30,18/04/1975,45,,GE CF6-50C2,3,N17085,10/11/2002,Omni Air International,,Transferred
+47957,201,McDonnell Douglas DC-10,DC10-30,18/04/1975,45,,GE CF6-50C2,3,N17085,01/12/2007,10 Tanker Air Carrier,,Active
+47965,59,McDonnell Douglas DC-10,DC10-10,28/08/1972,,,CF6-6K,3,N601DA,10/10/1972,Delta Air Lines,,Transferred
+47965,59,McDonnell Douglas DC-10,DC10-10,28/08/1972,,,CF6-6K,3,N1833U,16/04/1975,United Airlines,,Transferred
+47965,59,McDonnell Douglas DC-10,DC10-10,28/08/1972,,,CF6-6K,3,N377FE,21/08/1997,Federal Express,Converted to DC10-10F,Transferred
+47965,59,McDonnell Douglas DC-10,DC10-10,28/08/1972,,,CF6-6K,3,N377FE,17/07/2001,Federal Express,Stored 03/2015Converted to freighter,Stored
+47966,64,McDonnell Douglas DC-10,DC10-10,26/09/1972,,,CF6-6K,3,N602DA,10/11/1972,Delta Air Lines,,Transferred
+47966,64,McDonnell Douglas DC-10,DC10-10,26/09/1972,,,CF6-6K,3,N1834U,23/04/1975,United Airlines,,Transferred
+47966,64,McDonnell Douglas DC-10,DC10-10,26/09/1972,,,CF6-6K,3,N1834U,21/03/1983,Cp Air,,Transferred
+47966,64,McDonnell Douglas DC-10,DC10-10,26/09/1972,,,CF6-6K,3,N1834U,26/04/1987,Canadian Airlines,,Transferred
+47966,64,McDonnell Douglas DC-10,DC10-10,26/09/1972,,,CF6-6K,3,N1834U,02/05/1987,United Airlines,Scrapped,Scrapped
+47967,67,McDonnell Douglas DC-10,DC10-10,07/10/1972,,,CF6-6K,3,N603DA,28/11/1972,Delta Air Lines,,Transferred
+47967,67,McDonnell Douglas DC-10,DC10-10,07/10/1972,,,CF6-6K,3,N1835U,30/04/1975,United Airlines,,Scrapped
+47968,74,McDonnell Douglas DC-10,DC10-10,20/11/1972,,,CF6-6K,3,N604DA,06/01/1973,Delta Air Lines,,Transferred
+47968,74,McDonnell Douglas DC-10,DC10-10,20/11/1972,,,CF6-6K,3,N1836U,07/05/1975,United Airlines,,Transferred
+47968,74,McDonnell Douglas DC-10,DC10-10,20/11/1972,,,CF6-6K,3,N1836U,27/06/1983,Cp Air,,Transferred
+47968,74,McDonnell Douglas DC-10,DC10-10,20/11/1972,,,CF6-6K,3,N1836U,26/04/1987,Canadian Airlines,,Transferred
+47968,74,McDonnell Douglas DC-10,DC10-10,20/11/1972,,,CF6-6K,3,N1836U,13/06/1987,United Airlines,Scrapped,Scrapped
+47969,80,McDonnell Douglas DC-10,DC10-10,03/01/1973,,,CF6-6K,3,N605DA,16/02/1973,Delta Air Lines,,Transferred
+47969,80,McDonnell Douglas DC-10,DC10-10,03/01/1973,,,CF6-6K,3,N1837U,14/05/1975,United Airlines,,Transferred
+47969,80,McDonnell Douglas DC-10,DC10-10,03/01/1973,,,CF6-6K,3,N1837U,21/03/1983,Cp Air,,Transferred
+47969,80,McDonnell Douglas DC-10,DC10-10,03/01/1973,,,CF6-6K,3,N1837U,26/04/1987,Canadian Airlines,,Transferred
+47969,80,McDonnell Douglas DC-10,DC10-10,03/01/1973,,,CF6-6K,3,N1837U,22/05/1987,United Airlines,,Scrapped
+47980,150,McDonnell Douglas DC-10,DC10-30,25/03/1974,,,GE CF6-50C2,3,EC-CEZ,19/05/1974,Iberia,Named Costa del Azahar - Scrapped Greenwood 2008,Scrapped
+47981,186,McDonnell Douglas DC-10,DC10-30,10/12/1974,,,GE CF6-50C2,3,EC-CLB,24/01/1975,Iberia,Named Costa Blanca,Transferred
+47981,186,McDonnell Douglas DC-10,DC10-30,10/12/1974,,,GE CF6-50C2,3,N12080,10/12/1996,Continental Airlines,,Transferred
+47981,186,McDonnell Douglas DC-10,DC10-30,10/12/1974,,,GE CF6-50C2,3,N12080,02/03/2004,Omni Air International,Scrapped 2005,Scrapped
+47982,279,McDonnell Douglas DC-10,DC10-30,12/03/1979,,,GE CF6-50C2,3,EC-DEA,14/05/1979,Iberia,Named Rias Gallegas,Stored
+48200,311,McDonnell Douglas DC-10,DC10-KCA,12/07/1980,39.7,N110KC,,,79-0433,01/10/1981,US Air Force,,Active
+48201,333,McDonnell Douglas DC-10,DC10-KCA,27/06/1980,39.8,N434KC,,,79-0434,17/03/1981,US Air Force,,Active
+48202,359,McDonnell Douglas DC-10,DC10-KCA,07/05/1981,38.9,,,,79-1710,30/03/1981,US Air Force,,Active
+48203,360,McDonnell Douglas DC-10,DC10-KCA,26/05/1981,38.9,,,,79-1711,28/08/1981,US Air Force,,Active
+48204,361,McDonnell Douglas DC-10,DC10-KCA,11/06/1981,38.8,,,,79-1712,22/09/1981,US Air Force,,Active
+48205,363,McDonnell Douglas DC-10,DC10-KCA,16/07/1981,38.7,,,,79-1713,24/10/1981,US Air Force,,Active
+48206,373,McDonnell Douglas DC-10,DC10-KCA,10/02/1982,38.2,,,,79-1946,26/05/1982,US Air Force,,Active
+48206,373,McDonnell Douglas DC-10,DC10-KCA,10/02/1982,38.2,,,,79-1946,26/05/1982,US Air Force,,Active
+48207,375,McDonnell Douglas DC-10,DC10-KCA,30/03/1982,38,,,,79-1947,21/06/1982,US Air Force,,Active
+48208,376,McDonnell Douglas DC-10,DC10-KCA,23/04/1982,38,,,,79-1948,28/07/1982,US Air Force,,Active
+48209,377,McDonnell Douglas DC-10,DC10-KCA,18/05/1982,37.9,,,,79-1949,08/09/1982,US Air Force,,Active
+48210,378,McDonnell Douglas DC-10,DC10-KCA,11/06/1982,37.8,,,,79-1950,08/09/1982,US Air Force,,Active
+48211,380,McDonnell Douglas DC-10,DC10-KCA,31/08/1982,37.6,,,,79-1951,18/11/1982,US Air Force,,Active
+48212,382,McDonnell Douglas DC-10,DC10-KCA,20/12/1982,,,,,82-0190,06/04/1983,US Air Force,,Written off
+48213,383,McDonnell Douglas DC-10,DC10-KCA,08/02/1983,37.2,,,,82-0191,25/04/1983,US Air Force,,Active
+48214,384,McDonnell Douglas DC-10,DC10-KCA,22/03/1983,37.1,,,,82-0192,23/05/1983,US Air Force,,Active
+48215,385,McDonnell Douglas DC-10,DC10-KCA,04/05/1983,36.9,,,,82-0193,28/07/1983,US Air Force,,Active
+48216,386,McDonnell Douglas DC-10,DC10-KCA,16/06/1983,36.8,,,,83-0075,25/08/1983,US Air Force,,Active
+48217,387,McDonnell Douglas DC-10,DC10-KCA,29/07/1983,36.7,,,,83-0076,21/09/1983,US Air Force,,Active
+48218,388,McDonnell Douglas DC-10,DC10-KCA,12/09/1983,36.6,,,,83-0077,03/11/1983,US Air Force,,Active
+48219,389,McDonnell Douglas DC-10,DC10-KCA,25/10/1983,36.5,,,,83-0078,13/12/1983,US Air Force,,Active
+48220,390,McDonnell Douglas DC-10,DC10-KCA,08/12/1983,36.3,,,,83-0079,28/02/1984,US Air Force,,Active
+48221,391,McDonnell Douglas DC-10,DC10-KCA,17/02/1984,36.2,,,,83-0080,28/03/1984,US Air Force,,Active
+48222,392,McDonnell Douglas DC-10,DC10-KCA,27/04/1984,36,,,,83-0081,08/06/1984,US Air Force,,Active
+48223,393,McDonnell Douglas DC-10,DC10-KCA,12/06/1984,35.8,,,,83-0082,20/07/1984,US Air Force,,Active
+48224,394,McDonnell Douglas DC-10,DC10-KCA,26/07/1984,35.7,,,,84-0185,06/09/1984,US Air Force,,Active
+48225,395,McDonnell Douglas DC-10,DC10-KCA,30/08/1984,35.6,,,,84-0186,16/10/1984,US Air Force,,Active
+48226,396,McDonnell Douglas DC-10,DC10-KCA,05/10/1984,35.5,,,,84-0187,28/11/1984,US Air Force,,Active
+48227,397,McDonnell Douglas DC-10,DC10-KCA,12/11/1984,35.4,,,,84-0188,19/12/1984,US Air Force,,Active
+48228,398,McDonnell Douglas DC-10,DC10-KCA,19/12/1984,35.3,,,,84-0189,05/02/1985,US Air Force,,Active
+48229,399,McDonnell Douglas DC-10,DC10-KCA,31/01/1985,35.2,,,,84-0190,16/03/1985,US Air Force,,Active
+48230,400,McDonnell Douglas DC-10,DC10-KCA,07/03/1985,35.1,,,,84-0191,22/04/1985,US Air Force,,Active
+48231,401,McDonnell Douglas DC-10,DC10-KCA,11/04/1985,35,,,,84-0192,05/06/1985,US Air Force,,Active
+48232,402,McDonnell Douglas DC-10,DC10-KCA,09/05/1985,34.9,,,,85-0027,21/08/1985,US Air Force,,Active
+48233,403,McDonnell Douglas DC-10,DC10-KCA,07/06/1985,34.8,,,,85-0028,02/08/1985,US Air Force,,Active
+48234,404,McDonnell Douglas DC-10,DC10-KCA,08/07/1985,34.8,,,,85-0029,04/09/1985,US Air Force,,Active
+48235,405,McDonnell Douglas DC-10,DC10-KCA,05/08/1985,34.7,,,,85-0030,19/09/1985,US Air Force,,Active
+48236,406,McDonnell Douglas DC-10,DC10-KCA,03/09/1985,34.6,,,,85-0031,11/10/1985,US Air Force,,Active
+48237,407,McDonnell Douglas DC-10,DC10-KCA,24/09/1985,34.5,,,,85-0032,04/11/1985,US Air Force,,Active
+48238,408,McDonnell Douglas DC-10,DC10-KCA,15/10/1985,34.5,,,,85-0033,03/12/1985,US Air Force,,Active
+48239,410,McDonnell Douglas DC-10,DC10-KCA,27/11/1985,34.4,,,,85-0034,04/02/1986,US Air Force,,Active
+48240,411,McDonnell Douglas DC-10,DC10-KCA,20/12/1985,34.3,,,,86-0027,27/02/1986,US Air Force,,Active
+48241,413,McDonnell Douglas DC-10,DC10-KCA,10/02/1986,34.2,,,,86-0028,04/04/1986,US Air Force,,Active
+48242,414,McDonnell Douglas DC-10,DC10-KCA,03/03/1986,34.1,,,,86-0029,25/04/1986,US Air Force,,Active
+48243,415,McDonnell Douglas DC-10,DC10-KCA,24/03/1986,34,,,,86-0030,15/05/1986,US Air Force,,Active
+48244,417,McDonnell Douglas DC-10,DC10-KCA,06/05/1986,33.9,,,,86-0031,23/06/1986,US Air Force,,Active
+48245,418,McDonnell Douglas DC-10,DC10-KCA,28/05/1986,33.9,,,,86-0032,18/07/1986,US Air Force,,Active
+48246,420,McDonnell Douglas DC-10,DC10-KCA,10/07/1986,33.8,,,,86-0033,27/08/1986,US Air Force,,Active
+48247,421,McDonnell Douglas DC-10,DC10-KCA,31/07/1986,33.7,,,,86-0034,30/09/1986,US Air Force,,Active
+48248,423,McDonnell Douglas DC-10,DC10-KCA,15/09/1986,33.6,,,,86-0035,31/10/1986,US Air Force,,Active
+48249,424,McDonnell Douglas DC-10,DC10-KCA,06/10/1986,33.5,,,,86-0036,02/12/1986,US Air Force,,Active
+48250,425,McDonnell Douglas DC-10,DC10-KCA,28/10/1986,33.5,,,,86-0037,24/12/1986,US Air Force,,Active
+48251,426,McDonnell Douglas DC-10,DC10-KCA,18/11/1986,33.4,,,,86-0038,31/01/1987,US Air Force,,Active
+48252,342,McDonnell Douglas DC-10,DC10-30,17/09/1980,,,GE CF6-50C2,3,D-ADSO,22/01/1981,Condor,,Transferred
+48252,342,McDonnell Douglas DC-10,DC10-30,17/09/1980,,,GE CF6-50C2,3,D-ADSO,01/02/1988,Lufthansa,,Transferred
+48252,342,McDonnell Douglas DC-10,DC10-30,17/09/1980,,,GE CF6-50C2,3,D-ADSO,01/04/1989,Condor,,Transferred
+48252,342,McDonnell Douglas DC-10,DC10-30,17/09/1980,,,GE CF6-50C2,3,N720AX,07/11/2000,Omni Air International,Stored in 2011Scrapped 01/2012,Scrapped
+48258,346,McDonnell Douglas DC-10,DC10-15,08/06/1981,,N19B,,,N1003L,15/06/1981,Mexicana,,Transferred
+48258,346,McDonnell Douglas DC-10,DC10-15,08/06/1981,,N19B,,,N1003L,21/07/1993,AeroPeru,,Transferred
+48258,346,McDonnell Douglas DC-10,DC10-15,08/06/1981,,N19B,,,V2-LEX,25/05/1997,Skyjet,,Transferred
+48258,346,McDonnell Douglas DC-10,DC10-15,08/06/1981,,N19B,,,PP-OOO,01/01/1998,Transair International Linhas Aereas,,Transferred
+48258,346,McDonnell Douglas DC-10,DC10-15,08/06/1981,,N19B,,,SX-CVH,08/05/2001,Electra Airlines,,Transferred
+48258,346,McDonnell Douglas DC-10,DC10-15,08/06/1981,,N19B,,,EK-10151,28/01/2004,AIR-VAN Airlines,lsd from Finova,Transferred
+48258,346,McDonnell Douglas DC-10,DC10-15,08/06/1981,,N19B,,,EK-10151,15/01/2005,Pamir Airways,Stored at CGK,Stored
+48259,357,McDonnell Douglas DC-10,DC10-15,03/04/1981,,N13627,,,N10045,29/06/1981,Mexicana,,Transferred
+48259,357,McDonnell Douglas DC-10,DC10-15,03/04/1981,,N13627,,,N10045,07/07/1993,AeroPeru,,Transferred
+48259,357,McDonnell Douglas DC-10,DC10-15,03/04/1981,,N13627,,,N10045,20/09/1994,Mexicana,,Transferred
+48259,357,McDonnell Douglas DC-10,DC10-15,03/04/1981,,N13627,,,XA-TDI,24/05/1996,Aerocancun,,Transferred
+48259,357,McDonnell Douglas DC-10,DC10-15,03/04/1981,,N13627,,,N154SY,21/08/1997,Sun Country Airlines,Scrapped in 2004,Scrapped
+48260,344,McDonnell Douglas DC-10,DC10-10F,09/10/1980,,,CF6-6K,3,N1844U,09/04/1981,United Airlines,,Transferred
+48260,344,McDonnell Douglas DC-10,DC10-10F,09/10/1980,,,CF6-6K,3,N361FE,19/12/2000,Federal Express,Stored 04/2016Converted to freighter - Named Lucas,Stored
+48261,347,McDonnell Douglas DC-10,DC10-10,13/11/1980,,,CF6-6K,3,N1845U,24/04/1981,United Airlines,,Transferred
+48261,347,McDonnell Douglas DC-10,DC10-10,13/11/1980,,,CF6-6K,3,N362FE,29/11/2000,Federal Express,Stored 11/2015Converted to freighter,Stored
+48261,347,McDonnell Douglas DC-10,DC10-10,13/11/1980,,,CF6-6K,3,N1845U,24/04/1981,United Airlines,,Transferred
+48261,347,McDonnell Douglas DC-10,DC10-10,13/11/1980,,,CF6-6K,3,N362FE,29/11/2000,Federal Express,Stored 11/2015Converted to freighter,Stored
+48262,351,McDonnell Douglas DC-10,DC10-10,20/01/1981,,,CF6-6K,3,N1846U,05/05/1981,United Airlines,,Transferred
+48262,351,McDonnell Douglas DC-10,DC10-10,20/01/1981,,,CF6-6K,3,N399FE,10/01/2000,Federal Express,Stored 12/2014Converted to freighter,Stored
+48263,353,McDonnell Douglas DC-10,DC10-10F,30/01/1981,,,CF6-6K,3,N1847U,22/05/1981,United Airlines,,Transferred
+48263,353,McDonnell Douglas DC-10,DC10-10F,30/01/1981,,,CF6-6K,3,N363FE,19/12/2000,Federal Express,Stored 08/2019Named Carter,Stored
+48264,379,McDonnell Douglas DC-10,DC10-10CF,04/08/1982,,,,,N1848U,20/09/1982,United Airlines,,Transferred
+48264,379,McDonnell Douglas DC-10,DC10-10CF,04/08/1982,,,,,N68057,07/09/1990,Federal Express,Stored 04/2015,Stored
+48265,345,McDonnell Douglas DC-10,DC10-30,17/07/1981,,,GE CF6-50C2,3,N345HC,11/08/1981,Finnair,,Transferred
+48265,345,McDonnell Douglas DC-10,DC10-30,17/07/1981,,,GE CF6-50C2,3,N345HC,12/04/1994,Garuda,,Transferred
+48265,345,McDonnell Douglas DC-10,DC10-30,17/07/1981,,,GE CF6-50C2,3,N345HC,01/04/1995,Garuda,,Transferred
+48265,345,McDonnell Douglas DC-10,DC10-30,17/07/1981,,,GE CF6-50C2,3,N345HC,13/06/1995,Finnair,,Transferred
+48265,345,McDonnell Douglas DC-10,DC10-30,17/07/1981,,,GE CF6-50C2,3,N345HC,12/01/1996,Air Liberte,,Transferred
+48265,345,McDonnell Douglas DC-10,DC10-30,17/07/1981,,,GE CF6-50C2,3,F-GPVC,07/01/1998,Air Liberte,,Transferred
+48265,345,McDonnell Douglas DC-10,DC10-30,17/07/1981,,,GE CF6-50C2,3,F-GPVC,01/10/2001,Air Lib,,Transferred
+48265,345,McDonnell Douglas DC-10,DC10-30,17/07/1981,,,GE CF6-50C2,3,N810AX,15/12/2003,Omni Air International,Stored 07/2011,Transferred
+48265,345,McDonnell Douglas DC-10,DC10-30,17/07/1981,,,GE CF6-50C2,3,N810AX,17/01/2012,Project Orbis International,Stored 10/2012,Scrapped
+48266,348,McDonnell Douglas DC-10,DC10-30,25/11/1980,,,GE CF6-50C2,3,N3016Z,30/07/1984,Zambian Airways,,Transferred
+48266,348,McDonnell Douglas DC-10,DC10-30,25/11/1980,,,GE CF6-50C2,3,G-DMCA,01/03/1996,Monarch Airlines,Scrapped at Manchester in 2003 - Cockpit Section At Ringway,Scrapped
+48267,434,McDonnell Douglas DC-10,DC10-30ER,11/09/1987,32.6,N6203U,,,HS-TMA,01/12/1987,Thai Airways,Named Kwanmuang,Transferred
+48267,434,McDonnell Douglas DC-10,DC10-30ER,11/09/1987,32.6,N6203U,,,N238NW,30/04/1998,Northwest Airlines,,Transferred
+48267,434,McDonnell Douglas DC-10,DC10-30ER,11/09/1987,32.6,N6203U,,,N238NW,11/09/2006,Omni Air International,,Transferred
+48267,434,McDonnell Douglas DC-10,DC10-30ER,11/09/1987,32.6,N6203U,,,N603AX,01/11/2006,Omni Air International,Stored 02/2012,Transferred
+48267,434,McDonnell Douglas DC-10,DC10-30ER,11/09/1987,32.6,N6203U,,,N603AX,01/09/2010,10 Tanker Air Carrier,,Active
+48275,358,McDonnell Douglas DC-10,DC10-15,24/01/1981,,,,,N10038,30/06/1981,Aeromexico,,Transferred
+48275,358,McDonnell Douglas DC-10,DC10-15,24/01/1981,,,,,V2-SKY,11/09/1998,Skyjet,,Transferred
+48275,358,McDonnell Douglas DC-10,DC10-15,24/01/1981,,,,,V2-SKY,10/04/2001,Skyjet,,Transferred
+48275,358,McDonnell Douglas DC-10,DC10-15,24/01/1981,,,,,V2-SKY,05/04/2002,Aerowings,,Transferred
+48275,358,McDonnell Douglas DC-10,DC10-15,24/01/1981,,,,,V2-SKY,03/10/2002,Astra Airlines,,Transferred
+48275,358,McDonnell Douglas DC-10,DC10-15,24/01/1981,,,,,V2-SKY,12/12/2002,Air Mali,Stored at Opa Loka 02/2003 - Broken up early 2004 at Opa Locka.,Scrapped
+48276,362,McDonnell Douglas DC-10,DC10-15,29/06/1981,,,,,N1003N,12/11/1981,Aeromexico,,Transferred
+48276,362,McDonnell Douglas DC-10,DC10-15,29/06/1981,,,,,N153SY,07/05/1997,Sun Country Airlines,,Stored
+48277,354,McDonnell Douglas DC-10,DC10-30,11/02/1981,,,GE CF6-50C2,3,G-DCIO,15/04/1981,British Caledonian,,Transferred
+48277,354,McDonnell Douglas DC-10,DC10-30,11/02/1981,,,GE CF6-50C2,3,G-DCIO,14/04/1988,British Airways,,Transferred
+48277,354,McDonnell Douglas DC-10,DC10-30,11/02/1981,,,GE CF6-50C2,3,N189AX,31/05/2002,Omni Air International,,Transferred
+48277,354,McDonnell Douglas DC-10,DC10-30,11/02/1981,,,GE CF6-50C2,3,N189AX,17/01/2004,Centurion Air Cargo,,Written off
+48282,355,McDonnell Douglas DC-10,DC10-30,27/02/1981,,,GE CF6-50C2,3,PP-VMY,30/04/1981,Varig,,Transferred
+48282,355,McDonnell Douglas DC-10,DC10-30,27/02/1981,,,GE CF6-50C2,3,PP-VMY,06/04/1994,Garuda,,Transferred
+48282,355,McDonnell Douglas DC-10,DC10-30,27/02/1981,,,GE CF6-50C2,3,PP-VMY,01/07/1994,Varig,,Transferred
+48282,355,McDonnell Douglas DC-10,DC10-30,27/02/1981,,,GE CF6-50C2,3,N241NW,16/06/1999,Northwest Airlines,Stored at Marana 02/2006,Transferred
+48282,355,McDonnell Douglas DC-10,DC10-30,27/02/1981,,,GE CF6-50C2,3,N241NW,07/02/2007,ATA Airlines,,Transferred
+48282,355,McDonnell Douglas DC-10,DC10-30,27/02/1981,,,GE CF6-50C2,3,N137WA,22/02/2008,World Airways,Stored KCEW 01/2011Scrapped,Scrapped
+48283,350,McDonnell Douglas DC-10,DC10-30,19/12/1980,,,GE CF6-50C2,3,9M-MAV,20/02/1981,Malaysia Airlines,,Scrapped
+48285,352,McDonnell Douglas DC-10,DC10-30,08/01/1981,,,GE CF6-50C2,3,C-GCPG,27/02/1981,Cp Air,,Transferred
+48285,352,McDonnell Douglas DC-10,DC10-30,08/01/1981,,,GE CF6-50C2,3,C-GCPG,05/04/1983,United Airlines,,Transferred
+48285,352,McDonnell Douglas DC-10,DC10-30,08/01/1981,,,GE CF6-50C2,3,C-GCPG,20/04/1987,Canadian Airlines,,Scrapped
+48286,369,McDonnell Douglas DC-10,DC10-30,02/11/1981,,,GE CF6-50C2,3,9G-ANA,25/02/1983,Ghana Airways,,Stored
+48287,409,McDonnell Douglas DC-10,DC10-30F,05/11/1985,34.4,,GE CF6-50C2,3,N306FE,24/01/1986,Federal Express,Converted to MD-10  Named John,Active
+48288,364,McDonnell Douglas DC-10,DC10-30,03/08/1981,,,GE CF6-50C2,3,C-GCPH,02/11/1981,Cp Air,,Transferred
+48288,364,McDonnell Douglas DC-10,DC10-30,03/08/1981,,,GE CF6-50C2,3,C-GCPH,25/03/1983,United Airlines,,Transferred
+48288,364,McDonnell Douglas DC-10,DC10-30,03/08/1981,,,GE CF6-50C2,3,C-GCPH,22/05/1987,Canadian Airlines,,Scrapped
+48289,365,McDonnell Douglas DC-10,DC10-15,19/08/1981,,,,,N1003W,03/12/1981,Mexicana,,Transferred
+48289,365,McDonnell Douglas DC-10,DC10-15,19/08/1981,,,,,N1003W,26/05/1993,AeroPeru,,Transferred
+48289,365,McDonnell Douglas DC-10,DC10-15,19/08/1981,,,,,N1003W,31/10/1993,Mexicana,,Transferred
+48289,365,McDonnell Douglas DC-10,DC10-15,19/08/1981,,,,,N152SY,31/01/1995,Sun Country Airlines,Scrapped in 2000,Scrapped
+48290,435,McDonnell Douglas DC-10,DC10-30ER,16/10/1987,32.5,,,,HS-TMB,22/12/1987,Thai Airways,Named Thepalai,Transferred
+48290,435,McDonnell Douglas DC-10,DC10-30ER,16/10/1987,32.5,,,,N239NW,27/04/1998,Northwest Airlines,,Transferred
+48290,435,McDonnell Douglas DC-10,DC10-30ER,16/10/1987,32.5,,,,N612AX,12/10/2006,Omni Air International,Stored 02/2012,Transferred
+48290,435,McDonnell Douglas DC-10,DC10-30ER,16/10/1987,32.5,,,,N612AX,17/04/2015,10 Tanker Air Carrier,,Active
+48291,412,McDonnell Douglas DC-10,MD10-30F,30/01/1986,34.2,,,,N307FE,07/03/1986,Federal Express,,Active
+48292,368,McDonnell Douglas DC-10,DC10-30,19/01/1982,,N6200N,GE CF6-50C2,3,HB-IHN,27/02/1982,Swissair,,Transferred
+48292,368,McDonnell Douglas DC-10,DC10-30,19/01/1982,,N6200N,GE CF6-50C2,3,N87070,28/04/1992,Continental Airlines,,Stored
+48293,371,McDonnell Douglas DC-10,DC10-30,11/03/1982,,,GE CF6-50C2,3,HB-IHO,01/04/1982,Swissair,,Transferred
+48293,371,McDonnell Douglas DC-10,DC10-30,11/03/1982,,,GE CF6-50C2,3,N83071,03/06/1992,Continental Airlines,,Stored
+48294,372,McDonnell Douglas DC-10,DC10-15,18/01/1982,,N1004A,,,XA-MEW,13/01/1983,Mexicana,,Transferred
+48294,372,McDonnell Douglas DC-10,DC10-15,18/01/1982,,N1004A,,,N1004A,01/08/1985,Mexicana,,Transferred
+48294,372,McDonnell Douglas DC-10,DC10-15,18/01/1982,,N1004A,,,V2-LER,19/07/1996,Skyjet,On lsd to TAP Air Portugal from 11/1996 till 01/1997,Transferred
+48294,372,McDonnell Douglas DC-10,DC10-15,18/01/1982,,N1004A,,,N9053N,27/06/2000,Electra Airlines,,Transferred
+48294,372,McDonnell Douglas DC-10,DC10-15,18/01/1982,,N1004A,,,SX-CVP,01/08/2000,Electra Airlines,Stored at ABJ 02/2003,Scrapped
+48295,374,McDonnell Douglas DC-10,DC10-15,05/03/1982,,N1004B,,,XA-MEX,13/01/1983,Mexicana,,Transferred
+48295,374,McDonnell Douglas DC-10,DC10-15,05/03/1982,,N1004B,,,N151SY,23/12/1994,Sun Country Airlines,Scrapped in 2003,Scrapped
+48296,370,McDonnell Douglas DC-10,DC10-30,23/11/1981,,,GE CF6-50C2,3,C-GCPI,19/02/1982,Cp Air,,Transferred
+48296,370,McDonnell Douglas DC-10,DC10-30,23/11/1981,,,GE CF6-50C2,3,C-GCPI,26/04/1987,Canadian Airlines,,Scrapped
+48297,416,McDonnell Douglas DC-10,DC10-30F,18/04/1986,34,,GE CF6-50C2,3,N308FE,28/05/1986,Federal Express,Converted to MD 10 F 06/2008,Active
+48298,419,McDonnell Douglas DC-10,DC10-30F,28/06/1986,,,GE CF6-50C2,3,N309FE,31/07/1986,Federal Express,Stored 04/2009,Stored
+48299,422,McDonnell Douglas DC-10,DC10-30F,28/08/1986,,,GE CF6-50C2,3,N310FE,30/09/1986,Federal Express,Stored 03/2009,Stored
+48300,433,McDonnell Douglas DC-10,DC10-30F,02/09/1987,,,GE CF6-50C2,3,N312FE,30/09/1987,Federal Express,,Transferred
+48300,433,McDonnell Douglas DC-10,DC10-30F,02/09/1987,,,GE CF6-50C2,3,N312FE,20/03/2001,Federal Express,Stored 03/2015Converted to freighter,Stored
+48301,381,McDonnell Douglas DC-10,DC10-40,19/10/1982,,,,,JA8549,15/03/1983,Japan Airlines,Scrapped in 2010,Scrapped
+48303,427,McDonnell Douglas DC-10,DC10-KCA,05/01/1987,33.3,,,,87-0117,20/03/1987,US Air Force,,Active
+48304,428,McDonnell Douglas DC-10,DC10-KCA,09/02/1987,33.2,,,,87-0118,17/04/1987,US Air Force,,Active
+48305,429,McDonnell Douglas DC-10,DC10-KCA,16/03/1987,33.1,,,,87-0119,26/05/1987,US Air Force,,Active
+48306,430,McDonnell Douglas DC-10,DC10-KCA,21/04/1987,33,,,,87-0120,30/06/1987,US Air Force,,Active
+48307,431,McDonnell Douglas DC-10,DC10-KCA,27/05/1987,32.9,,,,87-0121,21/08/1987,US Air Force,,Active
+48308,432,McDonnell Douglas DC-10,DC10-KCA,01/07/1987,32.8,,,,87-0122,17/11/1987,US Air Force,,Active
+48309,439,McDonnell Douglas DC-10,DC10-KCA,01/04/1988,32,,,,87-0123,25/08/1988,US Air Force,,Active
+48310,441,McDonnell Douglas DC-10,DC10-KCA,01/05/1988,31.9,,,,87-0124,30/09/1988,US Air Force,,Transferred
+48310,441,McDonnell Douglas DC-10,DC10-KCA,01/05/1988,31.9,,,,N6204N,30/09/1988,McDonnell Douglas,,Transferred
+48310,441,McDonnell Douglas DC-10,DC10-KCA,01/05/1988,31.9,,,,87-0124,01/11/1988,US Air Force,,Active
+48311,440,McDonnell Douglas DC-10,DC10-30F,02/05/1988,31.9,,GE CF6-50C2,3,N313FE,28/05/1988,Federal Express,,Active
+48312,442,McDonnell Douglas DC-10,DC10-30F,01/06/1988,31.9,,GE CF6-50C2,3,N314FE,26/08/1988,Federal Express,Stored 07/2013,Transferred
+48312,442,McDonnell Douglas DC-10,DC10-30F,01/06/1988,31.9,,GE CF6-50C2,3,CP-2791,24/07/2013,TAB Cargo,,Active
+48313,443,McDonnell Douglas DC-10,DC10-30F,29/08/1988,31.6,,GE CF6-50C2,3,N315FE,29/09/1988,Federal Express,,Active
+48314,444,McDonnell Douglas DC-10,DC10-30F,27/09/1988,31.5,,GE CF6-50C2,3,N316FE,28/10/1988,Federal Express,,Active
+48315,436,McDonnell Douglas DC-10,DC10-30,01/01/1988,32.3,,GE CF6-50C2,3,JA8550,30/03/1988,Japan Air System,,Transferred
+48315,436,McDonnell Douglas DC-10,DC10-30,01/01/1988,32.3,,GE CF6-50C2,3,JA8550,18/12/1997,Harlequin Air,,Transferred
+48315,436,McDonnell Douglas DC-10,DC10-30,01/01/1988,32.3,,GE CF6-50C2,3,N243NW,29/03/2000,Northwest Airlines,last service 2006,Transferred
+48315,436,McDonnell Douglas DC-10,DC10-30,01/01/1988,32.3,,GE CF6-50C2,3,N522AX,20/11/2006,Omni Air International,Stored 02/2012,Transferred
+48315,436,McDonnell Douglas DC-10,DC10-30,01/01/1988,32.3,,GE CF6-50C2,3,N522AX,14/08/2014,10 Tanker Air Carrier,,Active
+48316,437,McDonnell Douglas DC-10,DC10-30,01/02/1988,,,GE CF6-50C2,3,N531AX,Due,Omni Air International,Stored 01/2012,Transferred
+48316,437,McDonnell Douglas DC-10,DC10-30,01/02/1988,,,GE CF6-50C2,3,JA8551,29/07/1988,Japan Air System,,Transferred
+48316,437,McDonnell Douglas DC-10,DC10-30,01/02/1988,,,GE CF6-50C2,3,HL7329,29/07/1988,Korean Air,,Transferred
+48316,437,McDonnell Douglas DC-10,DC10-30,01/02/1988,,,GE CF6-50C2,3,JA8551,25/06/1989,Japan Air System,,Transferred
+48316,437,McDonnell Douglas DC-10,DC10-30,01/02/1988,,,GE CF6-50C2,3,N244NW,20/04/2000,Northwest Airlines,,Stored
+48317,445,McDonnell Douglas DC-10,C,01/09/1988,,,,,S2-ACR,30/12/1988,Biman Bangladesh,Scrapped 09/2015Stored 02/2014,Scrapped
+48318,446,McDonnell Douglas DC-10,DC10-30,01/12/1988,,,GE CF6-50C2,3,N3024W,25/07/1989,Nigeria Airways,Last DC-10 Built,Transferred
+48318,446,McDonnell Douglas DC-10,DC10-30,01/12/1988,,,GE CF6-50C2,3,N3024W,08/05/1995,Malaysia Airlines,,Transferred
+48318,446,McDonnell Douglas DC-10,DC10-30,01/12/1988,,,GE CF6-50C2,3,N117WA,01/07/1995,World Airways,,Transferred
+48318,446,McDonnell Douglas DC-10,DC10-30,01/12/1988,,,GE CF6-50C2,3,N353WL,14/11/2002,World Airways,,Transferred
+48318,446,McDonnell Douglas DC-10,DC10-30,01/12/1988,,,GE CF6-50C2,3,N270AX,30/11/2004,Omni Air International,Stored at KUL 10/2011 - Scrapped,Scrapped
+48319,438,McDonnell Douglas DC-10,DC10-30ER,01/03/1988,,,,,HS-TMC,26/05/1988,Thai Airways,Named Sri Ubon,Transferred
+48319,438,McDonnell Douglas DC-10,DC10-30ER,01/03/1988,,,,,N240NW,08/04/1998,Northwest Airlines,,Transferred
+48319,438,McDonnell Douglas DC-10,DC10-30ER,01/03/1988,,,,,N240NW,21/12/2006,Omni Air International,,Transferred
+48319,438,McDonnell Douglas DC-10,DC10-30ER,01/03/1988,,,,,N621AX,28/02/2007,Omni Air International,Stored 01/2012,Stored

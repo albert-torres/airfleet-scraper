@@ -1,0 +1,595 @@
+serialNumber,lnNumber,familyType,Type,firstFlight,planeAge,testRegistration,enginesType,enginesNumber,registration,deliveryDate,operator,remark,status
+48401,447,McDonnell Douglas MD-11,MD-11 F,01/03/1990,30.1,,GE CF6-80C2D1F,3,N111MD,01/01/1990,McDonnell Douglas,,Transferred
+48401,447,McDonnell Douglas MD-11,MD-11 F,01/03/1990,30.1,,GE CF6-80C2D1F,3,N601FE,27/06/1991,Federal Express,Named Jim Riedmeyer  First Md-11 Built,Active
+48402,448,McDonnell Douglas MD-11,MD-11 F,26/04/1990,30,,GE CF6-80C2D1F,3,N211MD,01/02/1990,McDonnell Douglas,,Transferred
+48402,448,McDonnell Douglas MD-11,MD-11 F,26/04/1990,30,,GE CF6-80C2D1F,3,N602FE,29/05/1991,Federal Express,Named Malcolm Baldrige 1990,Active
+48404,523,McDonnell Douglas MD-11,MD-11 F,Unknown,27.3,,GE CF6-80C2D1F,3,PP-VPJ,30/12/1992,Varig,,Transferred
+48404,523,McDonnell Douglas MD-11,MD-11 F,Unknown,27.3,,GE CF6-80C2D1F,3,N255UP,10/05/2005,UPS,,Active
+48405,524,McDonnell Douglas MD-11,MD-11 F,Unknown,27.3,,GE CF6-80C2D1F,3,PP-VPK,30/12/1992,Varig,,Transferred
+48405,524,McDonnell Douglas MD-11,MD-11 F,Unknown,27.3,,GE CF6-80C2D1F,3,N256UP,06/06/2005,UPS,,Active
+48406,547,McDonnell Douglas MD-11,MD-11 F,Unknown,26.8,,GE CF6-80C2D1F,3,N9166X,01/07/1993,McDonnell Douglas,,Transferred
+48406,547,McDonnell Douglas MD-11,MD-11 F,Unknown,26.8,,GE CF6-80C2D1F,3,PP-VPL,30/12/1993,Varig,,Transferred
+48406,547,McDonnell Douglas MD-11,MD-11 F,Unknown,26.8,,GE CF6-80C2D1F,3,N254UP,17/07/2002,UPS,Converted to freighter,Active
+48407,456,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4060,3,HL7371,24/01/1991,Korean Air,,Transferred
+48407,456,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4060,3,N380WA,04/04/2005,World Airways,ScrappedStored 05/2013Stored at Marana 11/2009 to 07/2010  Lsd From Gecas,Scrapped
+48408,457,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,HL7372,25/01/1991,Korean Air,,Transferred
+48408,457,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,PR-LGD,18/03/2005,VARIG Logistica,,Transferred
+48408,457,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,Z-BAV,20/11/2009,Avient,,Written off
+48409,490,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,HL7373,24/03/1992,Korean Air,,Written off
+48410,495,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,HL7374,20/05/1992,Korean Air,,Transferred
+48410,495,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,PR-LGE,15/06/2005,VARIG Logistica,Stored at GRU 05/2008 - std at MIA since 07/2009 (Pegasus Aviation N575SH),Transferred
+48410,495,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,Z-BVT,27/01/2010,Avient,Ceased operations 04/2013,Transferred
+48410,495,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,Z-GAA,27/06/2015,Global Africa Aviation,Stored as 2-ZGAA pegasus aviation,Stored
+48411,453,McDonnell Douglas MD-11,MD-11 F,09/12/1990,29.3,,GE CF6-80C2D1F,3,N514MD,09/12/1990,McDonnell Douglas,,Transferred
+48411,453,McDonnell Douglas MD-11,MD-11 F,09/12/1990,29.3,,GE CF6-80C2D1F,3,N891DL,21/12/1990,Delta Air Lines,,Transferred
+48411,453,McDonnell Douglas MD-11,MD-11 F,09/12/1990,29.3,,GE CF6-80C2D1F,3,PP-SPD,21/01/1994,VASP,,Transferred
+48411,453,McDonnell Douglas MD-11,MD-11 F,09/12/1990,29.3,,GE CF6-80C2D1F,3,N703GC,20/04/2001,Gemini Air Cargo,Converted to freighter - Stored at GYR 08/2008,Transferred
+48411,453,McDonnell Douglas MD-11,MD-11 F,09/12/1990,29.3,,GE CF6-80C2D1F,3,N382WA,24/12/2008,World Airways,Stored 02/2014Lsd From Wfbn,Transferred
+48411,453,McDonnell Douglas MD-11,MD-11 F,09/12/1990,29.3,,GE CF6-80C2D1F,3,N411SN,21/12/2015,Western Global Airlines,,Active
+48412,454,McDonnell Douglas MD-11,MD-11 F,Unknown,29.3,,GE CF6-80C2D1F,3,N892DL,21/12/1990,Delta Air Lines,,Transferred
+48412,454,McDonnell Douglas MD-11,MD-11 F,Unknown,29.3,,GE CF6-80C2D1F,3,PP-SPE,30/12/1993,VASP,,Transferred
+48412,454,McDonnell Douglas MD-11,MD-11 F,Unknown,29.3,,GE CF6-80C2D1F,3,N705GC,08/12/2000,Gemini Air Cargo,,Transferred
+48412,454,McDonnell Douglas MD-11,MD-11 F,Unknown,29.3,,GE CF6-80C2D1F,3,PP-SPE,07/06/2001,Cielos del Peru,,Transferred
+48412,454,McDonnell Douglas MD-11,MD-11 F,Unknown,29.3,,GE CF6-80C2D1F,3,N705GC,09/12/2001,Gemini Air Cargo,Stored at GYR 08/2008,Transferred
+48412,454,McDonnell Douglas MD-11,MD-11 F,Unknown,29.3,,GE CF6-80C2D1F,3,N383WA,10/11/2008,World Airways,Stored 11/2013Lsd From Gecas,Transferred
+48412,454,McDonnell Douglas MD-11,MD-11 F,Unknown,29.3,,GE CF6-80C2D1F,3,N383WA,25/09/2014,Western Global Airlines,,Transferred
+48412,454,McDonnell Douglas MD-11,MD-11 F,Unknown,29.3,,GE CF6-80C2D1F,3,N412SN,16/06/2015,Western Global Airlines,,Active
+48413,488,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,PP-SOW,14/02/1992,VASP,,Transferred
+48413,488,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,PP-VQL,12/05/2000,Varig,Stored as N413LT,Transferred
+48413,488,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,D-ALCO,12/07/2005,Lufthansa,ScrappedStored 01/2014,Scrapped
+48414,491,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,PP-SOZ,27/03/1992,VASP,,Transferred
+48414,491,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,PP-VQM,12/05/2000,Varig,Stored as N414LT,Transferred
+48414,491,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,D-ALCP,15/01/2005,Lufthansa,Stored 05/2014 Converted to freighter  Scrapped,Scrapped
+48415,576,McDonnell Douglas MD-11,MD-11 F,30/11/1994,25.4,,GE CF6-80C2D1F,3,N103EV,30/11/1994,EVA Air,,Transferred
+48415,576,McDonnell Douglas MD-11,MD-11 F,30/11/1994,25.4,,GE CF6-80C2D1F,3,B-16103,28/05/1999,EVA Air,Converted to freighter,Transferred
+48415,576,McDonnell Douglas MD-11,MD-11 F,30/11/1994,25.4,,GE CF6-80C2D1F,3,B-2176,09/06/2005,Shanghai Airlines,Stored 06/2011 as N304MS (GECAS),Transferred
+48415,576,McDonnell Douglas MD-11,MD-11 F,30/11/1994,25.4,,GE CF6-80C2D1F,3,N415JN,22/08/2014,Western Global Airlines,Lsd From Gecas,Active
+48416,466,McDonnell Douglas MD-11,MD-11 F,Unknown,28.8,,GE CF6-80C2D1F,3,HS-TMD,27/06/1991,Thai Airways,Named Phra Nakhon,Transferred
+48416,466,McDonnell Douglas MD-11,MD-11 F,Unknown,28.8,,GE CF6-80C2D1F,3,N258UP,06/06/2006,UPS,Converted to freighter 04/2007,Active
+48417,467,McDonnell Douglas MD-11,MD-11 F,Unknown,28.7,,GE CF6-80C2D1F,3,HS-TME,15/07/1991,Thai Airways,Named Pathum Wan,Transferred
+48417,467,McDonnell Douglas MD-11,MD-11 F,Unknown,28.7,,GE CF6-80C2D1F,3,N259UP,29/06/2006,UPS,Converted to freighter 04/2007,Active
+48418,501,McDonnell Douglas MD-11,MD-11 F,Unknown,27.8,,GE CF6-80C2D1F,3,HS-TMF,02/07/1992,Thai Airways,Named Phichit,Transferred
+48418,501,McDonnell Douglas MD-11,MD-11 F,Unknown,27.8,,GE CF6-80C2D1F,3,N260UP,31/07/2006,UPS,Converted to freighter 08/2007,Active
+48419,450,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,N1750B,05/06/1990,McDonnell Douglas,,Transferred
+48419,450,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,N411MD,01/07/1990,McDonnell Douglas,,Transferred
+48419,450,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,N1750B,28/05/1991,American Airlines,,Transferred
+48419,450,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,N581FE,28/02/1997,Federal Express,,Written off
+48420,451,McDonnell Douglas MD-11,MD-11 F,Unknown,30,,GE CF6-80C2D1F,3,N511MD,01/04/1990,McDonnell Douglas,,Transferred
+48420,451,McDonnell Douglas MD-11,MD-11 F,Unknown,30,,GE CF6-80C2D1F,3,N1751A,01/02/1991,American Airlines,,Transferred
+48420,451,McDonnell Douglas MD-11,MD-11 F,Unknown,30,,GE CF6-80C2D1F,3,N582FE,22/01/1996,Federal Express,Converted to freighter  Named Jamie,Active
+48421,452,McDonnell Douglas MD-11,MD-11 F,Unknown,29.8,,GE CF6-80C2D1F,3,N510MD,01/07/1990,McDonnell Douglas,,Transferred
+48421,452,McDonnell Douglas MD-11,MD-11 F,Unknown,29.8,,GE CF6-80C2D1F,3,N1752K,22/04/1991,American Airlines,,Transferred
+48421,452,McDonnell Douglas MD-11,MD-11 F,Unknown,29.8,,GE CF6-80C2D1F,3,N583FE,11/06/1997,Federal Express,Converted to freighter,Active
+48426,468,McDonnell Douglas MD-11,MD-11 SF,Unknown,,,GE CF6-80C2D1F,3,N9020Z,01/07/1991,McDonnell Douglas,,Transferred
+48426,468,McDonnell Douglas MD-11,MD-11 SF,Unknown,,,GE CF6-80C2D1F,3,I-DUPA,27/03/1992,Alitalia,,Transferred
+48426,468,McDonnell Douglas MD-11,MD-11 SF,Unknown,,,GE CF6-80C2D1F,3,EI-UPA,10/07/2005,Alitalia,Named Gioacchino Rossini - Retruned to lessor 01/2009,Transferred
+48426,468,McDonnell Douglas MD-11,MD-11 SF,Unknown,,,GE CF6-80C2D1F,3,N986AR,23/10/2009,SkyLease Cargo,,Transferred
+48426,468,McDonnell Douglas MD-11,MD-11 SF,Unknown,,,GE CF6-80C2D1F,3,N986AR,01/04/2011,Centurion Air Cargo,Ceased operations June 2018,Transferred
+48426,468,McDonnell Douglas MD-11,MD-11 SF,Unknown,,,GE CF6-80C2D1F,3,N986AR,01/01/2017,SkyLease Cargo,Scrapped 04/2019,Scrapped
+48427,471,McDonnell Douglas MD-11,MD-11SF,Unknown,,,,,I-DUPE,27/11/1991,Alitalia,Stored at Rome 08/2003 - Back in service 11/2004 - at venice for cargo conversion 10/2005,Transferred
+48427,471,McDonnell Douglas MD-11,MD-11SF,Unknown,,,,,EI-UPE,27/10/2005,Alitalia,lsd from Pegasus - Named Giuseppe Verdi - Retruned to lessor 01/2009,Transferred
+48427,471,McDonnell Douglas MD-11,MD-11SF,Unknown,,,,,EI-UPE,01/09/2009,CargoItalia,Ceased operations 21 dec. 2011,Transferred
+48427,471,McDonnell Douglas MD-11,MD-11SF,Unknown,,,,,N987AR,09/02/2013,Centurion Air Cargo,Stored 02/2017Lsd From Pegasus Aviation,Transferred
+48427,471,McDonnell Douglas MD-11,MD-11SF,Unknown,,,,,N987AR,12/03/2017,SkyLease Cargo,Scrapped 04/2019,Scrapped
+48428,474,McDonnell Douglas MD-11,MD-11 SF,Unknown,,,GE CF6-80C2D1F,3,I-DUPI,12/12/1991,Alitalia,Stored at Rome 08/2003 - Back in service 10/2004 - Cargo conversion,Transferred
+48428,474,McDonnell Douglas MD-11,MD-11 SF,Unknown,,,GE CF6-80C2D1F,3,EI-UPI,31/08/2005,Alitalia,lsd from Pegasus - Named Giacomo Puccini - Retruned to lessor 01/2009,Transferred
+48428,474,McDonnell Douglas MD-11,MD-11 SF,Unknown,,,GE CF6-80C2D1F,3,EI-UPI,06/05/2009,CargoItalia,Stored 12/2011 as N216AW (WTC)  Scrapped,Scrapped
+48429,500,McDonnell Douglas MD-11,MD-11 SF,Unknown,,,GE CF6-80C2D1F,3,I-DUPO,17/07/1992,Alitalia,Stored at Rome 08/2003 - in service 01/2005 - stored awaiting to undergo cargo conversion 09/2005,Transferred
+48429,500,McDonnell Douglas MD-11,MD-11 SF,Unknown,,,GE CF6-80C2D1F,3,EI-UPO,28/09/2005,Alitalia,lsd from Pagasus - Named Niccol - Returned to lessor 01/2009,Transferred
+48429,500,McDonnell Douglas MD-11,MD-11 SF,Unknown,,,GE CF6-80C2D1F,3,N984AR,24/06/2009,Centurion Air Cargo,Ceased operations June 2018,Stored
+48430,508,McDonnell Douglas MD-11,MD-11 SF,Unknown,,,GE CF6-80C2D1F,3,I-DUPU,17/08/1992,Alitalia,Stored at Napoli 06/2003 - Back in service 11/2004 - stored awaiting to undergo cargo conversion 09/2005 - back in service 04/2006,Transferred
+48430,508,McDonnell Douglas MD-11,MD-11 SF,Unknown,,,GE CF6-80C2D1F,3,EI-UPU,25/07/2006,Alitalia,lsd from Pegasus Aviation - Named Antonio Vivaldi - Stored 01/2009,Transferred
+48430,508,McDonnell Douglas MD-11,MD-11 SF,Unknown,,,GE CF6-80C2D1F,3,N985AR,23/10/2009,Centurion Air Cargo,Scrapped 08/2015Stored 04/2015,Scrapped
+48431,534,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,I-DUPB,30/04/1993,Alitalia,,Transferred
+48431,534,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,D-ALCQ,01/09/2004,Lufthansa,,Written off
+48434,476,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,PP-VOP,12/11/1991,Varig,lsd from GPA,Transferred
+48434,476,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N701GC,13/01/2000,Gemini Air Cargo,Converted to freighter - Stored at GYR 08/2008,Transferred
+48434,476,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N701GC,03/10/2008,Centurion Air Cargo,Damaged on landing at MVD 10/2009,Transferred
+48434,476,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N988AR,25/05/2010,Centurion Air Cargo,Damaged on landing At Viracopos (CPQ) on 13/oct/2012  Scrapped 06/2016,Scrapped
+48435,478,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,PP-VOQ,02/12/1991,Varig,lsd from GPA,Transferred
+48435,478,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N702GC,07/01/2000,Gemini Air Cargo,Ceased operations 12 aug 2008,Transferred
+48435,478,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N384WA,22/10/2008,World Airways,Lsd From AercapStored 04/2012,Transferred
+48435,478,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N384WA,07/01/2014,Western Global Airlines,,Transferred
+48435,478,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N435KD,10/04/2014,Western Global Airlines,Stored 12/2019,Stored
+48436,483,McDonnell Douglas MD-11,MD-11 F,Unknown,28,,GE CF6-80C2D1F,3,N1768D,17/04/1992,American Airlines,,Transferred
+48436,483,McDonnell Douglas MD-11,MD-11 F,Unknown,28,,GE CF6-80C2D1F,3,N584FE,17/10/1997,Federal Express,"Converted to freighter  Named ""jeffery Wellington""",Active
+48437,506,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,N584FE,01/06/1992,McDonnell Douglas,,Transferred
+48437,506,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,N272WA,16/04/1993,Garuda,lsd from ILFC,Transferred
+48437,506,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,N272WA,31/07/1993,World Airways,,Transferred
+48437,506,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,N272WA,22/11/1994,Malaysia Airlines,lsd,Transferred
+48437,506,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,N272WA,01/05/1995,Garuda,lsd,Transferred
+48437,506,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,N272WA,24/11/1996,Malaysia Airlines,lsd,Transferred
+48437,506,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,N272WA,13/05/1998,Aer Lingus,lsd,Transferred
+48437,506,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,N272WA,17/12/1998,World Airways,,Transferred
+48437,506,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,N272WA,31/10/1999,World Airways,,Transferred
+48437,506,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,N272WA,26/05/2001,Aer Lingus,lsd,Transferred
+48437,506,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,N272WA,01/09/2001,World Airways,Stored 03/2014 (ILFC),Stored
+48439,554,McDonnell Douglas MD-11,MD-11 F,Unknown,26.3,,GE CF6-80C2D1F,3,PP-VPM,30/12/1993,Varig,,Transferred
+48439,554,McDonnell Douglas MD-11,MD-11 F,Unknown,26.3,,GE CF6-80C2D1F,3,N253UP,10/05/2002,UPS,Converted to freighter,Active
+48443,458,McDonnell Douglas MD-11,MD-11 F,26/04/1990,30,,PW PW4460,3,HB-IWA,06/03/1991,Swissair,Named Obwalden,Transferred
+48443,458,McDonnell Douglas MD-11,MD-11 F,26/04/1990,30,,PW PW4460,3,HB-IWA,31/03/2002,Swiss International Air Lines,"out of service, stored in ZRH since 07/04",Transferred
+48443,458,McDonnell Douglas MD-11,MD-11 F,26/04/1990,30,,PW PW4460,3,N624FE,23/12/2004,Federal Express,Converted to freighter 06/2005,Active
+48444,459,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,HB-IWB,30/03/1991,Swissair,Named Graubünden,Transferred
+48444,459,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,HB-IWB,31/03/2002,Swiss International Air Lines,,Transferred
+48444,459,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,PP-VTF,01/10/2003,Varig,ret to lessor 08/2004 - Stored as N625FE,Transferred
+48444,459,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,9M-TGP,26/04/2005,TransMile,Stored 04/2009 - Converted to freighter,Transferred
+48444,459,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,N644FE,18/01/2011,Federal Express,Stored 11/2014,Stored
+48445,460,McDonnell Douglas MD-11,MD-11 F(ER),Unknown,,,PW PW4460,3,HB-IWC,22/04/1991,Swissair,Named Schaffhausen,Transferred
+48445,460,McDonnell Douglas MD-11,MD-11 F(ER),Unknown,,,PW PW4460,3,HB-IWC,31/03/2002,Swiss International Air Lines,,Transferred
+48445,460,McDonnell Douglas MD-11,MD-11 F(ER),Unknown,,,PW PW4460,3,N626FE,15/04/2004,Federal Express,Fedex NTU - Converted to Freighter,Transferred
+48445,460,McDonnell Douglas MD-11,MD-11 F(ER),Unknown,,,PW PW4460,3,PH-MCY,05/09/2004,Martinair Holland,Stored 12/2015 as N626FE (WFBN)lsd from Cast  Scrapped,Scrapped
+48446,463,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,HB-IWD,30/05/1991,Swissair,Named Thurgau,Transferred
+48446,463,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,HB-IWD,31/03/2002,Swiss International Air Lines,,Transferred
+48446,463,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,PP-VTG,01/10/2003,Varig,,Transferred
+48446,463,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,N627FE,01/09/2004,Federal Express,,Transferred
+48446,463,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,N627FE,25/11/2004,Catran,Stored at Zurich 01/2005 - in service 03/2005,Transferred
+48446,463,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,9M-TGQ,03/05/2005,TransMile,Stored 09/2009 - Converted to freighter,Transferred
+48446,463,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,N645FE,21/01/2011,Federal Express,Stored 05/2015,Stored
+48447,464,McDonnell Douglas MD-11,MD-11 F,Unknown,28.8,,PW PW4460,3,HB-IWE,14/06/1991,Swissair,Named Nidwalden,Transferred
+48447,464,McDonnell Douglas MD-11,MD-11 F,Unknown,28.8,,PW PW4460,3,HB-IWE,31/03/2002,Swiss International Air Lines,"out of service, stored in ZRH since 11/04",Transferred
+48447,464,McDonnell Douglas MD-11,MD-11 F,Unknown,28.8,,PW PW4460,3,N628FE,01/03/2005,Federal Express,Converted to freighter 06/2005,Active
+48448,465,McDonnell Douglas MD-11,MD-11 P,01/06/1991,,,PW PW4460,3,HB-IWF,05/08/1991,Swissair,,Written off
+48449,455,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,OH-LGA,07/12/1990,Finnair,,Transferred
+48449,455,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,OH-LGA,01/04/1995,Garuda,lsd,Transferred
+48449,455,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,OH-LGA,11/06/1995,Finnair,lsd from BBAM,Transferred
+48449,455,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,N270WA,11/07/2009,World Airways,Lsd From BbamStored 08/2012,Stored
+48450,479,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,OH-LGB,07/12/1991,Finnair,Stored 01/2010 - Stored at HEL 09/2010,Transferred
+48450,479,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,N269WA,01/12/2010,World Airways,Lsd From BbamStored 04/2012  Scrapped,Scrapped
+48451,505,McDonnell Douglas MD-11,MD-11 F,Unknown,27.7,,GE CF6-80C2D1F,3,HS-TMG,31/07/1992,Thai Airways,Named Nakhon Sawan,Transferred
+48451,505,McDonnell Douglas MD-11,MD-11 F,Unknown,27.7,,GE CF6-80C2D1F,3,N257UP,06/05/2006,UPS,Converted To Freighter,Active
+48452,472,McDonnell Douglas MD-11,MD-11 F,Unknown,28.6,,PW PW4460,3,HB-IWG,19/09/1991,Swissair,,Transferred
+48452,472,McDonnell Douglas MD-11,MD-11 F,Unknown,28.6,,PW PW4460,3,HB-IWG,23/12/1995,Swissair,Named Valais / Wallis,Transferred
+48452,472,McDonnell Douglas MD-11,MD-11 F,Unknown,28.6,,PW PW4460,3,HB-IWG,31/03/2002,Swiss International Air Lines,Stored at Mojave 14/05/02,Transferred
+48452,472,McDonnell Douglas MD-11,MD-11 F,Unknown,28.6,,PW PW4460,3,N282UP,20/07/2005,UPS,,Active
+48453,473,McDonnell Douglas MD-11,MD-11 F,Unknown,28.5,,GE CF6-80C2D1F,3,HB-IWH,02/10/1991,Swissair,Named St. Gallen,Transferred
+48453,473,McDonnell Douglas MD-11,MD-11 F,Unknown,28.5,,GE CF6-80C2D1F,3,HB-IWH,31/03/2002,Swiss International Air Lines,Stored at Mojave 04/2003,Transferred
+48453,473,McDonnell Douglas MD-11,MD-11 F,Unknown,28.5,,GE CF6-80C2D1F,3,V5-NMD,03/05/2005,Air Namibia,,Transferred
+48453,473,McDonnell Douglas MD-11,MD-11 F,Unknown,28.5,,GE CF6-80C2D1F,3,N286UP,01/09/2006,UPS,Converted to freighter 02/2007,Active
+48454,477,McDonnell Douglas MD-11,MD-11 F,Unknown,28.4,,PW PW4460,3,HB-IWI,15/11/1991,Swissair,Named Uri,Transferred
+48454,477,McDonnell Douglas MD-11,MD-11 F,Unknown,28.4,,PW PW4460,3,HB-IWI,31/03/2002,Swiss International Air Lines,"out of service, stored in ZRH since 06/04",Transferred
+48454,477,McDonnell Douglas MD-11,MD-11 F,Unknown,28.4,,PW PW4460,3,N631FE,23/12/2004,Federal Express,Converted to freighter 06/2005,Active
+48455,487,McDonnell Douglas MD-11,MD-11 F,Unknown,28.2,,PW PW4460,3,HB-IWK,03/02/1992,Swissair,Named Fribourg,Transferred
+48455,487,McDonnell Douglas MD-11,MD-11 F,Unknown,28.2,,PW PW4460,3,HB-IWK,18/08/1996,Swissair,,Transferred
+48455,487,McDonnell Douglas MD-11,MD-11 F,Unknown,28.2,,PW PW4460,3,HB-IWK,31/03/2002,Swiss International Air Lines,Stored at Zurich 02/2004,Transferred
+48455,487,McDonnell Douglas MD-11,MD-11 F,Unknown,28.2,,PW PW4460,3,PP-VTJ,08/03/2004,Varig,lsd from ABN,Transferred
+48455,487,McDonnell Douglas MD-11,MD-11 F,Unknown,28.2,,PW PW4460,3,N289UP,01/05/2007,UPS,Converted to freighter 01/2008,Active
+48456,494,McDonnell Douglas MD-11,MD-11 F,26/03/1992,28,,PW PW4460,3,HB-IWL,13/04/1992,Swissair,Named Appenzel Ausserrhoden,Transferred
+48456,494,McDonnell Douglas MD-11,MD-11 F,26/03/1992,28,,PW PW4460,3,HB-IWL,31/03/2002,Swiss International Air Lines,ret to lessor 02/2004,Transferred
+48456,494,McDonnell Douglas MD-11,MD-11 F,26/03/1992,28,,PW PW4460,3,PP-VTI,12/03/2004,Varig,,Transferred
+48456,494,McDonnell Douglas MD-11,MD-11 F,26/03/1992,28,,PW PW4460,3,N290UP,20/07/2007,UPS,Converted to freighter 11/2007,Active
+48457,498,McDonnell Douglas MD-11,MD-11 F,Unknown,27.9,,PW PW4460,3,HB-IWM,01/06/1992,Swissair,Named Jura,Transferred
+48457,498,McDonnell Douglas MD-11,MD-11 F,Unknown,27.9,,PW PW4460,3,HB-IWM,31/03/2002,Swiss International Air Lines,,Transferred
+48457,498,McDonnell Douglas MD-11,MD-11 F,Unknown,27.9,,PW PW4460,3,PP-VTH,01/11/2003,Varig,Stored 05/2006,Transferred
+48457,498,McDonnell Douglas MD-11,MD-11 F,Unknown,27.9,,PW PW4460,3,N285UP,10/07/2006,UPS,Converted to freighter,Active
+48458,449,McDonnell Douglas MD-11,MD-11 F,26/04/1990,,,GE CF6-80C2D1F,3,N311MD,26/04/1990,McDonnell Douglas,,Transferred
+48458,449,McDonnell Douglas MD-11,MD-11 F,26/04/1990,,,GE CF6-80C2D1F,3,N489GX,29/03/1991,McDonell Douglas,,Transferred
+48458,449,McDonnell Douglas MD-11,MD-11 F,26/04/1990,,,GE CF6-80C2D1F,3,N489GX,24/09/1992,China Airlines,,Transferred
+48458,449,McDonnell Douglas MD-11,MD-11 F,26/04/1990,,,GE CF6-80C2D1F,3,N280WA,23/04/1993,Garuda,,Transferred
+48458,449,McDonnell Douglas MD-11,MD-11 F,26/04/1990,,,GE CF6-80C2D1F,3,N280WA,28/06/1994,World Airways,,Transferred
+48458,449,McDonnell Douglas MD-11,MD-11 F,26/04/1990,,,GE CF6-80C2D1F,3,N280WA,14/10/1994,Ghana Airways,,Transferred
+48458,449,McDonnell Douglas MD-11,MD-11 F,26/04/1990,,,GE CF6-80C2D1F,3,N280WA,01/05/1995,Garuda,,Transferred
+48458,449,McDonnell Douglas MD-11,MD-11 F,26/04/1990,,,GE CF6-80C2D1F,3,N280WA,03/01/1997,World Airways,,Transferred
+48458,449,McDonnell Douglas MD-11,MD-11 F,26/04/1990,,,GE CF6-80C2D1F,3,N280WA,30/05/1997,CityBird,lsd,Transferred
+48458,449,McDonnell Douglas MD-11,MD-11 F,26/04/1990,,,GE CF6-80C2D1F,3,N280WA,22/07/1997,World Airways,,Transferred
+48458,449,McDonnell Douglas MD-11,MD-11 F,26/04/1990,,,GE CF6-80C2D1F,3,N489GX,23/10/1997,Mandarin Airlines,,Transferred
+48458,449,McDonnell Douglas MD-11,MD-11 F,26/04/1990,,,GE CF6-80C2D1F,3,N489GX,11/03/2000,China Airlines,,Transferred
+48458,449,McDonnell Douglas MD-11,MD-11 F,26/04/1990,,,GE CF6-80C2D1F,3,N578FE,05/04/2001,Federal Express,Stored 02/2020Converted to freighter 06/2005,Stored
+48459,470,McDonnell Douglas MD-11,MD-11 F,22/08/1991,28.6,,GE CF6-80C2D1F,3,N603FE,11/09/1991,Federal Express,Stored 08/2014 to 10/2016Named Elizabeth,Active
+48460,497,McDonnell Douglas MD-11,MD-11 F,29/03/1992,28,,GE CF6-80C2D1F,3,N604FE,22/05/1992,Federal Express,"Named ""hollis""",Active
+48461,475,McDonnell Douglas MD-11,MD-11 F,Unknown,28.5,,PW PW4460,3,B-2170,31/10/1991,China Eastern Airlines,,Transferred
+48461,475,McDonnell Douglas MD-11,MD-11 F,Unknown,28.5,,PW PW4460,3,B-2170,09/04/2006,China Cargo Airlines,Returned to lessor 05/2010,Transferred
+48461,475,McDonnell Douglas MD-11,MD-11 F,Unknown,28.5,,PW PW4460,3,N950AR,16/07/2010,SkyLease Cargo,,Active
+48468,518,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,B-150,07/11/1992,China Airlines,,Transferred
+48468,518,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,B-150,17/07/1993,Mandarin Airlines,,Transferred
+48468,518,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,B-150,03/03/1999,China Airlines,,Written off
+48468,518,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,B-150,07/11/1992,China Airlines,,Transferred
+48468,518,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,B-150,17/07/1993,Mandarin Airlines,,Transferred
+48468,518,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,B-150,03/03/1999,China Airlines,,Written off
+48469,519,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-151,13/11/1992,China Airlines,,Transferred
+48469,519,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-151,14/11/1995,Mandarin Airlines,,Transferred
+48469,519,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-18172,07/01/2000,China Airlines,Stored at Mojave 08/10/02,Transferred
+48469,519,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N577FE,29/10/2004,Federal Express,Stored 04/2014Converted to freighter,Stored
+48470,546,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-152,30/06/1993,China Airlines,,Transferred
+48470,546,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-152,09/05/1996,Mandarin Airlines,,Transferred
+48470,546,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-18151,02/04/1999,China Airlines,,Transferred
+48470,546,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N579FE,30/07/2001,Federal Express,Stored 12/2013Named Nash,Stored
+48471,558,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-153,11/12/1993,China Airlines,,Transferred
+48471,558,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-153,07/11/1995,Mandarin Airlines,,Transferred
+48471,558,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-18152,13/11/1998,China Airlines,,Transferred
+48471,558,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N580FE,30/07/2001,Federal Express,"Stored 05/2015Converted to freighter - Named ""ashton""",Stored
+48472,480,McDonnell Douglas MD-11,MD-11 F,Unknown,28.1,,GE CF6-80C2D1F,3,N801DE,13/03/1992,Delta Air Lines,stored at YMX,Transferred
+48472,480,McDonnell Douglas MD-11,MD-11 F,Unknown,28.1,,GE CF6-80C2D1F,3,N801DE,12/12/2004,World Airways,,Transferred
+48472,480,McDonnell Douglas MD-11,MD-11 F,Unknown,28.1,,GE CF6-80C2D1F,3,N801DE,01/07/2006,Ethiopian Airlines,lsd from World,Transferred
+48472,480,McDonnell Douglas MD-11,MD-11 F,Unknown,28.1,,GE CF6-80C2D1F,3,N801DE,11/09/2006,World Airways,Stored 12/2007,Transferred
+48472,480,McDonnell Douglas MD-11,MD-11 F,Unknown,28.1,,GE CF6-80C2D1F,3,N294UP,12/02/2008,UPS,Converted to freighter 04/2008,Active
+48473,481,McDonnell Douglas MD-11,MD-11 F,Unknown,28,,GE CF6-80C2D1F,3,N802DE,13/04/1992,Delta Air Lines,,Transferred
+48473,481,McDonnell Douglas MD-11,MD-11 F,Unknown,28,,GE CF6-80C2D1F,3,N802DE,15/05/2006,UPS,Stored at Roswell 05/2006,Transferred
+48473,481,McDonnell Douglas MD-11,MD-11 F,Unknown,28,,GE CF6-80C2D1F,3,N293UP,06/10/2006,UPS,Converted to freighter 04/2008,Active
+48474,485,McDonnell Douglas MD-11,MD-11 F,Unknown,27.9,,GE CF6-80C2D1F,3,N803DE,01/05/1992,Delta Air Lines,,Transferred
+48474,485,McDonnell Douglas MD-11,MD-11 F,Unknown,27.9,,GE CF6-80C2D1F,3,N803DE,26/03/2003,World Airways,,Transferred
+48474,485,McDonnell Douglas MD-11,MD-11 F,Unknown,27.9,,GE CF6-80C2D1F,3,N296UP,22/07/2008,UPS,Converted to freighter 08/2008,Active
+48475,489,McDonnell Douglas MD-11,MD-11 F,Unknown,27.9,,PW4460,3,N804DE,06/05/1992,Delta Air Lines,,Transferred
+48475,489,McDonnell Douglas MD-11,MD-11 F,Unknown,27.9,,PW4460,3,N804DE,14/02/2004,World Airways,,Transferred
+48475,489,McDonnell Douglas MD-11,MD-11 F,Unknown,27.9,,PW4460,3,N804DE,31/03/2006,UPS,,Transferred
+48475,489,McDonnell Douglas MD-11,MD-11 F,Unknown,27.9,,PW4460,3,N804DE,04/06/2006,World Airways,Last service 02/2008,Transferred
+48475,489,McDonnell Douglas MD-11,MD-11 F,Unknown,27.9,,PW4460,3,N295UP,30/04/2008,UPS,Converted to freighter 04/2008,Active
+48476,510,McDonnell Douglas MD-11,MD-11 F,Unknown,27.4,,PW PW4460,3,N805DE,16/11/1992,Delta Air Lines,Stored at Goodyear 03/02/03,Transferred
+48476,510,McDonnell Douglas MD-11,MD-11 F,Unknown,27.4,,PW PW4460,3,N805DE,27/06/2006,Federal Express,,Transferred
+48476,510,McDonnell Douglas MD-11,MD-11 F,Unknown,27.4,,PW PW4460,3,N522FE,28/08/2006,Federal Express,Converted to freighter,Active
+48477,511,McDonnell Douglas MD-11,MD-11 F,Unknown,27.4,,GE CF6-80C2D1F,3,N806DE,20/11/1992,Delta Air Lines,,Transferred
+48477,511,McDonnell Douglas MD-11,MD-11 F,Unknown,27.4,,GE CF6-80C2D1F,3,N806DE,01/03/2006,UPS,,Transferred
+48477,511,McDonnell Douglas MD-11,MD-11 F,Unknown,27.4,,GE CF6-80C2D1F,3,N291UP,05/10/2006,UPS,Converted to freighter 02/2008,Active
+48478,514,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4462-3,3,N807DE,21/12/1992,Delta Air Lines,last service 02/01/04 stored at YMX,Transferred
+48478,514,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4462-3,3,N807DE,27/05/2006,Federal Express,,Transferred
+48478,514,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4462-3,3,N521FE,22/08/2006,Federal Express,Stored 02/2019Converted to freighter,Stored
+48479,536,McDonnell Douglas MD-11,MD-11 F,Unknown,26.5,,PW PW4462,3,N808DE,01/10/1993,Delta Air Lines,Stored at Goodyear 20/05/03,Transferred
+48479,536,McDonnell Douglas MD-11,MD-11 F,Unknown,26.5,,PW PW4462,3,N523FE,08/08/2006,Federal Express,Converted to freighter,Active
+48480,538,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N809DE,01/10/1993,Delta Air Lines,Stored at Goodyear 03/05/03,Transferred
+48480,538,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N524FE,14/12/2005,Federal Express,Stored 09/2014Converted to freighter,Stored
+48481,482,McDonnell Douglas MD-11,MD-11 F,Unknown,28,,GE CF6-80C2D1F,3,N1759,19/04/1992,American Airlines,,Transferred
+48481,482,McDonnell Douglas MD-11,MD-11 F,Unknown,28,,GE CF6-80C2D1F,3,N585FE,17/06/1998,Federal Express,"Converted to freighter  Named ""katherine""",Active
+48484,484,McDonnell Douglas MD-11,MD-11 F,09/12/1991,28.3,,PW PW4460,3,D-AERB,19/12/1991,LTU,,Transferred
+48484,484,McDonnell Douglas MD-11,MD-11 F,09/12/1991,28.3,,PW PW4460,3,HB-IWR,27/10/1998,Swissair,Named Bern,Transferred
+48484,484,McDonnell Douglas MD-11,MD-11 F,09/12/1991,28.3,,PW PW4460,3,HB-IWR,31/03/2002,Swiss International Air Lines,Stored at Mojave 08/05/03,Transferred
+48484,484,McDonnell Douglas MD-11,MD-11 F,09/12/1991,28.3,,PW PW4460,3,V5-NMC,31/08/2004,Air Namibia,Stored 30/11/05,Transferred
+48484,484,McDonnell Douglas MD-11,MD-11 F,09/12/1991,28.3,,PW PW4460,3,N283UP,06/12/2005,UPS,,Active
+48485,502,McDonnell Douglas MD-11,MD-11 F,Unknown,27.8,,PW PW4460,3,D-AERW,10/07/1992,LTU,,Transferred
+48485,502,McDonnell Douglas MD-11,MD-11 F,Unknown,27.8,,PW PW4460,3,HB-IWS,05/11/1998,Swissair,Stored at Mojave 17/09/02,Transferred
+48485,502,McDonnell Douglas MD-11,MD-11 F,Unknown,27.8,,PW PW4460,3,N71WF,30/04/2005,TransMile,Converted to Freighter,Transferred
+48485,502,McDonnell Douglas MD-11,MD-11 F,Unknown,27.8,,PW PW4460,3,9M-TGR,01/08/2005,TransMile,,Transferred
+48485,502,McDonnell Douglas MD-11,MD-11 F,Unknown,27.8,,PW PW4460,3,N642FE,16/09/2011,Federal Express,Named Ticino,Active
+48486,509,McDonnell Douglas MD-11,MD-11 F,Unknown,27.6,,PW PW4460,3,D-AERX,22/08/1992,LTU,,Transferred
+48486,509,McDonnell Douglas MD-11,MD-11 F,Unknown,27.6,,PW PW4460,3,HB-IWT,02/11/1998,Swissair,Named Basel,Transferred
+48486,509,McDonnell Douglas MD-11,MD-11 F,Unknown,27.6,,PW PW4460,3,N15WF,05/06/2002,Boeing,Stored in Mojave,Transferred
+48486,509,McDonnell Douglas MD-11,MD-11 F,Unknown,27.6,,PW PW4460,3,9M-TGS,21/07/2005,TransMile,Std Since 22/02/2010 On Order Fedex,Transferred
+48486,509,McDonnell Douglas MD-11,MD-11 F,Unknown,27.6,,PW PW4460,3,N643FE,22/02/2011,Federal Express,,Active
+48487,469,McDonnell Douglas MD-11,MD-11 F,Unknown,28.6,,GE CF6-80C2D1F,3,N1753,29/08/1991,American Airlines,,Transferred
+48487,469,McDonnell Douglas MD-11,MD-11 F,Unknown,28.6,,GE CF6-80C2D1F,3,N586FE,31/05/1996,Federal Express,"Converted to freighter  Named ""dylan""",Active
+48489,492,McDonnell Douglas MD-11,MD-11 F,Unknown,28.1,,GE CF6-80C2D1F,3,N1754,12/03/1992,American Airlines,,Transferred
+48489,492,McDonnell Douglas MD-11,MD-11 F,Unknown,28.1,,GE CF6-80C2D1F,3,N587FE,19/09/1996,Federal Express,"Converted to freighter  Named ""jeanno""",Active
+48490,499,McDonnell Douglas MD-11,MD-11 F,Unknown,27.9,,GE CF6-80C2D1F,3,N1755,28/05/1992,American Airlines,,Transferred
+48490,499,McDonnell Douglas MD-11,MD-11 F,Unknown,27.9,,GE CF6-80C2D1F,3,N588FE,31/05/2000,Federal Express,"Converted to freighter  Named ""kendra""",Active
+48491,503,McDonnell Douglas MD-11,MD-11 F,02/06/1992,27.9,,GE CF6-80C2D1F,3,N1756,11/06/1992,American Airlines,,Transferred
+48491,503,McDonnell Douglas MD-11,MD-11 F,02/06/1992,27.9,,GE CF6-80C2D1F,3,N589FE,26/03/2001,Federal Express,Converted to freighter,Active
+48495,461,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-2171,24/05/1991,China Eastern Airlines,,Transferred
+48495,461,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-2171,25/01/2006,China Cargo Airlines,Stored 07/2010,Transferred
+48495,461,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N951AR,01/09/2010,SkyLease Cargo,Stored 01/2015,Stored
+48496,496,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-2172,22/05/1992,China Eastern Airlines,,Transferred
+48496,496,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-2172,18/03/2005,China Cargo Airlines,,Transferred
+48496,496,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N955AR,16/03/2011,SkyLease Cargo,Stored 12/2015,Stored
+48497,512,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-2173,01/10/1992,China Eastern Airlines,Converted to freighter,Transferred
+48497,512,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-2173,15/08/2005,China Cargo Airlines,Stored 11/2010,Transferred
+48497,512,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N952AR,15/10/2010,SkyLease Cargo,Scrapped 10/2017,Scrapped
+48498,522,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-2174,16/12/1992,China Eastern Airlines,Converted to freighter,Transferred
+48498,522,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-2174,01/01/2006,China Cargo Airlines,,Transferred
+48498,522,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N954AR,12/07/2011,SkyLease Cargo,Stored 01/2015Lsd From Celestial Trading  Broken Up,Scrapped
+48499,486,McDonnell Douglas MD-11,MD-11 F,Unknown,28.3,,GE CF6-80C2D1F,3,EI-CDI,31/12/1991,Garuda,lsd from GPA,Transferred
+48499,486,McDonnell Douglas MD-11,MD-11 F,Unknown,28.3,,GE CF6-80C2D1F,3,PP-VPN,21/12/1996,Varig,lsd from GPA - Stored 06/2004 - To FedEx,Transferred
+48499,486,McDonnell Douglas MD-11,MD-11 F,Unknown,28.3,,GE CF6-80C2D1F,3,N574FE,01/07/2005,Federal Express,Converted to freighter,Active
+48500,493,McDonnell Douglas MD-11,MD-11 F,Unknown,28,,GE CF6-80C2D1F,3,EI-CDJ,04/04/1992,Garuda,lsd from GPA,Transferred
+48500,493,McDonnell Douglas MD-11,MD-11 F,Unknown,28,,GE CF6-80C2D1F,3,PK-GIH,21/09/1992,Garuda,lsd from GPA,Transferred
+48500,493,McDonnell Douglas MD-11,MD-11 F,Unknown,28,,GE CF6-80C2D1F,3,EI-CDJ,10/10/1992,Garuda,lsd from GPA,Transferred
+48500,493,McDonnell Douglas MD-11,MD-11 F,Unknown,28,,GE CF6-80C2D1F,3,PK-GIH,29/05/1995,Garuda,lsd from GPA,Transferred
+48500,493,McDonnell Douglas MD-11,MD-11 F,Unknown,28,,GE CF6-80C2D1F,3,EI-CDJ,11/10/1995,Garuda,lsd from GPA,Transferred
+48500,493,McDonnell Douglas MD-11,MD-11 F,Unknown,28,,GE CF6-80C2D1F,3,PP-VPO,09/04/1997,Varig,lsd from GPA - Stored 06/2004 as N485LS,Transferred
+48500,493,McDonnell Douglas MD-11,MD-11 F,Unknown,28,,GE CF6-80C2D1F,3,N575FE,01/02/2006,Federal Express,Converted to freighter,Active
+48501,513,McDonnell Douglas MD-11,MD-11 F,Unknown,27.5,,GE CF6-80C2D1F,3,EI-CDK,30/09/1992,Garuda,lsd from GPA,Transferred
+48501,513,McDonnell Douglas MD-11,MD-11 F,Unknown,27.5,,GE CF6-80C2D1F,3,PP-VPP,21/09/1997,Varig,Stored at Goodyear 26/06/03,Transferred
+48501,513,McDonnell Douglas MD-11,MD-11 F,Unknown,27.5,,GE CF6-80C2D1F,3,N576FE,10/03/2005,Federal Express,Converted to freighter   Named Keeley,Active
+48502,520,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N9076Y,01/11/1992,McDonnell Douglas,,Transferred
+48502,520,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,PK-GIG,30/09/1993,Garuda,,Transferred
+48502,520,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,PP-VQF,26/01/1999,Varig,Ex N540MD - Stored at GIG 06/2006 - Ferried GIG-NAP 29/01/2007 for freighter conversion for Aeroflot Cargo.,Transferred
+48502,520,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,VP-BDP,01/02/2008,Aeroflot,Stored 07/2013 as N380BC Lsd From Bcc  To Be Scrapped,Stored
+48503,528,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N9020U,01/01/1993,McDonnell Douglas,,Transferred
+48503,528,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,PK-GII,28/10/1993,Garuda,,Transferred
+48503,528,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,PP-VQG,15/01/1999,Varig,Ex N538MD - Stored 06/2006 after landing problem,Transferred
+48503,528,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,VP-BDR,05/07/2008,Aeroflot,To be scrappedStored 06/2013 as  N382BC (BCC)Converted to freighter 04/2008  (dillon Inc),Stored
+48504,548,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N9020Q,01/07/1993,McDonnell Douglas,,Transferred
+48504,548,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,PK-GIJ,01/12/1993,Garuda,,Transferred
+48504,548,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,PP-VQH,04/11/1998,Varig,Ex N539MD - Stored at GIG 04/2006 - planned to go to Aeroflot,Transferred
+48504,548,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,VP-BDQ,22/02/2008,Aeroflot,Stored 08/2013 as N383BC (akash inc) - To be scrapped,Stored
+48505,462,McDonnell Douglas MD-11,MD-11 F,Unknown,28.7,,GE CF6-80C2D1F,3,N1757A,02/08/1991,American Airlines,,Transferred
+48505,462,McDonnell Douglas MD-11,MD-11 F,Unknown,28.7,,GE CF6-80C2D1F,3,N1757A,19/04/1994,USAfrica Airways,,Transferred
+48505,462,McDonnell Douglas MD-11,MD-11 F,Unknown,28.7,,GE CF6-80C2D1F,3,N1757A,03/02/1995,American Airlines,,Transferred
+48505,462,McDonnell Douglas MD-11,MD-11 F,Unknown,28.7,,GE CF6-80C2D1F,3,N590FE,23/01/1998,Federal Express,Converted to freighter,Active
+48512,529,McDonnell Douglas MD-11,MD-11 F,Unknown,27.2,,GE CF6-80C2D1F,3,OH-LGC,19/02/1993,Finnair,Stored 11/2008 - Converted to freighter 04/2010,Transferred
+48512,529,McDonnell Douglas MD-11,MD-11 F,Unknown,27.2,,GE CF6-80C2D1F,3,OH-LGC,05/09/2011,Nordic Global Airlines,Ceased operations may 2015,Transferred
+48512,529,McDonnell Douglas MD-11,MD-11 F,Unknown,27.2,,GE CF6-80C2D1F,3,N512JN,01/10/2015,Western Global Airlines,,Active
+48513,564,McDonnell Douglas MD-11,MD-11 F,Unknown,26,,GE CF6-80C2D1F,3,OH-LGD,01/04/1994,Finnair,Stored 05/2009 - Back in service 01/2011 - Converted to freighter 01/2011,Transferred
+48513,564,McDonnell Douglas MD-11,MD-11 F,Unknown,26,,GE CF6-80C2D1F,3,OH-LGD,04/08/2011,Nordic Global Airlines,Ceased operations may 2015,Transferred
+48513,564,McDonnell Douglas MD-11,MD-11 F,Unknown,26,,GE CF6-80C2D1F,3,N513SN,28/04/2016,Western Global Airlines,,Active
+48514,515,McDonnell Douglas MD-11,MD-11 F,Unknown,27.5,,GE CF6-80C2D1F,3,N605FE,29/09/1992,Federal Express,"Named ""april Star""",Active
+48518,525,McDonnell Douglas MD-11,MD-11 P,Unknown,,,PW PW4460,3,N271WA,08/03/1993,World Airways,lsd from ILFC,Transferred
+48518,525,McDonnell Douglas MD-11,MD-11 P,Unknown,,,PW PW4460,3,N271WA,25/05/1993,Malaysia Airlines,lsd,Transferred
+48518,525,McDonnell Douglas MD-11,MD-11 P,Unknown,,,PW PW4460,3,N271WA,01/05/1995,Garuda,lsd,Transferred
+48518,525,McDonnell Douglas MD-11,MD-11 P,Unknown,,,PW PW4460,3,N271WA,25/06/1995,Malaysia Airlines,lsd,Transferred
+48518,525,McDonnell Douglas MD-11,MD-11 P,Unknown,,,PW PW4460,3,N271WA,04/07/1997,World Airways,Scrapped 03/2015Stored 03/2014lsd from ILFC,Scrapped
+48519,539,McDonnell Douglas MD-11,MD-11 P,Unknown,,,PW PW4460,3,N273WA,23/04/1993,Garuda,lsd from ILFC,Transferred
+48519,539,McDonnell Douglas MD-11,MD-11 P,Unknown,,,PW PW4460,3,N273WA,31/07/1993,World Airways,,Transferred
+48519,539,McDonnell Douglas MD-11,MD-11 P,Unknown,,,PW PW4460,3,N273WA,18/10/1994,Malaysia Airlines,lsd,Transferred
+48519,539,McDonnell Douglas MD-11,MD-11 P,Unknown,,,PW PW4460,3,N273WA,01/05/1995,Garuda,lsd,Transferred
+48519,539,McDonnell Douglas MD-11,MD-11 P,Unknown,,,PW PW4460,3,N273WA,25/07/1997,CityBird,lsd,Transferred
+48519,539,McDonnell Douglas MD-11,MD-11 P,Unknown,,,PW PW4460,3,N273WA,03/03/1998,Garuda,lsd,Transferred
+48519,539,McDonnell Douglas MD-11,MD-11 P,Unknown,,,PW PW4460,3,N273WA,14/05/1998,Monarch Airlines,lsd,Transferred
+48519,539,McDonnell Douglas MD-11,MD-11 P,Unknown,,,PW PW4460,3,N273WA,14/08/1998,World Airways,Stored 11/2013Lsd From Wilmington,Stored
+48520,541,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N9134D,01/06/1993,McDonnell Douglas,,Transferred
+48520,541,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-2175,20/12/1993,China Eastern Airlines,Converted to freighter 12/2003,Transferred
+48520,541,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-2175,19/06/2006,China Cargo Airlines,,Transferred
+48520,541,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N953AR,03/03/2011,SkyLease Cargo,Stored 12/2015,Scrapped
+48523,516,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW 4460,3,HL7375,01/10/1992,Korean Air,,Transferred
+48523,516,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW 4460,3,N381WA,01/05/2005,World Airways,Stored 01/2014lsd from GECAS  Scrapped,Scrapped
+48527,504,McDonnell Douglas MD-11,MD-11 F,Unknown,27.8,,GE CF6-80C2D1F,3,N1758B,08/07/1992,American Airlines,,Transferred
+48527,504,McDonnell Douglas MD-11,MD-11 F,Unknown,27.8,,GE CF6-80C2D1F,3,N1758B,02/05/1994,USAfrica Airways,,Transferred
+48527,504,McDonnell Douglas MD-11,MD-11 F,Unknown,27.8,,GE CF6-80C2D1F,3,N1758B,03/02/1995,American Airlines,,Transferred
+48527,504,McDonnell Douglas MD-11,MD-11 F,Unknown,27.8,,GE CF6-80C2D1F,3,N591FE,03/01/2001,Federal Express,Converted to freighter,Active
+48528,507,McDonnell Douglas MD-11,MD-11 F,21/06/1992,27.8,,GE CF6-80C2D1F,3,N614FE,12/11/1992,Federal Express,,Active
+48532,532,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,N9093P,05/10/1993,Lessor,,Transferred
+48532,532,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,HZ-HM7,17/04/1999,Saudi Arabian Gvmt,,Stored
+48533,544,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,N9020Z,23/12/1993,Lessor,,Transferred
+48533,544,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,HZ-HM8,17/02/1999,Saudi Arabian Gvmt,,Transferred
+48533,544,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,HZ-AFA1,11/06/2001,Saudi Arabian Gvmt,,Transferred
+48533,544,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,HZ-AFAS,01/10/2007,Asasco,Stored 08/2011,Stored
+48538,533,McDonnell Douglas MD-11,MD-11 F,Unknown,27.1,,PW PW4460,3,D-AERZ,13/03/1993,LTU,,Transferred
+48538,533,McDonnell Douglas MD-11,MD-11 F,Unknown,27.1,,PW PW4460,3,HB-IWU,27/10/1998,Swissair,Named LuzernStored at Mojave 31/05/02,Transferred
+48538,533,McDonnell Douglas MD-11,MD-11 F,Unknown,27.1,,PW PW4460,3,N281UP,18/05/2005,UPS,Converted to freighter,Active
+48539,571,McDonnell Douglas MD-11,MD-11 F,Unknown,25.7,,PW PW4460,3,HB-IWN,29/07/1994,Swissair,,Transferred
+48539,571,McDonnell Douglas MD-11,MD-11 F,Unknown,25.7,,PW PW4460,3,HB-IWN,31/03/2002,Swiss International Air Lines,Stored in Zurich,Transferred
+48539,571,McDonnell Douglas MD-11,MD-11 F,Unknown,25.7,,PW PW4460,3,PP-VTP,01/09/2004,Varig,Stored 01/12/06,Transferred
+48539,571,McDonnell Douglas MD-11,MD-11 F,Unknown,25.7,,PW PW4460,3,N287UP,23/01/2007,UPS,Swissair Asia Title,Active
+48540,611,McDonnell Douglas MD-11,MD-11 F,Unknown,23.1,,PW PW4460,3,HB-IWO,11/03/1997,Swissair,Named Schwyz,Transferred
+48540,611,McDonnell Douglas MD-11,MD-11 F,Unknown,23.1,,PW PW4460,3,HB-IWO,31/03/2002,Swiss International Air Lines,Stored at Zurich,Transferred
+48540,611,McDonnell Douglas MD-11,MD-11 F,Unknown,23.1,,PW PW4460,3,PP-VTK,01/08/2004,Varig,Last Varig flight 03/01/07,Transferred
+48540,611,McDonnell Douglas MD-11,MD-11 F,Unknown,23.1,,PW PW4460,3,N288UP,15/02/2007,UPS,Converted to freighter,Active
+48541,621,McDonnell Douglas MD-11,MD-11 F,Unknown,22.3,,PW PW4460,3,HB-IWQ,22/12/1997,Swissair,Named Valais,Transferred
+48541,621,McDonnell Douglas MD-11,MD-11 F,Unknown,22.3,,PW PW4460,3,HB-IWQ,31/03/2002,Swiss International Air Lines,Stored at Zurich,Transferred
+48541,621,McDonnell Douglas MD-11,MD-11 F,Unknown,22.3,,PW PW4460,3,PP-VTU,15/09/2004,Varig,Ret to lessor 12/2005,Transferred
+48541,621,McDonnell Douglas MD-11,MD-11 F,Unknown,22.3,,PW PW4460,3,N284UP,26/01/2006,UPS,,Active
+48542,570,McDonnell Douglas MD-11,MD-11 F,Unknown,25.7,,GE CF6-80C2D1F,3,B-16101,18/08/1994,EVA Air,Converted to freighter from P versionStored 05/2012,Transferred
+48542,570,McDonnell Douglas MD-11,MD-11 F,Unknown,25.7,,GE CF6-80C2D1F,3,OH-NGA,29/06/2012,Nordic Global Airlines,Stored 03/2015,Transferred
+48542,570,McDonnell Douglas MD-11,MD-11 F,Unknown,25.7,,GE CF6-80C2D1F,3,N542KD,23/04/2015,Western Global Airlines,,Active
+48543,572,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-16102,13/09/1994,EVA Air,Converted to freighter,Transferred
+48543,572,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-2178,29/08/2007,Shanghai Airlines,,Transferred
+48543,572,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-2178,01/06/2011,China Cargo Airlines,Stored 05/2013 as N543JNLsd From Wfbn,Transferred
+48543,572,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N543JN,06/05/2014,Western Global Airlines,Stored 06/2019,Stored
+48544,580,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N105EV,30/03/1995,EVA Air,,Transferred
+48544,580,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-2177,22/12/2006,Shanghai Airlines,,Transferred
+48544,580,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-2177,01/06/2011,China Cargo Airlines,Lsd From WfbnStored 05/2013 as N216SC  Scrapped,Scrapped
+48545,587,McDonnell Douglas MD-11,MD-11 F,Unknown,24.8,,GE CF6-80C2D1F,3,B-16106,22/06/1995,EVA Air,Stored 05/2008,Transferred
+48545,587,McDonnell Douglas MD-11,MD-11 F,Unknown,24.8,,GE CF6-80C2D1F,3,B-2179,01/06/2008,Shanghai Airlines,,Transferred
+48545,587,McDonnell Douglas MD-11,MD-11 F,Unknown,24.8,,GE CF6-80C2D1F,3,B-2179,01/09/2011,China Cargo Airlines,Stored 08/2013Lsd From Wfbn,Transferred
+48545,587,McDonnell Douglas MD-11,MD-11 F,Unknown,24.8,,GE CF6-80C2D1F,3,N545JN,15/08/2014,Western Global Airlines,,Active
+48545,587,McDonnell Douglas MD-11,MD-11 F,Unknown,24.8,,GE CF6-80C2D1F,3,B-16106,22/06/1995,EVA Air,Stored 05/2008,Transferred
+48545,587,McDonnell Douglas MD-11,MD-11 F,Unknown,24.8,,GE CF6-80C2D1F,3,B-2179,01/06/2008,Shanghai Airlines,,Transferred
+48545,587,McDonnell Douglas MD-11,MD-11 F,Unknown,24.8,,GE CF6-80C2D1F,3,B-2179,01/09/2011,China Cargo Airlines,Stored 08/2013Lsd From Wfbn,Transferred
+48545,587,McDonnell Douglas MD-11,MD-11 F,Unknown,24.8,,GE CF6-80C2D1F,3,N545JN,15/08/2014,Western Global Airlines,,Active
+48546,589,McDonnell Douglas MD-11,MD-11 F,Unknown,24.6,,GE CF6-80C2D1F,3,B-16107,30/08/1995,EVA Air,,Transferred
+48546,589,McDonnell Douglas MD-11,MD-11 F,Unknown,24.6,,GE CF6-80C2D1F,3,OH-NGB,26/11/2012,Nordic Global Airlines,Stored 03/2015,Transferred
+48546,589,McDonnell Douglas MD-11,MD-11 F,Unknown,24.6,,GE CF6-80C2D1F,3,N546JN,01/12/2015,Western Global Airlines,,Active
+48547,517,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N607FE,01/10/1992,Federal Express,"Stored 02/2020Named ""christina""",Stored
+48548,521,McDonnell Douglas MD-11,MD-11 F,Unknown,27.4,,GE CF6-80C2D1F,3,N608FE,24/11/1992,Federal Express,"Named ""colton""",Active
+48549,545,McDonnell Douglas MD-11,MD-11 F,Unknown,26.8,,GE CF6-80C2D1F,3,N609FE,30/06/1993,Federal Express,"Named ""scott""",Active
+48550,526,McDonnell Douglas MD-11,MD-11 F,Unknown,27.2,,GE CF6-80C2D1F,3,N1760A,11/02/1993,American Airlines,,Transferred
+48550,526,McDonnell Douglas MD-11,MD-11 F,Unknown,27.2,,GE CF6-80C2D1F,3,N592FE,13/01/2000,Federal Express,"Converted to freighter  Named ""joshua""",Active
+48551,527,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N1761R,28/01/1993,American Airlines,,Transferred
+48551,527,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N593FE,28/06/2001,Federal Express,"Stored 01/2020Converted to freighter - Named ""harrison""",Stored
+48552,530,McDonnell Douglas MD-11,MD-11 F,Unknown,27.1,,GE CF6-80C2D1F,3,N1762B,25/02/1993,American Airlines,,Transferred
+48552,530,McDonnell Douglas MD-11,MD-11 F,Unknown,27.1,,GE CF6-80C2D1F,3,N594FE,19/06/2002,Federal Express,Converted to freighter,Active
+48553,531,McDonnell Douglas MD-11,MD-11 F,09/01/1993,27.3,,GE CF6-80C2D1F,3,N1763,11/03/1993,American Airlines,,Transferred
+48553,531,McDonnell Douglas MD-11,MD-11 F,09/01/1993,27.3,,GE CF6-80C2D1F,3,N595FE,27/09/2001,Federal Express,Converted to freighter,Active
+48554,535,McDonnell Douglas MD-11,MD-11 F,Unknown,27.1,,GE CF6-80C2D1F,3,N1764B,25/03/1993,American Airlines,,Transferred
+48554,535,McDonnell Douglas MD-11,MD-11 F,Unknown,27.1,,GE CF6-80C2D1F,3,N596FE,27/09/2000,Federal Express,Converted to freighter,Active
+48555,557,McDonnell Douglas MD-11,MD-11 P,03/11/1993,,,GE CF6-80C2D1F,3,PH-KCA,07/12/1993,KLM,ScrappedStored 08/2014Named Amy Johnson - lsd from ILFC,Scrapped
+48556,561,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,PH-KCB,01/03/1994,KLM,Scrapped in 2016Stored 10/2014Named Maria Montessori,Scrapped
+48557,569,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,PH-KCC,24/06/1994,KLM,Scrapped 05/2014Stored 10/2013Named Marie Curie,Scrapped
+48558,573,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,PH-KCD,16/09/1994,KLM,Stored 10/2014Named Florence Nightingale  Scrapped,Scrapped
+48559,575,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,N91566,01/10/1994,McDonnell Douglas,,Transferred
+48559,575,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,PH-KCE,18/11/1994,KLM,ScrappedStored 10/2014Named Audrey Hepburn,Scrapped
+48560,578,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,PH-KCF,17/12/1994,KLM,Named Annie RomeinStored 10/2012  Parted Out,Scrapped
+48561,585,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,PH-KCG,12/05/1995,KLM,ScrappedNamed Maria CallasStored 11/2012,Scrapped
+48562,591,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,PH-KCH,31/08/1995,KLM,Named Anna PavlovaStored 07/2012Scrapped 01/2013,Scrapped
+48563,593,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,PH-KCI,10/11/1995,KLM,,Transferred
+48563,593,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,PP-SPM,15/12/1995,VASP,,Transferred
+48563,593,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,PH-KCI,21/08/1998,KLM,lsd from ILFC - Named Mother Theresa Stored 10/2012scrapped,Scrapped
+48564,612,McDonnell Douglas MD-11,MD-11 P,Unknown,,,GE CF6-80C2D1F,3,PH-KCK,25/04/1997,KLM,Stored 10/2013Named Ingrid Bergman  Scrapped,Scrapped
+48565,542,McDonnell Douglas MD-11,MD-11 F,Unknown,26.1,,GE CF6-80C2D1F,3,N810DE,01/03/1994,Delta Air Lines,Stored at Goodyear 07/04/03,Transferred
+48565,542,McDonnell Douglas MD-11,MD-11 F,Unknown,26.1,,GE CF6-80C2D1F,3,N810DE,03/12/2004,Federal Express,Converted to freighter 12/2006,Transferred
+48565,542,McDonnell Douglas MD-11,MD-11 F,Unknown,26.1,,GE CF6-80C2D1F,3,N525FE,01/12/2006,Federal Express,,Active
+48566,543,McDonnell Douglas MD-11,MD-11 F,Unknown,26.1,,GE CF6-80C2D1F,3,N811DE,01/03/1994,Delta Air Lines,,Transferred
+48566,543,McDonnell Douglas MD-11,MD-11 F,Unknown,26.1,,GE CF6-80C2D1F,3,N811DE,23/03/2006,UPS,Stored at Roswell 03/2006,Transferred
+48566,543,McDonnell Douglas MD-11,MD-11 F,Unknown,26.1,,GE CF6-80C2D1F,3,N292UP,05/10/2006,UPS,Converted to freighter 12/2007,Active
+48571,552,McDonnell Douglas MD-11,MD-11 F,Unknown,26.6,,GE CF6-80C2D1F,3,N91566,01/09/1993,McDonnell Douglas,,Transferred
+48571,552,McDonnell Douglas MD-11,MD-11 F,Unknown,26.6,,GE CF6-80C2D1F,3,JA8580,05/11/1993,Japan Airlines,,Transferred
+48571,552,McDonnell Douglas MD-11,MD-11 F,Unknown,26.6,,GE CF6-80C2D1F,3,N272UP,10/09/2002,UPS,Converted to freighter,Active
+48572,556,McDonnell Douglas MD-11,MD-11 F,Unknown,26.6,,GE CF6-80C2D1F,3,N90187,01/09/1993,McDonnell Douglas,,Transferred
+48572,556,McDonnell Douglas MD-11,MD-11 F,Unknown,26.6,,GE CF6-80C2D1F,3,JA8581,08/12/1993,Japan Airlines,,Transferred
+48572,556,McDonnell Douglas MD-11,MD-11 F,Unknown,26.6,,GE CF6-80C2D1F,3,N271UP,01/08/2002,UPS,Converted to freighter,Active
+48573,559,McDonnell Douglas MD-11,MD-11 F,Unknown,26.5,,GE CF6-80C2D1F,3,N90187,01/10/1993,McDonnell Douglas,,Transferred
+48573,559,McDonnell Douglas MD-11,MD-11 F,Unknown,26.5,,GE CF6-80C2D1F,3,JA8582,05/04/1994,Japan Airlines,Stored 01/09/04,Transferred
+48573,559,McDonnell Douglas MD-11,MD-11 F,Unknown,26.5,,GE CF6-80C2D1F,3,N279UP,09/07/2005,UPS,,Active
+48574,566,McDonnell Douglas MD-11,MD-11 F,Unknown,25.7,,GE CF6-80C2D1F,3,JA8583,12/08/1994,Japan Airlines,,Transferred
+48574,566,McDonnell Douglas MD-11,MD-11 F,Unknown,25.7,,GE CF6-80C2D1F,3,N273UP,10/01/2003,UPS,Stored at Marana 12/2002 - Back in service 01/2004,Active
+48575,568,McDonnell Douglas MD-11,MD-11 F,Unknown,25.6,,GE CF6-80C2D1F,3,JA8584,13/09/1994,Japan Airlines,,Transferred
+48575,568,McDonnell Douglas MD-11,MD-11 F,Unknown,25.6,,GE CF6-80C2D1F,3,N274UP,22/05/2003,UPS,Stored at Goodyear 28/05/03 - Back in service first quarter 2004,Active
+48576,574,McDonnell Douglas MD-11,MD-11 F,Unknown,25,,GE CF6-80C2D1F,3,JA8585,05/04/1995,Japan Airlines,,Transferred
+48576,574,McDonnell Douglas MD-11,MD-11 F,Unknown,25,,GE CF6-80C2D1F,3,N270UP,18/06/2002,UPS,Converted to freighter,Active
+48577,583,McDonnell Douglas MD-11,MD-11 F,Unknown,25,,GE CF6-80C2D1F,3,JA8586,11/04/1995,Japan Airlines,,Transferred
+48577,583,McDonnell Douglas MD-11,MD-11 F,Unknown,25,,GE CF6-80C2D1F,3,N278UP,01/08/2005,UPS,,Active
+48578,588,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,JA8587,28/06/1995,Japan Airlines,,Transferred
+48578,588,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,N277UP,02/11/2004,UPS,Scrapped 03/2017Stored 06/2016F conversion overrun the runway at icn at 2016.06.08.,Scrapped
+48579,599,McDonnell Douglas MD-11,MD-11 F,Unknown,24,,GE CF6-80C2D1F,3,JA8588,03/04/1996,Japan Airlines,Stored at Goodyear 27/10/03,Transferred
+48579,599,McDonnell Douglas MD-11,MD-11 F,Unknown,24,,GE CF6-80C2D1F,3,N276UP,17/12/2003,UPS,Converted to freigher,Active
+48581,565,McDonnell Douglas MD-11,MD-11 F,Unknown,25.9,,GE CF6-80C2D1F,3,I-DUPC,05/05/1994,Alitalia,Stored as N581LT,Transferred
+48581,565,McDonnell Douglas MD-11,MD-11 F,Unknown,25.9,,GE CF6-80C2D1F,3,D-ALCR,21/12/2004,Lufthansa,Stored 08/2014F conversion (at CGN 20/04/04) - Stored at VCV 01/2010 - Back in service 05/2010,Transferred
+48581,565,McDonnell Douglas MD-11,MD-11 F,Unknown,25.9,,GE CF6-80C2D1F,3,N581JN,20/03/2016,Western Global Airlines,,Active
+48596,537,McDonnell Douglas MD-11,MD-11 F,Unknown,27,,GE CF6-80C2D1F,3,N1765B,30/03/1993,American Airlines,,Transferred
+48596,537,McDonnell Douglas MD-11,MD-11 F,Unknown,27,,GE CF6-80C2D1F,3,N597FE,04/06/2002,Federal Express,Converted to freighter,Active
+48597,540,McDonnell Douglas MD-11,MD-11 F,Unknown,26.9,,GE CF6-80C2D1F,3,N1766A,14/05/1993,American Airlines,,Transferred
+48597,540,McDonnell Douglas MD-11,MD-11 F,Unknown,26.9,,GE CF6-80C2D1F,3,N598FE,03/06/2002,Federal Express,Converted to freighter,Active
+48598,550,McDonnell Douglas MD-11,MD-11 F,Unknown,26.6,,GE CF6-80C2D1F,3,N1767A,24/09/1993,American Airlines,,Transferred
+48598,550,McDonnell Douglas MD-11,MD-11 F,Unknown,26.6,,GE CF6-80C2D1F,3,N599FE,12/12/2001,Federal Express,Converted to freighter - Named Mariana,Active
+48600,560,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N90178,01/12/1993,McDonnell Douglas,,Transferred
+48600,560,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N9017S,01/05/1996,McDonnell Douglas,,Transferred
+48600,560,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N813DE,15/10/1996,Delta Air Lines,,Transferred
+48600,560,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N813DE,01/02/2006,Federal Express,,Transferred
+48600,560,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N526FE,10/07/2006,Federal Express,,Written off
+48601,562,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N6202S,01/01/1994,McDonnell Douglas,,Transferred
+48601,562,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N812DE,08/04/1996,Delta Air Lines,,Transferred
+48601,562,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N812DE,01/04/2006,Federal Express,,Transferred
+48601,562,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N527FE,16/06/2006,Federal Express,stored 01/2015Converted to freighter,Stored
+48602,549,McDonnell Douglas MD-11,MD-11 F,Unknown,26.7,,GE CF6-80C2D1F,3,N606FE,28/07/1993,Federal Express,"Named ""charles & Teresa""",Active
+48603,551,McDonnell Douglas MD-11,MD-11 F,Unknown,26.6,,GE CF6-80C2D1F,3,N610FE,25/08/1993,Federal Express,Named Marissa,Active
+48604,553,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N611FE,22/09/1993,Federal Express,,Written off
+48605,555,McDonnell Douglas MD-11,MD-11 F,Unknown,26.5,,GE CF6-80C2D1F,3,N612FE,30/09/1993,Federal Express,"Named ""alyssa""",Active
+48616,577,McDonnell Douglas MD-11,MD-11 CF(ER),Unknown,,,,,PH-MCP,22/12/1994,Martinair Holland,Stored 07/2016lsd from Mgt Kumiai,Stored
+48617,581,McDonnell Douglas MD-11,MD-11 CF(ER),Unknown,,,,,PH-MCR,30/03/1995,Martinair Holland,Stored 03/2015lsd from Yamasa Lease,Stored
+48618,584,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,PH-MCS,03/04/1995,Martinair Holland,Stored 03/2015Leasen From  J.l. Royal Lease Company Ltd & S.c.l. Fundoll Lease Company Ltd Japan.,Transferred
+48618,584,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N68089,01/06/2016,Federal Express,Used For Parts,Stored
+48623,605,McDonnell Douglas MD-11,MD-11 F,Unknown,23.6,,GE CF6-80C2D1F,3,N814DE,14/09/1996,Delta Air Lines,Storedt at Goodyear 21/05/03,Transferred
+48623,605,McDonnell Douglas MD-11,MD-11 F,Unknown,23.6,,GE CF6-80C2D1F,3,N528FE,22/01/2007,Federal Express,Converted to freighter,Active
+48624,622,McDonnell Douglas MD-11,MD-11 F,Unknown,22.1,,GE CF6-80C2D1F,3,N815DE,20/02/1998,Delta Air Lines,Storedt at Goodyear 16/08/03,Transferred
+48624,622,McDonnell Douglas MD-11,MD-11 F,Unknown,22.1,,GE CF6-80C2D1F,3,N529FE,13/12/2006,Federal Express,Converted to freighter 02/2007,Active
+48629,586,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,PH-MCT,23/05/1995,Martinair Holland,"USed for partsLeased From: Malc Fin Two Ltd, Nassau",Transferred
+48629,586,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N956AR,09/05/2013,SkyLease Cargo,Scrapped 07/2016,Scrapped
+48630,567,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,I-DUPD,10/06/1994,Alitalia,Stored as N630LT,Transferred
+48630,567,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,D-ALCS,05/02/2005,Lufthansa,Stored 01/2015Stored 07/2009 to 08/2010,Transferred
+48630,567,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N630SN,31/12/2015,Western Global Airlines,Stored 03/2016,Stored
+48631,579,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N275WA,02/03/1995,World Airways,lsd from ILFC,Transferred
+48631,579,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N275WA,01/04/1995,Garuda,lsd,Transferred
+48631,579,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N275WA,09/07/1995,Malaysia Airlines,lsd,Transferred
+48631,579,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N275WA,03/06/1996,World Airways,,Transferred
+48631,579,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N275WA,17/09/1996,Philippine Airlines,lsd,Transferred
+48631,579,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N275WA,13/02/1998,Malaysia Airlines,lsd,Transferred
+48631,579,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N275WA,22/02/1998,Garuda,lsd,Transferred
+48631,579,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N275WA,01/05/1998,World Airways,,Transferred
+48631,579,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N275WA,26/09/1998,Malaysia Airlines,lsd,Transferred
+48631,579,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N275WA,11/03/2000,World Airways,,Transferred
+48631,579,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N275WA,27/06/2002,World Airways,Converted to freighter  Lsd From IlfcStored 07/2012,Stored
+48632,582,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N276WA,28/03/1995,World Airways,lsd from ILFC,Transferred
+48632,582,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N276WA,01/05/1995,Garuda,lsd,Transferred
+48632,582,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N276WA,11/08/1995,Malaysia Airlines,lsd,Transferred
+48632,582,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N276WA,27/04/1996,Garuda,lsd,Transferred
+48632,582,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N276WA,31/05/1996,World Airways,,Transferred
+48632,582,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N276WA,01/09/1996,Philippine Airlines,lsd,Transferred
+48632,582,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N276WA,01/08/1997,Malaysia Airlines,lsd,Transferred
+48632,582,McDonnell Douglas MD-11,MD-11 CF,Unknown,,,PW PW4462,3,N276WA,01/02/2000,World Airways,ScrappedConverted to freighter  Lsd From WilmingtonStored 04/2012 as N68092 used for spare parts for federal express corp,Scrapped
+48633,563,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,N274WA,31/03/1994,World Airways,lsd from ILFC,Transferred
+48633,563,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,N274WA,20/11/1994,Malaysia Airlines,lsd,Transferred
+48633,563,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,N274WA,14/09/1997,World Airways,,Transferred
+48633,563,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,N274WA,01/01/1998,Malaysia Airlines,lsd,Transferred
+48633,563,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,N274WA,26/09/1998,World Airways,Lsd From IlfcStored 02/2012,Transferred
+48633,563,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,N68093,01/01/2013,Federal Express,Used For Spare,Stored
+48633,563,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,N274WA,31/03/1994,World Airways,lsd from ILFC,Transferred
+48633,563,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,N274WA,20/11/1994,Malaysia Airlines,lsd,Transferred
+48633,563,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,N274WA,14/09/1997,World Airways,,Transferred
+48633,563,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,N274WA,01/01/1998,Malaysia Airlines,lsd,Transferred
+48633,563,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,N274WA,26/09/1998,World Airways,Lsd From IlfcStored 02/2012,Transferred
+48633,563,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,N68093,01/01/2013,Federal Express,Used For Spare,Stored
+48634,614,McDonnell Douglas MD-11,MD-11 F,Unknown,22.8,,PW PW4460,3,HB-IWP,11/07/1997,Swissair,Named Basel Land,Transferred
+48634,614,McDonnell Douglas MD-11,MD-11 F,Unknown,22.8,,PW PW4460,3,HB-IWP,31/03/2002,Swiss International Air Lines,Stored at Mojave 28/05/03 as N38WF - at ZRH 10/2004,Transferred
+48634,614,McDonnell Douglas MD-11,MD-11 F,Unknown,22.8,,PW PW4460,3,N280UP,29/08/2005,UPS,,Active
+48743,590,McDonnell Douglas MD-11,MD-11 ER,Unknown,,,,,N6203D,01/08/1995,Dynair,,Transferred
+48743,590,McDonnell Douglas MD-11,MD-11 ER,Unknown,,,,,N277WA,30/11/1995,World Airways,,Transferred
+48743,590,McDonnell Douglas MD-11,MD-11 ER,Unknown,,,,,N6203D,09/02/1996,McDonnell Douglas,,Transferred
+48743,590,McDonnell Douglas MD-11,MD-11 ER,Unknown,,,,,N277WA,01/03/1996,World Airways,,Transferred
+48743,590,McDonnell Douglas MD-11,MD-11 ER,Unknown,,,,,N277WA,24/06/1996,Philippine Airlines,lsd,Transferred
+48743,590,McDonnell Douglas MD-11,MD-11 ER,Unknown,,,,,N277WA,03/07/1998,VASP,,Transferred
+48743,590,McDonnell Douglas MD-11,MD-11 ER,Unknown,,,,,N277WA,08/08/1998,Air Afrique,lsd,Transferred
+48743,590,McDonnell Douglas MD-11,MD-11 ER,Unknown,,,,,N277WA,14/08/1998,Monarch Airlines,lsd,Transferred
+48743,590,McDonnell Douglas MD-11,MD-11 ER,Unknown,,,,,N277WA,03/11/1998,World Airways,"operated for El AL, 17/08/00, noted with small titles operated for Garuda Indonesia, 26/02/01  Lsd From Boeing CapitalStored 02/2012",Stored
+48744,592,McDonnell Douglas MD-11,MD-11 F,Unknown,24.4,,GE CF6-80C2D1F,3,PP-SPK,17/11/1995,VASP,,Transferred
+48744,592,McDonnell Douglas MD-11,MD-11 F,Unknown,24.4,,GE CF6-80C2D1F,3,N251UP,30/04/2001,UPS,Converted to freighterEx N797BA,Active
+48745,596,McDonnell Douglas MD-11,MD-11 F,Unknown,24.2,,GE CF6-80C2D1F,3,PP-SPL,20/01/1996,VASP,,Transferred
+48745,596,McDonnell Douglas MD-11,MD-11 F,Unknown,24.2,,GE CF6-80C2D1F,3,N250UP,14/03/2001,UPS,Converted to freighterEx N798BA,Active
+48746,597,McDonnell Douglas MD-11,MD-11F ER,Unknown,,,PW4460,3,N9020Q,15/01/1996,McDonnell Douglas,,Transferred
+48746,597,McDonnell Douglas MD-11,MD-11F ER,Unknown,,,PW4460,3,N278WA,01/03/1996,World Airways,,Transferred
+48746,597,McDonnell Douglas MD-11,MD-11F ER,Unknown,,,PW4460,3,N278WA,02/10/1996,Philippine Airlines,lsd,Transferred
+48746,597,McDonnell Douglas MD-11,MD-11F ER,Unknown,,,PW4460,3,N278WA,13/07/1998,El Al Israel Airlines,lsd,Transferred
+48746,597,McDonnell Douglas MD-11,MD-11F ER,Unknown,,,PW4460,3,N278WA,01/01/1999,World Airways,Lsd From Boeing CapitalStored 06/2012,Transferred
+48746,597,McDonnell Douglas MD-11,MD-11F ER,Unknown,,,PW4460,3,Z-BAM,01/05/2013,AV Cargo Airlines,,Transferred
+48746,597,McDonnell Douglas MD-11,MD-11F ER,Unknown,,,PW4460,3,Z-GAB,01/10/2014,Global Africa Aviation,,Stored
+48747,594,McDonnell Douglas MD-11,MD-11 F,Unknown,24.4,,GE CF6-80C2D1F,3,N616FE,30/11/1995,Federal Express,"Named ""shanita""",Active
+48748,595,McDonnell Douglas MD-11,MD-11 F,Unknown,24.3,,GE CF6-80C2D1F,3,N617FE,08/12/1995,Federal Express,Named Kayli,Active
+48749,598,McDonnell Douglas MD-11,MD-11 F,Unknown,24.1,,GE CF6-80C2D1F,3,N613FE,12/03/1996,Federal Express,,Active
+48753,608,McDonnell Douglas MD-11,MD-11 ERF,Unknown,23.3,,GE CF6-80C2D1F,3,PK-GIK,19/12/1996,Garuda,,Transferred
+48753,608,McDonnell Douglas MD-11,MD-11 ERF,Unknown,23.3,,GE CF6-80C2D1F,3,PP-VQI,11/09/1998,Varig,ret to lessor 10/2005,Transferred
+48753,608,McDonnell Douglas MD-11,MD-11 ERF,Unknown,23.3,,GE CF6-80C2D1F,3,OH-LGG,12/11/2005,Finnair,Stored 03/2010 - Converted to freigher 11/2010,Transferred
+48753,608,McDonnell Douglas MD-11,MD-11 ERF,Unknown,23.3,,GE CF6-80C2D1F,3,N625FE,07/12/2010,Federal Express,Lsd From Bcc,Active
+48754,604,McDonnell Douglas MD-11,MD-11 F,Unknown,23.6,,GE CF6-80C2D1F,3,N618FE,22/08/1996,Federal Express,"Named ""justin""",Active
+48755,613,McDonnell Douglas MD-11,MD-11 ERF,Unknown,22.9,,GE CF6-80C2D1F,3,PK-GIL,24/05/1997,Garuda,,Transferred
+48755,613,McDonnell Douglas MD-11,MD-11 ERF,Unknown,22.9,,GE CF6-80C2D1F,3,PP-VQJ,29/10/1999,Varig,,Transferred
+48755,613,McDonnell Douglas MD-11,MD-11 ERF,Unknown,22.9,,GE CF6-80C2D1F,3,PT-MSH,04/02/2007,TAM,Stored 11/2008,Transferred
+48755,613,McDonnell Douglas MD-11,MD-11 ERF,Unknown,22.9,,GE CF6-80C2D1F,3,N572FE,20/07/2009,Federal Express,Converted to freighter - lsd from mdfc,Active
+48756,623,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,OO-CTS,30/03/1998,Sabena,,Transferred
+48756,623,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,OO-CTS,01/03/2001,CityBird,Stored as P4-TKA,Transferred
+48756,623,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N279WA,22/05/2002,World Airways,Converted to freighter  Lsd From Cbsa Partners LlcStored 04/2012,Transferred
+48756,623,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,Z-BPL,15/09/2013,AV Cargo Airlines,,Transferred
+48756,623,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,Z-GAC,01/10/2014,Global Africa Aviation,Stored 11/2016 as N640BC,Stored
+48757,606,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,PH-MCU,01/10/1996,Martinair Holland,Stored 07/2016Named prinses maxima,Transferred
+48757,606,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,N68091,01/07/2016,Federal Express,Stored since 07/2016 for parts,Stored
+48758,615,McDonnell Douglas MD-11,MD-11 ERF,Unknown,,,GE CF6-80C2D1F,3,PK-GIM,01/11/1997,Garuda,,Transferred
+48758,615,McDonnell Douglas MD-11,MD-11 ERF,Unknown,,,GE CF6-80C2D1F,3,PP-VQK,14/11/1999,Varig,,Transferred
+48758,615,McDonnell Douglas MD-11,MD-11 ERF,Unknown,,,GE CF6-80C2D1F,3,PT-MSI,18/02/2007,TAM,,Transferred
+48758,615,McDonnell Douglas MD-11,MD-11 ERF,Unknown,,,GE CF6-80C2D1F,3,ET-AML,31/01/2009,Ethiopian Airlines,Stored 08/2015 as N546BC (BCC),Stored
+48766,600,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N6203U,01/03/1996,McDonnell Douglas,,Transferred
+48766,600,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,OO-CTB,09/12/1996,CityBird,Stored at Victorville 02/10/02 as P4-BDL,Transferred
+48766,600,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,OH-LGF,06/06/2004,Finnair,Stored 01/2010,Transferred
+48766,600,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,EI-EMS,04/06/2010,CargoItalia,Ceased operations 21 dec. 2011  Lsd From Boeing Capital CorpStored as N460BC,Stored
+48767,602,McDonnell Douglas MD-11,MD-11 F,Unknown,23.8,,GE CF6-80C2D1F,3,N615FE,26/06/1996,Federal Express,,Active
+48768,601,McDonnell Douglas MD-11,MD-11 F,Unknown,23.9,,GE CF6-80C2D1F,3,N9134D,01/06/1996,McDonnell Douglas,,Transferred
+48768,601,McDonnell Douglas MD-11,MD-11 F,Unknown,23.9,,GE CF6-80C2D1F,3,PP-SFA,26/06/1996,VASP,,Transferred
+48768,601,McDonnell Douglas MD-11,MD-11 F,Unknown,23.9,,GE CF6-80C2D1F,3,N252UP,07/06/2001,UPS,Converted to freighter,Active
+48769,603,McDonnell Douglas MD-11,MD-11 F,Unknown,23.4,,GE CF6-80C2D1F,3,PP-SFD,27/11/1996,VASP,,Transferred
+48769,603,McDonnell Douglas MD-11,MD-11 F,Unknown,23.4,,GE CF6-80C2D1F,3,PP-VQX,18/05/2001,Varig,Ex N799BA - Stored at GIG 04/2006,Transferred
+48769,603,McDonnell Douglas MD-11,MD-11 F,Unknown,23.4,,GE CF6-80C2D1F,3,PT-MSJ,29/04/2007,TAM,Last service 13/12/08,Transferred
+48769,603,McDonnell Douglas MD-11,MD-11 F,Unknown,23.4,,GE CF6-80C2D1F,3,N573FE,03/09/2009,Federal Express,,Active
+48770,607,McDonnell Douglas MD-11,MD-11 F,Unknown,23.4,,GE CF6-80C2D1F,3,N619FE,14/11/1996,Federal Express,"Named ""lyndon""",Active
+48773,609,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N90187,16/01/1997,McDonell Douglas,,Transferred
+48773,609,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,HZ-ANA,24/12/1997,Saudi Arabian Airlines,Stored as N773ML,Stored
+48774,610,McDonnell Douglas MD-11,MD-11 F,Unknown,23.1,,GE CF6-80C2D1F,3,JA8589,03/03/1997,Japan Airlines,,Transferred
+48774,610,McDonnell Douglas MD-11,MD-11 F,Unknown,23.1,,GE CF6-80C2D1F,3,N275UP,25/07/2003,UPS,,Active
+48775,616,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,HZ-ANB,30/12/1997,Saudi Arabian Airlines,Stored as N775BC,Stored
+48776,617,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N90178,01/09/1997,McDonnell Douglas,,Transferred
+48776,617,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,HZ-ANC,31/12/1997,Saudi Arabian Airlines,Stored 06/2014 as N776ML  Scrapped,Scrapped
+48777,618,McDonnell Douglas MD-11,MD-11 F,14/12/1997,,N9166N,GE CF6-80C2D1F,3,N9166N,14/12/1997,McDonnell Douglas,,Transferred
+48777,618,McDonnell Douglas MD-11,MD-11 F,14/12/1997,,N9166N,GE CF6-80C2D1F,3,HZ-AND,09/01/1998,Saudi Arabian Airlines,Stored as N618TF,Stored
+48778,619,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-16108,19/11/1997,EVA Air,Stored 10/2014,Stored
+48779,620,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-16109,22/12/1997,EVA Air,Scrapped 01/2016Stored 01/2015,Scrapped
+48780,624,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,OO-CTC,16/04/1998,Sabena,Last passenger-carrying MD-11 built,Transferred
+48780,624,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,OO-CTC,01/03/2001,CityBird,Stored as P4-SWM,Transferred
+48780,624,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,OH-LGE,21/02/2003,Finnair,Stored 04/2009 as N588BC,Transferred
+48780,624,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,ET-AND,18/09/2009,Ethiopian Airlines,Scrapped end of 2017Stored 02/2015 as N545BC (BCC),Scrapped
+48781,625,McDonnell Douglas MD-11,MD-11 F,19/03/1998,22.1,N9020Q,GE CF6-80C2D1F,3,D-ALCA,25/06/1998,Lufthansa,Stored 04/2017 to 11/2017,Active
+48782,626,McDonnell Douglas MD-11,MD-11 F,Unknown,22,N9166N,GE CF6-80C2D1F,3,N9166N,01/04/1998,McDonnell Douglas,,Transferred
+48782,626,McDonnell Douglas MD-11,MD-11 F,Unknown,22,N9166N,GE CF6-80C2D1F,3,D-ALCB,25/06/1998,Lufthansa,,Active
+48783,627,McDonnell Douglas MD-11,MD-11 F,Unknown,21.7,,GE CF6-80C2D1F,3,D-ALCC,13/08/1998,Lufthansa,,Active
+48784,628,McDonnell Douglas MD-11,MD-11 F,Unknown,21.6,,GE CF6-80C2D1F,3,D-ALCD,17/09/1998,Lufthansa,Named Michael Otto,Active
+48785,629,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,D-ALCE,22/10/1998,Lufthansa,Last flight 08/08/19Named marhaba TurkeyStored 03/2009 - Back in service 10/2009,Transferred
+48785,629,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N646FE,14/08/2019,Federal Express,,Stored
+48786,630,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-16110,14/10/1998,EVA Air,Stored 01/2014,Stored
+48787,631,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-16111,12/11/1998,EVA Air,Scrapped 10/2014Stored 08/2013,Scrapped
+48788,632,McDonnell Douglas MD-11,MD-11 F,Unknown,,,PW PW4460,3,PH-MCW,20/11/1998,Martinair Holland,Stored 03/2016Named Martin Scröder,Stored
+48789,633,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N90178,01/11/1998,McDonnell Douglas,,Transferred
+48789,633,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-16112,29/07/1999,EVA Air,Stored 03/2014  Scrapped 05/2017,Scrapped
+48790,634,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N9030Q,01/02/1999,McDonnell Douglas,,Transferred
+48790,634,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,B-16113,26/08/1999,EVA Air,Stored 03/2015Stored 03/2009 - Back in service 05/2010,Stored
+48791,635,McDonnell Douglas MD-11,MD-11 F,Unknown,21,,PW 4000,3,N620FE,29/03/1999,Federal Express,Named Brandy,Active
+48792,636,McDonnell Douglas MD-11,MD-11 F,Unknown,20.9,,PW PW4462,3,N621FE,28/05/1999,Federal Express,Named Conner - leased from SSBT,Active
+48794,638,McDonnell Douglas MD-11,MD-11 F,25/05/1999,20.9,,PW PW4462,3,N623FE,28/06/1999,Federal Express,Named Meghan  - leased from ILFC,Active
+48798,637,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,D-ALCF,27/08/1999,Lufthansa,Stored 12/2019 as N647FE boeing aircraft holding coNamed Marhaba Egypt,Stored
+48799,639,McDonnell Douglas MD-11,MD-11 F,Unknown,20.5,,GE CF6-80C2D1F,3,D-ALCG,12/10/1999,Lufthansa,Stored 12/2015NamedKonnichiwa Japan,Transferred
+48799,639,McDonnell Douglas MD-11,MD-11 F,Unknown,20.5,,GE CF6-80C2D1F,3,N799JN,19/02/2019,Western Global Airlines,,Active
+48800,641,McDonnell Douglas MD-11,MD-11 F,Unknown,20.2,,GE CF6-80C2D1F,3,D-ALCI,27/01/2000,Lufthansa,"Named Hello, Bonjour Canada",Active
+48801,640,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,D-ALCH,24/11/1999,Lufthansa,Stored 03/2020Named ¡Buenos días México!,Transferred
+48801,640,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N649FE,27/03/2020,Federal Express,,Stored
+48802,642,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,D-ALCJ,23/03/2000,Lufthansa,Stored 02/2020Named namaste India,Transferred
+48802,642,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N648FE,24/02/2020,Federal Express,Stored 12/2019,Stored
+48803,643,McDonnell Douglas MD-11,MD-11 F,Unknown,20,N9166N,GE CF6-80C2D1F,3,N9166N,10/04/2000,Boeing,,Transferred
+48803,643,McDonnell Douglas MD-11,MD-11 F,Unknown,20,N9166N,GE CF6-80C2D1F,3,D-ALCK,31/05/2000,Lufthansa,Named Lüren,Active
+48804,644,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,D-ALCL,24/08/2000,Lufthansa,Stored 08/2017Stored 04/2016 to 07/2016,Transferred
+48804,644,McDonnell Douglas MD-11,MD-11 F,Unknown,,,GE CF6-80C2D1F,3,N804SN,29/06/2018,Western Global Airlines,Stored 06/2018,Stored
+48805,645,McDonnell Douglas MD-11,MD-11 F,Unknown,19.5,N6069R,GE CF6-80C2D1F,3,N90178,01/10/2000,Boeing,,Transferred
+48805,645,McDonnell Douglas MD-11,MD-11 F,Unknown,19.5,N6069R,GE CF6-80C2D1F,3,N6069R,01/11/2000,Boeing,,Transferred
+48805,645,McDonnell Douglas MD-11,MD-11 F,Unknown,19.5,N6069R,GE CF6-80C2D1F,3,D-ALCM,22/02/2001,Lufthansa,Stored 09/2019 as N738BC (Boeing aircraft holding co)Stored 11/2016 after landing incidentBack in service 04/2017,Transferred
+48805,645,McDonnell Douglas MD-11,MD-11 F,Unknown,19.5,N6069R,GE CF6-80C2D1F,3,N738BC,24/01/2020,UPS,,Active
+48806,646,McDonnell Douglas MD-11,MD-11 F,Unknown,19.2,,GE CF6-80C2D1F,3,D-ALCN,25/01/2001,Lufthansa,Stored 11/2019 as N742BC (boeing aircraft holding co) Last MD-11 builtNamed Heidenheim an der brenz,Transferred
+48806,646,McDonnell Douglas MD-11,MD-11 F,Unknown,19.2,,GE CF6-80C2D1F,3,N742BC,25/01/2020,UPS,,Active

@@ -1,0 +1,398 @@
+serialNumber,lnNumber,familyType,Type,firstFlight,planeAge,testRegistration,enginesType,enginesNumber,registration,deliveryDate,operator,remark,status
+1,,Airbus A350,350-941,14/06/2013,6.8,F-WXWB,RR Trent XWB,2,F-WXWB,14/06/2013,Airbus Industrie,,Active
+2,,Airbus A350,350-941,26/02/2014,6.1,F-WWCF,RR Trent XWB,2,F-WWCF,26/02/2014,Airbus Industrie,,Active
+3,,Airbus A350,350-941XWB,14/10/2013,6.5,F-WZGG,RR Trent XWB,2,F-WZGG,14/10/2013,Airbus Industrie,,Active
+4,,Airbus A350,350-941,26/02/2014,,F-WZNW,RR Trent XWB,2,F-WZNW,26/02/2014,Airbus Industrie,,Stored
+5,,Airbus A350,350-941,20/06/2014,5.8,F-WWYB,RR Trent XWB,2,F-WWYB,20/06/2014,Airbus Industrie,,Transferred
+5,,Airbus A350,350-941,20/06/2014,5.8,F-WWYB,RR Trent XWB,2,F-HREU,30/06/2017,French blue,,Transferred
+5,,Airbus A350,350-941,20/06/2014,5.8,F-WWYB,RR Trent XWB,2,F-HREU,31/01/2018,French bee,Lsd  Airinvest 6,Active
+6,,Airbus A350,350-941,15/10/2014,5.5,F-WZFA,RR Trent XWB,2,A7-ALA,22/12/2014,Qatar Airways,Named Sudanthel  Lsd From Gecas,Active
+7,,Airbus A350,350-941,21/01/2015,5.2,,RR Trent XWB,2,A7-ALB,05/03/2015,Qatar Airways,,Active
+8,,Airbus A350,350-941,09/07/2015,4.8,F-WZFC,RR Trent XWB,2,A7-ALE,30/10/2015,Qatar Airways,,Active
+9,,Airbus A350,350-941,23/03/2015,5.1,F-WZFD,RR Trent XWB,2,A7-ALC,07/05/2015,Qatar Airways,,Active
+10,,Airbus A350,350-941,11/05/2015,4.9,F-WZFE,RR Trent XWB,2,A7-ALD,14/06/2015,Qatar Airways,,Active
+11,,Airbus A350,350-941,28/08/2015,4.6,F-WZFF,RR Trent XWB,2,A7-ALF,30/10/2015,Qatar Airways,,Active
+12,,Airbus A350,350-941,05/02/2016,4.2,F-WZFG,RR Trent XWB,2,A7-ALH,08/03/2016,Qatar Airways,,Active
+13,,Airbus A350,350-941,08/10/2015,4.5,F-WZFH,RR Trent XWB,2,A7-ALG,21/11/2015,Qatar Airways,,Active
+14,,Airbus A350,350-941,01/06/2015,4.9,F-WZFI,RR Trent XWB,2,VN-A886,30/06/2015,Vietnam Airlines,Lsd From Aercap,Active
+15,,Airbus A350,350-941,31/07/2015,4.7,F-WZFJ,RR Trent XWB,2,VN-A887,19/08/2015,Vietnam Airlines,lsd fom CIT,Active
+16,,Airbus A350,350-941,10/09/2015,4.6,F-WZFK,RR Trent XWB,2,VN-A888,20/10/2015,Vietnam Airlines,Lsd From Aercap,Active
+17,,Airbus A350,350-941,30/10/2015,4.5,F-WZFL,RR Trent XWB,2,VN-A889,02/12/2015,Vietnam Airlines,Lsd From Cit,Active
+18,,Airbus A350,350-941,16/09/2015,4.6,F-WZFM,RR Trent XWB,2,OH-LWA,07/10/2015,Finnair,Lsd From Gecas,Active
+19,,Airbus A350,350-941,22/10/2015,4.5,F-WZFN,RR Trent XWB,2,OH-LWB,14/12/2015,Finnair,Lsd From Avolon,Active
+20,,Airbus A350,350-941,07/11/2015,4.4,F-WZFO,RR Trent XWB,2,OH-LWC,31/12/2015,Finnair,,Active
+21,,Airbus A350,350-941,14/03/2016,4.1,F-WZFP,RR Trent XWB,2,A7-ALI,02/07/2016,Qatar Airways,,Active
+22,,Airbus A350,350-941,04/12/2015,4.4,D-WZFQ,RR Trent XWB,2,OH-LWD,25/03/2016,Finnair,,Active
+23,,Airbus A350,350-941,07/01/2016,4.3,F-WZFR,RR Trent XWB,2,OH-LWE,29/04/2016,Finnair,,Active
+24,,Airbus A350,350-941,01/12/2015,4.4,F-WZFS,RR Trent XWB,2,PR-XTA,16/12/2015,TAM,,Transferred
+24,,Airbus A350,350-941,01/12/2015,4.4,F-WZFS,RR Trent XWB,2,PR-XTA,05/05/2016,LATAM Brasil,Stored 12/2018 to 01/2019,Active
+25,,Airbus A350,350-941,06/05/2016,3.9,F-WZFT,RR Trent XWB,2,A7-ALJ,01/08/2016,Qatar Airways,,Active
+26,,Airbus A350,350-941,02/02/2016,4.2,F-WZFU,RR Trent XWB,2,9V-SMA,02/03/2016,Singapore Airlines,,Active
+27,,Airbus A350,350-941,10/02/2016,4.2,F-WZFV,RR Trent XWB,2,PR-XTB,18/03/2016,TAM,,Transferred
+27,,Airbus A350,350-941,10/02/2016,4.2,F-WZFV,RR Trent XWB,2,PR-XTB,05/05/2016,LATAM Brasil,,Active
+28,,Airbus A350,350-941,13/04/2016,4,F-WZFW,RR Trent XWB,2,OH-LWF,24/06/2016,Finnair,,Active
+29,,Airbus A350,350-941,24/03/2016,4.1,F-WZFU,RR Trent XWB,2,B-LRA,28/05/2016,Cathay Pacific,Lsd From Aercap,Active
+30,,Airbus A350,350-941,02/04/2016,4,F-WZFY,RR Trent XWB,2,9V-SMB,20/04/2016,Singapore Airlines,,Active
+31,,Airbus A350,350-941,27/04/2016,4,F-WZFZ,RR Trent XWB,2,9V-SMC,28/05/2016,Singapore Airlines,,Active
+32,,Airbus A350,350-941,04/08/2016,3.7,F-WZGA,RR Trent XWB,2,B-LRB,25/08/2016,Cathay Pacific,,Active
+33,,Airbus A350,350-941,30/05/2016,3.9,F-WZGB,RR Trent XWB,2,A7-ALK,22/09/2016,Qatar Airways,,Active
+34,,Airbus A350,350-941,08/06/2016,3.8,F-WZGC,RR Trent XWB,2,B-LRC,16/07/2016,Cathay Pacific,Lsd From Aercap,Active
+35,,Airbus A350,350-941,27/04/2016,4,F-WZGD,RR Trent XWB,2,PR-XTC,19/05/2016,LATAM Brasil,,Active
+36,,Airbus A350,350-941,07/09/2016,3.6,F-WZGE,RR Trent XWB,2,A7-ALL,01/11/2016,Qatar Airways,,Active
+37,,Airbus A350,350-941,03/06/2016,3.9,F-WZGF,RR Trent XWB,2,9V-SMD,01/07/2016,Singapore Airlines,,Active
+38,,Airbus A350,350-941,05/09/2016,3.6,F-WZGK,RR Trent XWB,2,B-LRD,24/09/2016,Cathay Pacific,,Active
+39,,Airbus A350,350-941,25/07/2016,3.7,F-WZGL,RR Trent XWB,2,B-LRE,12/08/2016,Cathay Pacific,,Active
+40,,Airbus A350,350-941,08/06/2016,3.8,F-WZGM,RR Trent XWB,2,ET-ATQ,29/06/2016,Ethiopian Airlines,Named Simien Mountains  Lsd From Aercap,Active
+41,,Airbus A350,350-941,06/07/2016,3.8,F-WZGN,RR Trent XWB,2,9V-SME,28/07/2016,Singapore Airlines,,Active
+42,,Airbus A350,350-941,18/10/2016,3.5,F-WZGO,RR Trent XWB,2,A7-ALM,20/12/2016,Qatar Airways,,Active
+43,,Airbus A350,350-941,01/08/2016,3.7,F-WZGP,RR Trent XWB,2,ET-ATR,15/08/2016,Ethiopian Airlines,Named Bale Mountains   Lsd From Aercap,Active
+44,,Airbus A350,350-941,22/07/2016,3.7,F-WZGQ,RR Trent XWB,2,HS-THB,30/08/2016,Thai Airways,Named Wichian Buri  Lsd From Cit,Active
+45,,Airbus A350,350-941,05/08/2016,3.7,F-WZGR,RR Trent XWB,2,PR-XTD,30/08/2016,LATAM Brasil,,Transferred
+45,,Airbus A350,350-941,05/08/2016,3.7,F-WZGR,RR Trent XWB,2,A7-AMD,21/04/2017,Qatar Airways,Lsd From Latam Brasil,Transferred
+45,,Airbus A350,350-941,05/08/2016,3.7,F-WZGR,RR Trent XWB,2,PR-XTD,01/12/2017,LATAM Brasil,,Active
+46,,Airbus A350,350-941,30/09/2016,3.5,F-WZGS,RR Trent XWB,2,B-LRF,22/10/2016,Cathay Pacific,,Active
+47,,Airbus A350,350-941,13/01/2017,3.2,F-WZGT,RR Trent XWB,2,A7-ALN,22/02/2017,Qatar Airways,,Active
+48,,Airbus A350,350-941,06/09/2016,3.6,F-WZGU,RR Trent XWB,2,PR-XTE,03/10/2016,LATAM Brasil,,Transferred
+48,,Airbus A350,350-941,06/09/2016,3.6,F-WZGU,RR Trent XWB,2,A7-AMC,01/04/2017,Qatar Airways,Lsd From Latam Brasil,Transferred
+48,,Airbus A350,350-941,06/09/2016,3.6,F-WZGU,RR Trent XWB,2,PR-XTE,24/11/2017,LATAM Brasil,Lsd From Aercap,Active
+49,,Airbus A350,350-941,14/09/2016,3.6,F-WZGV,RR Trent XWB,2,B-18901,30/09/2016,China Airlines,,Active
+50,,Airbus A350,350-941,15/09/2016,3.6,F-WZGW,RR Trent XWB,2,HS-THC,11/10/2016,Thai Airways,Lsd From CitNamed  Si Nakhon,Active
+51,,Airbus A350,350-941,07/09/2016,3.6,F-WZGX,RR Trent XWB,2,OH-LWG,29/09/2016,Finnair,,Active
+51,,Airbus A350,350-941,07/09/2016,3.6,F-WZGX,RR Trent XWB,2,OH-LWG,29/09/2016,Finnair,,Active
+52,,Airbus A350,350-941,26/10/2016,3.5,F-WZFA,RR Trent XWB,2,B-304U,26/10/2018,Sichuan Airlines,Leased From Aercap,Active
+53,,Airbus A350,350-941,26/10/2016,3.5,F-WZFB,RR Trent XWB,2,B-LRG,02/12/2016,Cathay Pacific,,Active
+54,,Airbus A350,350-941,26/09/2016,3.5,F-WZFD,RR Trent XWB,2,9V-SMF,15/10/2016,Singapore Airlines,,Active
+55,,Airbus A350,350-941,01/12/2016,3.4,F-WZFI,RR Trent XWB,2,B-304V,20/11/2018,Sichuan Airlines,,Active
+56,,Airbus A350,350-941,05/10/2016,3.5,F-WZFC,RR Trent XWB,2,VN-A890,30/10/2016,Vietnam Airlines,Lsd From Dae Capital,Active
+57,,Airbus A350,350-941,27/10/2016,3.5,F-WZFF,RR Trent XWB,2,B-18902,21/11/2016,China Airlines,,Active
+58,,Airbus A350,350-941,18/10/2016,3.5,F-WZFH,RR Trent XWB,2,B-LRI,18/11/2016,Cathay Pacific,,Active
+59,,Airbus A350,350-1041,24/11/2016,3.4,F-WMIL,RR Trent XWB-97,2,F-WMIL,24/11/2016,Airbus Industrie,,Active
+60,,Airbus A350,350-941,27/10/2017,2.5,F-WZFK,RR Trent XWB,2,B-301D,08/08/2018,Sichuan Airlines,Lsd From Aercap,Active
+61,,Airbus A350,350-941,09/11/2016,3.4,F-WZFL,RR Trent XWB,2,B-LRJ,10/12/2016,Cathay Pacific,,Active
+62,,Airbus A350,350-941,17/11/2016,3.4,F-WZFM,RR Trent XWB,2,9V-SMG,06/12/2016,Singapore Airlines,,Active
+63,,Airbus A350,350-941,25/08/2017,2.6,F-WZFJ,RR Trent XWB,2,A7-ALO,25/10/2017,Qatar Airways,,Active
+64,,Airbus A350,350-941,17/10/2016,3.5,F-WZFN,RR Trent XWB,2,PR-XTF,16/11/2016,LATAM Brasil,,Transferred
+64,,Airbus A350,350-941,17/10/2016,3.5,F-WZFN,RR Trent XWB,2,A7-AMB,20/03/2017,Qatar Airways,Lsd From Latam Brasil,Active
+65,,Airbus A350,350-1041,07/02/2017,3.2,F-WLXV,RR Trent XWB-97,2,F-WLXV,26/01/2018,Airbus Industrie,,Transferred
+65,,Airbus A350,350-1041,07/02/2017,3.2,F-WLXV,RR Trent XWB-97,2,F-HMIL,02/12/2019,Air Caraibes,Lsd Airinvest 8,Active
+66,,Airbus A350,350-941,01/12/2016,3.4,F-WZFO,RR Trent XWB,2,B-18903,22/12/2016,China Airlines,,Active
+67,,Airbus A350,350-941,13/12/2016,3.3,F-WZFS,RR Trent XWB,2,VN-A891,29/12/2016,Vietnam Airlines,Lsd From Dae Capital,Active
+68,,Airbus A350,350-941,18/11/2016,3.4,F-WZGY,RR Trent XWB,2,9V-SMH,09/12/2016,Singapore Airlines,,Active
+69,,Airbus A350,350-941,06/04/2017,3,F-WZGZ,RR Trent XWB,2,A7-ALP,23/05/2017,Qatar Airways,Lsd From Bbam,Active
+70,,Airbus A350,350-941,13/01/2017,3.2,F-WWTJ,RR Trent XWB,2,B-LRK,01/02/2017,Cathay Pacific,,Active
+71,,Airbus A350,350-1041,10/01/2017,,F-WWXL,RR Trent XWB-97,2,F-WWXL,10/01/2017,Airbus Industrie,,On order
+72,,Airbus A350,350-941,17/02/2017,3.2,F-WZNA,RR Trent XWB,2,B-LRL,14/03/2017,Cathay Pacific,,Active
+73,,Airbus A350,350-941,14/12/2016,3.3,F-WZNB,RR Trent XWB,2,B-18905,30/12/2016,China Airlines,,Active
+74,,Airbus A350,350-941,29/11/2016,3.4,F-WZNC,RR Trent XWB,2,D-AIXA,21/12/2016,Lufthansa,Named Nürnberg,Active
+75,,Airbus A350,350-941,11/12/2016,3.3,F-WZND,RR Trent XWB,2,B-LRM,31/12/2016,Cathay Pacific,,Active
+76,,Airbus A350,350-941,17/05/2017,2.9,F-WZNE,RR Trent XWB,2,A7-ALQ,10/10/2017,Qatar Airways,,Active
+77,,Airbus A350,350-941,02/12/2016,3.4,F-WZNF,RR Trent XWB,2,9V-SMI,21/12/2016,Singapore Airlines,,Active
+78,,Airbus A350,350-941,05/09/2017,2.6,F-WZNG,RR Trent XWB,2,A7-ALR,18/12/2017,Qatar Airways,Lsd From Boc,Active
+79,,Airbus A350,350-941,29/11/2016,3.4,F-WZNI,RR Trent XWB,2,PR-XTG,29/12/2016,LATAM Brasil,,Transferred
+79,,Airbus A350,350-941,29/11/2016,3.4,F-WZNI,RR Trent XWB,2,A7-AMA,21/02/2017,Qatar Airways,Lsd From  	Latam Brasil,Active
+80,,Airbus A350,350-941,27/01/2017,3.2,F-WZNJ,RR Trent XWB,2,D-AIXB,24/02/2017,Lufthansa,Named Stuttgart,Active
+81,,Airbus A350,350-941,15/12/2016,3.3,F-WZNK,RR Trent XWB,2,9V-SMJ,31/12/2016,Singapore Airlines,,Active
+82,,Airbus A350,350-941,08/02/2017,3.2,F-WZNL,RR Trent XWB,2,F-HHAV,28/02/2017,Air Caraibes,lsd from Aercap,Active
+83,,Airbus A350,350-941,08/06/2017,2.8,F-WZNM,RR Trent XWB,2,A7-ALS,10/10/2017,Qatar Airways,,Active
+84,,Airbus A350,350-941,06/02/2017,3.2,F-WZNN,RR Trent XWB,2,9V-SMK,25/02/2017,Singapore Airlines,,Active
+85,,Airbus A350,350-941,06/03/2017,3.1,F-WZNO,RR Trent XWB,2,B-LRN,31/03/2017,Cathay Pacific,,Active
+86,,Airbus A350,350-941,27/02/2017,3.1,F-WZNP,RR Trent XWB,2,VN-A892,15/03/2017,Vietnam Airlines,Lsd From Dae Capital,Active
+87,,Airbus A350,350-941,13/03/2017,3.1,F-WZNQ,RR Trent XWB,2,D-AIXC,01/04/2017,Lufthansa,Named Saarbrücken,Active
+88,,Airbus A350,350-1041,07/12/2017,2.3,F-WZNR,RR Trent XWB-97,2,A7-ANA,21/02/2018,Qatar Airways,,Active
+89,,Airbus A350,350-941,16/01/2017,3.2,F-WZNS,RR Trent XWB,2,ET-ATY,31/01/2017,Ethiopian Airlines,Named Ertale,Active
+90,,Airbus A350,350-941,19/10/2017,2.5,F-WZNT,RR Trent XWB,2,A7-ALT,24/11/2017,Qatar Airways,Sd From Boc,Active
+91,,Airbus A350,350-941,09/03/2017,3.1,F-WZNU,RR Trent XWB,2,F-HNET,27/03/2017,Air Caraibes,Lsd From Aercap,Active
+92,,Airbus A350,350-941,23/02/2017,3.1,F-WZNV,RR Trent XWB,2,B-18906,20/03/2017,China Airlines,,Active
+93,,Airbus A350,350-941,12/04/2017,3,F-WZNX,RR Trent XWB,2,B-LRO,12/05/2017,Cathay Pacific,,Active
+94,,Airbus A350,350-941,28/03/2017,3,F-WZNY,RR Trent XWB,2,HL8078,24/04/2017,Asiana Airlines,,Active
+95,,Airbus A350,350-941,28/03/2017,3,F-WZNZ,RR Trent XWB,2,HS-THD,21/04/2017,Thai Airways,Named: Uthumphon Phisai / อุทุมพรพิสัย,Active
+96,,Airbus A350,350-941,16/03/2017,3.1,F-WZFG,RR Trent XWB,2,9V-SML,01/04/2017,Singapore Airlines,,Active
+97,,Airbus A350,350-941,11/03/2017,3.1,F-WZFQ,RR Trent XWB,2,OH-LWH,03/04/2017,Finnair,Lsd From Gecas,Active
+98,,Airbus A350,350-941,03/09/2018,1.6,F-WZFR,RR Trent XWB,2,B-1069,29/09/2018,Hainan Airlines,Lsd From Aercap,Active
+99,,Airbus A350,350-941,12/04/2017,3,F-WZFU,RR Trent XWB,2,9V-SMM,05/05/2017,Singapore Airlines,,Active
+100,,Airbus A350,350-941,09/03/2018,2.1,F-WZFV,RR Trent XWB,2,A7-ALU,24/04/2018,Qatar Airways,,Active
+101,,Airbus A350,350-941,05/05/2017,2.9,,RR Trent XWB,2,B-LRP,01/06/2017,Cathay Pacific,,Active
+101,,Airbus A350,350-941,05/05/2017,2.9,,RR Trent XWB,2,B-LRP,01/06/2017,Cathay Pacific,,Active
+102,,Airbus A350,350-1041,18/05/2018,1.9,F-WZFY,RR Trent XWB-97,2,A7-ANB,30/06/2018,Qatar Airways,,Active
+103,,Airbus A350,350-941,10/04/2017,3,F-WZFZ,RR Trent XWB,2,ET-AUA,28/04/2017,Ethiopian Airlines,Named Simien Fox,Active
+104,,Airbus A350,350-941,11/05/2017,2.9,F-WZFW,RR Trent XWB,2,OH-LWI,01/06/2017,Finnair,,Active
+105,,Airbus A350,350-941,03/05/2017,2.9,F-WZFP,RR Trent XWB,2,B-18907,25/05/2017,China Airlines,,Active
+106,,Airbus A350,350-941,13/04/2018,2,F-WZFT,RR Trent XWB,2,A7-ALV,29/05/2018,Qatar Airways,,Active
+107,,Airbus A350,350-941,10/04/2017,3,F-WZGC,RR Trent XWB,2,9V-SMN,21/05/2017,Singapore Airlines,,Active
+109,,Airbus A350,350-941,18/04/2017,3,,RR Trent XWB,2,B-LRQ,14/06/2017,Cathay Pacific,,Active
+110,,Airbus A350,350-1041,31/07/2018,1.7,F-WZGM,RR Trent XWB-97,2,A7-ANC,10/09/2018,Qatar Airways,,Active
+111,,Airbus A350,350-941,28/04/2017,3,F-WZGA,RR Trent XWB,2,HS-THE,17/06/2017,Thai Airways,Named: Chai Badan / ชัยบาดาล,Active
+112,,Airbus A350,350-941,21/09/2018,1.6,F-WZGQ,RR Trent XWB,2,B-1070,17/10/2018,Hainan Airlines,,Active
+113,,Airbus A350,350-941,09/06/2017,2.8,F-WZGL,RR Trent XWB,2,OH-LWK,30/06/2017,Finnair,,Active
+114,,Airbus A350,350-941,16/05/2018,1.9,F-WZGN,RR Trent XWB,2,A7-ALW,20/06/2018,Qatar Airways,,Active
+115,,Airbus A350,350-941,24/05/2017,2.9,F-WZGP,RR Trent XWB,2,N501DN,11/07/2017,Delta Air Lines,,Active
+116,,Airbus A350,350-941,22/05/2017,2.9,F-WZGR,RR Trent XWB,2,9V-SMO,17/06/2017,Singapore Airlines,,Active
+117,,Airbus A350,350-941,09/06/2017,2.8,F-WZGX,RR Trent XWB,2,HL8079,19/07/2017,Asiana Airlines,,Active
+118,,Airbus A350,350-1041,03/05/2018,1.9,F-WZGV,RR Trent XWB-97,2,B-LXA,19/06/2018,Cathay Pacific,,Active
+119,,Airbus A350,350-941,13/06/2017,2.8,,RR Trent XWB,2,B-LRR,05/07/2017,Cathay Pacific,,Active
+120,,Airbus A350,350-941,08/06/2017,2.8,F-WZFD,RR Trent XWB,2,ET-AUB,26/06/2017,Ethiopian Airlines,Named Gheralta Mountains,Active
+121,,Airbus A350,350-941,30/06/2017,2.8,F-WZGS,RR Trent XWB,2,B-18908,25/07/2017,China Airlines,,Active
+122,,Airbus A350,350-941,14/06/2017,2.8,F-WZFC,RR Trent XWB,2,9V-SMP,21/07/2017,Singapore Airlines,,Active
+123,,Airbus A350,350-941,22/06/2017,2.8,F-WZGB,RR Trent XWB,2,HS-THF,14/07/2017,Thai Airways,Named: Yan Nawa / ยานนาวา,Active
+124,,Airbus A350,350-941,10/08/2017,,F-WZGE,RR Trent XWB,2,B-LGA,31/08/2017,Hong Kong Airlines,Stored 12/2019Lsd From Aercap,Stored
+125,,Airbus A350,350-1041,27/08/2018,1.6,F-WZGK,RR Trent XWB-97,2,A7-AND,28/09/2018,Qatar Airways,,Active
+126,,Airbus A350,350-941,14/06/2018,1.8,F-WZGU,RR Trent XWB,2,A7-ALX,13/07/2018,Qatar Airways,,Active
+127,,Airbus A350,350-941,10/07/2017,2.8,F-WZFN,RR Trent XWB,2,D-AIXD,15/08/2017,Lufthansa,Named Bonn,Active
+128,,Airbus A350,350-941,28/06/2017,2.8,F-WZFH,RR Trent XWB,2,B-LRS,23/08/2017,Cathay Pacific,,Active
+129,,Airbus A350,350-941,19/07/2017,2.7,F-WZFF,RR Trent XWB,2,VN-A893,19/08/2017,Vietnam Airlines,,Active
+130,,Airbus A350,350-941,07/07/2017,2.8,F-WZFB,RR Trent XWB,2,HS-THG,29/08/2017,Thai Airways,Named Phu Pha Man  Lsd From Amedeo,Active
+132,,Airbus A350,350-941,24/11/2017,2.4,F-WZFL,RR Trent XWB,2,A7-ALY,21/02/2018,Qatar Airways,,Active
+133,,Airbus A350,350-941,17/07/2017,2.7,F-WZGO,RR Trent XWB,2,9V-SMQ,12/09/2017,Singapore Airlines,,Active
+134,,Airbus A350,350-941,23/08/2017,2.6,F-WZGY,RR Trent XWB,2,OH-LWL,22/09/2017,Finnair,,Active
+135,,Airbus A350,350-941,20/07/2017,2.7,F-WZNC,RR Trent XWB,2,N502DN,08/08/2017,Delta Air Lines,,Active
+136,,Airbus A350,350-941,28/07/2017,2.7,F-WZNI,RR Trent XWB,2,D-AIXE,28/08/2017,Lufthansa,Named Essen,Active
+137,,Airbus A350,350-941,08/09/2017,2.6,F-WZNF,RR Trent XWB,2,B-LRT,29/09/2017,Cathay Pacific,,Active
+138,,Airbus A350,350-941,27/07/2017,2.7,F-WZF,RR Trent XWB,2,B-18909,14/09/2017,China Airlines,,Active
+140,,Airbus A350,350-941,07/09/2017,2.6,F-WZND,RR Trent XWB,2,9V-SMR,29/09/2017,Singapore Airlines,,Active
+141,,Airbus A350,350-1041,01/10/2018,1.5,F-WZNK,RR Trent XWB-97,2,A7-ANE,15/11/2018,Qatar Airways,,Active
+142,,Airbus A350,350-941,12/08/2017,2.7,F-WZNS,RR Trent XWB,2,HS-THH,20/09/2017,Thai Airways,Named Than To   Lsd From Alafco,Active
+143,,Airbus A350,350-941,16/03/2018,2.1,F-WZFO,RR Trent XWB,2,A7-ALZ,18/04/2018,Qatar Airways,,Active
+144,,Airbus A350,350-941,05/09/2017,2.6,F-WZNJ,RR Trent XWB,2,HL7578,26/09/2017,Asiana Airlines,Lsd From Goshawk Aviation,Active
+145,,Airbus A350,350-941,22/09/2017,2.6,F-WZNN,RR Trent XWB,2,3B-NBP,19/10/2017,Air Mauritius,Named Le Morne Brabant  Lsd From Aercap,Active
+146,,Airbus A350,350-941,24/10/2017,2.5,F-WZNY,RR Trent XWB,2,D-AIXF,18/11/2017,Lufthansa,Named Bochum,Active
+147,,Airbus A350,350-941,03/10/2017,2.5,F-WZNL,RR Trent XWB,2,ET-AUC,20/10/2017,Ethiopian Airlines,Named Abyssinia,Active
+148,,Airbus A350,350-941,06/09/2017,2.6,F-WZGT,RR Trent XWB,2,B-LRU,27/10/2017,Cathay Pacific,,Active
+149,,Airbus A350,350-941,22/09/2017,2.6,F-WZNN,RR Trent XWB,2,N503DN,01/11/2017,Delta Air Lines,,Active
+150,,Airbus A350,350-941,06/10/2017,2.5,F-WZNP,RR Trent XWB,2,VN-A894,04/11/2017,Vietnam Airlines,,Active
+151,,Airbus A350,350-941,03/10/2017,2.5,F-WZNV,RR Trent XWB,2,B-18910,07/11/2017,China Airlines,,Active
+153,,Airbus A350,350-941,04/10/2017,,F-WZNU,RR Trent XWB,2,B-LGB,20/11/2017,Hong Kong Airlines,Returned to lessor 01/2020Leased From Aercap,Stored
+154,,Airbus A350,350-941,10/10/2017,2.5,F-WZNQ,RR Trent XWB,2,B-LRV,31/10/2017,Cathay Pacific,,Active
+155,,Airbus A350,350-941,09/11/2017,2.4,F-WZNO,RR Trent XWB,2,B-LRX,08/12/2017,Cathay Pacific,,Active
+155,,Airbus A350,350-941,09/11/2017,2.4,F-WZNO,RR Trent XWB,2,B-LRX,08/12/2017,Cathay Pacific,,Active
+157,,Airbus A350,350-941,31/10/2017,2.4,F-WZFQ,RR Trent XWB,2,3B-NBQ,26/11/2017,Air Mauritius,Named Pieter Both  Lsd From Aercap,Active
+158,,Airbus A350,350-941,20/10/2017,2.5,F-WZNZ,RR Trent XWB,2,9V-SMS,01/12/2017,Singapore Airlines,,Active
+159,,Airbus A350,350-941,09/11/2017,2.4,,RR Trent XWB,2,9M-MAB,29/11/2017,Malaysia Airlines,lsd from ALC,Active
+160,,Airbus A350,350-941,11/11/2017,2.4,F-WZFZ,RR Trent XWB,2,N504DN,28/11/2017,Delta Air Lines,,Active
+161,,Airbus A350,350-1041,13/11/2018,1.4,F-WWBW,RR Trent XWB-97,2,A7-ANF,18/12/2018,Qatar Airways,,Active
+162,,Airbus A350,350-941,13/11/2017,2.4,F-WZHC,RR Trent XWB,2,B-18912,30/11/2017,China Airlines,,Active
+163,,Airbus A350,350-941,19/07/2018,1.7,F-WZGF,RR Trent XWB,2,A7-AME,10/09/2018,Qatar Airways,,Active
+164,,Airbus A350,350-941,07/11/2017,2.4,F-WZHD,RR Trent XWB,2,N505DN,12/12/2017,Delta Air Lines,,Active
+165,,Airbus A350,350-941,30/11/2017,2.4,F-WZHE,RR Trent XWB,2,9M-MAC,22/12/2017,Malaysia Airlines,Lsd From Alc,Active
+167,,Airbus A350,350-941,31/05/2018,1.9,F-WZHG,RR Trent XWB,2,B-1086,08/08/2018,Air China,,Active
+168,,Airbus A350,350-941,23/10/2017,,F-WZHF,RR Trent XWB,2,B-LGC,29/11/2017,Hong Kong Airlines,Stored 02/2020lsd from Aercap,Stored
+169,,Airbus A350,350-1041,01/08/2018,1.7,F-WZGW,RR Trent XWB-97,2,B-LXB,31/08/2018,Cathay Pacific,,Active
+170,,Airbus A350,350-941,06/12/2017,2.4,F-WZHH,RR Trent XWB,2,9V-SMT,23/12/2017,Singapore Airlines,,Active
+172,,Airbus A350,350-941,23/08/2018,1.6,F-WWDW,RR Trent XWB,2,A7-AMF,29/09/2018,Qatar Airways,,Active
+173,,Airbus A350,350-941,09/12/2017,2.3,F-WZHK,RR Trent XWB,2,VN-A895,30/12/2017,Vietnam Airlines,,Active
+174,,Airbus A350,350-941,21/12/2017,2.3,F-WZHI,RR Trent XWB,2,D-AIXG,26/01/2018,Lufthansa,Named Mannheim,Active
+175,,Airbus A350,350-941,06/12/2017,2.4,F-WZHJ,RR Trent XWB,2,N506DN,22/12/2017,Delta Air Lines,,Active
+176,,Airbus A350,350-941,06/12/2017,2.4,F-WZFU,RR Trent XWB,2,HL7579,27/12/2017,Asiana Airlines,,Active
+177,,Airbus A350,350-941,08/01/2018,2.3,F-WZGC,RR Trent XWB,2,HS-THJ,27/01/2018,Thai Airways,Named Pho Sai   Lsd From Amedeo,Active
+178,,Airbus A350,350-941,02/07/2018,1.8,F-WZGZ,RR Trent XWB,2,B-1085,30/08/2018,Air China,,Active
+179,,Airbus A350,350-941,20/12/2017,2.3,F-WZNX,RR Trent XWB,2,B-18915,23/01/2018,China Airlines,,Active
+180,,Airbus A350,350-941,09/01/2018,2.3,F-WZFX,RR Trent XWB,2,ET-AVB,06/02/2018,Ethiopian Airlines,Named Gelada Baboon,Active
+181,,Airbus A350,350-941,10/01/2018,2.3,F-WZFP,RR Trent XWB,2,HS-THK,01/02/2018,Thai Airways,Named Phaisali,Active
+182,,Airbus A350,350-941,05/01/2018,2.3,F-WZFW,RR Trent XWB,2,N507DN,21/02/2018,Delta Air Lines,,Active
+183,,Airbus A350,350-941,23/01/2018,2.2,F-WZGA,RR Trent XWB,2,9M-MAD,13/02/2018,Malaysia Airlines,Lsd From Alc,Active
+184,,Airbus A350,350-941,19/01/2018,2.2,F-WZGR,RR Trent XWB,2,D-AIXH,15/02/2018,Lufthansa,Remark: Magdeburg,Active
+185,,Airbus A350,350-941,29/01/2018,2.2,F-WWIW,RR Trent XWB,2,HS-THL,22/02/2018,Thai Airways,Named Skhoraphum   Lsd From Smbc,Active
+186,,Airbus A350,350-941,22/01/2018,2.2,F-WWTW,RR Trent XWB,2,9V-SMU,09/02/2018,Singapore Airlines,,Active
+187,,Airbus A350,350-941,01/02/2018,,F-WWAW,RR Trent XWB,2,B-LGD,22/02/2018,Hong Kong Airlines,Stored 09/2019 in LourdesLeased From Aercap,Stored
+188,,Airbus A350,350-1041,15/06/2018,1.8,f-WZGS,RR Trent XWB-97,2,B-LXC,19/07/2018,Cathay Pacific,,Active
+189,,Airbus A350,350-941,02/02/2018,2.2,F-WZFD,RR Trent XWB,2,HS-THM,15/03/2018,Thai Airways,Named Chumphon Buri   Lsd From Alafco,Active
+190,,Airbus A350,350-941,07/02/2018,2.2,F-WZGL,RR Trent XWB,2,N508DN,06/03/2018,Delta Air Lines,,Active
+191,,Airbus A350,350-941,09/02/2018,2.2,F-WZGP,RR Trent XWB,2,B-18916,08/03/2018,China Airlines,,Active
+192,,Airbus A350,350-941,14/02/2018,2.2,F-WZGB,RR Trent XWB,2,VN-A896,27/03/2018,Vietnam Airlines,Lsd From Bbam,Active
+193,,Airbus A350,350-941,16/02/2018,2.2,F-WZGX,RR Trent XWB,2,F-HREV,23/03/2018,French bee,Lsd From Aercap,Active
+195,,Airbus A350,350-941,28/02/2018,2.1,F-WZFC,RR Trent XWB,2,9M-MAE,06/04/2018,Malaysia Airlines,Lsd From Alc,Active
+196,,Airbus A350,350-941,12/02/2018,2.2,F-WZNC,RR Trent XWB,2,ET-AVC,20/04/2018,Ethiopian Airlines,Named The Pyramids,Active
+197,,Airbus A350,350-941,07/03/2018,2.1,F-WZFN,RR Trent XWB,2,VN-A897,12/04/2018,Vietnam Airlines,Lsd From Bbam,Active
+198,,Airbus A350,350-941,19/02/2018,2.1,F-WZFF,RR Trent XWB,2,HL7771,11/04/2018,Asiana Airlines,Lsd From Smbc,Active
+199,,Airbus A350,350-941,14/03/2018,2.1,F-WZFH,RR Trent XWB,2,N509DN,13/04/2018,Delta Air Lines,,Active
+200,,Airbus A350,350-941,22/03/2018,2.1,F-WZFB,RR Trent XWB,2,PR-XTH,30/04/2018,LATAM Brasil,,Active
+201,,Airbus A350,350-941,06/03/2018,2.1,F-WZGE,RR Trent XWB,2,HS-THN,04/05/2018,Thai Airways,Named Khiri Rat Nikhom,Active
+202,,Airbus A350,350-941,11/04/2018,2,F-WZGO,RR Trent XWB,2,D-AIXI,05/05/2018,Lufthansa,Named Dortmund,Active
+203,,Airbus A350,350-941,03/04/2018,2,F-WZFS,RR Trent XWB,2,9M-MAF,04/05/2018,Malaysia Airlines,,Active
+204,,Airbus A350,350-941,25/04/2018,2,F-WZNS,RR Trent XWB,2,N510DN,25/05/2018,Delta Air Lines,,Active
+205,,Airbus A350,350-941,21/03/2018,2.1,F-WZGY,RR Trent XWB,2,ET-AVD,19/05/2018,Ethiopian Airlines,Named Mount Everest,Active
+206,,Airbus A350,350-1041,06/09/2018,1.6,F-WZNI,RR Trent XWB-97,2,B-LXD,01/10/2018,Cathay Pacific,,Active
+207,,Airbus A350,350-941,21/09/2018,1.6,F-WZNJ,RR Trent XWB,2,A7-AMG,26/10/2018,Qatar Airways,,Active
+208,,Airbus A350,350-941,06/04/2018,2,F-WZNF,RR Trent XWB,2,B-18917,12/06/2018,China Airlines,,Active
+209,,Airbus A350,350-941,25/04/2018,2,F-WZND,RR Trent XWB,2,D-AIXJ,01/06/2018,Lufthansa,Named Erfurt,Active
+209,,Airbus A350,350-941,25/04/2018,2,F-WZND,RR Trent XWB,2,D-AIXJ,01/06/2018,Lufthansa,Named Erfurt,Active
+210,,Airbus A350,350-941,14/05/2018,1.9,F-WZNE,RR Trent XWB,2,N511DN,14/06/2018,Delta Air Lines,,Active
+211,,Airbus A350,350-941,04/12/2018,1.4,F-WZNM,RR Trent XWB,2,A7-AMH,25/01/2019,Qatar Airways,,Active
+212,,Airbus A350,350-941,19/04/2018,2,F-WZNN,RR Trent XWB,2,D-AIXK,21/06/2018,Lufthansa,Named: Karlsruhe,Active
+213,,Airbus A350,350-941,29/05/2018,1.9,F-WZGT,RR Trent XWB,2,9M-MAG,12/07/2018,Malaysia Airlines,Lsd From Alc,Active
+214,,Airbus A350,350-941,31/01/2019,1.2,F-WZNQ,RR Trent XWB,2,A7-AMI,19/03/2019,Qatar Airways,,Active
+215,,Airbus A350,350-1041,05/02/2019,1.2,F-WZNV,RR Trent XWB-97,2,A7-ANG,01/03/2019,Qatar Airways,,Active
+216,,Airbus A350,350-941ULR,23/04/2018,2,F-WZNY,RR Trent XWB-84,2,9V-SGE,16/11/2018,Singapore Airlines,,Active
+217,,Airbus A350,350-941,30/05/2018,1.9,F-WZNU,RR Trent XWB,2,B-1083,19/09/2018,Air China,Expo 2019 Special Livery,Active
+218,,Airbus A350,350-941,11/06/2018,1.8,F-WZFQ,RR Trent XWB,2,HL8308,03/07/2018,Asiana Airlines,,Active
+219,,Airbus A350,350-941,29/05/2018,1.9,F-WZNP,RR Trent XWB,2,EC-MXV,26/06/2018,Iberia,Named Placido Domingo,Active
+220,,Airbus A350,350-941ULR,05/07/2018,1.8,F-WZFZ,RR Trent XWB-84,2,9V-SGA,22/09/2018,Singapore Airlines,,Active
+221,,Airbus A350,350-941,07/06/2018,1.8,F-WZNA,RR Trent XWB,2,RP-C3501,14/07/2018,Philippine Airlines,Lsd From Smbc,Active
+223,,Airbus A350,350-941ULR,16/08/2018,1.7,F-WZHE,RR Trent XWB-84,2,9V-SGB,28/09/2018,Singapore Airlines,,Active
+224,,Airbus A350,350-941,20/02/2019,1.1,F-WZNT,RR Trent XWB,2,HL8359,01/04/2019,Asiana Airlines,,Active
+225,,Airbus A350,350-1041,09/10/2018,1.5,F-WZNK,RR Trent XWB-97,2,B-LXE,30/10/2018,Cathay Pacific,,Active
+226,,Airbus A350,350-941,17/07/2018,1.7,F-WZFG,RR Trent XWB,2,B-304Z,24/01/2019,Hainan Airlines,Stored 10/2019,Transferred
+226,,Airbus A350,350-941,17/07/2018,1.7,F-WZFG,RR Trent XWB,2,ZS-SDC,24/12/2019,South African Airways,Lsd From Avolon,Active
+227,,Airbus A350,350-941,17/07/2018,1.7,F-WZHC,RR Trent XWB,2,EC-MYX,27/07/2018,Iberia,Named Paco de Lucia,Active
+228,,Airbus A350,350-941,11/07/2018,1.8,F-WZNZ,RR Trent XWB,2,RP-C3503,14/08/2018,Philippine Airlines,,Active
+229,,Airbus A350,350-1041,06/03/2019,1.1,F-WZNG,RR Trent XWB-97,2,A7-ANH,07/05/2019,Qatar Airways,,Active
+230,,Airbus A350,350-941ULR,01/08/2018,1.7,F-WZHI,RR Trent XWB-84,2,9V-SGC,05/10/2018,Singapore Airlines,,Active
+231,,Airbus A350,350-941,29/06/2018,1.8,,RR Trent XWB,2,B-1082,20/12/2018,Air China,,Active
+232,,Airbus A350,350-941ULR,10/10/2018,1.5,F-WZNR,RR Trent XWB-84,2,9V-SGD,26/10/2018,Singapore Airlines,,Active
+233,,Airbus A350,350-1041,25/10/2018,1.5,F-WZHF,RR Trent XWB-97,2,B-LXF,21/11/2018,Cathay Pacific,,Active
+234,,Airbus A350,350-941,Unknown,1,F-WZFJ,RR Trent XWB,2,HL8360,16/04/2019,Asiana Airlines,,Active
+235,,Airbus A350,350-941,24/07/2018,,F-WZHJ,RR Trent XWB,2,B-LGE,31/08/2018,Hong Kong Airlines,Stored 10/2019,Stored
+236,,Airbus A350,350-941,31/07/2018,1.7,F-WZHH,RR Trent XWB,2,RP-C3504,17/09/2018,Philippine Airlines,,Active
+237,,Airbus A350,350-941,01/04/2019,1,F-WZHD,RR Trent XWB,2,A7-AMJ,06/05/2019,Qatar Airways,,Active
+238,,Airbus A350,350-941ULR,05/11/2018,1.4,F-WZGP,RR Trent XWB-84,2,9V-SGF,22/11/2018,Singapore Airlines,,Active
+239,,Airbus A350,350-941,09/08/2018,1.7,F-WZFU,RR Trent XWB,2,B-18918,22/10/2018,China Airlines,,Active
+240,,Airbus A350,350-941,05/09/2018,1.6,F-WZHK,RR Trent XWB,2,B-1081,18/10/2018,Air China,,Active
+241,,Airbus A350,350-1041,23/04/2019,1,F-WZGC,RR Trent XWB-97,2,A7-ANI,05/06/2019,Qatar Airways,,Active
+243,,Airbus A350,350-941,11/09/2018,1.6,F-WZFP,RR Trent XWB,2,RP-C3506,09/10/2018,Philippine Airlines,,Active
+244,,Airbus A350,350-941ULR,22/11/2018,1.4,F-WZFC,RR Trent XWB-84,2,9V-SGG,15/12/2018,Singapore Airlines,,Active
+245,,Airbus A350,350-941,03/10/2018,1.5,F-WZNX,RR Trent XWB,2,B-305A,22/01/2019,Hainan Airlines,,Transferred
+245,,Airbus A350,350-941,03/10/2018,1.5,F-WZNX,RR Trent XWB,2,ZS-SDD,05/11/2019,South African Airways,Lsd From Avolon,Active
+246,,Airbus A350,350-941,08/10/2018,,F-WZGR,RR Trent XWB,2,B-308G,Due,Hainan Airlines,,On order
+247,,Airbus A350,350-941,22/10/2018,1.5,F-WZFW,RR Trent XWB,2,B-1080,24/11/2018,Air China,,Active
+248,,Airbus A350,350-941,30/10/2018,1.5,F-WWIV,RR Trent XWB,2,B-304D,29/11/2018,China Eastern Airlines,,Active
+249,,Airbus A350,350-941,20/05/2019,0.9,,RR Trent XWB,2,A7-AMK,27/06/2019,Qatar Airways,,Active
+250,,Airbus A350,350-941,30/04/2018,2,,RR Trent XWB,2,PR-XTI,21/12/2018,LATAM Brasil,,Active
+251,,Airbus A350,350-941,12/10/2018,,F-WWAW,RR Trent XWB,2,B-308H,Due,Hainan Airlines,,On order
+252,,Airbus A350,350-1041,29/10/2018,1.5,F-WZGL,RR Trent XWB-97,2,B-LXG,29/11/2018,Cathay Pacific,,Active
+254,,Airbus A350,350-941,27/11/2018,1.4,F-WZGX,RR Trent XWB,2,9V-SHA,18/12/2018,Singapore Airlines,,Active
+255,,Airbus A350,350-941,08/10/2018,1.5,F-WZGA,RR Trent XWB,2,D-AIXL,22/11/2018,Lufthansa,Named Rostock,Active
+256,,Airbus A350,350-941,17/10/2018,1.5,F-WZFD,RR Trent XWB,2,B-LGH,21/11/2018,Hong Kong Airlines,Stored 10/2019 to 12/2019,Active
+257,,Airbus A350,350-941,27/06/2019,0.8,F-WZFF,RR Trent XWB,2,A7-AML,27/09/2019,Qatar Airways,Lsd From Boc,Active
+258,,Airbus A350,350-1041,27/11/2018,1.4,F-WZFN,RR Trent XWB-97,2,B-LXH,18/12/2018,Cathay Pacific,,Active
+259,,Airbus A350,350-941,09/11/2018,1.4,F-WZFH,RR Trent XWB,2,ET-AVE,07/12/2018,Ethiopian Airlines,Named New York,Active
+260,,Airbus A350,350-941,29/11/2018,,F-WZNC,RR Trent XWB,2,B-308J,14/08/2019,Hainan Airlines,,On order
+261,,Airbus A350,350-941,28/11/2018,1.4,F-WZFO,RR Trent XWB,2,B-304N,18/12/2018,China Eastern Airlines,,Active
+262,,Airbus A350,350-1041,09/01/2019,1.3,F-WZNB,RR Trent XWB-97,2,B-LXI,02/02/2019,Cathay Pacific,,Active
+262,,Airbus A350,350-1041,09/01/2019,1.3,F-WZNB,RR Trent XWB-97,2,B-LXI,02/02/2019,Cathay Pacific,,Active
+263,,Airbus A350,350-941,14/11/2018,1.4,F-WZFV,RR Trent XWB,2,9V-SHB,01/12/2018,Singapore Airlines,,Active
+264,,Airbus A350,350-941,19/11/2018,1.4,F-WZGB,RR Trent XWB,2,OH-LWM,12/12/2018,Finnair,,Active
+265,,Airbus A350,350-941,04/02/2019,1.2,F-WZGO,RR Trent XWB,2,A7-AQA,21/03/2019,Qatar Airways,,Active
+266,,Airbus A350,350-1041,13/06/2019,0.8,F-WZGY,RR Trent XWB-97,2,A7-ANJ,27/09/2019,Qatar Airways,,Active
+267,,Airbus A350,350-941,14/12/2018,1.3,F-WZGE,RR Trent XWB,2,N512DN,26/01/2019,Delta Air Lines,,Active
+268,,Airbus A350,350-941,07/12/2018,1.3,F-WZFS,RR Trent XWB,2,B-307A,23/01/2019,Air China,,Active
+269,,Airbus A350,350-941,19/12/2018,1.3,F-WZNS,RR Trent XWB,2,B-305X,30/01/2019,China Eastern Airlines,,Active
+271,,Airbus A350,350-941,04/01/2019,1.3,,RR Trent XWB,2,EC-NBE,25/01/2019,Iberia,Named Museo Del Prado,Active
+272,,Airbus A350,350-941,06/02/2019,1.2,F-WZNF,RR Trent XWB,2,B-306Y,01/03/2019,China Eastern Airlines,,Active
+273,,Airbus A350,350-941,17/01/2019,1.2,F-WZNE,RR Trent XWB,2,OH-LWN,13/02/2019,Finnair,,Active
+274,,Airbus A350,350-1041,25/06/2019,0.8,,RR Trent XWB-97,2,G-VLUX,10/08/2019,Virgin Atlantic,,Active
+276,,Airbus A350,350-941,11/01/2019,1.3,F-WZGV,RR Trent XWB,2,9V-SHC,02/02/2019,Singapore Airlines,,Active
+277,,Airbus A350,350-941,08/01/2019,1.3,F-WZNN,RR Trent XWB,2,N513DZ,01/03/2019,Delta Air Lines,,Active
+278,,Airbus A350,350-941,29/01/2019,1.2,F-WZGU,RR Trent XWB,2,9V-SHD,01/03/2019,Singapore Airlines,,Active
+279,,Airbus A350,350-941,28/01/2019,1.2,F-WZNP,RR Trent XWB,2,VN-A898,01/03/2019,Vietnam Airlines,,Active
+280,,Airbus A350,350-941,07/01/2019,1.3,F-WZNA,RR Trent XWB,2,RP-C3507,19/02/2019,Philippine Airlines,Lsd From Goshawk Aviation,Active
+281,,Airbus A350,350-941,06/03/2019,1.1,F-WZGT,RR Trent XWB,2,B-306N,22/05/2019,Sichuan Airlines,Lsd From Alc,Active
+282,,Airbus A350,350-941,04/06/2019,0.9,F-WZGD,RR Trent XWB,2,A7-AQB,24/09/2019,Qatar Airways,Lsd From Latam Brasil,Active
+284,,Airbus A350,350-941,12/12/2018,1.3,F-WZFQ,RR Trent XWB,2,B-307C,27/02/2019,Air China,,Active
+285,,Airbus A350,350-941,21/02/2019,,F-WZNE,RR Trent XWB,2,B-,Due,Hainan Airlines,,On order
+286,,Airbus A350,350-1041,15/02/2019,1.2,F-WZHG,RR Trent XWB-97,2,B-LXJ,14/03/2019,Cathay Pacific,,Active
+287,,Airbus A350,350-941,11/02/2019,1.2,F-WZHC,RR Trent XWB,2,D-AIXM,16/03/2019,Lufthansa,Named Schwerin,Active
+289,,Airbus A350,350-941,13/03/2019,1.1,G-WZFK,RR Trent XWB,2,ET-AWM,05/04/2019,Ethiopian Airlines,Named Rome,Active
+290,,Airbus A350,350-1041,04/04/2019,,F-WZNI,RR Trent XWB-97,2,A6-XWB,Due,Etihad Airways,,On order
+291,,Airbus A350,350-941,21/03/2019,1.1,F-WZGZ,RR Trent XWB,2,B-307Y,09/04/2019,China Eastern Airlines,,Active
+292,,Airbus A350,350-941,31/01/2019,1.2,F-WZGW,RR Trent XWB,2,D-AIXN,30/03/2019,Lufthansa,Named Göttingen,Active
+293,,Airbus A350,350-941,04/03/2019,1.1,,RR Trent XWB,2,EC-NBO,28/03/2019,Evelop Airlines,Lsd From Alc,Active
+294,,Airbus A350,350-941,25/03/2019,1,F-WZGM,RR Trent XWB,2,9V-SHE,06/04/2019,Singapore Airlines,,Active
+295,,Airbus A350,350-941,16/04/2019,1,F-WZHH,RR Trent XWB,2,B-308C,14/05/2019,Air China,,Active
+296,,Airbus A350,350-1041,12/03/2019,1.1,F-WZGF,RR Trent XWB-97,2,B-LXK,03/04/2019,Cathay Pacific,,Active
+297,,Airbus A350,350-941,26/02/2019,1.1,F-WZFZ,RR Trent XWB,2,VN-A899,17/05/2019,Vietnam Airlines,,Active
+298,,Airbus A350,350-1041,27/05/2019,0.9,F-WZNU,RR Trent XWB-97,2,G-VPOP,29/08/2019,Virgin Atlantic,Named Mamma Mia,Active
+299,,Airbus A350,350-941,24/10/2019,0.5,,RR Trent XWB,2,DQ-FAI,15/11/2019,Fiji Airways,lsd from DAE Capital  Named Island Of Viti Levu,Active
+300,,Airbus A350,350-941,03/04/2019,1,F-WWCW,RR Trent XWB,2,OH-LWO,26/04/2019,Finnair,,Active
+301,,Airbus A350,350-941,24/05/2019,0.9,F-WZHE,RR Trent XWB,2,HL8361,18/06/2019,Asiana Airlines,Lsd From Icbc,Active
+302,,Airbus A350,350-941,04/04/2019,1,F-WZGK,RR Trent XWB,2,EC-NCX,30/04/2019,Iberia,Named selección española de futbol,Active
+303,,Airbus A350,350-941,09/04/2019,1,,RR Trent XWB,2,RP-C3508,30/04/2019,Philippine Airlines,,Active
+305,,Airbus A350,350-941,19/03/2019,1.1,F-WZFP,RR Trent XWB,2,9V-SHF,11/05/2019,Singapore Airlines,,Active
+306,,Airbus A350,350-1041,03/05/2019,0.9,F-WZHK,RR Trent XWB-97,2,B-LXL,29/05/2019,Cathay Pacific,,Active
+307,,Airbus A350,350-941,15/05/2019,0.9,F-WZGQ,RR Trent XWB,2,B-308E,07/06/2019,China Eastern Airlines,,Active
+309,,Airbus A350,350-941,17/04/2019,1,F-WZNR,RR Trent XWB,2,9V-SHG,18/05/2019,Singapore Airlines,,Active
+310,,Airbus A350,350-941,30/04/2019,1,F-WZFA,RR Trent XWB,2,ET-AWN,24/05/2019,Ethiopian Airlines,Named Bunna,Active
+311,,Airbus A350,350-941,13/05/2019,0.9,F-WZNJ,RR Trent XWB,2,B-308M,29/05/2019,Air China,,Active
+312,,Airbus A350,350-941,07/05/2019,0.9,F-WZNK,RR Trent XWB,2,EC-NDR,29/05/2019,Iberia,Named Juan Sebastián Elcano,Active
+313,,Airbus A350,350-941,03/10/2019,0.5,F-WZFI,RR Trent XWB,2,A7-AQC,12/12/2019,Qatar Airways,Lsd From Latam Brasil,Active
+314,,Airbus A350,350-941,19/06/2019,0.8,F-WZGA,RR Trent XWB,2,D-AIXO,17/07/2019,Lufthansa,Named Ulm,Active
+315,,Airbus A350,350-1041,Unknown,,F-WXAB,RR Trent XWB-97,2,A6-XWA,Due,Etihad Airways,,On order
+316,,Airbus A350,350-941,16/04/2019,1,F-WZNL,RR Trent XWB,2,9V-SHH,08/06/2019,Singapore Airlines,,Active
+318,,Airbus A350,350-941,03/06/2019,0.9,,RR Trent XWB,2,B-308T,28/06/2019,China Southern Airlines,,Active
+318,,Airbus A350,350-941,03/06/2019,0.9,,RR Trent XWB,2,B-308T,28/06/2019,China Southern Airlines,,Active
+319,,Airbus A350,350-1041,25/06/2019,0.8,F-WZNY,RR Trent XWB-97,2,G-VPRD,24/10/2019,Virgin Atlantic,Stored 09/2019 to 10/2019  Named Rain Bow,Active
+320,,Airbus A350,350-941,19/11/2019,0.4,F-WZFM,RR Trent XWB,2,DQ-FAJ,14/12/2019,Fiji Airways,Named island of vanua levu  Lsd From Dae Capital,Active
+321,,Airbus A350,350-941,Unknown,0.8,,RR Trent XWB,2,JA01XJ,13/06/2019,Japan Airlines,,Active
+322,,Airbus A350,350-941,12/06/2019,0.8,F-WZFL,RR Trent XWB,2,9V-SHI,28/06/2019,Singapore Airlines,,Active
+324,,Airbus A350,350-941,18/06/2019,0.8,F-WZGL,RR Trent XWB,2,B-LQA,09/07/2019,Cathay Pacific,,Active
+325,,Airbus A350,350-941,23/05/2019,0.9,F-WWIW,RR Trent XWB,2,F-HREY,12/06/2019,French bee,Lsd From Alc,Active
+326,,Airbus A350,350-1041,02/07/2019,0.8,F-WZFH,RR Trent XWB-97,2,G-XWBA,26/07/2019,British Airways,,Active
+327,,Airbus A350,350-941,08/07/2019,0.8,F-WZNO,RR Trent XWB,2,F-HTRE,25/07/2019,Air Caraibes,Lsd From Alc,Active
+328,,Airbus A350,350-941,19/07/2019,0.7,F-WZGB,RR Trent XWB,2,9V-SHJ,09/08/2019,Singapore Airlines,,Active
+329,,Airbus A350,350-941,26/06/2019,0.8,F-WZGX,RR Trent XWB,2,9V-SMV,27/07/2019,Singapore Airlines,,Active
+330,,Airbus A350,350-1041,Unknown,,F-WZFO,RR Trent XWB-97,2,A6-XWC,Due,Etihad Airways,,On order
+331,,Airbus A350,350-941,27/08/2019,0.6,F-WZFN,RR Trent XWB,2,F-HTYA,27/09/2019,Air France,Named Toulouse,Active
+332,,Airbus A350,350-1041,05/09/2019,0.6,F-WZFC,RR Trent XWB-97,2,A7-ANK,04/12/2019,Qatar Airways,,Active
+333,,Airbus A350,350-941,08/07/2019,0.8,F-WZFX,RR Trent XWB,2,JA02XJ,30/08/2019,Japan Airlines,,Active
+334,,Airbus A350,350-941,Unknown,0.5,F-WZNB,RR Trent XWB,2,B-309W,18/10/2019,China Southern Airlines,,Active
+335,,Airbus A350,350-941,23/09/2019,0.6,F-WZGD,RR Trent XWB,2,HL8362,15/10/2019,Asiana Airlines,,Active
+336,,Airbus A350,350-1041,23/07/2019,0.7,F-WZFM,RR Trent XWB-97,2,G-VJAM,09/12/2019,Virgin Atlantic,Named Queen Of Hearts,Active
+337,,Airbus A350,350-941,22/07/2019,0.7,F-WWBW,RR Trent XWB,2,B-LQB,08/08/2019,Cathay Pacific,,Active
+339,,Airbus A350,350-941,11/09/2019,0.6,F-WZNX,RR Trent XWB,2,B-30A9,22/10/2019,China Southern Airlines,,Active
+340,,Airbus A350,350-1041,21/08/2019,0.6,F-WZFS,RR Trent XWB-97,2,G-XWBB,19/09/2019,British Airways,,Active
+341,,Airbus A350,350-941,30/07/2019,0.7,F-WZND,RR Trent XWB,2,9V-SMW,13/09/2019,Singapore Airlines,,Active
+342,,Airbus A350,350-1041,06/08/2019,,F-WZNM,RR Trent XWB-97,2,A6-XWD,Due,Etihad Airways,Stored 10/2019,On order
+343,,Airbus A350,350-941,19/08/2019,0.6,F-WZGE,RR Trent XWB,2,JA03XJ,20/09/2019,Japan Airlines,,Active
+344,,Airbus A350,350-941,16/08/2019,0.7,F-WZFG,RR Trent XWB,2,9V-SMY,13/09/2019,Singapore Airlines,,Active
+345,,Airbus A350,350-941,06/09/2019,0.6,F-WZNF,RR Trent XWB,2,ET-AWO,04/10/2019,Ethiopian Airlines,Named Sao Paulo,Active
+346,,Airbus A350,350-1041,01/10/2019,0.5,F-WZFC,RR Trent XWB-97,2,A7-ANL,04/12/2019,Qatar Airways,,Active
+347,,Airbus A350,350-941,10/10/2019,0.5,F-WZNE,RR Trent XWB,2,B-30AL,09/11/2019,China Southern Airlines,,Active
+348,,Airbus A350,350-941,11/10/2019,0.5,F-WZNA,RR Trent XWB,2,9V-SMZ,30/10/2019,Singapore Airlines,,Active
+349,,Airbus A350,350-941,03/10/2019,0.5,F-WZFQ,RR Trent XWB,2,F-HTYB,06/11/2019,Air France,"Named Lyon  Lsd Tlc Rosewood Co., Ltd",Active
+350,,Airbus A350,350-1041,15/10/2019,0.5,F-WZNN,RR Trent XWB-97,2,A7-ANM,07/12/2019,Qatar Airways,,Active
+351,,Airbus A350,350-941,26/08/2019,,F-WZNS,RR Trent XWB,2,B-30DM,Due,Hainan Airlines,,On order
+352,,Airbus A350,350-941,06/09/2019,0.6,F-WZNP,RR Trent XWB,2,JA04XJ,26/10/2019,Japan Airlines,,Active
+354,,Airbus A350,350-941,11/10/2019,0.5,F-WZHG,RR Trent XWB,2,ZS-SDE,23/11/2019,South African Airways,Air Mauritius NTU,Active
+355,,Airbus A350,350-941,Unknown,,F-WZGU,RR Trent XWB,2,B-30DP,Due,Hainan Airlines,,On order
+356,,Airbus A350,350-1041,22/11/2019,0.4,F-WZNQ,RR Trent XWB-97,2,A7-ANN,20/12/2019,Qatar Airways,,Active
+357,,Airbus A350,350-941,20/09/2019,0.6,F-WZHC,RR Trent XWB,2,B-30C0,14/11/2019,China Southern Airlines,,Active
+358,,Airbus A350,350-941,06/11/2019,0.4,F-WZHJ,RR Trent XWB,2,SE-RSA,29/11/2019,SAS Scandinavian Airlines,Named: Ingegerd Viking,Active
+359,,Airbus A350,350-941,12/11/2019,0.4,F-WZGO,RR Trent XWB,2,F-HTYC,07/12/2019,Air France,Named Saint Denis De La Reunion,Active
+362,,Airbus A350,350-1041,06/11/2019,0.4,F-WZFK,RR Trent XWB-97,2,G-XWBC,26/11/2019,British Airways,,Active
+363,,Airbus A350,350-941,22/11/2019,0.4,F-WZGW,RR Trent XWB,2,PR-XTM,14/12/2019,LATAM Brasil,Lsd From Boc,Active
+364,,Airbus A350,350-941,07/11/2019,0.4,F-WZNT,RR Trent XWB,2,9V-SJA,22/11/2019,Singapore Airlines,,Active
+365,,Airbus A350,350-941,14/11/2019,0.4,,RR Trent XWB,2,ZS-SDF,06/12/2019,South African Airways,Air Mauritius NTU,Active
+366,,Airbus A350,350-941,13/11/2019,0.4,F-WZGM,RR Trent XWB,2,EC-NGT,27/11/2019,Iberia,Named Equipo Olímpico Español,Active
+369,,Airbus A350,350-941,07/11/2019,0.4,F-WZGZ,RR Trent XWB,2,9V-SHK,29/11/2019,Singapore Airlines,,Active
+370,,Airbus A350,350-941,05/11/2019,0.4,F-WZFJ,RR Trent XWB,2,JA05XJ,11/12/2019,Japan Airlines,,Active
+371,,Airbus A350,350-941,21/11/2019,0.4,F-WZGK,RR Trent XWB,2,9V-SHL,06/12/2019,Singapore Airlines,,Active
+372,,Airbus A350,350-1041,28/01/2020,0.2,F-WZFP,RR Trent XWB-97,2,A7-ANP,27/02/2020,Qatar Airways,,Active
+373,,Airbus A350,350-941,29/11/2019,0.4,F-WZHI,RR Trent XWB,2,B-30CW,19/12/2019,China Eastern Airlines,,Active
+374,,Airbus A350,350-1041,11/12/2019,0.3,F-WZNR,RR Trent XWB-97,2,G-XWBD,23/12/2019,British Airways,,Active
+374,,Airbus A350,350-1041,11/12/2019,0.3,F-WZNR,RR Trent XWB-97,2,G-XWBD,23/12/2019,British Airways,,Active
+375,,Airbus A350,350-941,28/11/2019,0.4,F-WZHD,RR Trent XWB,2,ET-AWP,13/12/2019,Ethiopian Airlines,Named Paris,Active
+376,,Airbus A350,350-941,29/11/2019,0.4,F-WZNG,RR Trent XWB,2,B-30CE,28/12/2019,China Southern Airlines,,Active
+378,,Airbus A350,350-941,14/01/2020,0.2,F-WZHH,RR Trent XWB,2,SE-RSB,07/02/2020,SAS Scandinavian Airlines,Named: Hagbard Viking,Active
+379,,Airbus A350,350-941,07/01/2020,0.3,F-WZFZ,RR Trent XWB,2,9V-SHM,22/01/2020,Singapore Airlines,,Active
+381,,Airbus A350,350-941,14/01/2020,0.2,F-WZNJ,RR Trent XWB,2,F-HTYD,12/02/2020,Air France,Named Nicelsd from Dia Sorbier ltd,Active
+383,,Airbus A350,350-941,03/02/2020,0.2,F-WZGT,RR Trent XWB,2,VQ-BFY,29/02/2020,Aeroflot,Named P. Tchaïkovsky,Active
+385,,Airbus A350,350-941,14/01/2020,0.2,F-WZHK,RR Trent XWB,2,9V-SHN,31/01/2020,Singapore Airlines,,Active
+386,,Airbus A350,350-1041,16/01/2020,0.2,F-WZGP,RR Trent XWB-97,2,G-XWBE,12/02/2020,British Airways,,Active
+387,,Airbus A350,350-941,10/01/2020,0.3,F-WZFA,RR Trent XWB,2,HL8381,03/02/2020,Asiana Airlines,,Active
+390,,Airbus A350,350-941,31/01/2020,0.2,F-WZGC,RR Trent XWB,2,D-AIXP,29/02/2020,Lufthansa,named Braunschweig,Active
+391,,Airbus A350,350-941,13/02/2020,0.2,F-WZNL,RR Trent XWB,2,SE-RSC,11/03/2020,SAS Scandinavian Airlines,Named: Orvar Odd Viking,Active
+392,,Airbus A350,350-941,19/12/2019,0.3,F-WWIW,RR Trent XWB,2,OH-LWP,10/02/2020,Finnair,,Active
+394,,Airbus A350,350-941,06/02/2020,0.2,F-WWTW,RR Trent XWB,2,9V-SHO,21/02/2020,Singapore Airlines,,Active
+397,,Airbus A350,350-941,17/01/2020,0.2,F-WZGL,RR Trent XWB,2,EC-NIG,25/02/2020,Iberia,Named : selección española de baloncesto,Active
+400,,Airbus A350,350-941,24/02/2020,,F-WWAW,RR Trent XWB,2,EC-NGY,Due,Evelop Airlines,,On order
+403,,Airbus A350,350-941,Unknown,,F-WZGN,RR Trent XWB,2,TC-LGA,Due,THY Turkish Airlines,,On order
+414,,Airbus A350,350-941,Unknown,,,RR Trent XWB,2,VQ-BFZ,Due,Aeroflot,Named A. Dementyev,On order
+416,,Airbus A350,350-941ACJ,21/02/2020,,F-WZFF,RR Trent 1000,2,10+03,Due,German Air Force,,On order
+418,,Airbus A350,350-941,Unknown,,F-WZFM,RR Trent XWB,2,SE-RSD,Due,SAS Scandinavian Airlines,Name: Halvard Viking,On order
+428,,Airbus A350,350-941,Unknown,,,RR Trent XWB,2,VP-BXA,Due,Aeroflot,Named A. Vasilevsky,On order
+429,,Airbus A350,350-941,Unknown,,,RR Trent XWB,2,VP-BXD,Due,Aeroflot,Named I. Konev,On order
+437,,Airbus A350,350-941,Unknown,,,RR Trent XWB,2,VP-BXC,Due,Aeroflot,Named R. Malinovsky,On order
+441,,Airbus A350,350-941,Unknown,,,RR Trent XWB,2,VP-BXP,Due,Aeroflot,Named  A. Golovanov,On order
+448,,Airbus A350,350-941,Unknown,,,RR Trent XWB,2,VP-BXS,Due,Aeroflot,Named  I. Cherevichny,On order
+457,,Airbus A350,350-941,Unknown,,,RR Trent XWB,2,VP-BYE,Due,Aeroflot,Named  B. Vasiliev,On order
+463,,Airbus A350,350-941,Unknown,,,RR Trent XWB,2,VP-BYF,Due,Aeroflot,Named  V. Grossman,On order
+466,,Airbus A350,350-941,Unknown,,,RR Trent XWB,2,VP-BYG,Due,Aeroflot,Named  J. Alferov,On order
+471,,Airbus A350,350-941,Unknown,,,RR Trent XWB,2,VP-BYH,Due,Aeroflot,Named  E. Obraztsova,On order

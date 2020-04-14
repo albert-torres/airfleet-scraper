@@ -1,0 +1,1076 @@
+serialNumber,lnNumber,familyType,Type,firstFlight,planeAge,testRegistration,enginesType,enginesNumber,registration,deliveryDate,operator,remark,status
+34305,419,Boeing 787,787-9,19/04/2016,4,N9672N,RR Trent 1000,2,B-7877,19/05/2016,Air China,Stored 01/2018 to 08/2018,Active
+34306,433,Boeing 787,787-9,19/05/2016,3.9,N9676G,RR Trent 1000,2,B-7878,14/06/2016,Air China,Stored 03/2019 to 11/2019Stored 04/2018 to 09/2018,Active
+34307,435,Boeing 787,787-9,25/05/2016,3.9,,RR Trent 1000,2,B-7879,25/06/2016,Air China,Stored 04/2018 to 06/2018,Active
+34308,455,Boeing 787,787-9,06/07/2016,3.8,,RR Trent 1000,2,B-7800,29/07/2016,Air China,Stored 03/2019 to 11/2019,Active
+34309,462,Boeing 787,787-9,25/07/2016,3.7,N8291V,RR Trent 1000,2,B-7832,27/08/2016,Air China,,Active
+34310,471,Boeing 787,787-9,17/08/2016,3.7,,RR Trent 1000,2,B-7898,15/09/2016,Air China,Stored 04/2019 to 12/2019,Active
+34311,487,Boeing 787,787-9,05/10/2016,,n8293V,RR Trent 1000,2,B-7899,29/10/2016,Air China,Stored 04/2018 for engine checks,Stored
+34312,521,Boeing 787,787-9,19/01/2017,3.2,,RR Trent 1000,2,B-1591,17/02/2017,Air China,Stored 02/2019 to 10/2019,Active
+34313,576,Boeing 787,787-9,05/06/2017,2.9,,RR Trent 1000,2,B-1431,25/06/2017,Air China,,Active
+34314,589,Boeing 787,787-9,02/08/2017,2.7,,RR Trent 1000,2,B-1466,12/08/2017,Air China,,Active
+34315,603,Boeing 787,787-9,08/09/2017,2.6,,RR Trent 1000,2,B-1467,20/09/2017,Air China,,Active
+34316,629,Boeing 787,787-9,12/11/2017,2.4,,RR Trent 1000,2,B-1468,21/11/2017,Air China,,Active
+34317,638,Boeing 787,787-9,02/12/2017,2.4,,RR Trent 1000,2,B-1469,11/12/2017,Air China,,Active
+34318,651,Boeing 787,787-9,01/02/2018,2.2,,RR Trent 1000,2,B-1368,08/02/2018,Air China,,Active
+34334,169,Boeing 787,787-9,28/05/2014,5.9,N1012N,RR Trent 1000,2,ZK-NZE,10/07/2014,Air New Zealand,,Active
+34335,213,Boeing 787,787-9,14/09/2014,5.6,,RR Trent 1000,2,ZK-NZF,27/09/2014,Air New Zealand,,Active
+34422,92,Boeing 787,787-8,30/04/2013,6.9,,Genx-1b70/P1G01,2,G-TUIA,30/05/2013,Thomson Airways,Named Living The Dream   Lsd From Bbam,Transferred
+34422,92,Boeing 787,787-8,30/04/2013,6.9,,Genx-1b70/P1G01,2,G-TUIA,01/10/2017,TUI Airways,Named Living The Dream   Lsd From Bbam,Active
+34423,94,Boeing 787,787-8,03/05/2013,6.9,,Genx-1b70/P2G01,2,G-TUIB,31/05/2013,Thomson Airways,Lsd From BbamNamed Alfie,Transferred
+34423,94,Boeing 787,787-8,03/05/2013,6.9,,Genx-1b70/P2G01,2,G-TUIB,01/10/2017,TUI Airways,Lsd Rom Bbam   Named Alfie,Active
+34424,96,Boeing 787,787-8,26/05/2013,6.9,,Genx-1b70/P1G01,2,G-TUIC,13/06/2013,Thomson Airways,Named Dream Maker,Transferred
+34424,96,Boeing 787,787-8,26/05/2013,6.9,,Genx-1b70/P1G01,2,G-TUIC,01/10/2017,TUI Airways,Named Dream Maker  Lsd From Mcap,Active
+34425,137,Boeing 787,787-8,14/11/2013,6.4,,GEnx-1B,2,OO-JDL,03/12/2013,JetairFly,Named Diamond,Transferred
+34425,137,Boeing 787,787-8,14/11/2013,6.4,,GEnx-1B,2,OO-JDL,19/10/2016,TUI Airlines Belgium,Named Diamond,Active
+34485,7,Boeing 787,787-8,01/09/2011,8.6,N1785B,GEnx-1B,2,JA803A,23/08/2012,All Nippon Airways,,Active
+34486,9,Boeing 787,787-8,19/01/2011,9.2,N1006F,GEnx-1B,2,JA804A,16/01/2012,All Nippon Airways,,Active
+34487,18,Boeing 787,787-8,02/02/2017,,,RR Trent 1000,2,ET-ATI,26/05/2017,Ethiopian Airlines,Stored 01/2019Named Mother Teresa,Stored
+34488,8,Boeing 787,787-8,01/09/2011,8.6,,GEnx-1B,2,JA801A,27/09/2011,All Nippon Airways,,Active
+34490,42,Boeing 787,787-8,01/04/2012,8,,GEnx-1B,2,JA808A,16/04/2012,All Nippon Airways,,Active
+34491,15,Boeing 787,787-8,18/08/2016,3.6,N1008S,RR Trent 1000,2,F-OLRB,28/10/2016,Air Austral,Ex N1015X,Active
+34492,13,Boeing 787,787-8,21/07/2016,3.7,N1003W,RR Trent 1000,2,ET-ATJ,17/09/2016,Ethiopian Airlines,Named Dallol,Active
+34493,69,Boeing 787,787-881,23/08/2012,7.6,,RR Trent 1000,2,JA814A,24/09/2012,All Nippon Airways,,Active
+34494,47,Boeing 787,787-881,09/05/2012,7.9,N1015X,RR Trent 1000,2,JA809A,21/06/2012,All Nippon Airways,,Active
+34496,199,Boeing 787,787-8,23/07/2014,5.7,,GEnx-1B,2,JA831A,04/08/2014,All Nippon Airways,,Active
+34497,24,Boeing 787,787-881,24/09/2011,8.5,,RR Trent 1000,2,JA802A,15/10/2011,All Nippon Airways,,Active
+34498,14,Boeing 787,787-8,15/06/2016,3.8,N1002K,RR Trent 1000,2,ET-ATK,30/07/2016,Ethiopian Airlines,Lsd From Awas   Named Meles,Active
+34499,633,Boeing 787,787-9,07/11/2017,2.4,,RR Trent 1000,2,JA896A,01/12/2017,All Nippon Airways,,Active
+34500,509,Boeing 787,787-9,22/11/2016,3.4,,RR Trent 1000,2,JA890A,08/12/2016,All Nippon Airways,,Active
+34501,428,Boeing 787,787-8,27/04/2016,4,,GEnx-1B,2,JA878A,13/05/2016,All Nippon Airways,,Active
+34502,51,Boeing 787,787-881,20/06/2012,7.8,,RR Trent 1000,2,JA811A,18/07/2012,All Nippon Airways,,Active
+34503,358,Boeing 787,787-8,20/10/2015,4.5,,GEnx-1B,2,JA874A,14/11/2015,All Nippon Airways,,Active
+34504,329,Boeing 787,787-9,28/07/2015,4.7,,RR Trent 1000,2,JA872A,28/08/2015,All Nippon Airways,,Active
+34505,12,Boeing 787,787-8,11/05/2016,3.9,,RR Trent 1000,2,ET-ATL,30/06/2016,Ethiopian Airlines,Named Colonel Robinson  Lsd From Vtb Leasing,Active
+34506,48,Boeing 787,787-881,20/05/2012,7.9,,RR Trent 1000,2,JA810A,25/06/2012,All Nippon Airways,,Active
+34507,63,Boeing 787,787-881,12/10/2012,7.5,,RR Trent 1000,2,JA816A,01/11/2012,All Nippon Airways,,Active
+34508,41,Boeing 787,787-881,19/12/2011,8.3,,RR Trent 1000,2,JA807A,13/01/2012,All Nippon Airways,,Active
+34509,147,Boeing 787,787-8,20/01/2014,6.2,,GEnx-1B,2,JA827A,06/02/2014,All Nippon Airways,,Active
+34510,22,Boeing 787,787-8,24/01/2016,4.2,N885BA,RR Trent 1000,2,F-OLRC,24/05/2016,Air Austral,lsd from bci b878 34510 llc,Active
+34511,101,Boeing 787,787-8,21/05/2013,6.9,,GEnx-1B,2,JA820A,31/05/2013,All Nippon Airways,,Active
+34512,110,Boeing 787,787-8,25/07/2013,6.7,,GEnx-1B,2,JA822A,21/08/2013,All Nippon Airways,,Active
+34513,571,Boeing 787,787-9,02/06/2017,2.9,,RR Trent 1000,2,JA892A,13/06/2017,All Nippon Airways,,Active
+34514,31,Boeing 787,787-881,05/12/2011,8.4,,RR Trent 1000,2,JA805A,04/01/2012,All Nippon Airways,,Active
+34515,40,Boeing 787,787-881,07/02/2012,8.2,,RR Trent 1000,2,JA806A,29/03/2012,All Nippon Airways,,Active
+34516,148,Boeing 787,787-8,15/01/2014,6.2,,GEnx-1B,2,JA825A,07/02/2014,All Nippon Airways,,Active
+34517,605,Boeing 787,787-9,03/09/2017,2.6,,RR Trent 1000,2,JA894A,21/09/2017,All Nippon Airways,,Active
+34517,605,Boeing 787,787-9,03/09/2017,2.6,,RR Trent 1000,2,JA894A,21/09/2017,All Nippon Airways,,Active
+34518,322,Boeing 787,787-8,02/07/2015,4.8,,RR Trent 1000,2,JA840A,01/08/2015,All Nippon Airways,,Active
+34519,741,Boeing 787,787-9,25/09/2018,1.5,,RR Trent 1000,2,JA899A,01/10/2018,All Nippon Airways,,Active
+34520,179,Boeing 787,787-8,15/05/2014,5.9,,GEnx-1B,2,JA829A,05/06/2014,All Nippon Airways,,Active
+34521,67,Boeing 787,787-881,11/08/2012,7.7,,RR Trent 1000,2,JA813A,31/08/2012,All Nippon Airways,,Active
+34522,146,Boeing 787,787-9,09/04/2014,6,N1792B,RR Trent 1000,2,JA830A,28/07/2014,All Nippon Airways,,Active
+34523,479,Boeing 787,787-9,07/09/2016,3.6,,RR Trent 1000,2,JA884A,21/09/2016,All Nippon Airways,,Active
+34524,202,Boeing 787,787-9,12/09/2014,5.6, ,RR Trent 1000,2,JA833A,27/09/2014,All Nippon Airways,,Active
+34525,243,Boeing 787,787-8,20/11/2014,5.4,,GEnx-1B,2,JA835A,18/12/2014,All Nippon Airways,,Active
+34526,295,Boeing 787,787-9,16/05/2015,4.9,,RR Trent 1000,2,JA837A,01/06/2015,All Nippon Airways,,Active
+34527,280,Boeing 787,787-9,01/04/2015,5,,RR Trent 1000,2,JA836A,22/04/2015,All Nippon Airways,,Active
+34528,299,Boeing 787,787-8,06/05/2015,4.9,,GEnx-1B,2,JA838A,21/05/2015,All Nippon Airways,,Active
+34529,310,Boeing 787,787-9,10/06/2015,4.8,,RR Trent 1000,2,JA839A,02/07/2015,All Nippon Airways,,Active
+34530,345,Boeing 787,787-9,02/09/2015,4.6,,RR Trent 1000,2,JA873A,01/10/2015,All Nippon Airways,,Active
+34531,370,Boeing 787,787-9,06/11/2015,4.4,,RR Trent 1000,2,JA875A,24/11/2015,All Nippon Airways,,Active
+34532,414,Boeing 787,787-9,18/03/2016,4.1,,RR Trent 1000,2,JA876A,31/03/2016,All Nippon Airways,,Active
+34533,447,Boeing 787,787-9,10/06/2016,3.8,N1015B,RR Trent 1000,2,JA880A,27/07/2016,All Nippon Airways,,Active
+34534,319,Boeing 787,787-9,26/06/2015,4.8,,RR Trent 1000,2,JA871A,29/07/2015,All Nippon Airways,,Active
+34743,39,Boeing 787,787-8,14/07/2013,6.7,,GEnx-1B,2,ET-AOO,31/07/2013,Ethiopian Airlines,Named Lake Tana,Active
+34744,44,Boeing 787,787-860,22/10/2012,7.5,,GEnx-1B,2,ET-AOP,20/11/2012,Ethiopian Airlines,Named Queen Of Sheba  Std Since 12/07/2013 After Cabin FireBack in service 12/2013,Active
+34745,49,Boeing 787,787-860,09/07/2012,7.8,N1020K,GEnx-1B,2,ET-AOQ,15/08/2012,Ethiopian Airlines,Named Africa First,Active
+34746,71,Boeing 787,787-860,12/09/2012,7.6,,GEnx-1B,2,ET-AOR,03/10/2012,Ethiopian Airlines,Named Addis Ababa,Active
+34747,75,Boeing 787,787-860,13/09/2012,7.6,,GEnx-1B,2,ET-AOS,23/10/2012,Ethiopian Airlines,Named Lucy,Active
+34748,167,Boeing 787,787-8,21/04/2014,6,,GEnx-1B,2,ET-AOT,06/05/2014,Ethiopian Airlines,,Active
+34749,164,Boeing 787,787-8,16/04/2014,6,,GEnx-1B,2,ET-AOU,21/05/2014,Ethiopian Airlines,,Active
+34750,168,Boeing 787,787-8,13/05/2014,5.9,,GEnx-1B,2,ET-AOV,27/06/2014,Ethiopian Airlines,Name: Taj Mahal,Active
+34751,196,Boeing 787,787-8,28/06/2014,5.8,,GEnx-1B,2,ET-ARE,02/08/2014,Ethiopian Airlines,,Active
+34752,216,Boeing 787,787-8,22/08/2014,5.6,,GEnx-1B,2,ET-ARF,03/10/2014,Ethiopian Airlines,,Active
+34785,128,Boeing 787,787-8,16/09/2013,6.6,,RR Trent 1000,2,V8-DLA,03/10/2013,Royal Brunei Airlines,,Active
+34786,130,Boeing 787,787-8,11/10/2013,6.5,,RR Trent 1000,2,V8-DLB,31/10/2013,Royal Brunei Airlines,,Active
+34788,166,Boeing 787,787-8,28/04/2014,6,,RR Trent 1000,2,V8-DLD,25/04/2014,Royal Brunei Airlines,,Active
+34789,156,Boeing 787,787-8,25/02/2014,6.1,,GEnx-1B,2,V8-DLC,26/03/2014,Royal Brunei Airlines,,Active
+34791,660,Boeing 787,787-8,17/01/2018,2.2,N1002K,GEnx-1B,2,V8-DLE,30/06/2018,Royal Brunei Airlines,,Active
+34795,136,Boeing 787,787-8,01/11/2013,6.4,,RR Trent 1000,2,EI-LNC,27/11/2013,Norwegian Long Haul,,Transferred
+34795,136,Boeing 787,787-8,01/11/2013,6.4,,RR Trent 1000,2,LN-LNC,15/06/2015,Norwegian Long Haul,,Active
+34796,165,Boeing 787,787-8,10/04/2014,6,,GEnx-1B,2,EI-LNE,30/04/2014,Norwegian Long Haul,Named Roald Amundsen,Transferred
+34796,165,Boeing 787,787-8,10/04/2014,6,,GEnx-1B,2,LN-LNE,17/06/2015,Norwegian Long Haul,Named Roald Amundsen,Active
+34810,525,Boeing 787,787-9,25/01/2017,3.2,,GEnx-1B,2,HL8081,22/02/2017,Korean Air,,Active
+34811,549,Boeing 787,787-9,30/03/2017,3,,Genx-1B,2,HL8082,25/04/2017,Korean Air,,Active
+34812,575,Boeing 787,787-9,27/06/2017,2.8,,GEnx-1B,2,HL8083,12/07/2017,Korean Air,,Active
+34813,598,Boeing 787,787-9,29/08/2017,2.6,,Genx-1B,2,HL8084,07/09/2017,Korean Air,,Active
+34814,644,Boeing 787,787-9,09/12/2017,2.3,,Genx-1B,2,HL8085,21/12/2017,Korean Air,Lsd From Icbc,Active
+34815,716,Boeing 787,787-9,22/05/2018,1.9,,Genx-1B,2,HL7206,14/06/2018,Korean Air,,Active
+34816,728,Boeing 787,787-9,13/07/2018,1.7,,Genx-1B,2,HL7207,25/07/2018,Korean Air,,Active
+34817,753,Boeing 787,787-9,09/09/2018,1.6,,Genx-1B,2,HL7208,20/09/2018,Korean Air,,Active
+34818,788,Boeing 787,787-9,03/12/2018,1.4,,Genx-1B,2,HL7209,19/12/2018,Korean Air,,Active
+34819,817,Boeing 787,787-9,19/02/2019,1.1,,Genx-1B74,2,HL8345,12/03/2019,Korean Air,,Active
+34821,45,Boeing 787,787-824,13/12/2012,7.3,,GEnx-1B,2,N27901,27/12/2012,United Airlines,,Active
+34822,50,Boeing 787,787-824,04/11/2012,7.4,,GEnx-1B,2,N26902,21/11/2012,United Airlines,,Active
+34823,52,Boeing 787,787-824,07/12/2012,7.3,N27903,GEnx-1B,2,N27903,20/12/2012,United Airlines,,Active
+34824,53,Boeing 787,787-824,19/08/2012,7.6,,GEnx-1B,2,N20904,23/09/2012,United Airlines,,Active
+34825,55,Boeing 787,787-824,21/11/2012,7.4,,GEnx-1B,2,N45905,14/12/2012,United Airlines,,Active
+34826,145,Boeing 787,787-8,14/02/2014,6.2,,GEnx-1B,2,N26910,22/03/2014,United Airlines,,Active
+34826,145,Boeing 787,787-8,14/02/2014,6.2,,GEnx-1B,2,N26910,22/03/2014,United Airlines,,Active
+34827,135,Boeing 787,787-8,15/12/2013,6.3,,GEnx-1B,2,N26909,28/01/2014,United Airlines,,Active
+34828,186,Boeing 787,787-8,04/06/2014,5.9,,GEnx-1B,2,N28912,27/06/2014,United Airlines,,Active
+34829,77,Boeing 787,787-824,20/10/2012,7.5,,GEnx-1B,2,N26906,01/11/2012,United Airlines,,Active
+34830,117,Boeing 787,787-8,10/07/2013,6.8,,GEnx-1B,2,N29907,01/08/2013,United Airlines,,Active
+34831,20,Boeing 787,787-8,04/10/2013,6.5,,GEnx-1B,2,JA821J,21/11/2013,Japan Airlines,,Active
+34832,23,Boeing 787,787-846,01/03/2011,9.1,N1003W,GEnx-1B64,2,JA822J,26/03/2012,Japan Airlines,Stored 09/2019,Transferred
+34832,23,Boeing 787,787-846,01/03/2011,9.1,N1003W,GEnx-1B64,2,JA822J,27/10/2019,ZIPAIR Tokyo,,Active
+34833,21,Boeing 787,787-8,07/08/2013,6.7,,GEnx-1B,2,JA823J,29/08/2013,Japan Airlines,,Active
+34834,27,Boeing 787,787-846,03/09/2012,7.6,,GEnx-1B64,2,JA824J,25/09/2012,Japan Airlines,,Active
+34835,33,Boeing 787,787-8,15/02/2012,8.2,N1006F,GEnx-1B,2,JA825J,26/03/2012,Japan Airlines,Stored 01/2020,Transferred
+34835,33,Boeing 787,787-8,15/02/2012,8.2,N1006F,GEnx-1B,2,JA825J,05/02/2020,ZIPAIR Tokyo,,Active
+34836,37,Boeing 787,787-846,09/04/2012,8,,GEnx-1B64,2,JA826J,26/04/2012,Japan Airlines,,Active
+34837,38,Boeing 787,787-846,06/04/2012,8,N787BK,GEnx-1B64,2,JA827J,26/04/2012,Japan Airlines,,Active
+34838,70,Boeing 787,787-846,16/08/2012,7.7,,GEnx-1B64,2,JA828J,05/09/2012,Japan Airlines,,Active
+34839,84,Boeing 787,787-846,07/12/2012,7.3,,GEnx-1B64,2,JA829J,21/12/2012,Japan Airlines,,Active
+34840,89,Boeing 787,787-846,28/04/2013,7,,GEnx-1B64,2,JA830J,30/05/2013,Japan Airlines,,Active
+34841,362,Boeing 787,787-9,15/10/2015,4.5,,GEnx-1B,2,JA862J,31/10/2015,Japan Airlines,,Active
+34842,98,Boeing 787,787-846,16/05/2013,6.9,,GEnx-1B64,2,JA834J,13/06/2013,Japan Airlines,,Active
+34843,526,Boeing 787,787-9,20/01/2017,3.2,,Genx-1B,2,JA867J,02/02/2017,Japan Airlines,,Active
+34844,105,Boeing 787,787-8,28/06/2013,6.8,,GEnx-1B,2,JA832J,24/07/2013,Japan Airlines,,Active
+34845,544,Boeing 787,787-9,10/03/2017,3.1,,GEnx-1B74,2,JA868J,23/03/2017,Japan Airlines,,Active
+34846,125,Boeing 787,787-8,12/10/2013,6.5,,GEnx-1B,2,JA833J,08/01/2014,Japan Airlines,,Active
+34847,152,Boeing 787,787-8,10/02/2014,6.2,,GEnx-1B,2,JA831J,18/03/2014,Japan Airlines,,Active
+34848,632,Boeing 787,787-9,03/11/2017,2.4,,Genx-1B,2,JA871J,16/11/2017,Japan Airlines,,Active
+34849,231,Boeing 787,787-8,21/11/2014,5.4,,GEnx-1B,2,JA838J,10/12/2014,Japan Airlines,,Active
+34850,159,Boeing 787,787-8,01/03/2014,6.1,,GEnx-1B,2,JA835J,31/03/2014,Japan Airlines,,Active
+34851,945,Boeing 787,787-9,21/11/2019,0.4,N1009N,Genx-1B,2,JA878J,12/12/2019,Japan Airlines,,Active
+34852,706,Boeing 787,787-9,02/06/2018,1.9,,Genx-1B,2,JA873J,20/06/2018,Japan Airlines,,Active
+34853,252,Boeing 787,787-8,08/01/2015,5.3,,GEnx-1B,2,JA839J,20/01/2015,Japan Airlines,,Active
+34854,301,Boeing 787,787-8,05/05/2015,4.9,,GEnx-1B,2,JA842J,22/05/2015,Japan Airlines,,Active
+34855,312,Boeing 787,787-8,12/06/2015,4.8,,GEnx-1B,2,JA841J,29/06/2015,Japan Airlines,,Active
+34856,271,Boeing 787,787-8,11/02/2015,5.2,N1006K,GEnx-1B,2,JA840J,27/02/2015,Japan Airlines,,Active
+34857,441,Boeing 787,787-8,04/06/2016,3.9,,GEnx-1B,2,JA845J,30/06/2016,Japan Airlines,,Active
+34858,438,Boeing 787,787-9,16/05/2016,3.9,,GEnx-1B,2,JA864J,02/06/2016,Japan Airlines,,Active
+34859,385,Boeing 787,787-8,30/12/2015,4.3,,GEnx-1B,2,JA843J,29/01/2016,Japan Airlines,,Active
+34860,222,Boeing 787,787-8,30/10/2014,5.4,,GEnx-1B,2,JA837J,25/11/2014,Japan Airlines,,Active
+34923,34,Boeing 787,787-81B,22/04/2013,7,,GEnx-1B64,2,B-2725,02/06/2013,China Southern Airlines,,Active
+34924,36,Boeing 787,787-81B,19/09/2013,6.6,,GEnx-1B64,2,B-2726,24/12/2013,China Southern Airlines,,Active
+34925,43,Boeing 787,787-81B,12/10/2012,7.5,N1014X,GEnx-1B64,2,B-2727,10/10/2013,China Southern Airlines,,Active
+34926,93,Boeing 787,787-8,06/08/2013,6.7,,GEnx-1B,2,B-2732,23/08/2013,China Southern Airlines,,Active
+34927,95,Boeing 787,787-8,05/06/2013,6.9,,GEnx-1B,2,B-2733,02/07/2013,China Southern Airlines,,Active
+34928,119,Boeing 787,787-8,22/10/2013,6.5,,GEnx-1B,2,B-2735,25/12/2013,China Southern Airlines,,Active
+34929,100,Boeing 787,787-8,14/07/2013,6.7,,GEnx-1B,2,B-2736,01/10/2013,China Southern Airlines,,Active
+34930,104,Boeing 787,787-8,01/08/2013,6.7,,GEnx-1B,2,B-2737,25/12/2013,China Southern Airlines,,Active
+34931,154,Boeing 787,787-8,06/04/2014,6,,GEnx-1B,2,B-2787,01/05/2014,China Southern Airlines,,Active
+34932,172,Boeing 787,787-8,16/05/2014,5.9,,GEnx-1B,2,B-2788,17/06/2014,China Southern Airlines,,Active
+34938,73,Boeing 787,787-8,20/10/2012,7.5,N1006F,GEnx-1B,2,B-2728,29/08/2013,Hainan Airlines,,Active
+34939,76,Boeing 787,787-8,22/04/2013,7,,GEnx-1B,2,B-2722,05/07/2013,Hainan Airlines,,Active
+34940,151,Boeing 787,787-8,11/02/2014,6.2,,GEnx-1B,2,B-2738,07/06/2014,Hainan Airlines,,Transferred
+34940,151,Boeing 787,787-8,11/02/2014,6.2,,GEnx-1B,2,B-2738,15/12/2017,Suparna Airlines,,Transferred
+34940,151,Boeing 787,787-8,11/02/2014,6.2,,GEnx-1B,2,B-2738,03/07/2018,Hainan Airlines,,Active
+34941,79,Boeing 787,787-8,14/11/2013,6.4,,GEnx-1B,2,B-2729,24/12/2013,Hainan Airlines,,Active
+34942,262,Boeing 787,787-8,16/01/2015,5.2,,GEnx-1B,2,B-2750,13/02/2015,Hainan Airlines,,Active
+34943,85,Boeing 787,787-8,20/05/2013,6.9,,GEnx-1B,2,B-2730,10/11/2013,Hainan Airlines,,Active
+34943,85,Boeing 787,787-8,20/05/2013,6.9,,GEnx-1B,2,B-2730,10/11/2013,Hainan Airlines,,Active
+34944,81,Boeing 787,787-8,27/04/2013,7,,GEnx-1B,2,B-2723,01/10/2013,Hainan Airlines,,Active
+34945,131,Boeing 787,787-8,29/10/2013,6.5,,GEnx-1B,2,B-2731,19/12/2013,Hainan Airlines,,Active
+35151,303,Boeing 787,787-9,14/05/2015,4.9,N1020K,GEnx-1B,2,VN-A861,01/08/2015,Vietnam Airlines,,Active
+35152,318,Boeing 787,787-9,24/07/2015,4.7,,GEnx-1B,2,VN-A862,09/08/2015,Vietnam Airlines,,Active
+35153,333,Boeing 787,787-9,15/08/2015,4.7,,GEnx-1B,2,VN-A863,02/09/2015,Vietnam Airlines,,Active
+35154,353,Boeing 787,787-9,06/10/2015,4.5,,GEnx-1B,2,VN-A864,01/11/2015,Vietnam Airlines,,Active
+35257,160,Boeing 787,787-8,22/04/2014,6,,GEnx-1B,2,C-GHPQ,14/05/2014,Air Canada,,Active
+35258,170,Boeing 787,787-8,23/05/2014,5.9,,GEnx-1B,2,C-GHPT,16/06/2014,Air Canada,,Active
+35259,174,Boeing 787,787-8,10/07/2014,5.8,,GEnx-1B,2,C-GHPU,27/07/2014,Air Canada,,Active
+35260,220,Boeing 787,787-8,21/08/2014,5.6,,GEnx-1B,2,C-GHPV,25/09/2014,Air Canada,,Active
+35261,230,Boeing 787,787-8,01/10/2014,5.5,,GEnx-1B,2,C-GHPX,30/10/2014,Air Canada,,Active
+35262,235,Boeing 787,787-8,18/10/2014,5.5,,GEnx-1B,2,C-GHPY,23/11/2014,Air Canada,,Active
+35263,254,Boeing 787,787-8,10/12/2014,5.3,N8570Y,GEnx-1B,2,C-GHQQ,30/01/2015,Air Canada,,Active
+35264,265,Boeing 787,787-8,27/01/2015,5.2,,GEnx-1B,2,C-GHQY,25/02/2015,Air Canada,,Active
+35265,323,Boeing 787,787-9,07/07/2015,4.8,,GEnx-1B,2,C-FNOE,31/07/2015,Air Canada,,Active
+35266,332,Boeing 787,787-9,12/08/2015,4.7,,GEnx-1B,2,C-FNOG,31/08/2015,Air Canada,,Active
+35267,366,Boeing 787,787-9,01/11/2015,4.4,,GEnx-1B,2,C-FNOH,17/11/2015,Air Canada,,Active
+35268,371,Boeing 787,787-9,10/12/2015,4.3,,GEnx-1B,2,C-FNOI,21/12/2015,Air Canada,,Active
+35269,395,Boeing 787,787-9,14/02/2016,4.2,,GEnx-1B,2,C-FGDX,10/03/2016,Air Canada,,Active
+35270,425,Boeing 787,787-9,27/04/2016,4,,GEnx-1B,2,C-FPQB,24/05/2016,Air Canada,,Active
+35303,141,Boeing 787,787-8,25/11/2013,6.4,,GEnx-1B,2,A6-PFC,04/01/2014,Abu Dhabi Amiri Flight,lsd from ILFC,Active
+35304,102,Boeing 787,787-8,13/06/2013,,,RR Trent 1000,2,EI-LNA,29/06/2013,Norwegian Long Haul,Lsd From Ilfc  Named Sonja Henie,Transferred
+35304,102,Boeing 787,787-8,13/06/2013,,,RR Trent 1000,2,LN-LNA,10/02/2016,Norwegian Long Haul,Stored 05/2019Named Sonja Henie   Lsd From Dp Aircraft,Stored
+35305,112,Boeing 787,787-8,03/08/2013,,,RR Trent 1000,2,EI-LNB,25/08/2013,Norwegian Long Haul,Lsd From Ilfc  Named Thor Heyerdahl,Transferred
+35305,112,Boeing 787,787-8,03/08/2013,,,RR Trent 1000,2,LN-LNB,29/05/2015,Norwegian Long Haul,Stored 07/2019Lsd From DP Aircraft  Named Thor Heyerdahl,Stored
+35306,115,Boeing 787,787-8,21/07/2013,6.7,,GEnx-1B,2,N961AM,16/08/2013,Aeromexico,lsd from Aercap,Active
+35307,122,Boeing 787,787-8,22/09/2013,6.6,,GEnx-1B,2,N964AM,22/10/2013,Aeromexico,Lsd From Ilfc,Active
+35308,127,Boeing 787,787-8,11/10/2013,6.5,,GEnx-1B,2,N965AM,31/10/2013,Aeromexico,Leased From Ilfc,Active
+35309,143,Boeing 787,787-8BBJ,23/12/2013,6.3,N1006K,GENX 1B-4,2,N28MS,20/05/2016,Executive Jet Aviation,,Transferred
+35309,143,Boeing 787,787-8BBJ,23/12/2013,6.3,N1006K,GENX 1B-4,2,2-DEER,04/08/2016,Deer Jet,lsd from Aercap,Active
+35310,153,Boeing 787,787-8,15/02/2014,,,RR Trent 1000,2,EI-LND,25/03/2014,Norwegian Long Haul,Lsd From Ilfc  Named Grethe Waitz,Transferred
+35310,153,Boeing 787,787-8,15/02/2014,,,RR Trent 1000,2,LN-LND,03/06/2015,Norwegian Long Haul,Stored 09/2019Lsd From Ilfc  Named Grete Waitz  Lsd From Aercap,Stored
+35311,155,Boeing 787,787-8,25/02/2014,6.1,,GEnx-1B,2,N966AM,01/04/2014,Aeromexico,Lsd From Ilfc,Active
+35312,163,Boeing 787,787-8,25/03/2014,6,,GEnx-1B,2,N967AM,25/04/2014,Aeromexico,Lsd From Ilfc,Active
+35313,178,Boeing 787,787-8,05/05/2014,5.9,,RR Trent 1000,2,EI-LNF,28/05/2014,Norwegian Long Haul,Lsd From Ilfc,Transferred
+35313,178,Boeing 787,787-8,05/05/2014,5.9,,RR Trent 1000,2,LN-LNF,05/06/2015,Norwegian Long Haul,Lsd From Aercap,Active
+35314,183,Boeing 787,787-8,03/06/2014,,,RR Trent 1000,2,EI-LNG,20/06/2014,Norwegian Long Haul,Named Edvard Munch  Lsd From Aercap,Transferred
+35314,183,Boeing 787,787-8,03/06/2014,,,RR Trent 1000,2,LN-LNG,10/06/2015,Norwegian Long Haul,Stored 07/2019Stored 05/2018 to 08/2018Named Edvard Munch  Lsd From Aercap,Stored
+35315,190,Boeing 787,787-8,09/06/2014,5.8,N1008S,RR Trent 1000,2,HS-TQA,17/07/2014,Thai Airways,Lsd From Ilfc/aercap  Named Ongkharak,Active
+35316,209,Boeing 787,787-8,27/08/2014,5.6,,RR Trent 1000,2,HS-TQB,16/09/2014,Thai Airways,Named Chaturaphak Phiman  Lsd From Aercap,Active
+35317,259,Boeing 787,787-9,18/01/2015,5.2,,RR Trent 1000,2,CC-BGA,05/02/2015,LAN Airlines,Lsd From Aercap,Transferred
+35317,259,Boeing 787,787-9,18/01/2015,5.2,,RR Trent 1000,2,CC-BGA,05/05/2016,LATAM Chile,Lsd From Aercap,Active
+35318,276,Boeing 787,787-9,06/03/2015,5.1,,RR Trent 1000,2,CC-BGB,25/03/2015,LAN Airlines,Lsd From Aercap,Transferred
+35318,276,Boeing 787,787-9,06/03/2015,5.1,,RR Trent 1000,2,CC-BGB,05/05/2016,LATAM Chile,Lsd From Aercap,Active
+35319,214,Boeing 787,787-8,16/09/2014,5.6,,GEnx-1B,2,JY-BAB,01/10/2014,Royal Jordanian Airlines,Named Princes Iman Bint Abdullah   Lsd From Aercap,Active
+35320,244,Boeing 787,787-8,20/11/2014,5.4,,GEnx-1B,2,HS-TQD,10/12/2014,Thai Airways,Named Wapi Pathumlsd from AerCap,Active
+35321,309,Boeing 787,787-9,10/06/2015,4.8,,RR Trent 1000,2,CC-BGC,26/06/2015,LAN Airlines,Lsd From Aercap,Transferred
+35321,309,Boeing 787,787-9,10/06/2015,4.8,,RR Trent 1000,2,CC-BGC,05/05/2016,LATAM Chile,Lsd From Aercap,Active
+35322,327,Boeing 787,787-9,31/07/2015,4.7,,RR Trent 1000,2,CC-BGD,12/08/2015,LAN Airlines,Lsd From Aercap,Transferred
+35322,327,Boeing 787,787-9,31/07/2015,4.7,,RR Trent 1000,2,CC-BGD,05/05/2016,LATAM Chile,Lsd From Aercap,Active
+35422,139,Boeing 787,787-9,19/11/2013,6.4,N789ZB,GEnx-1B,2,JA861J,10/06/2015,Japan Airlines,,Active
+35423,494,Boeing 787,787-9,24/10/2016,3.5,,GEnx-1B,2,JA866J,02/12/2016,Japan Airlines,,Active
+35424,572,Boeing 787,787-9,13/06/2017,2.8,,GEnx-1B,2,JA869J,18/07/2017,Japan Airlines,,Active
+35425,611,Boeing 787,787-9,10/09/2017,2.6,,GEnx-1B,2,JA870J,22/09/2017,Japan Airlines,,Active
+35426,967,Boeing 787,787-9,19/01/2020,0.2,,Genx-1B,2,JA880J,07/02/2020,Japan Airlines,,Active
+35427,963,Boeing 787,787-9,18/01/2020,0.2,,Genx-1B,2,JA879J,31/01/2020,Japan Airlines,,Active
+35428,690,Boeing 787,787-9,13/04/2018,2,,Genx-1B,2,JA872J,17/05/2018,Japan Airlines,,Active
+35429,730,Boeing 787,787-9,13/07/2018,1.7,,Genx-1B,2,JA874J,24/07/2018,Japan Airlines,,Active
+35430,799,Boeing 787,787-9,04/01/2019,1.3,,Genx-1B,2,JA876J,24/01/2019,Japan Airlines,,Active
+35431,806,Boeing 787,787-9,28/01/2019,1.2,,Genx-1B,2,JA877J,08/02/2019,Japan Airlines,,Active
+35431,806,Boeing 787,787-9,28/01/2019,1.2,,Genx-1B,2,JA877J,08/02/2019,Japan Airlines,,Active
+35435,915,Boeing 787,787-8,16/09/2019,0.6,,GEnx-1B,2,JA846J,08/10/2019,Japan Airlines,,Active
+35436,939,Boeing 787,787-8,03/11/2019,0.4,,GEnx-1B,2,JA847J,27/11/2019,Japan Airlines,,Active
+35437,989,Boeing 787,787-8,12/03/2020,0.1,,GEnx-1B,2,JA849J,19/03/2020,Japan Airlines,,Active
+35438,943,Boeing 787,787-8,25/11/2019,0.4,,GEnx-1B,2,JA848J,05/12/2019,Japan Airlines,,Active
+35506,448,Boeing 787,787-8,21/06/2016,3.8,,GEnx-1B,2,CN-RGS,09/07/2016,Royal Air Maroc,,Active
+35508,19,Boeing 787,787-8,01/08/2017,,,GEnx-1B,2,VP-CSC,03/11/2017,Private,Stored,Stored
+35509,457,Boeing 787,787-8,12/07/2016,3.7,,GEnx-1B,2,CN-RGT,02/08/2016,Royal Air Maroc,,Active
+35510,157,Boeing 787,787-8,04/03/2014,6.1,,GEnx-1B,2,5Y-KZA,04/04/2014,Kenya Airways,Named Great Rift Valley,Active
+35511,184,Boeing 787,787-8,21/05/2014,5.9,,GEnx-1B,2,5Y-KZB,20/06/2014,Kenya Airways,Named The Zambezi River,Active
+35879,238,Boeing 787,787-8,22/11/2014,5.4,,GEnx-1B,2,N30913,17/12/2014,United Airlines,,Active
+35880,365,Boeing 787,787-9,06/11/2015,4.4,,Genx-1b74/75/P1,2,N36962,01/12/2015,United Airlines,,Active
+35938,61,Boeing 787,787-85D,18/10/2012,7.5,N1026G,RR Trent 1000,2,SP-LRA,14/11/2012,LOT Polish Airlines,,Active
+35939,88,Boeing 787,787-8,15/07/2013,6.7,,RR Trent 1000,2,SP-LRE,29/07/2013,LOT Polish Airlines,,Active
+35940,86,Boeing 787,787-85D,13/01/2013,7.2,N1791B,RR Trent 1000,2,SP-LRC,16/05/2013,LOT Polish Airlines,,Active
+35941,87,Boeing 787,787-8,04/06/2013,6.9,,RR Trent 1000,2,SP-LRD,21/06/2013,LOT Polish Airlines,,Active
+35942,161,Boeing 787,787-8,10/03/2014,6.1,,RR Trent 1000 ,2,SP-LRF,30/04/2014,LOT Polish Airlines,Named Franek,Transferred
+35942,161,Boeing 787,787-8,10/03/2014,6.1,,RR Trent 1000 ,2,SP-LRF,08/04/2015,Air Europa,lsd from LOT Polish Airlines,Transferred
+35942,161,Boeing 787,787-8,10/03/2014,6.1,,RR Trent 1000 ,2,SP-LRF,01/04/2016,LOT Polish Airlines,Named Franek   Lsd From Iap,Active
+35943,583,Boeing 787,787-8,28/06/2017,2.8,,RR Trent 1000,2,SP-LRH,14/07/2017,LOT Polish Airlines,Stored 12/2018 to 10/2019for engines maintenance,Active
+35944,568,Boeing 787,787-8,23/05/2017,2.9,,RR Trent 1000,2,SP-LRG,09/06/2017,LOT Polish Airlines,,Active
+36040,192,Boeing 787,787-8,26/06/2014,5.8,,GEnx-1B,2,5Y-KZC,02/08/2014,Kenya Airways,,Active
+36041,204,Boeing 787,787-8,12/07/2014,5.7,,GEnx-1B,2,5Y-KZD,27/08/2014,Kenya Airways,,Active
+36042,212,Boeing 787,787-8,05/08/2014,5.7,,GEnx-1B,2,5Y-KZE,23/09/2014,Kenya Airways,Named Serengeti Plains,Active
+36043,224,Boeing 787,787-8,03/09/2014,5.6,,GEnx-1B,2,5Y-KZF,19/10/2014,Kenya Airways,,Active
+36044,289,Boeing 787,787-8,31/03/2015,5,,GEnx-1B,2,5Y-KZG,30/04/2015,Kenya Airways,Lsd From Awas  Named Magical Kenya,Active
+36045,307,Boeing 787,787-8,21/05/2015,4.9,N889BA,GEnx-1B,2,5Y-KZH,31/10/2015,Kenya Airways,Stored 02/2016lsd from BOC,Transferred
+36045,307,Boeing 787,787-8,21/05/2015,4.9,N889BA,GEnx-1B,2,A4O-SY,01/04/2016,Oman Air,Stored 09/2018Lsd From Boc,Transferred
+36045,307,Boeing 787,787-8,21/05/2015,4.9,N889BA,GEnx-1B,2,5Y-KZH,01/10/2018,Kenya Airways,To enter in service,Active
+36046,317,Boeing 787,787-8,15/06/2015,4.8,N892BA,GEnx-1B,2,5Y-KZJ,31/10/2015,Kenya Airways,Stored 04/2016,Transferred
+36046,317,Boeing 787,787-8,15/06/2015,4.8,N892BA,GEnx-1B,2,A4O-SZ,13/05/2016,Oman Air,,Transferred
+36046,317,Boeing 787,787-8,15/06/2015,4.8,N892BA,GEnx-1B,2,5Y-KZJ,08/06/2019,Kenya Airways,,Active
+36109,506,Boeing 787,787-8,16/11/2016,3.4,,GEnx-1B,2,CN-RGU,02/12/2016,Royal Air Maroc,,Active
+36110,226,Boeing 787,787-8,09/10/2014,,,RR Trent 1000,2,HS-TQC,30/10/2014,Thai Airways,Stored 09/2019Lsd From Aercap  Named:pran Buri,Stored
+36111,258,Boeing 787,787-8,12/01/2015,5.2,N1005S,GEnx-1B,2,ET-ASG,31/01/2015,Ethiopian Airlines,Lsd From Aercap,Active
+36112,233,Boeing 787,787-8,20/10/2014,5.5,,GEnx-1B,2,JY-BAF,20/11/2014,Royal Jordanian Airlines,Lsd From Aercap,Active
+36113,356,Boeing 787,787-9,14/10/2015,4.5,N1020K,GEnx-1B,2,PH-BHA,09/12/2015,KLM,lsd from AerCap  Named: Carnation / Anjer,Active
+36227,123,Boeing 787,787-8,14/09/2013,6.6,,GEnx-1B,2,VH-VKA,08/10/2013,Jetstar,,Active
+36228,134,Boeing 787,787-8,06/11/2013,6.4,N1015X,GEnx-1B,2,VH-VKB,12/12/2013,Jetstar,,Active
+36229,142,Boeing 787,787-8,05/12/2013,6.4,,GEnx-1B,2,VH-VKD,10/01/2014,Jetstar,,Active
+36230,162,Boeing 787,787-8,10/04/2014,6,,GEnx-1B,2,VH-VKE,23/04/2014,Jetstar,,Active
+36231,175,Boeing 787,787-8,16/06/2014,5.8,,GEnx-1B,2,VH-VKF,02/07/2014,Jetstar,,Active
+36232,189,Boeing 787,787-8,08/08/2014,5.7,,GEnx-1B,2,VH-VKG,25/08/2014,Jetstar,,Active
+36233,200,Boeing 787,787-8,05/07/2014,5.8,,GEnx-1B,2,VH-VKH,14/08/2014,Jetstar,,Active
+36235,257,Boeing 787,787-8,19/12/2014,5.3,N8571B,GEnx-1B,2,VH-VKI,28/01/2015,Jetstar,,Active
+36236,278,Boeing 787,787-8,30/04/2015,4.9,,GEnx-1B,2,VH-VKJ,02/07/2015,Jetstar,,Active
+36237,321,Boeing 787,787-8,29/06/2015,4.8,,GEnx-1B,2,VH-VKK,18/07/2015,Jetstar,,Active
+36238,344,Boeing 787,787-8,21/08/2015,4.6,,GEnx-1B,2,VH-VKL,05/09/2015,Jetstar,,Active
+36239,742,Boeing 787,787-9,10/08/2018,1.7,,Genx-1B,2,VH-ZNF,18/08/2018,Qantas,Named Boomerang,Active
+36240,774,Boeing 787,787-9,08/11/2018,1.4,,Genx-1B,2,VH-ZNG,13/11/2018,Qantas,,Active
+36241,778,Boeing 787,787-9,04/11/2018,1.4,,Genx-1B,2,VH-ZNH,21/11/2018,Qantas,Named Great Barrier Reef,Active
+36273,25,Boeing 787,787-837,09/01/2014,6.3,N1020K,GEnx-1B64,2,VT-ANA,13/02/2014,Air India,,Active
+36274,28,Boeing 787,787-837,26/04/2014,6,,GEnx-1B64,2,VT-ANC,24/06/2014,Air India,,Active
+36275,32,Boeing 787,787-837,09/10/2013,6.5,,GEnx-1B64,2,VT-ANG,05/11/2013,Air India,,Active
+36276,35,Boeing 787,787-837,25/01/2012,8.2,N1015B,GEnx-1B64,2,VT-ANH,07/09/2012,Air India,,Active
+36277,46,Boeing 787,787-837,23/05/2012,7.9,N6067B,GEnx-1B64,2,VT-ANI,08/10/2012,Air India,,Active
+36277,46,Boeing 787,787-837,23/05/2012,7.9,N6067B,GEnx-1B64,2,VT-ANI,08/10/2012,Air India,,Active
+36278,29,Boeing 787,787-837,31/07/2011,8.7,N1009N,GEnx-1B64,2,VT-AND,18/09/2012,Air India,Stored 01/2015 to 11/2015,Active
+36279,26,Boeing 787,787-837,14/12/2013,6.3,,GEnx-1B64,2,VT-ANB,31/01/2014,Air India,,Active
+36280,30,Boeing 787,787-837,07/11/2013,6.4,,GEnx-1B64,2,VT-ANE,04/12/2013,Air India,,Active
+36281,54,Boeing 787,787-837,12/09/2012,7.6,,GEnx-1B64,2,VT-ANJ,03/01/2013,Air India,,Active
+36282,60,Boeing 787,787-837,21/10/2012,7.5,,GEnx-1B64,2,VT-ANK,20/12/2012,Air India,,Active
+36283,65,Boeing 787,787-837,28/10/2012,7.5,,GEnx-1B64,2,VT-ANL,29/12/2012,Air India,,Active
+36284,72,Boeing 787,787-837,19/12/2012,7.3,,GEnx-1B64,2,VT-ANM,19/06/2013,Air India,,Active
+36285,90,Boeing 787,787-837,30/04/2013,6.9,N1008S,GEnx-1B64,2,VT-ANN,27/08/2013,Air India,,Active
+36286,91,Boeing 787,787-837,06/06/2013,6.8,,GEnx-1B64,2,VT-ANO,04/10/2013,Air India,,Active
+36287,158,Boeing 787,787-8,28/03/2014,6,,GEnx-1B,2,VT-ANP,03/06/2014,Air India,Mahatma Gandhi Silhouet On Tail,Active
+36288,180,Boeing 787,787-8,06/06/2014,5.8,,GEnx-1B,2,VT-ANQ,20/07/2014,Air India,,Active
+36289,208,Boeing 787,787-8,18/08/2014,5.6,,GEnx-1B,2,VT-ANR,02/10/2014,Air India,,Active
+36290,232,Boeing 787,787-8,19/10/2014,5.5,,GEnx-1B,2,VT-ANS,13/12/2014,Air India,,Active
+36291,250,Boeing 787,787-8,01/12/2014,5.4,,GEnx-1B,2,VT-ANT,23/02/2015,Air India,,Active
+36292,273,Boeing 787,787-8,16/02/2015,5.2,,GEnx-1B,2,VT-ANU,02/04/2015,Air India,,Active
+36293,311,Boeing 787,787-8,10/06/2015,4.8,,GEnx-1B,2,VT-ANV,27/06/2015,Air India,,Active
+36294,489,Boeing 787,787-8,13/10/2016,3.5,,GEnx-1B,2,VT-ANW,08/11/2016,Air India,,Active
+36295,511,Boeing 787,787-8,06/12/2016,3.3,,GEnx-1B,2,VT-ANX,10/01/2017,Air India,,Active
+36296,579,Boeing 787,787-8,21/06/2017,2.8,,GEnx-1B,2,VT-ANY,12/07/2017,Air India,,Active
+36297,592,Boeing 787,787-8,25/07/2017,2.7,,GEnx-1B,2,VT-ANZ,24/08/2017,Air India,,Active
+36298,595,Boeing 787,787-8,10/08/2017,2.7,,GEnx-1B,2,VT-NAA,31/08/2017,Air India,,Active
+36299,618,Boeing 787,787-8,20/09/2017,2.6,,GEnx-1B,2,VT-NAC,11/10/2017,Air India,,Active
+36400,124,Boeing 787,787-8,02/10/2013,6.5,,GEnx-1B,2,N27908,13/11/2013,United Airlines,,Active
+36401,181,Boeing 787,787-9,11/07/2014,5.8,,GEnx-1B,2,N38950,16/09/2014,United Airlines,,Active
+36402,223,Boeing 787,787-9,16/10/2014,5.5,,GEnx-1B,2,N19951,31/10/2014,United Airlines,,Active
+36403,263,Boeing 787,787-9,05/02/2015,5.2,,Genx-1b74/75/P1,2,N26952,19/02/2015,United Airlines,,Active
+36404,269,Boeing 787,787-9,07/02/2015,5.2,N8571C,GENX-1B75/P2,2,N35953,17/03/2015,United Airlines,,Active
+36405,275,Boeing 787,787-9,06/03/2015,5.1,,Genx-1b74/75/P1,2,N13954,31/03/2015,United Airlines,,Active
+36406,342,Boeing 787,787-9,03/09/2015,4.6,,Genx-1b74/75/P1,2,N27958,18/09/2015,United Airlines,,Active
+36407,348,Boeing 787,787-9,09/09/2015,4.6,,Genx-1b74/75/P1,2,N27959,25/09/2015,United Airlines,,Active
+36408,355,Boeing 787,787-9,13/10/2015,4.5,,Genx-1b74/75/P1,2,N26960,06/11/2015,United Airlines,,Active
+36409,334,Boeing 787,787-9,15/08/2015,4.7,,Genx-1b74/75/P1,2,N27957,01/09/2015,United Airlines,,Active
+36412,397,Boeing 787,787-8,14/02/2016,4.2,,RR Trent 1000,2,EC-MIG,15/03/2016,Air Europa,Lsd From Smbc  Named Scholas,Active
+36413,437,Boeing 787,787-8,27/05/2016,3.9,,RR Trent 1000,2,EC-MIH,17/06/2016,Air Europa,Named Julio Iglesias,Active
+36414,482,Boeing 787,787-8,21/09/2016,3.6,N8287V,RR Trent 1000,2,EC-MLT,21/10/2016,Air Europa,Lsd From Smbc  Named X Nicky Jam-j Balvin,Active
+36415,505,Boeing 787,787-8,19/11/2016,3.4,,RR Trent 1000,2,EC-MMX,14/12/2016,Air Europa,Lsd From Smbc,Active
+36416,508,Boeing 787,787-8,29/11/2016,3.4,,RR Trent 1000,2,EC-MMY,19/12/2016,Air Europa,"Stored at MAD for engine worknamed desde 1218, universidad de salamanca viii centenario",Active
+36417,532,Boeing 787,787-8,11/02/2017,3.2,,RR Trent 1000,2,EC-MNS,28/02/2017,Air Europa,Lsd From Jsa,Active
+36418,573,Boeing 787,787-8,25/05/2017,2.9,,RR Trent 1000,2,EC-MPE,20/06/2017,Air Europa,Lsd From Bbam,Active
+36419,557,Boeing 787,787-8,20/04/2017,3,,RR Trent 1000,2,EC-MOM,04/05/2017,Air Europa,,Active
+36424,106,Boeing 787,787-8,31/07/2013,6.7,,Genx-1b70/P2G01,2,G-TUID,16/08/2013,Thomson Airways,Named angel of the skies  Lsd From Orix Aviation,Transferred
+36424,106,Boeing 787,787-8,31/07/2013,6.7,,Genx-1b70/P2G01,2,G-TUID,01/10/2017,TUI Airways,Named Angel Of The Sky   Lsd From Orix Aviation,Active
+36426,260,Boeing 787,787-8,06/01/2015,5.3,,GEnx-1B,2,G-TUIG,29/01/2015,Thomson Airways,,Transferred
+36426,260,Boeing 787,787-8,06/01/2015,5.3,,GEnx-1B,2,G-TUIG,01/10/2017,TUI Airways,Named Edie,Transferred
+36426,260,Boeing 787,787-8,06/01/2015,5.3,,GEnx-1B,2,OO-LOE,23/03/2018,TUI Airlines Belgium,Named Pearl,Active
+36427,182,Boeing 787,787-8,22/05/2014,5.9,,GEnx-1B,2,PH-TFK,04/06/2014,ArkeFly,Named: #dreamcatcher,Transferred
+36427,182,Boeing 787,787-8,22/05/2014,5.9,,GEnx-1B,2,PH-TFK,01/10/2015,TUI Airlines Nederland,Named #dreamcatcher    Lsd From Gecas,Active
+36428,198,Boeing 787,787-8,06/07/2014,5.8,,Genx-1b70/P2G01,2,G-TUIF,15/07/2014,Thomson Airways,Named: Neil,Transferred
+36428,198,Boeing 787,787-8,06/07/2014,5.8,,Genx-1b70/P2G01,2,G-TUIF,01/10/2017,TUI Airways,Named Neil  Lsd From Gecas,Active
+36429,281,Boeing 787,787-8,12/03/2015,5.1,,GEnx-1B,2,PH-TFM,27/03/2015,ArkeFly,Named #driemliner,Transferred
+36429,281,Boeing 787,787-8,12/03/2015,5.1,,GEnx-1B,2,PH-TFM,01/10/2015,TUI Airlines Nederland,,Active
+36526,279,Boeing 787,787-8,08/03/2015,,,RR Trent 1000,2,EI-LNH,10/04/2015,Norwegian Long Haul,Named H.c. Andersen,Transferred
+36526,279,Boeing 787,787-8,08/03/2015,,,RR Trent 1000,2,LN-LNH,06/04/2016,Norwegian Long Haul,Stored 08/2019Named H.c. Andersen,Stored
+36843,251,Boeing 787,787-8,07/12/2014,5.3,,GEnx-1B,2,XA-AMX,20/12/2014,Aeromexico,Named La Laguna,Active
+36844,264,Boeing 787,787-8,25/01/2015,5.2,,GEnx-1B,2,XA-AMR,09/02/2015,Aeromexico,Named Ciudad De Mexico,Active
+37109,293,Boeing 787,787-9,13/04/2015,,,RR Trent 1000,2,VP-BDA,Due,Kalair,,On order
+37112,240,Boeing 787,787-9,12/01/2015,5.2,,RR Trent 1000,2,9V-OJA,31/01/2015,Scoot,Named Dream Start,Active
+37112,240,Boeing 787,787-9,12/01/2015,5.2,,RR Trent 1000,2,9V-OJA,31/01/2015,Scoot,Named Dream Start,Active
+37113,272,Boeing 787,787-9,21/02/2015,5.1,,RR Trent 1000,2,9V-OJB,05/03/2015,Scoot,Named Barry,Active
+37114,284,Boeing 787,787-9,27/03/2015,5,,RR Trent 1000,2,9V-OJC,24/04/2015,Scoot,Stored 03/2019 to 01/2020Named Inspiring Spirit,Active
+37115,308,Boeing 787,787-9,06/05/2015,4.9,,RR Trent 1000,2,9V-OJD,29/05/2015,Scoot,Named Big Yella Fella,Active
+37116,316,Boeing 787,787-9,12/06/2015,4.8,,RR Trent 1000,2,9V-OJE,28/06/2015,Scoot,Remarks: Named Maju-lah,Active
+37117,314,Boeing 787,787-8,05/06/2015,4.9,,RR Trent 1000,2,9V-OFA,19/07/2015,Scoot,,Active
+37118,335,Boeing 787,787-8,08/08/2015,4.7,,RR Trent 1000,2,9V-OFB,29/08/2015,Scoot,Named Lickity-split,Active
+37119,337,Boeing 787,787-9,16/08/2015,4.7,N8572C,RR Trent 1000,2,9V-OJF,10/10/2015,Scoot,Named Bo-eng,Active
+37120,349,Boeing 787,787-8,06/10/2015,4.5,N9675N,RR Trent 1000,2,9V-OFC,25/10/2015,Scoot,Named ScootaliciousStored 10/2018 to 01/2019,Active
+37121,375,Boeing 787,787-8,02/12/2015,4.4,,RR Trent 1000,2,9V-OFD,21/12/2015,Scoot,Stored 03/2019 to 10/2019,Active
+37122,415,Boeing 787,787-8,11/04/2016,4,,RR Trent 1000,2,9V-OFE,27/04/2016,Scoot,Named The Future Is Yellow,Active
+37123,474,Boeing 787,787-8,10/08/2016,3.7,N1006K,RR Trent 1000,2,9V-OFG,01/09/2016,Scoot,Named Kama Scootra,Active
+37124,552,Boeing 787,787-8,09/04/2017,3,,RR Trent 1000,2,9V-OFH,19/04/2017,Scoot,Named Scooti-mite,Active
+37125,559,Boeing 787,787-8,20/04/2017,3,,RR Trent 1000,2,9V-OFI,11/05/2017,Scoot,,Active
+37126,599,Boeing 787,787-8,09/08/2017,2.7,,RR Trent 1000,2,9V-OFJ,19/08/2017,Scoot,Named Bo Jio,Active
+37127,627,Boeing 787,787-8,31/10/2017,2.4,,RR Trent 1000,2,9V-OFK,23/11/2017,Scoot,Named getting lei'd,Active
+37128,693,Boeing 787,787-9,15/05/2018,1.9,,RR Trent 1000,2,9V-OJG,31/05/2018,Scoot,,Active
+37129,695,Boeing 787,787-9,18/07/2018,1.7,,RR Trent 1000,2,9V-OJH,26/07/2018,Scoot,Named Fernweh,Active
+37130,839,Boeing 787,787-9,04/04/2019,1,N1005S,RR Trent 1000,2,9V-OJI,20/04/2019,Scoot,,Active
+37131,849,Boeing 787,787-9,Unknown,0.8,,RR Trent 1000,2,9V-OJJ,26/06/2019,Scoot,Named Holiyear,Active
+37146,537,Boeing 787,787-9,25/02/2017,3.1,,RR Trent 1000,2,A6-PFE,16/03/2017,Abu Dhabi Amiri Flight,,Active
+37164,219,Boeing 787,787-8,01/10/2014,5.5,,GEnx-1B,2,JY-BAC,24/10/2014,Royal Jordanian Airlines,Lsd From Cit  Named Princess Salma Bint Abdullah,Active
+37165,330,Boeing 787,787-8,05/08/2015,4.7,,GEnx-1B,2,N782AM,21/08/2015,Aeromexico,Lsd From Cit  Named Misionero De Paz,Active
+37166,221,Boeing 787,787-8,23/10/2014,5.5,,GEnx-1B,2,JY-BAE,19/11/2014,Royal Jordanian Airlines,Lsd From Cit  Named Prince Hashemite Bin Abdullah,Active
+37167,359,Boeing 787,787-8,23/10/2015,4.5,,GEnx-1B,2,N783AM,20/11/2015,Aeromexico,Lsd From Cit,Active
+37168,529,Boeing 787,787-9,31/01/2017,3.2,,Genx-1B,2,A4O-SC,23/02/2017,Oman Air,Lsd From Cit  Leased From Avolon,Active
+37169,427,Boeing 787,787-9,11/05/2016,3.9,,GEnx-1B,2,C-FGHZ,04/06/2016,Air Canada,,Active
+37170,444,Boeing 787,787-9,13/06/2016,3.8,,GEnx-1B,2,C-FKSV,30/06/2016,Air Canada,Lsd From Gecas,Active
+37171,393,Boeing 787,787-9,05/02/2016,4.2,,GEnx-1B,2,C-FGDT,26/02/2016,Air Canada,,Active
+37172,417,Boeing 787,787-9,13/04/2016,4,,GEnx-1B,2,C-FGFZ,29/04/2016,Air Canada,,Active
+37173,405,Boeing 787,787-9,11/03/2016,4.1,,GEnx-1B,2,C-FGDZ,31/03/2016,Air Canada,,Active
+37174,407,Boeing 787,787-9,17/03/2016,4.1,,GEnx-1B,2,C-FGEI,05/04/2016,Air Canada,,Active
+37175,515,Boeing 787,787-9,01/12/2016,3.4,,GEnx-1B,2,C-FRSA,09/01/2017,Air Canada,,Active
+37176,527,Boeing 787,787-9,17/01/2017,3.2,N1789B,GEnx-1B,2,C-FRSI,09/02/2017,Air Canada,,Active
+37177,536,Boeing 787,787-9,24/02/2017,3.1,,GEnx-1B,2,C-FRSO,23/02/2017,Air Canada,Lsd From Alc,Active
+37178,553,Boeing 787,787-9,01/05/2017,2.9,,GEnx-1B,2,C-FRSR,12/05/2017,Air Canada,,Active
+37179,574,Boeing 787,787-9,09/06/2017,2.8,,GEnx-1B,2,C-FRTW,22/06/2017,Air Canada,,Active
+37180,409,Boeing 787,787-9,22/03/2016,4.1,,GEnx-1B,2,C-FGEO,15/04/2016,Air Canada,,Active
+37181,523,Boeing 787,787-9,11/01/2017,3.3,,GEnx-1B,2,C-FRSE,26/01/2017,Air Canada,,Active
+37182,617,Boeing 787,787-9,09/10/2017,2.5,,GEnx-1B,2,C-FSBV,20/10/2017,Air Canada,,Active
+37183,567,Boeing 787,787-9,09/05/2017,2.9,,GEnx-1B,2,C-FRTU,06/06/2017,Air Canada,,Active
+37184,558,Boeing 787,787-9,11/05/2017,2.9,,GEnx-1B,2,C-FRTG,27/05/2017,Air Canada,,Active
+37227,191,Boeing 787,787-8,14/06/2014,5.8,,Genx-1b70/P2G01,2,G-TUIE,30/06/2014,Thomson Airways,Named Miles Of Smiles,Transferred
+37227,191,Boeing 787,787-8,14/06/2014,5.8,,Genx-1b70/P2G01,2,G-TUIE,01/10/2017,TUI Airways,Named Miles Of Smiles  Lsd From Gecas,Active
+37228,245,Boeing 787,787-8,10/11/2014,5.4,,GEnx-1B,2,PH-TFL,12/12/2014,ArkeFly,,Transferred
+37228,245,Boeing 787,787-8,10/11/2014,5.4,,GEnx-1B,2,PH-TFL,01/10/2015,TUI Airlines Nederland,,Active
+37229,291,Boeing 787,787-8,09/04/2015,5,,Genx-1b70/P2G01,2,G-TUIH,07/05/2015,Thomson Airways,,Transferred
+37229,291,Boeing 787,787-8,09/04/2015,5,,Genx-1b70/P2G01,2,G-TUIH,01/10/2017,TUI Airways,Named Mr Patmore,Active
+37230,300,Boeing 787,787-8,01/05/2015,4.9,,Genx-1b70/P2G01,2,G-TUII,28/05/2015,Thomson Airways,,Transferred
+37230,300,Boeing 787,787-8,01/05/2015,4.9,,Genx-1b70/P2G01,2,G-TUII,01/10/2017,TUI Airways,Named Mrs Patmore,Active
+37306,315,Boeing 787,787-8BBJ,20/06/2015,,N887BA,GENX 1B-4,2,P4-BDL,22/03/2018,GlobalJet Luxembourg,Ex N887BAStored 03/2018,Stored
+37307,400,Boeing 787,787-9,04/02/2016,4.2,,RR Trent 1000,2,EI-LNI,23/02/2016,Norwegian Long Haul,Named Greta Garbo   Lsd From Mg Aviation,Transferred
+37307,400,Boeing 787,787-9,04/02/2016,4.2,,RR Trent 1000,2,LN-LNI,21/02/2017,Norwegian Long Haul,Named Greta Garbo   Lsd From Mg Aviation,Active
+37308,418,Boeing 787,787-9,15/03/2016,4.1,N10187,RR Trent 1000,2,EI-LNJ,14/04/2016,Norwegian Long Haul,Named Ole Bull,Transferred
+37308,418,Boeing 787,787-9,15/03/2016,4.1,N10187,RR Trent 1000,2,LN-LNJ,05/04/2017,Norwegian Long Haul,Named Ole Bull   Lsd From Mg Aviation,Active
+37502,217,Boeing 787,787-8,20/09/2014,5.6,,RR Trent 1000,2,N780AV,18/12/2014,Avianca,,Active
+37503,228,Boeing 787,787-8,22/10/2014,5.5,,RR Trent 1000,2,N781AV,19/12/2014,Avianca,,Active
+37503,228,Boeing 787,787-8,22/10/2014,5.5,,RR Trent 1000,2,N781AV,19/12/2014,Avianca,,Active
+37504,239,Boeing 787,787-8,28/10/2014,5.5,,RR Trent 1000,2,N782AV,24/12/2014,Avianca,,Active
+37505,242,Boeing 787,787-8,14/11/2014,5.4,,RR Trent 1000,2,N783AV,31/12/2014,Avianca,,Active
+37506,294,Boeing 787,787-8,20/04/2015,5,,RR Trent 1000,2,N784AV,21/05/2015,Avianca,,Active
+37507,347,Boeing 787,787-8,17/09/2015,4.6,,RR Trent 1000,2,N785AV,15/10/2015,Avianca,,Active
+37508,367,Boeing 787,787-8,16/11/2015,4.4,,RR Trent 1000,2,N786AV,11/12/2015,Avianca,,Active
+37509,460,Boeing 787,787-8,20/07/2016,3.7,,RR Trent 1000,2,N791AV,12/08/2016,Avianca,,Active
+37510,476,Boeing 787,787-8,29/08/2016,3.6,,RR Trent 1000,2,N792AV,23/09/2016,Avianca,,Active
+37511,513,Boeing 787,787-8,23/11/2016,3.4,,RR Trent 1000,2,N793AV,21/12/2016,Avianca,,Active
+37811,363,Boeing 787,787-9,30/10/2015,4.4,,Genx-1b74/75/P1,2,N29961,25/11/2015,United Airlines,,Active
+37812,390,Boeing 787,787-9,09/01/2016,4.3,,Genx-1b74/75/P1,2,N17963,26/01/2016,United Airlines,,Active
+37813,398,Boeing 787,787-9,05/02/2016,4.2,,Genx-1b74/75/P1,2,N27964,19/02/2016,United Airlines,,Active
+37814,297,Boeing 787,787-9,30/04/2015,4.9,,GEnx-1B,2,N38955,27/05/2015,United Airlines,,Active
+37815,402,Boeing 787,787-9,09/02/2016,4.2,,Genx-1b74/75/P1,2,N27965,24/02/2016,United Airlines,,Active
+37894,78,Boeing 787,787-85D,01/12/2012,7.4,,RR Trent 1000,2,SP-LRB,20/12/2012,LOT Polish Airlines,,Active
+37920,211,Boeing 787,787-8,06/11/2014,5.4,N1789B,GEnx-1B,2,VP-BBR,24/12/2014,Azerbaijan Airlines,Named: Fizuli,Active
+37921,247,Boeing 787,787-8,17/11/2014,5.4,N8570Z,GEnx-1B,2,VP-BBS,23/12/2014,Azerbaijan Airlines,Named: Ordubad,Active
+37931,488,Boeing 787,787-9,30/09/2016,,,RR Trent 1000,2,LN-LNL,19/10/2016,Norwegian Long Haul,Stored 11/2019 Named Kirsten Flagstad   Lsd From Mg Aviation,Stored
+37963,236,Boeing 787,787-9,17/11/2014,5.4,,RR Trent 1000,2,ZK-NZG,03/12/2014,Air New Zealand,,Active
+37964,351,Boeing 787,787-9,10/10/2015,4.5,N10230,RR Trent 1000,2,ZK-NZH,30/10/2015,Air New Zealand,,Active
+37965,456,Boeing 787,787-9,01/07/2016,3.8,N4580D,RR Trent 1000,2,ZK-NZI,27/07/2016,Air New Zealand,,Active
+37966,468,Boeing 787,787-9,10/08/2016,3.7,,RR Trent 1000,2,ZK-NZJ,10/09/2016,Air New Zealand,,Active
+37967,246,Boeing 787,787-9,19/12/2014,5.3,,RR Trent 1000,2,G-VAHH,31/12/2014,Virgin Atlantic,Named: Dream Girl,Active
+37968,256,Boeing 787,787-9,21/01/2015,5.2,,RR Trent 1000,2,G-VOOH,05/02/2015,Virgin Atlantic,Named Miss Chief,Active
+37969,267,Boeing 787,787-9,21/02/2015,5.1,,RR Trent 1000,2,G-VZIG,10/03/2015,Virgin Atlantic,Named Dream Jeannie  Lsd From Avolon,Active
+37970,296,Boeing 787,787-9,28/04/2015,5,,RR Trent 1000,2,G-VYUM,15/05/2015,Virgin Atlantic,Named: Ruby Murray,Active
+37971,313,Boeing 787,787-9,12/06/2015,4.8,,RR Trent 1000,2,G-VWHO,01/07/2015,Virgin Atlantic,Named Mystery Girl,Active
+37972,338,Boeing 787,787-9,28/08/2015,4.6,,RR Trent 1000,2,G-VCRU,15/09/2015,Virgin Atlantic,Named Olivia Rae,Active
+37973,369,Boeing 787,787-9,18/11/2015,4.4,,RR Trent 1000,2,G-VSPY,17/12/2015,Virgin Atlantic,Named Miss Moneypenny,Active
+37974,373,Boeing 787,787-9,25/11/2015,4.4,N8288V,RR Trent 1000,2,G-VOWS,24/12/2015,Virgin Atlantic,Named Maid Marian,Active
+37975,377,Boeing 787,787-9,11/12/2015,4.3,,RR Trent 1000,2,G-VDIA,25/03/2016,Virgin Atlantic,Named Lucy in the sky,Active
+37976,401,Boeing 787,787-9,05/03/2016,4.1,,RR Trent 1000,2,G-VBZZ,30/03/2016,Virgin Atlantic,Named Queen Bee,Active
+37977,431,Boeing 787,787-9,14/05/2016,3.9,,RR Trent 1000,2,G-VFAN,10/06/2016,Virgin Atlantic,Named Pin Up Girl,Active
+37978,534,Boeing 787,787-9,19/03/2017,3.1,,RR Trent 1000,2,G-VBOW,02/04/2017,Virgin Atlantic,Named Pearly Queen,Active
+37979,645,Boeing 787,787-9,10/01/2018,2.3,,RR Trent 1000,2,G-VWOO,20/01/2018,Virgin Atlantic,Named leading lady,Active
+37980,665,Boeing 787,787-9,02/03/2018,2.1,,RR Trent 1000,2,G-VBEL,13/03/2018,Virgin Atlantic,Named Lady Freedom,Active
+37981,681,Boeing 787,787-9,24/03/2018,2,,RR Trent 1000,2,G-VNYL,26/04/2018,Virgin Atlantic,Named Penny Lane,Active
+37982,652,Boeing 787,787-8,22/04/2018,2,,GEnx-1B,2,UK78703,16/05/2018,Uzbekistan Airways,,Active
+37983,194,Boeing 787,787-8,04/08/2014,5.7,,GEnx-1B,2,JY-BAA,26/08/2014,Royal Jordanian Airlines,Named: Prince Hussein Bin Abdullah,Active
+37984,499,Boeing 787,787-8,07/11/2016,3.4,,GEnx-1B,2,JY-BAG,16/11/2016,Royal Jordanian Airlines,,Active
+37985,522,Boeing 787,787-8,08/01/2017,3.3,,GEnx-1B,2,JY-BAH,23/01/2017,Royal Jordanian Airlines,,Active
+38047,421,Boeing 787,787-9,27/04/2016,4,,RR Trent 1000,2,G-VMAP,21/05/2016,Virgin Atlantic,named West End Girl,Active
+38055,171,Boeing 787,787-8,11/05/2014,5.9,,GEnx-1B,2,B-2739,23/05/2014,Hainan Airlines,,Active
+38056,274,Boeing 787,787-8,03/03/2015,5.1,N1008S,GEnx-1B,2,B-2759,14/04/2015,Hainan Airlines,,Active
+38083,678,Boeing 787,787-9,15/03/2018,2.1,,RR Trent 1000,2,SP-LSA,22/03/2018,LOT Polish Airlines,lsd from ACG,Active
+38084,694,Boeing 787,787-9,23/04/2018,2,,RR Trent 1000,2,SP-LSB,04/05/2018,LOT Polish Airlines,Lsd From Acg,Active
+38085,760,Boeing 787,787-9,15/10/2018,1.5,,RR Trent 1000,2,4X-EDH,30/10/2018,El Al Israel Airlines,Named Beer Sheva  Lsd From Aviation Capital Group,Active
+38086,666,Boeing 787,787-9,24/01/2018,2.2,,RR Trent 1000,2,4X-EDC,22/02/2018,El Al Israel Airlines,Named Tel Aviv-jaffa   Lsd From Acg,Active
+38087,804,Boeing 787,787-9,24/01/2019,1.2,,RR Trent 1000,2,SP-LSD,07/02/2019,LOT Polish Airlines,Lsd From Acg,Active
+38134,775,Boeing 787,787-9,27/11/2018,1.4,,Genx-1B,2,JA875J,04/12/2018,Japan Airlines,,Active
+38135,237,Boeing 787,787-8,08/12/2014,5.3,,GEnx-1B,2,JA836J,19/12/2014,Japan Airlines,,Active
+38135,237,Boeing 787,787-8,08/12/2014,5.3,,GEnx-1B,2,JA836J,19/12/2014,Japan Airlines,,Active
+38136,434,Boeing 787,787-8,11/05/2016,3.9,,GEnx-1B,2,JA844J,26/05/2016,Japan Airlines,,Active
+38137,391,Boeing 787,787-9,27/01/2016,4.2,N8294V,GEnx-1B,2,JA863J,22/02/2016,Japan Airlines,,Active
+38138,458,Boeing 787,787-9,01/08/2016,3.7,,GEnx-1B,2,JA865J,19/08/2016,Japan Airlines,,Active
+38180,624,Boeing 787,787-9,01/11/2017,2.4,,RR Trent 1000,2,ZK-NZM,22/11/2017,Air New Zealand,,Active
+38182,749,Boeing 787,787-9,28/08/2018,1.6,,RR Trent 1000,2,ZK-NZN,15/09/2018,Air New Zealand,,Active
+38319,57,Boeing 787,787-8DZ,22/10/2012,7.5,,GEnx-1B,2,A7-BCA,07/12/2012,Qatar Airways,,Active
+38320,58,Boeing 787,787-8DZ,25/06/2012,7.8,N10187,GEnx-1B,2,A7-BCB,13/11/2012,Qatar Airways,,Active
+38321,82,Boeing 787,787-8DZ,03/12/2012,7.4,,GEnx-1B,2,A7-BCC,05/01/2013,Qatar Airways,,Active
+38322,99,Boeing 787,787-8,20/05/2013,6.9,,GEnx-1B,2,A7-BCD,15/06/2013,Qatar Airways,,Active
+38323,103,Boeing 787,787-8,01/07/2013,6.8,,GEnx-1B,2,A7-BCE,07/08/2013,Qatar Airways,,Active
+38324,109,Boeing 787,787-8,18/07/2013,6.7,,GEnx-1B,2,A7-BCF,25/10/2013,Qatar Airways,,Active
+38325,116,Boeing 787,787-8,08/07/2013,6.8,,GEnx-1B,2,A7-BCG,10/08/2013,Qatar Airways,,Active
+38326,129,Boeing 787,787-8,17/11/2013,6.4,,GEnx-1B,2,A7-BCH,25/03/2014,Qatar Airways,,Active
+38327,138,Boeing 787,787-8,20/12/2013,6.3,,GEnx-1B,2,A7-BCI,05/04/2014,Qatar Airways,,Active
+38328,144,Boeing 787,787-8,02/02/2014,6.2,,GEnx-1B,2,A7-BCJ,21/03/2014,Qatar Airways,,Active
+38329,62,Boeing 787,787-8DZ,24/11/2012,7.4,,GEnx-1B,2,A7-BCK,05/01/2013,Qatar Airways,,Active
+38330,64,Boeing 787,787-8DZ,27/09/2012,7.5,,GEnx-1B,2,A7-BCL,07/11/2012,Qatar Airways,,Active
+38331,150,Boeing 787,787-8,24/02/2014,6.1,,GEnx-1B,2,A7-BCM,10/05/2014,Qatar Airways,,Active
+38332,176,Boeing 787,787-8,31/05/2014,5.9,,GEnx-1B,2,A7-BCN,02/08/2014,Qatar Airways,,Active
+38333,188,Boeing 787,787-8,20/06/2014,5.8,,GEnx-1B,2,A7-BCO,10/09/2014,Qatar Airways,,Active
+38334,207,Boeing 787,787-8,04/09/2014,5.6,,GEnx-1B,2,A7-BCP,28/10/2014,Qatar Airways,,Active
+38335,215,Boeing 787,787-8,01/10/2014,5.5,,GEnx-1B,2,A7-BCQ,28/10/2014,Qatar Airways,,Active
+38336,225,Boeing 787,787-8,12/10/2014,5.5,N1012N,GEnx-1B,2,A7-BCR,26/11/2014,Qatar Airways,,Active
+38337,261,Boeing 787,787-8,06/01/2015,5.3,N1791B,GEnx-1B,2,A7-BCS,27/02/2015,Qatar Airways,,Active
+38338,266,Boeing 787,787-8,20/01/2015,5.2,N10187,GEnx-1B,2,A7-BCT,27/02/2015,Qatar Airways,,Active
+38339,277,Boeing 787,787-8,27/02/2015,5.1,N1003N,GEnx-1B,2,A7-BCU,08/04/2015,Qatar Airways,,Active
+38340,292,Boeing 787,787-8,16/04/2015,5,,GEnx-1B,2,A7-BCV,22/05/2015,Qatar Airways,,Active
+38341,328,Boeing 787,787-8,13/07/2015,4.7,,GEnx-1B,2,A7-BCW,01/09/2015,Qatar Airways,,Active
+38342,352,Boeing 787,787-8,11/09/2015,4.6,,GEnx-1B,2,A7-BCX,05/11/2015,Qatar Airways,,Active
+38343,354,Boeing 787,787-8,01/10/2015,4.5,,GEnx-1B,2,A7-BCY,05/11/2015,Qatar Airways,,Active
+38344,384,Boeing 787,787-8,10/12/2015,4.3,,GEnx-1B,2,A7-BCZ,01/02/2016,Qatar Airways,,Active
+38345,394,Boeing 787,787-8,13/01/2016,4.2,N1024A,GEnx-1B,2,A7-BDA,02/03/2016,Qatar Airways,,Active
+38346,410,Boeing 787,787-8,05/03/2016,4.1,N1012N,GEnx-1B,2,A7-BDB,21/04/2016,Qatar Airways,,Active
+38347,420,Boeing 787,787-8,24/03/2016,4,N1002K,GEnx-1B,2,A7-BDC,17/05/2016,Qatar Airways,,Active
+38348,440,Boeing 787,787-8,28/05/2016,3.9,,GEnx-1B,2,A7-BDD,19/07/2016,Qatar Airways,,Active
+38356,668,Boeing 787,787-9,05/02/2018,2.2,,GEnx-1B,2,C-FVLX,16/02/2018,Air Canada,,Active
+38357,650,Boeing 787,787-9,18/12/2017,2.3,,GEnx-1B,2,C-FVLQ,15/01/2018,Air Canada,,Active
+38358,696,Boeing 787,787-9,06/04/2018,2,,GEnx-1B,2,C-FVLZ,02/05/2018,Air Canada,,Active
+38359,705,Boeing 787,787-9,01/05/2018,1.9,,GEnx-1B,2,C-FVNB,23/05/2018,Air Canada,,Active
+38360,659,Boeing 787,787-9,18/01/2018,2.2,,GEnx-1B,2,C-FVLU,03/02/2018,Air Canada,,Active
+38361,812,Boeing 787,787-9,15/02/2019,1.2,,GEnx-1B,2,C-FVND,28/02/2019,Air Canada,,Active
+38362,845,Boeing 787,787-9,19/04/2019,1,,GEnx-1B,2,C-FVNF,30/04/2019,Air Canada,,Active
+38363,470,Boeing 787,787-8,12/08/2016,3.7,,GEnx-1B,2,UK78701,30/08/2016,Uzbekistan Airways,,Active
+38364,495,Boeing 787,787-8,14/10/2016,3.5,,GEnx-1B,2,UK78702,04/11/2016,Uzbekistan Airways,,Active
+38459,386,Boeing 787,787-9,10/12/2015,4.3,,RR Trent 1000,2,CC-BGH,25/01/2016,LAN Airlines,,Transferred
+38459,386,Boeing 787,787-9,10/12/2015,4.3,,RR Trent 1000,2,CC-BGH,05/05/2016,LATAM Chile,,Active
+38461,382,Boeing 787,787-9,03/12/2015,4.4,,RR Trent 1000,2,CC-BGG,18/12/2015,LAN Airlines,,Transferred
+38461,382,Boeing 787,787-9,03/12/2015,4.4,,RR Trent 1000,2,CC-BGG,05/05/2016,LATAM Chile,Stored 03/2018 to 11/2018,Active
+38464,10,Boeing 787,787-8,03/05/2017,2.9,,RR Trent 1000,2,ET-ATG,29/06/2017,Ethiopian Airlines,,Active
+38466,74,Boeing 787,787-816,01/10/2012,7.5,,RR Trent 1000,2,CC-BBB,25/10/2012,LAN Airlines,Leased From Bailarin Leasing,Transferred
+38466,74,Boeing 787,787-816,01/10/2012,7.5,,RR Trent 1000,2,CC-BBB,05/05/2016,LATAM Chile,,Active
+38467,403,Boeing 787,787-9,09/03/2016,4.1,,RR Trent 1000,2,CC-BGJ,31/03/2016,LAN Airlines,,Transferred
+38467,403,Boeing 787,787-9,09/03/2016,4.1,,RR Trent 1000,2,CC-BGJ,05/05/2016,LATAM Chile,,Active
+38468,584,Boeing 787,787-9,21/07/2017,2.7,,RR Trent 1000,2,CC-BGN,01/08/2017,LATAM Chile,,Active
+38468,584,Boeing 787,787-9,21/07/2017,2.7,,RR Trent 1000,2,CC-BGN,01/08/2017,LATAM Chile,,Active
+38469,928,Boeing 787,787-9,03/12/2019,0.4,,RR Trent 1000,2,CC-BGP,23/12/2019,LATAM Chile,,Active
+38471,68,Boeing 787,787-816,06/08/2012,7.7,,RR Trent 1000,2,CC-BBA,31/08/2012,LAN Airlines,Leased From Fragata Leasing,Transferred
+38471,68,Boeing 787,787-816,06/08/2012,7.7,,RR Trent 1000,2,CC-BBA,05/05/2016,LATAM Chile,,Active
+38472,80,Boeing 787,787-816,14/11/2012,7.4,,RR Trent 1000,2,CC-BBC,07/12/2012,LAN Airlines,Leased From Bailarin Leasing,Transferred
+38472,80,Boeing 787,787-816,14/11/2012,7.4,,RR Trent 1000,2,CC-BBC,05/05/2016,LATAM Chile,Stored 05/2018 to 02/2019,Active
+38473,113,Boeing 787,787-8,06/08/2013,6.7,,RR Trent 1000,2,CC-BBE,10/10/2013,LAN Airlines,Lsd From Bbam,Transferred
+38473,113,Boeing 787,787-8,06/08/2013,6.7,,RR Trent 1000,2,CC-BBE,05/05/2016,LATAM Chile,Stored 01/2018 to 01/2019Lsd From Bbam,Active
+38474,426,Boeing 787,787-9,20/04/2016,4,N1012N,RR Trent 1000,2,CC-BGK,14/05/2016,LATAM Chile,,Active
+38475,16,Boeing 787,787-8,14/12/2016,3.3,N1020L,RR Trent 1000,2,ET-ATH,30/03/2017,Ethiopian Airlines,Named Rio De Janeiro,Active
+38476,185,Boeing 787,787-8,09/06/2014,5.8,,RR Trent 1000,2,CC-BBF,27/06/2014,LAN Airlines,,Transferred
+38476,185,Boeing 787,787-8,09/06/2014,5.8,,RR Trent 1000,2,CC-BBF,05/05/2016,LATAM Chile,,Active
+38477,195,Boeing 787,787-8,26/07/2014,5.7,,RR Trent 1000,2,CC-BBG,07/08/2014,LAN Airlines,Lsd From Zarapito Leasing,Transferred
+38477,195,Boeing 787,787-8,26/07/2014,5.7,,RR Trent 1000,2,CC-BBG,05/05/2016,LATAM Chile,Stored 03/2018 to 11/2018,Active
+38478,341,Boeing 787,787-9,15/08/2015,4.7,,RR Trent 1000,2,CC-BGE,30/08/2015,LAN Airlines,Lsd From Aercap,Transferred
+38478,341,Boeing 787,787-9,15/08/2015,4.7,,RR Trent 1000,2,CC-BGE,05/05/2016,LATAM Chile,Lsd From Aercap,Active
+38479,350,Boeing 787,787-9,17/09/2015,4.6,,RR Trent 1000,2,CC-BGF,29/09/2015,LAN Airlines,,Transferred
+38479,350,Boeing 787,787-9,17/09/2015,4.6,,RR Trent 1000,2,CC-BGF,05/05/2016,LATAM Chile,,Active
+38480,210,Boeing 787,787-8,12/09/2014,5.6,,RR Trent 1000,2,CC-BBI,30/09/2014,LAN Airlines,,Transferred
+38480,210,Boeing 787,787-8,12/09/2014,5.6,,RR Trent 1000,2,CC-BBI,05/05/2016,LATAM Chile,,Active
+38482,436,Boeing 787,787-9,18/05/2016,3.9,,RR Trent 1000,2,CC-BGL,02/06/2016,LATAM Chile,,Active
+38483,922,Boeing 787,787-9,25/10/2019,0.5,,RR Trent 1000,2,CC-BGO,13/11/2019,LATAM Chile,,Active
+38484,118,Boeing 787,787-8,11/09/2013,6.6,,RR Trent 1000,2,CC-BBD,29/09/2013,LAN Airlines,Lsd From Avolon,Transferred
+38484,118,Boeing 787,787-8,11/09/2013,6.6,,RR Trent 1000,2,CC-BBD,05/05/2016,LATAM Chile,Stored 02/2018 to 08/2018Lsd From Jsa,Active
+38609,108,Boeing 787,787-8,14/06/2013,6.8,,RR Trent 1000,2,G-ZBJA,29/06/2013,British Airways,,Active
+38610,111,Boeing 787,787-8,08/06/2013,6.8,,RR Trent 1000,2,G-ZBJB,26/06/2013,British Airways,,Active
+38611,114,Boeing 787,787-8,15/08/2013,6.7,,RR Trent 1000,2,G-ZBJC,02/09/2013,British Airways,,Active
+38612,173,Boeing 787,787-8,28/04/2014,6,,RR Trent 1000,2,G-ZBJE,15/05/2014,British Airways,,Active
+38613,177,Boeing 787,787-8,07/05/2014,5.9,,RR Trent 1000,2,G-ZBJF,26/05/2014,British Airways,,Active
+38614,187,Boeing 787,787-8,21/06/2014,5.8,,RR Trent 1000,2,G-ZBJG,08/07/2014,British Airways,,Active
+38615,197,Boeing 787,787-8,29/07/2014,5.7,,RR Trent 1000,2,G-ZBJH,16/08/2014,British Airways,,Active
+38616,346,Boeing 787,787-9,07/09/2015,4.6,,RR Trent 1000,2,G-ZBKA,29/09/2015,British Airways,,Active
+38617,357,Boeing 787,787-9,06/10/2015,4.5,,RR Trent 1000,2,G-ZBKB,21/10/2015,British Airways,,Active
+38618,361,Boeing 787,787-9,10/11/2015,4.4,,RR Trent 1000,2,G-ZBKD,24/11/2015,British Airways,,Active
+38619,121,Boeing 787,787-8,11/09/2013,6.6,,RR Trent 1000,2,G-ZBJD,28/09/2013,British Airways,,Active
+38620,374,Boeing 787,787-9,01/11/2015,4.4,,RR Trent 1000,2,G-ZBKE,29/11/2015,British Airways,,Active
+38621,360,Boeing 787,787-9,09/10/2015,4.5,,RR Trent 1000,2,G-ZBKC,25/10/2015,British Airways,,Active
+38622,392,Boeing 787,787-9,17/01/2016,4.2,,RR Trent 1000,2,G-ZBKF,30/01/2016,British Airways,,Active
+38623,396,Boeing 787,787-9,05/02/2016,4.2,N896BA,RR Trent 1000,2,G-ZBKG,30/08/2016,British Airways,,Active
+38624,404,Boeing 787,787-9,23/02/2016,4.1,N943BA,RR Trent 1000,2,G-ZBKH,01/07/2016,British Airways,,Active
+38625,406,Boeing 787,787-9,08/03/2016,4.1,,RR Trent 1000,2,G-ZBKI,22/03/2016,British Airways,,Active
+38626,424,Boeing 787,787-9,12/04/2016,4,,RR Trent 1000,2,G-ZBKJ,29/04/2016,British Airways,,Active
+38627,442,Boeing 787,787-9,07/06/2016,3.8,,RR Trent 1000,2,G-ZBKK,23/06/2016,British Airways,,Active
+38628,451,Boeing 787,787-9,27/06/2016,3.8,N1015X,RR Trent 1000,2,G-ZBKL,21/07/2016,British Airways,,Active
+38629,461,Boeing 787,787-9,14/07/2016,3.7,,RR Trent 1000,2,G-ZBKM,29/07/2016,British Airways,,Active
+38630,475,Boeing 787,787-9,24/08/2016,3.6,,RR Trent 1000,2,G-ZBKN,08/09/2016,British Airways,,Active
+38631,481,Boeing 787,787-9,10/09/2016,3.6,N1015B,RR Trent 1000,2,G-ZBKO,27/09/2016,British Airways,,Active
+38632,493,Boeing 787,787-9,24/10/2016,3.5,,RR Trent 1000,2,G-ZBKP,07/12/2016,British Airways,,Active
+38754,283,Boeing 787,787-8,13/03/2015,5.1,,GEnx-1B,2,ET-ASH,01/04/2015,Ethiopian Airlines,Damaged on 04 March 2016 at ADD (nose-gear collapsed) Named Mountain Nyala  Lsd From Aercap,Active
+38755,477,Boeing 787,787-9,08/09/2016,3.6,,GEnx-1B,2,PH-BHI,24/09/2016,KLM,lsd from Aercap  Named: Lavender / Lavendel,Active
+38756,538,Boeing 787,787-9,07/03/2017,3.1,,RR Trent 1000,2,G-CJGI,16/03/2017,Norwegian Air UK,Named Carl Von Linné,Transferred
+38756,538,Boeing 787,787-9,07/03/2017,3.1,,RR Trent 1000,2,LN-LNX,11/03/2019,Norwegian Long Haul,Named Carl Von Linné  Lsf Aercap,Active
+38757,287,Boeing 787,787-8,03/04/2015,5,,RR Trent 1000,2,HS-TQE,18/04/2015,Thai Airways,Named Kosum Phisai   Lsd From Aercap,Active
+38758,298,Boeing 787,787-8,07/05/2015,4.9,,GEnx-1B,2,ET-ASI,22/05/2015,Ethiopian Airlines,Named Abebe Bikilalsd from AerCap,Active
+38759,331,Boeing 787,787-8,24/07/2015,4.7,,GEnx-1B,2,HS-TQF,08/08/2015,Thai Airways,Named Kong Krailat  Lsd From Aercap,Active
+38760,368,Boeing 787,787-9,19/10/2015,4.5,N1015B,GEnx-1B,2,PH-BHC,13/11/2015,KLM,lsd from Aercap  Named: Sunflower / Zonnebloem,Active
+38761,380,Boeing 787,787-9,24/11/2015,4.4,,GEnx-1B,2,VN-A865,23/12/2015,Vietnam Airlines,Lsd From Aercap,Active
+38762,388,Boeing 787,787-9,23/12/2015,4.3,,Genx-1B,2,VN-A866,23/01/2016,Vietnam Airlines,lsd from Aercap,Active
+38763,381,Boeing 787,787-9,27/01/2016,4.2,,GEnx-1B,2,PH-BHD,10/02/2016,KLM,Leased From Aercap  Named: Bougainville / Bougainvillea,Active
+38764,399,Boeing 787,787-9,29/02/2016,4.1,N8570Y,RR Trent 1000,2,CC-BGI,24/03/2016,LAN Airlines,Lsd From Aercap,Transferred
+38764,399,Boeing 787,787-9,29/02/2016,4.1,N8570Y,RR Trent 1000,2,CC-BGI,05/05/2016,LATAM Chile,Lsd From Aercap,Active
+38765,412,Boeing 787,787-9,15/03/2016,4.1,,GEnx-1B,2,PH-BHE,30/03/2016,KLM,lsd from Aercap  Named: Dahlia,Active
+38765,412,Boeing 787,787-9,15/03/2016,4.1,,GEnx-1B,2,PH-BHE,30/03/2016,KLM,lsd from Aercap  Named: Dahlia,Active
+38766,449,Boeing 787,787-9,14/06/2016,3.8,,GEnx-1B,2,PH-BHG,30/06/2016,KLM,lsd from Aercap  Named: Mimosa,Active
+38767,463,Boeing 787,787-9,01/08/2016,3.7,N1005S,GEnx-1B,2,PH-BHH,26/08/2016,KLM,leased from Aer Cap  Named: Jasmine / Jasmijn,Active
+38768,480,Boeing 787,787-9,21/09/2016,3.6,,GEnx-1B,2,VN-A869,14/10/2016,Vietnam Airlines,Lsd From Aercap,Active
+38769,500,Boeing 787,787-9,08/11/2016,3.4,,GEnx-1B,2,F-HRBA,01/12/2016,Air France,lsd from Aercap,Active
+38770,613,Boeing 787,787-9,17/09/2017,2.6,,GEnx-1B,2,F-HRBC,27/09/2017,Air France,Lsd From Aercap,Active
+38771,524,Boeing 787,787-9,16/01/2017,3.2,,RR Trent 1000,2,CC-BGM,28/01/2017,LATAM Chile,Lsd From Aercap,Active
+38772,634,Boeing 787,787-9,11/11/2017,2.4,,GEnx-1B,2,F-HRBE,23/11/2017,Air France,lsd from Aercap,Active
+38773,554,Boeing 787,787-9,14/04/2017,3,,GEnx-1B,2,B-6969,09/05/2017,Hainan Airlines,Lsd From Aercap,Active
+38774,604,Boeing 787,787-9,28/08/2017,2.6,,RR Trent 1000,2,G-CKLZ,13/09/2017,Norwegian Air UK,Lsd From Aercap,Transferred
+38774,604,Boeing 787,787-9,28/08/2017,2.6,,RR Trent 1000,2,LN-LNT,10/09/2018,Norwegian Long Haul,Named Unicef  	Lsd From Aercap,Active
+38775,586,Boeing 787,787-9,10/07/2017,2.8,,GEnx-1B,2,PH-BHL,19/07/2017,KLM,lsd from Aercap Named: Lily / Lelie,Active
+38776,597,Boeing 787,787-9,05/08/2017,2.7,,GEnx-1B,2,PH-BHM,22/08/2017,KLM,Leased From: Aercap  Named: Marguerite / Margriet,Active
+38777,602,Boeing 787,787-9,01/09/2017,2.6,N1020K,RR Trent 1000,2,HS-TWA,15/09/2017,Thai Airways,Named Phatthana Nikhom  Lsd From Aercap,Active
+38778,621,Boeing 787,787-9,13/10/2017,2.5,,RR Trent 1000,2,ET-AUO,26/10/2017,Ethiopian Airlines,Leased from AerCapNamed Beijing,Active
+38779,581,Boeing 787,787-9,14/06/2017,2.8,,RR Trent 1000,2,G-CJUL,12/07/2017,Norwegian Air UK,Named Roald Dahl   Lsd From Aercap,Transferred
+38779,581,Boeing 787,787-9,14/06/2017,2.8,,RR Trent 1000,2,LN-LNO,21/06/2018,Norwegian Long Haul,Named Roald Dahl   Lsd From Aercap,Active
+38780,623,Boeing 787,787-9,15/10/2017,2.5,,RR Trent 1000,2,HS-TWB,31/10/2017,Thai Airways,Named Phrom Buri  Lsd From Aercap,Active
+38781,628,Boeing 787,787-9,31/10/2017,2.4,,GEnx-1B,2,B-1345,12/11/2017,Hainan Airlines,lsd from Aercap,Active
+38782,636,Boeing 787,787-9,12/11/2017,2.4,,RR Trent 1000,2,ET-AUP,21/11/2017,Ethiopian Airlines,lsd from AerCapNamed London,Active
+38783,907,Boeing 787,787-9,10/09/2019,0.6,,RR Trent 1000,2,4X-EDM,18/09/2019,El Al Israel Airlines,Named Jerusalem Of Gold   Lsd From Aercap,Active
+38784,593,Boeing 787,787-9,26/07/2017,2.7,,RR Trent 1000,2,G-CKNA,16/08/2017,Norwegian Air UK,,Transferred
+38784,593,Boeing 787,787-9,26/07/2017,2.7,,RR Trent 1000,2,LN-LNR,13/03/2018,Norwegian Long Haul,Interim storage 03/2020Lsd from AerCapNamed Freddy Mercury,Active
+38785,639,Boeing 787,787-9,22/11/2017,2.4,,RR Trent 1000,2,EI-NEO,12/12/2017,Neos,Named Spirit Of Italy   Lsd From  rhodium funding limited,Active
+38786,662,Boeing 787,787-9,13/01/2018,2.2,,RR Trent 1000,2,G-CKOF,06/02/2018,Norwegian Air UK,Interim storage 03/2020Named Joan Miro  Lsd From Aercap,Active
+38787,701,Boeing 787,787-9,30/05/2018,1.9,,RR Trent 1000,2,ET-AUQ,05/06/2018,Ethiopian Airlines,Named Frankfurt   Lsd From Aercap,Active
+38788,675,Boeing 787,787-9,16/02/2018,2.2,,RR Trent 1000,2,G-CKWB,09/03/2018,Norwegian Air UK,Interim storage 03/2020Named Arthur Collins   Lsd From Aercap,Active
+38789,691,Boeing 787,787-9,10/04/2018,2,,RR Trent 1000,2,G-CKWD,25/04/2018,Norwegian Air UK,Named Ernest Shackleton   Lsd From Aercap,Active
+38790,698,Boeing 787,787-9,12/05/2018,1.9,,RR Trent 1000,2,G-CKWE,23/05/2018,Norwegian Air UK,Interim storage 03/2020Named: Jane Austen  Lsd From Aercap,Active
+38791,717,Boeing 787,787-9,15/06/2018,1.8,,RR Trent 1000,2,EI-NEW,28/06/2018,Neos,Named Erminio Ferri  Lsd From Aercap,Active
+38792,819,Boeing 787,787-9,07/03/2019,1.1,,Genx-1B,2,A4O-SI,20/03/2019,Oman Air,Lsd From Aercap,Active
+38793,739,Boeing 787,787-9,01/08/2018,1.7,,RR Trent 1000,2,ET-AUR,11/08/2018,Ethiopian Airlines,Named Tokyo  Lsd From Aercap,Active
+38794,765,Boeing 787,787-9,22/10/2018,1.5,,RR Trent 1000,2,EI-NEU,31/10/2018,Neos,Lsd From Aercap Named European dream,Active
+38795,767,Boeing 787,787-9,01/11/2018,1.4,,Genx-1B,2,A4O-SG,31/10/2018,Oman Air,Lsd From Aercap,Active
+38796,776,Boeing 787,787-9,09/11/2018,1.4,,Genx-1B,2,B-1167,20/11/2018,China Southern Airlines,Lsd From Aercap,Active
+38797,787,Boeing 787,787-9,04/12/2018,1.4,,Genx-1B,2,B-1168,14/12/2018,China Southern Airlines,Lsd From Aercap,Active
+38798,823,Boeing 787,787-9,13/03/2019,1.1,,RR Trent 1000,2,SU-GER,27/03/2019,Egyptair,Lsd From Aercap,Active
+38799,837,Boeing 787,787-9,29/03/2019,1,,RR Trent 1000,2,SU-GES,17/04/2019,Egyptair,Lsd From Aercap,Active
+38800,794,Boeing 787,787-9,12/12/2018,1.3,N1015X,RR Trent 1000,2,4X-EDI,16/01/2019,El Al Israel Airlines,lsd from Aercap  Named Herzliya,Active
+38801,869,Boeing 787,787-9,18/06/2019,0.8,,RR Trent 1000,2,SU-GET,30/06/2019,Egyptair,Lsd From Aercap,Active
+38802,861,Boeing 787,787-9,03/06/2019,0.9,,RR Trent 1000,2,SU-GEU,14/06/2019,Egyptair,Lsd From Aercap,Active
+38803,737,Boeing 787,787-9,27/07/2018,1.7,N1015X,GEnx-1B,2,B-1169,22/08/2018,China Southern Airlines,lsd from AerCap,Active
+38891,556,Boeing 787,787-9,18/04/2017,,,RR Trent 1000,2,G-CJUI,16/05/2017,Norwegian Air UK,Named Karen Blixen  Lsd From Avolon,Transferred
+38891,556,Boeing 787,787-9,18/04/2017,,,RR Trent 1000,2,LN-LNN,16/12/2017,Norwegian Long Haul,Stored 12/2019Named Karen Blixen   Lsd From Avolon,Stored
+38892,545,Boeing 787,787-9,22/03/2017,3.1,,Genx-1B,2,A4O-SD,21/04/2017,Oman Air,Lsd From Cit Leasing,Active
+38893,680,Boeing 787,787-9,11/03/2018,2.1,,RR Trent 1000,2,G-CKWC,26/03/2018,Norwegian Air UK,Named Robert Burns  Lsd From Avolon,Active
+38894,785,Boeing 787,787-9,07/12/2018,1.3,,Genx-1B,2,A4O-SH,15/12/2018,Oman Air,Lsd From Cit Leasing,Active
+38895,647,Boeing 787,787-9,10/01/2018,2.3,,RR Trent 1000,2,G-CKNZ,19/01/2018,Norwegian Air UK,,Transferred
+38895,647,Boeing 787,787-9,10/01/2018,2.3,,RR Trent 1000,2,SE-RXZ,10/04/2019,Norwegian Air Sweden,Interim storage 03/2020Lsd From Cit Leasing  Named Freddie Laker,Active
+39038,615,Boeing 787,787-9,28/09/2017,2.5,,GEnx-1B,2,VH-ZNA,04/10/2017,Qantas,Named: Great Southern Land,Active
+39039,641,Boeing 787,787-9,30/11/2017,2.4,,GEnx-1B,2,VH-ZNB,08/12/2017,Qantas,Names Waltzing Matilda,Active
+39040,655,Boeing 787,787-9,12/01/2018,2.2,,GEnx-1B,2,VH-ZNC,24/01/2018,Qantas,Named Quokka,Active
+39287,411,Boeing 787,787-9,01/04/2016,4,,GEnx-1B,2,VN-A867,23/04/2016,Vietnam Airlines,,Active
+39288,464,Boeing 787,787-9,02/08/2016,3.7,,GEnx-1B,2,VN-A868,04/10/2016,Vietnam Airlines,,Active
+39289,496,Boeing 787,787-9,28/10/2016,3.5,,GEnx-1B,2,VN-A870,24/11/2016,Vietnam Airlines,,Active
+39290,555,Boeing 787,787-9,11/04/2017,3,,GEnx-1B,2,VN-A871,06/05/2017,Vietnam Airlines,,Active
+39290,555,Boeing 787,787-9,11/04/2017,3,,GEnx-1B,2,VN-A871,06/05/2017,Vietnam Airlines,,Active
+39291,631,Boeing 787,787-9,19/11/2017,2.4,,Genx-1B,2,A4O-SE,05/12/2017,Oman Air,Lsd From Alc,Active
+39292,704,Boeing 787,787-9,19/05/2018,1.9,,GENX-1B76A/P2,2,N446AM,30/05/2018,Aeromexico,Lsd From Alc,Active
+39293,710,Boeing 787,787-9,14/06/2018,1.8,,RR Trent 1000,2,SP-LSC,27/06/2018,LOT Polish Airlines,Lsd From Alc,Active
+39294,712,Boeing 787,787-9,25/05/2018,1.9,,Genx-1B,2,A4O-SF,27/06/2018,Oman Air,Lsd From Alc,Active
+39295,722,Boeing 787,787-9,21/09/2018,1.6,,GEnx-1B,2,B-17881,03/10/2018,EVA Air,Lsd From Alc,Active
+39296,751,Boeing 787,787-9,05/09/2018,1.6,,RR Trent 1000,2,ZK-NZQ,21/09/2018,Air New Zealand,Lsd From Alc,Active
+39297,750,Boeing 787,787-9,29/09/2018,1.5,,Genx-1B74,2,F-OMUA,10/10/2018,Air Tahiti Nui,Named: Fakaravaleased from ALC,Active
+39298,757,Boeing 787,787-9,23/10/2018,1.5,,GEnx-1B,2,B-17882,29/10/2018,EVA Air,Lsd From Alc,Active
+39406,535,Boeing 787,787-8,22/02/2017,3.1,,RR Trent 1000,2,N794AV,09/03/2017,Avianca,Lsd From Smbc,Active
+39407,625,Boeing 787,787-8,22/10/2017,2.5,,RR Trent 1000,2,N795AV,01/11/2017,Avianca,,Active
+39646,229,Boeing 787,787-9,08/12/2014,5.3,N1009B,Genx-1b74/75/P1,2,A6-BLA,16/12/2014,Etihad Airways,,Active
+39647,253,Boeing 787,787-9,10/02/2015,5.2,,Genx-1b74/75/P1,2,A6-BLB,28/02/2015,Etihad Airways,,Active
+39648,286,Boeing 787,787-9,10/07/2015,4.8,,Genx-1b74/75/P1,2,A6-BLC,28/07/2015,Etihad Airways,,Active
+39649,302,Boeing 787,787-9,20/05/2015,4.9,,Genx-1b74/75/P1,2,A6-BLD,06/06/2015,Etihad Airways,,Active
+39650,305,Boeing 787,787-9,13/06/2015,4.8,,Genx-1b74/75/P1,2,A6-BLE,01/07/2015,Etihad Airways,,Active
+39651,416,Boeing 787,787-9,31/03/2016,4,N1015X,Genx-1b74/75/P1,2,A6-BLF,28/04/2016,Etihad Airways,,Active
+39652,432,Boeing 787,787-9,08/05/2016,3.9,,Genx-1b74/75/P1,2,A6-BLG,26/05/2016,Etihad Airways,,Active
+39653,452,Boeing 787,787-9,07/07/2016,3.8,,Genx-1b74/75/P1,2,A6-BLH,23/07/2016,Etihad Airways,,Active
+39654,520,Boeing 787,787-9,06/01/2017,3.3,,Genx-1b74/75/P1,2,A6-BLK,20/01/2017,Etihad Airways,Lsd From Bbam,Active
+39655,459,Boeing 787,787-9,14/07/2016,3.7,,Genx-1b74/75/P1,2,A6-BLI,29/07/2016,Etihad Airways,,Active
+39656,530,Boeing 787,787-9,10/02/2017,3.2,,Genx-1b74/75/P1,2,A6-BLL,22/02/2017,Etihad Airways,Lsd From Goshawk Aviation,Active
+39657,486,Boeing 787,787-9,30/09/2016,3.5,,Genx-1b74/75/P1,2,A6-BLJ,15/10/2016,Etihad Airways,,Active
+39658,561,Boeing 787,787-9,05/05/2017,2.9,,Genx-1b74/75/P1,2,A6-BLM,19/05/2017,Etihad Airways,,Active
+39659,569,Boeing 787,787-9,01/06/2017,2.9,,Genx-1b74/75/P1,2,A6-BLN,14/06/2017,Etihad Airways,,Active
+39660,578,Boeing 787,787-9,19/06/2017,2.8,,Genx-1b74/75/P1,2,A6-BLO,15/07/2017,Etihad Airways,,Active
+39661,606,Boeing 787,787-9,08/09/2017,2.6,,Genx-1b74/75/P1,2,A6-BLQ,21/09/2017,Etihad Airways,,Active
+39662,585,Boeing 787,787-9,08/07/2017,2.8,,Genx-1b74/75/P1,2,A6-BLP,21/07/2017,Etihad Airways,,Active
+39663,620,Boeing 787,787-9,08/10/2017,2.5,,Genx-1b74/75/P1,2,A6-BLR,19/10/2017,Etihad Airways,Lsd From Goshawk Aviation,Active
+39664,643,Boeing 787,787-9,01/12/2017,2.4,,Genx-1b74/75/P1,2,A6-BLS,16/12/2017,Etihad Airways,Lsd From Bbam,Active
+39665,798,Boeing 787,787-9,21/09/2018,1.6,,Genx-1b74/75/P1,2,A6-BLX,12/02/2019,Etihad Airways,Lsd From Crianza Aviation,Active
+39666,793,Boeing 787,787-9,21/01/2019,1.2,,Genx-1b74/75/P1,2,A6-BLW,01/02/2019,Etihad Airways,,Active
+39667,692,Boeing 787,787-9,28/03/2018,2,,Genx-1b74/75/P1,2,A6-BLT,25/04/2018,Etihad Airways,,Active
+39669,864,Boeing 787,787-9,02/07/2019,0.8,,Genx-1b74/75/P1,2,A6-BNB,12/07/2019,Etihad Airways,,Active
+39675,744,Boeing 787,787-9,17/08/2018,1.7,,Genx-1b74/75/P1,2,A6-BLU,30/08/2018,Etihad Airways,,Active
+39676,768,Boeing 787,787-9,07/11/2018,1.4,,Genx-1b74/75/P1,2,A6-BLV,21/11/2018,Etihad Airways,,Active
+39679,818,Boeing 787,787-9,08/03/2019,1.1,,Genx-1b74/75/P1,2,A6-BLY,16/03/2019,Etihad Airways,,Active
+39680,860,Boeing 787,787-9,13/06/2019,0.8,,Genx-1b74/75/P1,2,A6-BNA,28/06/2019,Etihad Airways,,Active
+39982,721,Boeing 787,787-9,21/07/2018,1.7,,RR Trent 1000,2,A9C-FC,28/07/2018,Gulf Air,,Active
+39983,762,Boeing 787,787-9,24/10/2018,1.5,,RR Trent 1000,2,A9C-FD,07/11/2018,Gulf Air,,Active
+39984,771,Boeing 787,787-9,21/11/2018,1.4,,RR Trent 1000,2,A9C-FE,07/12/2018,Gulf Air,,Active
+39985,803,Boeing 787,787-9,25/01/2019,1.2,,RR Trent 1000,2,A9C-FF,12/02/2019,Gulf Air,Lsd From Dae Capital,Active
+39986,901,Boeing 787,787-9,16/08/2019,0.7,N1012N,RR Trent 1000,2,A9C-FG,21/10/2019,Gulf Air,,Active
+39996,689,Boeing 787,787-9,20/03/2018,2.1,N1798B,RR Trent 1000,2,A9C-FA,26/04/2018,Gulf Air,,Active
+39997,707,Boeing 787,787-9,05/06/2018,1.9,,RR Trent 1000,2,A9C-FB,13/06/2018,Gulf Air,,Active
+40045,533,Boeing 787,787-9,15/02/2017,3.2,,GEnx-1B,2,HZ-AR11,20/06/2017,Saudi Arabian Airlines,,Active
+40046,551,Boeing 787,787-9,04/04/2017,3,,GEnx-1B,2,HZ-AR12,22/06/2017,Saudi Arabian Airlines,,Active
+40047,577,Boeing 787,787-9,06/07/2017,2.8,,GEnx-1B,2,HZ-AR13,19/07/2017,Saudi Arabian Airlines,,Active
+40048,677,Boeing 787,787-9,14/03/2018,2.1,,GEnx-1B,2,HZ-AR22,22/03/2018,Saudi Arabian Airlines,,Active
+40049,683,Boeing 787,787-9,04/04/2018,2,,GEnx-1B,2,HZ-AR23,16/04/2018,Saudi Arabian Airlines,,Active
+40050,886,Boeing 787,787-10,15/09/2019,0.6,,GEnx-1B,2,HZ-AR24,30/09/2019,Saudi Arabian Airlines,,Active
+40050,886,Boeing 787,787-10,15/09/2019,0.6,,GEnx-1B,2,HZ-AR24,30/09/2019,Saudi Arabian Airlines,,Active
+40051,918,Boeing 787,787-10,18/10/2019,0.5,,GEnx-1B,2,HZ-AR25,29/10/2019,Saudi Arabian Airlines,,Active
+40052,976,Boeing 787,787-10,20/02/2020,0.1,,Genx-1B,2,HZ-AR27,19/03/2020,Saudi Arabian Airlines,,Active
+40053,149,Boeing 787,787-8,21/01/2014,6.2,,GEnx-1B,2,HZ-MF7,09/02/2019,Saudi Ministry of Finance,,Active
+40057,942,Boeing 787,787-10,07/12/2019,0.3,,Genx-1B,2,HZ-AR26,23/12/2019,Saudi Arabian Airlines,,Active
+40059,193,Boeing 787,787-8,27/06/2014,5.8,N1015X,GEnx-1B,2,HZ-MF8,08/08/2014,Saudi Arabian Gvmt,,Active
+40124,903,Boeing 787,787-8,24/08/2019,0.6,,GEnx-1B,2,S2-AJU,13/09/2019,Biman Bangladesh,Named The Rajhangsa,Active
+40125,881,Boeing 787,787-8,05/07/2019,0.8,,GEnx-1B,2,S2-AJV,24/07/2019,Biman Bangladesh,Named The Gaanchil,Active
+40126,726,Boeing 787,787-8,24/06/2018,1.8,N1015B,GEnx-1B,2,S2-AJS,18/08/2018,Biman Bangladesh,Named The Aakashbeena,Active
+40127,781,Boeing 787,787-8,09/11/2018,1.4,,GEnx-1B,2,S2-AJT,30/11/2018,Biman Bangladesh,Named The Hangsabalaka,Active
+40618,241,Boeing 787,787-8,06/01/2015,5.3,,GEnx-1B,2,N800AN,23/01/2015,American Airlines,,Active
+40619,249,Boeing 787,787-8,09/02/2015,5.2,,GEnx-1B,2,N801AC,28/02/2015,American Airlines,,Active
+40620,255,Boeing 787,787-8,20/02/2015,5.1,,GEnx-1B,2,N802AN,14/05/2015,American Airlines,,Active
+40621,268,Boeing 787,787-8,18/03/2015,5.1,,GEnx-1B,2,N803AL,05/05/2015,American Airlines,,Active
+40622,288,Boeing 787,787-8,12/04/2015,5,,GEnx-1B,2,N804AN,23/04/2015,American Airlines,,Active
+40623,290,Boeing 787,787-8,10/04/2015,5,,GEnx-1B,2,N805AN,28/04/2015,American Airlines,,Active
+40624,306,Boeing 787,787-8,06/06/2015,4.8,,GEnx-1B,2,N806AA,30/07/2015,American Airlines,,Active
+40625,320,Boeing 787,787-8,01/07/2015,4.8,,GEnx-1B,2,N807AA,20/07/2015,American Airlines,,Active
+40626,326,Boeing 787,787-8,21/07/2015,4.7,,GEnx-1B,2,N808AN,06/08/2015,American Airlines,,Active
+40627,336,Boeing 787,787-8,15/08/2015,4.7,,GEnx-1B,2,N809AA,28/08/2015,American Airlines,,Active
+40628,339,Boeing 787,787-8,10/09/2015,4.6,,GEnx-1B,2,N810AN,24/09/2015,American Airlines,,Active
+40629,364,Boeing 787,787-8,23/10/2015,4.5,,GEnx-1B,2,N811AB,09/11/2015,American Airlines,,Active
+40630,378,Boeing 787,787-8,04/12/2015,4.4,,GEnx-1B,2,N812AA,17/12/2015,American Airlines,,Active
+40631,387,Boeing 787,787-8,13/01/2016,4.2,,GEnx-1B,2,N813AN,16/02/2016,American Airlines,,Active
+40632,389,Boeing 787,787-8,21/01/2016,4.2,,GEnx-1B,2,N814AA,22/02/2016,American Airlines,,Active
+40633,423,Boeing 787,787-8,29/04/2016,4,N9675N,GEnx-1B,2,N815AA,23/05/2016,American Airlines,,Active
+40634,429,Boeing 787,787-8,08/05/2016,3.9,,GEnx-1B,2,N816AA,29/05/2016,American Airlines,,Active
+40635,519,Boeing 787,787-8,13/01/2017,3.2,,GEnx-1B,2,N817AN,08/02/2017,American Airlines,,Active
+40636,540,Boeing 787,787-8,11/03/2017,3.1,,GEnx-1B,2,N818AL,23/03/2017,American Airlines,,Active
+40637,546,Boeing 787,787-8,27/03/2017,3,,GEnx-1B,2,N819AN,08/04/2017,American Airlines,,Active
+40638,626,Boeing 787,787-9,04/11/2017,2.4,,Genx-1b74/75/P1,2,N832AA,15/11/2017,American Airlines,,Active
+40639,466,Boeing 787,787-9,07/08/2016,3.7,N9672N,Genx-1b74/75/P1,2,N820AL,13/09/2016,American Airlines,,Active
+40640,478,Boeing 787,787-9,08/09/2016,3.6,,Genx-1b74/75/P1,2,N821AN,05/10/2016,American Airlines,,Active
+40641,503,Boeing 787,787-9,17/11/2016,3.4,,Genx-1b74/75/P1,2,N823AN,21/12/2016,American Airlines,,Active
+40642,485,Boeing 787,787-9,30/09/2016,3.5,,Genx-1b74/75/P1,2,N822AN,27/10/2016,American Airlines,,Active
+40643,510,Boeing 787,787-9,07/12/2016,3.3,,Genx-1b74/75/P1,2,N824AN,10/01/2017,American Airlines,,Active
+40644,517,Boeing 787,787-9,21/12/2016,3.3,,Genx-1b74/75/P1,2,N825AA,28/01/2017,American Airlines,,Active
+40645,635,Boeing 787,787-9,28/11/2017,2.4,,Genx-1b74/75/P1,2,N833AA,05/12/2017,American Airlines,,Active
+40646,759,Boeing 787,787-9,18/10/2018,1.5,,Genx-1b74/75/P1,2,N839AA,24/10/2018,American Airlines,,Active
+40647,563,Boeing 787,787-9,23/05/2017,2.9,,Genx-1b74/75/P1,2,N827AN,06/06/2017,American Airlines,,Active
+40648,570,Boeing 787,787-9,17/06/2017,2.8,,Genx-1b74/75/P1,2,N828AA,29/06/2017,American Airlines,,Active
+40649,560,Boeing 787,787-9,02/05/2017,2.9,,Genx-1b74/75/P1,2,N826AN,02/06/2017,American Airlines,,Active
+40650,596,Boeing 787,787-9,23/08/2017,2.6,,Genx-1b74/75/P1,2,N830AN,01/09/2017,American Airlines,,Active
+40651,587,Boeing 787,787-9,10/08/2017,2.7,,Genx-1b74/75/P1,2,N829AN,31/08/2017,American Airlines,,Active
+40652,610,Boeing 787,787-9,25/09/2017,2.5,,Genx-1b74/75/P1,2,N831AA,05/10/2017,American Airlines,,Active
+40653,667,Boeing 787,787-9,18/02/2018,2.1,,Genx-1B,2,N834AA,27/02/2018,American Airlines,,Active
+40654,720,Boeing 787,787-9,03/07/2018,1.8,,Genx-1b74/75/P1,2,N836AA,23/07/2018,American Airlines,Lsd Wilmington Trust Co Trustee,Active
+40655,718,Boeing 787,787-9,22/06/2018,1.8,,Genx-1B,2,N835AN,29/06/2018,American Airlines,Lsd Wilmington Trust Co Trustee,Active
+40656,791,Boeing 787,787-9,08/01/2019,1.3,,Genx-1b74/75/P1,2,N840AN,18/01/2019,American Airlines,,Active
+40657,807,Boeing 787,787-9,16/02/2019,1.2,,Genx-1b74/75/P1,2,N841AN,25/02/2019,American Airlines,,Active
+40658,738,Boeing 787,787-9,15/08/2018,1.7,,Genx-1b74/75/P1,2,N837AN,28/08/2018,American Airlines,Lsd Wilmington Trust Co Trustee,Active
+40658,738,Boeing 787,787-9,15/08/2018,1.7,,Genx-1b74/75/P1,2,N837AN,28/08/2018,American Airlines,Lsd Wilmington Trust Co Trustee,Active
+40659,748,Boeing 787,787-9,24/08/2018,1.6,,Genx-1b74/75/P1,2,N838AA,07/09/2018,American Airlines,Lsd Wilmington Trust Co Trustee,Active
+40690,1,Boeing 787,787-881,15/12/2009,,N787BA,RR Trent 1000,2,N787BA,15/12/2009,Boeing,Donated to Centrair At NGO,Stored
+40691,2,Boeing 787,787-881,22/12/2009,,N787EX,RR Trent 1000,2,N787EX,22/12/2009,Boeing,Donated to the pima air and space museum,Stored
+40692,3,Boeing 787,787-881,14/03/2010,,,RR Trent 1000,2,N787BX,14/03/2010,Boeing,On Display At Museum Of Flight,Stored
+40693,4,Boeing 787,787-881,24/02/2010,10.1,,RR Trent 1000,2,N7874,24/02/2010,Boeing,,Active
+40694,5,Boeing 787,787-8,16/06/2010,,N787FT,GEnx-1B,2,N787FT,16/06/2014,Boeing,ScrappedStored 08/2014,Scrapped
+40695,6,Boeing 787,787-8,04/10/2010,,,GEnx-1B,2,N787ZA,04/10/2010,Boeing,,Transferred
+40695,6,Boeing 787,787-8,04/10/2010,,,GEnx-1B,2,XC-MEX,03/02/2016,Mexican Air Force,Stored 12/2018Named José Ma. Morelos Y Pavón,Stored
+40748,56,Boeing 787,787-881,12/06/2012,7.8,,RR Trent 1000,2,JA812A,03/07/2012,All Nippon Airways,,Active
+40749,59,Boeing 787,787-881,04/12/2012,7.4,,RR Trent 1000,2,JA817A,21/12/2012,All Nippon Airways,,Active
+40750,206,Boeing 787,787-8,07/08/2014,5.7,,GEnx-1B,2,JA834A,21/08/2014,All Nippon Airways,,Active
+40751,550,Boeing 787,787-9,03/04/2017,3,,RR Trent 1000,2,JA891A,18/04/2017,All Nippon Airways,,Active
+40752,685,Boeing 787,787-9,19/03/2018,2.1,,RR Trent 1000,2,JA898A,28/03/2018,All Nippon Airways,,Active
+40899,66,Boeing 787,787-881,29/08/2012,7.6,,RR Trent 1000,2,JA815A,01/10/2012,All Nippon Airways,,Active
+40918,324,Boeing 787,787-9,10/07/2015,4.8,,GEnx-1B,2,N45956,28/07/2015,United Airlines,,Active
+40926,948,Boeing 787,787-10,04/12/2019,0.4,,Genx-1B,2,N12010,24/12/2019,United Airlines,,Active
+40929,548,Boeing 787,787-10,26/03/2018,2,,GENX-1B76/P2,2,N548ZC,01/05/2018,Boeing,,Transferred
+40929,548,Boeing 787,787-10,26/03/2018,2,,GENX-1B76/P2,2,N91007,17/05/2019,United Airlines,,Active
+40930,763,Boeing 787,787-10,17/10/2018,1.5,,Genx-1B67/P2,2,N17002,01/12/2018,United Airlines,,Active
+40934,950,Boeing 787,787-10,20/12/2019,0.3,,Genx-1B,2,N14011,30/12/2019,United Airlines,,Active
+40935,782,Boeing 787,787-10,04/12/2018,1.4,,Genx-1B,2,N12003,20/12/2018,United Airlines,,Active
+40936,731,Boeing 787,787-10,03/08/2018,1.7,N8572C,GENX-1B76/P2,2,N14001,06/11/2018,United Airlines,,Active
+40937,800,Boeing 787,787-10,26/01/2019,1.2,,GENX-1B76/P2,2,N12005,21/02/2019,United Airlines,,Active
+40938,828,Boeing 787,787-10,17/04/2019,1,,GENX-1B76/P2,2,N16009,27/04/2019,United Airlines,,Active
+40939,649,Boeing 787,787-9,11/01/2018,2.3,,GEnx-1B,2,N24972,18/01/2018,United Airlines,,Active
+40941,661,Boeing 787,787-9,06/02/2018,2.2,,GEnx-1B,2,N24973,12/02/2018,United Airlines,,Active
+40942,663,Boeing 787,787-9,10/02/2018,2.2,,Genx-1b74/75/,2,N24974,16/02/2018,United Airlines,,Active
+40956,218,Boeing 787,787-9,23/09/2014,5.6,,RR Trent 1000,2,G-VNEW,09/10/2014,Virgin Atlantic,Named: Birthday Girl  Lsd From Aercap,Active
+41538,201,Boeing 787,787-8,11/08/2014,5.7,,GEnx-1B,2,B-2768,30/08/2014,Xiamen Airlines,,Active
+41539,227,Boeing 787,787-8,17/09/2014,5.6,,GEnx-1B,2,B-2769,25/10/2014,Xiamen Airlines,,Active
+41540,270,Boeing 787,787-8,04/03/2015,5.1,,GEnx-1B,2,B-2760,22/03/2015,Xiamen Airlines,,Active
+41541,282,Boeing 787,787-8,13/03/2015,5.1,,GEnx-1B,2,B-2761,19/04/2015,Xiamen Airlines,,Active
+41542,304,Boeing 787,787-8,08/05/2015,4.9,,GEnx-1B,2,B-2762,16/06/2015,Xiamen Airlines,,Active
+41543,343,Boeing 787,787-8,04/09/2015,4.6,,GEnx-1B,2,B-2763,29/09/2015,Xiamen Airlines,,Active
+41544,376,Boeing 787,787-9,06/01/2016,4.3,,GEnx-1B,2,HZ-ARA,03/02/2016,Saudi Arabian Airlines,,Active
+41545,379,Boeing 787,787-9,22/12/2015,4.3,,GEnx-1B,2,HZ-ARB,03/02/2016,Saudi Arabian Airlines,,Active
+41546,383,Boeing 787,787-9,10/01/2016,4.3,N8292V,GEnx-1B,2,HZ-ARC,11/02/2016,Saudi Arabian Airlines,,Active
+41547,413,Boeing 787,787-9,05/04/2016,4,,GEnx-1B,2,HZ-ARD,21/04/2016,Saudi Arabian Airlines,,Active
+41548,542,Boeing 787,787-9,12/03/2017,3.1,,GEnx-1B,2,HZ-ARE,25/03/2017,Saudi Arabian Airlines,,Active
+41549,547,Boeing 787,787-9,22/03/2017,3.1,N1791B,GEnx-1B,2,HZ-ARF,10/04/2017,Saudi Arabian Airlines,,Active
+41550,566,Boeing 787,787-9,10/05/2017,2.9,,GEnx-1B,2,HZ-ARG,26/05/2017,Saudi Arabian Airlines,,Active
+41551,594,Boeing 787,787-9,16/08/2017,2.7,,GEnx-1B,2,HZ-ARH,24/08/2017,Saudi Arabian Airlines,,Active
+41987,11,Boeing 787,787-8,19/02/2015,,,GEnx-1B,2,N507BJ,Due,Boeing,,On order
+41988,126,Boeing 787,787-9,17/09/2013,6.6,N789EX,RR Trent 1000,2,N789EX,17/09/2013,Boeing,,Transferred
+41988,126,Boeing 787,787-9,17/09/2013,6.6,N789EX,RR Trent 1000,2,ZK-NZC,25/08/2015,Air New Zealand,,Active
+41989,133,Boeing 787,787-9,07/11/2013,6.4,N789FT,RR Trent 1000,2,ZK-NZD,24/07/2015,Air New Zealand,,Active
+42116,796,Boeing 787,787-9,19/12/2018,1.3,,GEnx-1B,2,F-ONUI,17/01/2019,Air Tahiti Nui,Named : Tupaia  Lsd From Alc,Active
+42117,616,Boeing 787,787-9,21/09/2017,2.6,,RR Trent 1000,2,4X-EDB,08/10/2017,El Al Israel Airlines,Lsd From Alc  Named Rishon Lezion / ראשון לציון,Active
+42118,831,Boeing 787,787-9,04/05/2019,0.9,,GEnx-1B,2,B-17885,16/05/2019,EVA Air,Lsd From Alc,Active
+42119,801,Boeing 787,787-9,25/01/2019,1.2,,GEnx-1B,2,B-17883,21/02/2019,EVA Air,Lsd From Alc,Active
+42224,205,Boeing 787,787-8,25/08/2014,5.6,,RR Trent 1000,2,CC-BBH,10/09/2014,LAN Airlines,Lsd From Zarapito Leasing,Transferred
+42224,205,Boeing 787,787-8,25/08/2014,5.6,,RR Trent 1000,2,CC-BBH,05/05/2016,LATAM Chile,Stored 04/2018 to 09/2018,Active
+42225,234,Boeing 787,787-8,25/10/2014,5.5,,RR Trent 1000,2,CC-BBJ,15/11/2014,LAN Airlines,Lsd From Zarapito Leasing,Transferred
+42225,234,Boeing 787,787-8,25/10/2014,5.5,,RR Trent 1000,2,CC-BBJ,05/05/2016,LATAM Chile,Stored 02/2018 to 08/2018,Active
+42243,83,Boeing 787,787-8,06/12/2012,7.3,N1009N,RR Trent 1000,2,JA818A,15/05/2013,All Nippon Airways,,Active
+42243,83,Boeing 787,787-8,06/12/2012,7.3,N1009N,RR Trent 1000,2,JA818A,15/05/2013,All Nippon Airways,,Active
+42244,97,Boeing 787,787-8,13/05/2013,6.9,,GEnx-1B,2,JA819A,31/05/2013,All Nippon Airways,,Active
+42245,107,Boeing 787,787-8,08/09/2013,6.6,,GEnx-1B,2,JA821A,24/09/2013,All Nippon Airways,,Active
+42246,120,Boeing 787,787-8,04/08/2013,6.7,,GEnx-1B,2,JA823A,22/08/2013,All Nippon Airways,,Active
+42247,132,Boeing 787,787-8,26/11/2013,6.4,,GEnx-1B,2,JA824A,09/01/2014,All Nippon Airways,,Active
+42248,140,Boeing 787,787-8,16/01/2014,6.2,,GEnx-1B,2,JA828A,22/02/2014,All Nippon Airways,,Active
+42249,203,Boeing 787,787-8,04/08/2014,5.7,,GEnx-1B,2,JA832A,15/08/2014,All Nippon Airways,,Active
+42369,858,Boeing 787,787-9,08/06/2019,0.8,,Genx-1b74/75/P1,2,A6-BLZ,20/06/2019,Etihad Airways,,Active
+42372,894,Boeing 787,787-9,21/08/2019,0.6,,Genx-1b74/75/P1,2,A6-BNC,14/09/2019,Etihad Airways,,Active
+42373,910,Boeing 787,787-9,03/10/2019,0.5,,Genx-1b74/75/P1,2,A6-BND,17/10/2019,Etihad Airways,,Active
+42378,340,Boeing 787,787-8,22/08/2015,4.6,,GEnx-1B,2,A4O-SA,07/10/2015,Oman Air,,Active
+42379,372,Boeing 787,787-8,30/10/2015,4.4,,GEnx-1B,2,A4O-SB,25/11/2015,Oman Air,,Active
+42485,862,Boeing 787,787-10,15/06/2019,0.8,,Genx-1B,2,PH-BKA,29/06/2019,KLM,Named: Orange Blossom / Oranjebloesem Special 100 Year Livery,Active
+42486,422,Boeing 787,787-9,08/04/2016,4,,GEnx-1B,2,PH-BHF,22/04/2016,KLM,Named: Hibiscus,Active
+42487,630,Boeing 787,787-9,30/10/2017,2.4,,Genx-1B,2,F-HRBD,14/11/2017,Air France,,Active
+42488,687,Boeing 787,787-9,24/03/2018,2,,GEnx-1B,2,F-HRBF,07/04/2018,Air France,,Active
+42489,1008,Boeing 787,787-10,Unknown,,,RR Trent 1000,2,PH-BKH,Due,KLM,,On order
+42490,773,Boeing 787,787-9,17/11/2018,1.4,,Genx-1B,2,F-HRBG,30/11/2018,Air France,,Active
+42491,657,Boeing 787,787-9,04/01/2018,2.3,,GEnx-1B,2,PH-BHN,25/01/2018,KLM,Named: Morning Star / Morgenster  Leased From Aercap,Active
+42492,926,Boeing 787,787-10,01/11/2019,0.4,,GENX-1B76A/P2,2,PH-BKD,13/11/2019,KLM,Named: Baardbloem / Heavenly Blue,Active
+42493,840,Boeing 787,787-9,30/04/2019,0.9,,Genx-1B,2,F-HRBI,18/05/2019,Air France,,Active
+42495,543,Boeing 787,787-9,15/03/2017,3.1,,GEnx-1B,2,F-HRBB,18/04/2017,Air France,,Active
+42498,832,Boeing 787,787-9,09/04/2019,1,,Genx-1B,2,F-HRBH,24/04/2019,Air France,,Active
+42499,946,Boeing 787,787-10,11/12/2019,0.3,,GENX-1B76A/P2,2,PH-BKF,20/12/2019,KLM,Named: Snowdrop / Sneeuwvlokje,Active
+42503,908,Boeing 787,787-10,02/10/2019,0.5,,GENX-1B76A/P2,2,PH-BKC,14/10/2019,KLM,Named: Vlijtig Liesje / Busy Lizzie,Active
+42506,740,Boeing 787,787-9,03/08/2018,1.7,,Genx-1B,2,PH-BHP,16/08/2018,KLM,named Tulip,Active
+42508,962,Boeing 787,787-10,30/01/2020,0.2,,GENX-1B76/P2,2,PH-BKG,12/02/2020,KLM,Named Hyacinth,Active
+42509,684,Boeing 787,787-9,08/03/2018,2.1,,GEnx-1B,2,PH-BHO,29/03/2018,KLM,Named: Orchidee / Orchid,Active
+43217,490,Boeing 787,787-9,23/09/2016,3.6,,RR Trent 1000,2,ZK-NZK,12/10/2016,Air New Zealand,,Active
+43218,607,Boeing 787,787-9,18/09/2017,2.6,,RR Trent 1000,2,ZK-NZL,08/10/2017,Air New Zealand,,Active
+43817,248,Boeing 787,787-8,17/12/2014,5.3,,GEnx-1B,2,CN-RGB,02/01/2015,Royal Air Maroc,,Active
+43818,285,Boeing 787,787-8,24/03/2015,5,,GEnx-1B,2,CN-RGC,10/04/2015,Royal Air Maroc,,Active
+43859,483,Boeing 787,787-9,21/09/2016,3.6,,GEnx-1B,2,XA-ADL,12/10/2016,Aeromexico,Named Quetzalcoatl,Active
+43860,507,Boeing 787,787-9,11/11/2016,3.4,,GEnx-1B,2,XA-ADC,06/12/2016,Aeromexico,,Active
+43861,518,Boeing 787,787-9,20/02/2017,3.1,,GEnx-1B,2,XA-ADD,12/01/2017,Aeromexico,,Active
+43862,541,Boeing 787,787-9,10/03/2017,3.1,,GENX-1B76A/P2,2,N438AM,07/04/2017,Aeromexico,Lsd from ALC,Active
+43864,497,Boeing 787,787-9,25/10/2016,3.5,,RR Trent 1000,2,JA888A,07/11/2016,All Nippon Airways,,Active
+43865,846,Boeing 787,787-9,07/05/2019,0.9,,RR Trent 1000,2,JA921A,29/05/2019,All Nippon Airways,,Active
+43866,995,Boeing 787,787-9,20/03/2020,0.1,,RR Trent 1000,2,JA932A,31/03/2020,All Nippon Airways,,Active
+43867,878,Boeing 787,787-9,13/07/2019,0.7,,RR Trent 1000,2,JA922A,03/08/2019,All Nippon Airways,,Active
+43869,454,Boeing 787,787-9,01/07/2016,3.8,,RR Trent 1000,2,JA879A,21/07/2016,All Nippon Airways,,Active
+43870,484,Boeing 787,787-9,22/09/2016,3.6,,RR Trent 1000,2,JA885A,03/10/2016,All Nippon Airways,,Active
+43871,408,Boeing 787,787-9,04/03/2016,4.1,,RR Trent 1000,2,JA877A,22/03/2016,All Nippon Airways,,Active
+43872,467,Boeing 787,787-9,02/08/2016,3.7,,RR Trent 1000,2,JA882A,17/08/2016,All Nippon Airways,,Active
+43873,472,Boeing 787,787-9,26/08/2016,3.6,,RR Trent 1000,2,JA883A,06/09/2016,All Nippon Airways,,Active
+43874,504,Boeing 787,787-9,04/11/2016,3.4,N1020L,RR Trent 1000,2,JA887A,22/11/2016,All Nippon Airways,,Active
+43983,851,Boeing 787,787-9,11/05/2019,,,RR Trent 1000,2,N797AV,30/05/2019,Avianca,Lsd From Smbc Aviation Capital,Stored
+44426,637,Boeing 787,787-9,20/11/2017,2.4,,GEnx-1B,2,XA-ADG,12/12/2017,Aeromexico,Named Guadalupe,Active
+44427,653,Boeing 787,787-9,03/01/2018,2.3,,GENX-1B76A/P2,2,XA-ADH,16/01/2018,Aeromexico,,Active
+44572,325,Boeing 787,787-8BBJ,08/07/2015,4.8,,GENX 1B-4,2,V8-OAS,03/03/2019,Brunei Gvmt,,Active
+44578,439,Boeing 787,787-9,02/06/2016,3.9,,Genx-1b70/P2G01,2,G-TUIJ,28/06/2016,Thomson Airways,,Transferred
+44578,439,Boeing 787,787-9,02/06/2016,3.9,,Genx-1b70/P2G01,2,G-TUIJ,01/10/2017,TUI Airways,Named Pixie Dust,Active
+44578,439,Boeing 787,787-9,02/06/2016,3.9,,Genx-1b70/P2G01,2,G-TUIJ,28/06/2016,Thomson Airways,,Transferred
+44578,439,Boeing 787,787-9,02/06/2016,3.9,,Genx-1b70/P2G01,2,G-TUIJ,01/10/2017,TUI Airways,Named Pixie Dust,Active
+44579,564,Boeing 787,787-9,27/04/2017,3,N1020K,Genx-1b70/P2G01,2,G-TUIK,18/05/2017,Thomson Airways,,Transferred
+44579,564,Boeing 787,787-9,27/04/2017,3,N1020K,Genx-1b70/P2G01,2,G-TUIK,01/10/2017,TUI Airways,,Active
+60138,822,Boeing 787,787-10,01/03/2019,1.1,,GENX-1B76/P2,2,N16008,30/03/2019,United Airlines,,Active
+60139,795,Boeing 787,787-10,24/01/2019,1.2,,GENX-1B76/P2,2,N12004,01/02/2019,United Airlines,,Active
+60140,814,Boeing 787,787-10,16/03/2019,1.1,,GENX-1B76/P2,2,N12006,24/03/2019,United Airlines,,Active
+60141,516,Boeing 787,787-9,14/12/2016,3.3,,Genx-1b74/75/,2,N29968,06/01/2017,United Airlines,,Active
+60142,531,Boeing 787,787-9,03/02/2017,3.2,,Genx-1b74/75/,2,N15969,16/02/2017,United Airlines,,Active
+60143,443,Boeing 787,787-9,05/06/2016,3.9,,Genx-1b74/75/,2,N26966,25/06/2016,United Airlines,,Active
+60144,445,Boeing 787,787-9,27/05/2016,3.9,N10187,Genx-1b74/75/,2,N26967,22/06/2016,United Airlines,,Active
+60145,964,Boeing 787,787-10,21/01/2020,0.2,N9675N,Genx-1B,2,N12012,07/02/2020,United Airlines,,Active
+60146,591,Boeing 787,787-9,27/07/2017,2.7,,Genx-1b74/75/,2,N26970,17/08/2017,United Airlines,,Active
+60147,642,Boeing 787,787-9,16/12/2017,2.3,,GEnx-1B,2,N29971,10/01/2018,United Airlines,,Active
+60253,656,Boeing 787,787-10,09/02/2018,2.2,,RR Trent 1000,2,9V-SCA,14/03/2018,Singapore Airlines,,Active
+60254,622,Boeing 787,787-10,09/03/2018,2.1,,RR Trent 1000,2,9V-SCB,03/04/2018,Singapore Airlines,,Active
+60255,686,Boeing 787,787-10,25/04/2018,2,,RR Trent 1000,2,9V-SCD,08/05/2018,Singapore Airlines,,Active
+60256,528,Boeing 787,787-10,31/03/2017,3,N528ZC,RR Trent 1000,2,9V-SCH,25/12/2018,Singapore Airlines,,Active
+60257,565,Boeing 787,787-10,08/06/2017,2.8,N565ZC,RR Trent 1000,2,N565ZC,08/06/2017,Boeing,,Transferred
+60257,565,Boeing 787,787-10,08/06/2017,2.8,N565ZC,RR Trent 1000,2,9V-SCG,29/10/2018,Singapore Airlines,Ex  N9675N,Active
+60258,672,Boeing 787,787-10,05/04/2018,2,,RR Trent 1000,2,9V-SCC,04/05/2018,Singapore Airlines,,Active
+60259,697,Boeing 787,787-10,25/05/2018,1.9,,RR Trent 1000,2,9V-SCE,02/06/2018,Singapore Airlines,,Active
+60260,709,Boeing 787,787-10,14/06/2018,1.8,,RR Trent 1000,2,9V-SCF,27/06/2018,Singapore Airlines,,Active
+60261,838,Boeing 787,787-10,25/04/2019,1,,RR Trent 1000,2,9V-SCK,03/04/2019,Singapore Airlines,,Active
+60262,810,Boeing 787,787-10,01/03/2019,1.1,,RR Trent 1000,2,9V-SCI,08/03/2019,Singapore Airlines,,Active
+60263,896,Boeing 787,787-10,21/08/2019,0.6,,RR Trent 1000,2,9V-SCN,05/09/2019,Singapore Airlines,,Active
+60264,938,Boeing 787,787-10,18/11/2019,0.4,,RR Trent 1000,2,9V-SCO,30/11/2019,Singapore Airlines,,Active
+60280,882,Boeing 787,787-10,21/07/2019,0.7,,RR Trent 1000,2,9V-SCM,13/08/2019,Singapore Airlines,,Active
+60281,856,Boeing 787,787-10,07/06/2019,0.8,,RR Trent 1000,2,9V-SCL,23/06/2019,Singapore Airlines,,Active
+60282,834,Boeing 787,787-10,16/04/2019,1,,RR Trent 1000,2,9V-SCJ,25/04/2019,Singapore Airlines,,Active
+60283,430,Boeing 787,787-9,28/04/2016,4,,GEnx-1B,2,B-7880,09/06/2016,Hainan Airlines,Lsd From Alc,Active
+60284,469,Boeing 787,787-9,12/08/2016,3.7,,Genx-1B,2,B-1539,11/09/2016,Hainan Airlines,Lsd From Alc,Active
+60285,502,Boeing 787,787-9,07/11/2016,3.4,,Genx-1b74/75/p1,2,N183AM,21/11/2016,Aeromexico,Lsd From Alc,Active
+60286,866,Boeing 787,787-10,17/07/2019,0.7,,Genx-1B,2,B-17802,27/07/2019,EVA Air,Lsd From Alc,Active
+60287,880,Boeing 787,787-10,01/08/2019,0.7,,GENX-1B76A/P2,2,VN-A879,15/08/2019,Vietnam Airlines,Lsd From Alc,Active
+60288,912,Boeing 787,787-10,09/10/2019,0.5,,GENX-1B76A/P2,2,VN-A873,18/10/2019,Vietnam Airlines,Lsd From Alc,Active
+60289,958,Boeing 787,787-10,03/02/2020,0.2,,Genx-1B,2,B-17806,14/02/2020,EVA Air,Lsd From Alc,Active
+60290,972,Boeing 787,787-10,12/02/2020,0.2,,GENX-1B76A/P2,2,VN-A874,11/03/2020,Vietnam Airlines,Lsd From Alc,Active
+60294,890,Boeing 787,787-10,19/08/2019,0.6,,GENX-1B76A/P2,2,VN-A872,31/08/2019,Vietnam Airlines,lsd from ALC,Active
+60311,802,Boeing 787,787-9,21/02/2019,1.1,,Genx-1B,2,B-209D,30/03/2019,China Southern Airlines,Lsd From Alc,Active
+60312,820,Boeing 787,787-9,29/03/2019,1,,Genx-1B,2,B-209E,15/04/2019,China Southern Airlines,Lsd From Alc,Active
+60313,906,Boeing 787,787-9,21/09/2019,0.6,,Genx-1B,2,B-20D7,29/09/2019,China Southern Airlines,Lsd From Alc,Active
+60322,805,Boeing 787,787-9,12/02/2019,1.2,,GEnx-1B,2,B-208C,19/02/2019,Suparna Airlines,Lsd From Gecas,Active
+60326,868,Boeing 787,787-9,15/07/2019,0.7,,Genx-1B,2,B-20AF,23/07/2019,Suparna Airlines,Lsd From Gecas,Active
+60327,891,Boeing 787,787-9,02/08/2019,0.7,N1015B,GEnx-1B,2,N1015B,02/08/2019,Boeing,Dreams take flight livery,Transferred
+60327,891,Boeing 787,787-9,02/08/2019,0.7,N1015B,GEnx-1B,2,S2-AJX,23/12/2019,Biman Bangladesh,Named The Awchin Pakhi,Active
+60328,911,Boeing 787,787-9,12/09/2019,0.6,,GEnx-1B,2,S2-AJY,20/12/2019,Biman Bangladesh,lsd from GECAS  Named Shonar Tori,Active
+60626,609,Boeing 787,787-8,11/09/2017,2.6,,RR Trent 1000,2,G-ZBJI,26/09/2017,British Airways,,Active
+60627,682,Boeing 787,787-9,05/03/2018,2.1,,RR Trent 1000,2,G-ZBKR,28/03/2018,British Airways,,Active
+60628,700,Boeing 787,787-9,21/05/2018,1.9,,RR Trent 1000,2,G-ZBKS,31/05/2018,British Airways,,Active
+60629,708,Boeing 787,787-8,06/06/2018,1.8,,GEnx-1B,2,G-ZBJJ,14/06/2018,British Airways,Named Paul Jarvis,Active
+60630,733,Boeing 787,787-8,29/08/2018,1.6,,GEnx-1B,2,G-ZBJK,13/09/2018,British Airways,,Active
+60631,769,Boeing 787,787-8,08/11/2018,1.4,,RR Trent 1000,2,G-ZBJM,15/11/2018,British Airways,,Active
+60755,743,Boeing 787,787-10,08/09/2018,1.6,,GENX-1B76A/P2,2,A6-BMA,31/10/2018,Etihad Airways,,Active
+60756,754,Boeing 787,787-10,07/11/2018,1.4,,GENX-1B76A/P2,2,A6-BMB,14/11/2018,Etihad Airways,,Active
+60756,754,Boeing 787,787-10,07/11/2018,1.4,,GENX-1B76A/P2,2,A6-BMB,14/11/2018,Etihad Airways,,Active
+60757,770,Boeing 787,787-10,30/11/2018,1.4,,GENX-1B76A/P2,2,A6-BMC,07/12/2018,Etihad Airways,,Active
+60758,777,Boeing 787,787-10,11/12/2018,1.3,,GENX-1B76A/P2,2,A6-BMD,22/12/2018,Etihad Airways,,Active
+60759,789,Boeing 787,787-10,16/01/2019,1.2,,GENX-1B76A/P2,2,A6-BME,30/01/2019,Etihad Airways,,Active
+60761,842,Boeing 787,787-10,06/05/2019,0.9,,GENX-1B76A/P2,2,A6-BMF,21/05/2019,Etihad Airways,,Active
+60763,934,Boeing 787,787-10,13/11/2019,0.4,,GENX-1B76A/P2,2,A6-BMG,22/11/2019,Etihad Airways,,Active
+60765,954,Boeing 787,787-10,11/01/2020,0.3,,Genx-1B,2,A6-BMH,22/01/2020,Etihad Airways,,Active
+61519,582,Boeing 787,787-9,16/07/2017,2.7,,RR Trent 1000,2,JA893A,26/07/2017,All Nippon Airways,,Active
+61520,612,Boeing 787,787-9,23/09/2017,2.6,,RR Trent 1000,2,JA895A,02/10/2017,All Nippon Airways,,Active
+61521,732,Boeing 787,787-9,17/07/2018,1.7,,RR Trent 1000,2,JA897A,26/07/2018,All Nippon Airways,,Active
+61522,491,Boeing 787,787-9,10/10/2016,3.5,,RR Trent 1000,2,JA886A,26/10/2016,All Nippon Airways,,Active
+61523,884,Boeing 787,787-9,26/07/2019,0.7,,RR Trent 1000,2,JA923A,15/08/2019,All Nippon Airways,,Active
+61529,984,Boeing 787,787-9,08/03/2020,0.1,,RR Trent 1000,2,JA928A,19/03/2020,All Nippon Airways,,Active
+62082,450,Boeing 787,787-9,24/06/2016,3.8,N8289V,RR Trent 1000,2,G-CIXO,21/07/2016,Norwegian Air UK,Named Victor Borge  Lsd From Mg Aviation,Transferred
+62082,450,Boeing 787,787-9,24/06/2016,3.8,N8289V,RR Trent 1000,2,LN-LNK,20/07/2017,Norwegian Long Haul,Named Victor Borge  Lsd From Mg Aviation,Active
+62144,920,Boeing 787,787-9,10/10/2019,0.5,,RR Trent 1000,2,SP-LSG,31/10/2019,LOT Polish Airlines,Lsd From Avolon,Active
+62145,952,Boeing 787,787-9,19/12/2019,0.3,,RR Trent 1000,2,EC-NFM,11/01/2020,Air Europa,Lsd From Avolon,Active
+62169,674,Boeing 787,787-9,04/03/2018,2.1,,RR Trent 1000,2,EC-MTI,20/03/2018,Air Europa,Lsd From CIT Leasing  Named: Mateo Sanchez,Active
+62170,874,Boeing 787,787-9,15/08/2019,0.7,N9674Z,GEnx-1B,2,A6-PFG,26/09/2019,Presidential Flight Authority,,Active
+62171,658,Boeing 787,787-9,31/01/2018,2.2,,RR Trent 1000,2,EC-MSZ,16/02/2018,Air Europa,Named Jj Hidalgo  Lsd From Cit Leasing,Active
+62172,855,Boeing 787,787-9,22/05/2019,0.9,,RR Trent 1000,2,SP-LSF,05/06/2019,LOT Polish Airlines,Lsd From Avolon,Active
+62173,843,Boeing 787,787-9,20/04/2019,1,,RR Trent 1000,2,SP-LSE,30/04/2019,LOT Polish Airlines,Lsd From Cit Leasing,Active
+62174,940,Boeing 787,787-9,21/11/2019,0.4,,Genx 1B,2,A6-PFH,07/12/2019,United Arab Emirates Gvmt,Presidential flight authority,Active
+62175,930,Boeing 787,787-9,29/10/2019,0.5,,GEnx-1B70,2,ET-AXK,17/11/2019,Ethiopian Airlines,Lsd from Avolon    Named Tel Aviv,Active
+62176,944,Boeing 787,787-9,04/12/2019,0.4,,Genx-1B,2,ET-AXL,12/12/2019,Ethiopian Airlines,Lsd From AvolonNamed Toronto,Active
+62517,968,Boeing 787,787-9,15/02/2020,0.2,,RR Trent 1000,2,EC-NGM,25/02/2020,Air Europa,,Active
+62518,978,Boeing 787,787-9,27/02/2020,0.1,,RR Trent 1000,2,EC-NGN,11/03/2020,Air Europa,,Active
+62684,809,Boeing 787,787-10,08/02/2019,1.2,,RR Trent 1000,2,JA900A,31/03/2019,All Nippon Airways,,Active
+62685,852,Boeing 787,787-10,16/05/2019,0.9,,RR Trent 1000,2,JA901A,01/07/2019,All Nippon Airways,,Active
+62710,847,Boeing 787,787-9,26/04/2019,1,N1015X,GEnx-1B,2,F-OVAA,21/06/2019,Air Tahiti Nui,Named Bora Bora   Lsd Diderot Financement 30,Active
+62711,889,Boeing 787,787-9,30/07/2019,0.7,,GEnx-1B,2,F-OTOA,10/08/2019,Air Tahiti Nui,Named Tetiaroa,Active
+62712,446,Boeing 787,787-9,17/06/2016,3.8,N8284V,GEnx-1B,2,B-7835,26/07/2016,Hainan Airlines,Lsd From Alc,Active
+62713,453,Boeing 787,787-9,01/07/2016,3.8,,GEnx-1B,2,B-7837,29/07/2016,Hainan Airlines,,Active
+62714,465,Boeing 787,787-9,06/08/2016,3.7,,GEnx-1B,2,B-7839,20/08/2016,Hainan Airlines,,Active
+62715,473,Boeing 787,787-9,22/08/2016,3.6,N9673N,GEnx-1B,2,B-1540,25/09/2016,Hainan Airlines,,Active
+62716,492,Boeing 787,787-9,19/10/2016,3.5,,Genx-1B,2,B-1543,11/11/2016,Hainan Airlines,Lsd From Avolon,Active
+62717,501,Boeing 787,787-9,10/11/2016,3.4,,GEnx-1B,2,B-1546,07/12/2016,Hainan Airlines,,Active
+62718,514,Boeing 787,787-9,16/12/2016,3.3,,GEnx-1B,2,B-6998,19/01/2017,Hainan Airlines,,Active
+62719,562,Boeing 787,787-9,08/05/2017,2.9,,GEnx-1B,2,B-7302,23/05/2017,Hainan Airlines,,Active
+62720,580,Boeing 787,787-9,07/07/2017,2.8,,GEnx-1B,2,B-7667,21/07/2017,Hainan Airlines,,Active
+62721,614,Boeing 787,787-9,08/10/2017,2.5,,GEnx-1B,2,B-1499,19/10/2017,Hainan Airlines,,Active
+62722,640,Boeing 787,787-9,05/12/2017,2.4,,GEnx-1B,2,B-1341,21/12/2017,Hainan Airlines,,Active
+62723,646,Boeing 787,787-9,02/12/2017,2.4,,GEnx-1B,2,B-1342,21/12/2017,Hainan Airlines,,Active
+62724,648,Boeing 787,787-9,12/12/2017,2.3,,GEnx-1B,2,B-1343,21/12/2017,Hainan Airlines,,Active
+62725,752,Boeing 787,787-9,10/10/2018,,,GEnx-1B,2,B-206R,26/10/2018,Hainan Airlines,,Transferred
+62725,752,Boeing 787,787-9,10/10/2018,,,GEnx-1B,2,VN-,01/03/2020,Bamboo Airways,To enter in service,On order
+62726,797,Boeing 787,787-9,15/01/2019,1.2,,Genx-1B,2,B-208S,27/03/2019,Hainan Airlines,,Active
+62727,808,Boeing 787,787-9,06/02/2019,1.2,,GEnx-1B,2,B-208T,13/07/2019,Hainan Airlines,,Active
+62728,841,Boeing 787,787-9,26/03/2019,1,,GEnx-1B,2,B-20AL,15/07/2019,Hainan Airlines,,Active
+62729,893,Boeing 787,787-9,26/07/2019,,N1003N,Genx-1B,2,VT-,Due,Vistara,,On order
+62730,905,Boeing 787,787-9,27/08/2019,,N1006F,GEnx-1B,2,VT-,Due,Vistara,,On order
+62731,745,Boeing 787,787-9,22/08/2018,1.6,,GEnx-1B,2,B-1138,28/09/2018,Hainan Airlines,,Active
+62732,779,Boeing 787,787-9,19/11/2018,1.4,,GEnx-1B,2,B-207V,20/12/2018,Hainan Airlines,,Active
+62732,779,Boeing 787,787-9,19/11/2018,1.4,,GEnx-1B,2,B-207V,20/12/2018,Hainan Airlines,,Active
+62733,887,Boeing 787,787-9,Unknown,,,Genx-1B,2,VT-,Due,Vistara,,On order
+62734,913,Boeing 787,787-9,22/09/2019,,N1008S,GEnx-1B,2,VT-,Due,Vistara,,On order
+62735,924,Boeing 787,787-9,04/11/2019,0.4,N9672M,Genx-1B,2,VN-A818,15/01/2020,Bamboo Airways,Named Sam Son Beach  Lsd From Calc,Active
+62736,936,Boeing 787,787-9,17/11/2019,0.4,,Genx 1B,2,VN-A819,20/12/2019,Bamboo Airways,lsd from CACL  Named Ha Long Bay,Active
+62737,734,Boeing 787,787-9,03/08/2018,1.7,,GEnx-1B,2,B-1132,29/09/2018,Hainan Airlines,,Active
+62738,729,Boeing 787,787-9,24/08/2018,1.6,,GEnx-1B,2,B-1133,29/09/2018,Hainan Airlines,,Active
+62739,746,Boeing 787,787-9,10/08/2018,1.7,,GEnx-1B,2,B-1140,15/10/2018,Hainan Airlines,Stored 12/2019,Transferred
+62739,746,Boeing 787,787-9,10/08/2018,1.7,,GEnx-1B,2,VN-A829,18/01/2020,Bamboo Airways,Named Quy Nhon City  Lsd From Gecas,Active
+62740,766,Boeing 787,787-9,09/11/2018,1.4,,GEnx-1B,2,B-207J,20/12/2018,Hainan Airlines,,Active
+62741,723,Boeing 787,787-9,29/06/2018,1.8,,GEnx-1B,2,B-1135,29/09/2018,Hainan Airlines,Lsd From Avolon,Active
+62742,703,Boeing 787,787-9,25/04/2018,2,,Genx-1b70/P2G01,2,G-TUIM,17/05/2018,TUI Airways,Named Edie,Active
+63040,498,Boeing 787,787-9,04/11/2016,3.4,,GEnx-1B,2,B-1566,07/12/2016,Xiamen Airlines,,Active
+63041,512,Boeing 787,787-9,04/01/2017,3.3,,GEnx-1B,2,B-1567,24/01/2017,Xiamen Airlines,,Active
+63042,601,Boeing 787,787-9,31/08/2017,2.6,,Genx-1B,2,B-7836,14/09/2017,Xiamen Airlines,,Active
+63043,670,Boeing 787,787-9,22/02/2018,2.1,,Genx-1B,2,B-1357,15/03/2018,Xiamen Airlines,,Active
+63310,588,Boeing 787,787-9,30/06/2017,2.8,,RR Trent 1000,2,G-CKHL,25/07/2017,Norwegian Air UK,Named Amy Johnson,Transferred
+63310,588,Boeing 787,787-9,30/06/2017,2.8,,RR Trent 1000,2,LN-LNP,08/05/2018,Norwegian Long Haul,Interim storage 03/2020Named Amy Johnson,Active
+63311,600,Boeing 787,787-9,16/08/2017,2.7,,RR Trent 1000,2,G-CKKL,30/08/2017,Norwegian Air UK,Named Tom Crean,Transferred
+63311,600,Boeing 787,787-9,16/08/2017,2.7,,RR Trent 1000,2,LN-LNS,21/07/2018,Norwegian Long Haul,Named Tom Crean,Active
+63312,608,Boeing 787,787-9,30/08/2017,2.6,N1012N,RR Trent 1000,2,G-CKNY,22/11/2017,Norwegian Air UK,Named Jonathan Swift,Transferred
+63312,608,Boeing 787,787-9,30/08/2017,2.6,N1012N,RR Trent 1000,2,LN-LNV,13/08/2018,Norwegian Long Haul,Interim storage 03/2020Named Jonathan Swift,Active
+63313,619,Boeing 787,787-9,16/10/2017,,,RR Trent 1000,2,G-CKMU,26/10/2017,Norwegian Air UK,Named Babe Ruth,Transferred
+63313,619,Boeing 787,787-9,16/10/2017,,,RR Trent 1000,2,LN-LNU,25/10/2018,Norwegian Long Haul,Stored 11/2019Named Babe Ruth,Stored
+63314,664,Boeing 787,787-9,28/01/2018,2.2,,RR Trent 1000,2,G-CKOG,08/02/2018,Norwegian Air UK,Named Paco De Lucia,Active
+63315,673,Boeing 787,787-9,09/02/2018,2.2,,RR Trent 1000,2,G-CKWA,02/03/2018,Norwegian Air UK,Named Joseph / Etienne De Montgolfier,Active
+63316,715,Boeing 787,787-9,22/06/2018,1.8,,RR Trent 1000,2,G-CKWF,03/07/2018,Norwegian Air UK,Named Charles Lindbergh,Active
+63317,755,Boeing 787,787-9,18/09/2018,1.6,,RR Trent 1000,2,G-CKWN,28/09/2018,Norwegian Air UK,Named Oscar Wilde,Active
+63318,772,Boeing 787,787-9,13/11/2018,1.4,,RR Trent 1000,2,G-CKWP,17/12/2018,Norwegian Air UK,Interim storage 03/2020Named Mark Twain  Lsd From Boc Aviation,Active
+63319,813,Boeing 787,787-9,17/02/2019,1.2,,RR Trent 1000,2,G-CKWS,28/02/2019,Norwegian Air UK,Lsd From Boc Aviation,Active
+63320,827,Boeing 787,787-9,13/03/2019,1.1,,RR Trent 1000,2,G-CKWT,26/03/2019,Norwegian Air UK,Named Harvey Milk  Lsd Fom Boc Aviation,Active
+63321,835,Boeing 787,787-9,22/03/2019,1.1,,RR Trent 1000,2,G-CKWU,18/04/2019,Norwegian Air UK,Named Grazia Deledda   Lsd From Boc Aviation,Active
+63322,539,Boeing 787,787-9,06/03/2017,3.1,,GEnx-1B,2,B-7838,04/04/2017,Xiamen Airlines,,Active
+63323,654,Boeing 787,787-9,21/01/2018,2.2,,Genx-1B,2,B-1356,16/03/2018,Xiamen Airlines,,Active
+63345,853,Boeing 787,787-9,15/05/2019,0.9,,RR Trent 1000,2,SE-RXM,14/06/2018,Norwegian Air Sweden,Interim storage 03/2020Named Asger Jorn  Lsd From Boc Aviation,Active
+63346,870,Boeing 787,787-9,19/07/2019,,,RR Trent 1000,2,SE-RXY,31/07/2019,Norwegian Air Sweden,Stored 07/2019Lsd From Boc Aviation  Named Xul Solar,Stored
+63347,955,Boeing 787,787-9,10/01/2020,,,RR Trent 1000,2,G-CLJN,Due,Norwegian Air UK,,On order
+63348,971,Boeing 787,787-9,27/01/2020,,N1014X,RR Trent 1000,2,SE-RXA,Due,Norwegian Air Sweden,Named : Rita-levi Montalcini,On order
+63349,983,Boeing 787,787-9,Unknown,,,RR Trent 1000,2,SE-RXB,Due,Norwegian Air Sweden,,On order
+63390,669,Boeing 787,787-9,15/02/2018,2.2,,GEnx-1B,2,VH-ZND,02/03/2018,Qantas,Named Emily Kame Kngwarreye,Active
+63391,724,Boeing 787,787-9,21/06/2018,1.8,,Genx-1B,2,VH-ZNE,30/06/2018,Qantas,Named Skippy,Active
+63392,671,Boeing 787,787-9,16/02/2018,2.2,,RR Trent 1000,2,4X-EDD,03/03/2018,El Al Israel Airlines,Named Haifa  Special Las Vegas And San Francisco Livery,Active
+63393,714,Boeing 787,787-9,14/06/2018,1.8,,RR Trent 1000,2,4X-EDE,28/06/2018,El Al Israel Airlines,Named Bat Yam,Active
+63394,735,Boeing 787,787-9,27/07/2018,1.7,,RR Trent 1000,2,4X-EDF,14/08/2018,El Al Israel Airlines,Named Rehovot,Active
+63395,863,Boeing 787,787-9,08/06/2019,0.8,,RR Trent 1000,2,4X-EDK,19/06/2019,El Al Israel Airlines,Named Eilat,Active
+63396,935,Boeing 787,787-8,11/11/2019,0.4,,RR Trent 1000,2,4X-ERA,28/11/2019,El Al Israel Airlines,Named Ramat Hasharon,Active
+63397,947,Boeing 787,787-8,12/12/2019,0.3,,RR Trent 1000,2,4X-ERB,19/12/2019,El Al Israel Airlines,Named Hod Hasharon,Active
+63399,973,Boeing 787,787-8,09/02/2020,0.2,,RR Trent 1000,2,4X-ERC,20/02/2020,El Al Israel Airlines,,Active
+63510,848,Boeing 787,787-10,30/05/2019,0.9,,GEnx-1B,2,B-17801,20/06/2019,EVA Air,,Active
+63511,872,Boeing 787,787-10,04/08/2019,0.7,,GEnx-1B,2,B-17803,15/08/2019,EVA Air,,Active
+63512,902,Boeing 787,787-10,27/09/2019,0.5,,GEnx-1B,2,B-17805,07/10/2019,EVA Air,,Active
+63548,590,Boeing 787,787-9,11/07/2017,2.8,,RR Trent 1000,2,4X-EDA,23/08/2017,El Al Israel Airlines,Leased From ALCNamed Ashdod,Active
+63706,702,Boeing 787,787-9,07/09/2018,1.6,,GEnx-1B,2,B-1111,21/09/2018,Shanghai Airlines,,Active
+63707,727,Boeing 787,787-9,20/09/2018,1.6,,GEnx-1B,2,B-1112,30/09/2018,Shanghai Airlines,,Active
+63708,736,Boeing 787,787-9,22/09/2018,1.6,,GEnx-1B,2,B-1113,01/10/2018,Shanghai Airlines,,Active
+63709,761,Boeing 787,787-9,25/10/2018,1.5,,GEnx-1B,2,B-206K,01/11/2018,China Eastern Airlines,,Active
+63709,761,Boeing 787,787-9,25/10/2018,1.5,,GEnx-1B,2,B-206K,01/11/2018,China Eastern Airlines,,Active
+63710,786,Boeing 787,787-9,09/01/2019,1.3,,GEnx-1B,2,B-208P,30/03/2019,China Eastern Airlines,,Active
+63711,811,Boeing 787,787-9,22/02/2019,1.1,,GEnx-1B,2,B-208X,18/03/2019,Shanghai Airlines,,Active
+63712,826,Boeing 787,787-9,19/03/2019,1.1,,GEnx-1B,2,B-209N,28/03/2019,China Eastern Airlines,,Active
+63713,854,Boeing 787,787-9,21/06/2019,0.8,,GEnx-1B,2,B-20AJ,29/06/2019,Shanghai Airlines,,Active
+63714,871,Boeing 787,787-9,08/07/2019,0.8,,GEnx-1B,2,B-20CD,16/07/2019,Shanghai Airlines,,Active
+63715,900,Boeing 787,787-9,18/09/2019,0.6,,GEnx-1B,2,B-20D8,26/09/2019,Shanghai Airlines,,Active
+63978,679,Boeing 787,787-9,15/04/2018,2,,Genx-1B,2,B-1242,01/05/2018,China Southern Airlines,,Active
+63979,699,Boeing 787,787-9,11/05/2018,1.9,,GEnx-1B,2,B-1243,23/05/2018,China Southern Airlines,,Active
+63980,711,Boeing 787,787-9,10/06/2018,1.8,,Genx-1B74,2,B-1297,21/06/2018,China Southern Airlines,,Active
+63981,713,Boeing 787,787-9,19/06/2018,1.8,,Genx-1B,2,B-1293,27/06/2018,China Southern Airlines,,Active
+63982,725,Boeing 787,787-9,14/07/2018,1.7,,Genx-1B,2,B-1128,24/07/2018,China Southern Airlines,,Active
+63983,830,Boeing 787,787-9,17/05/2019,0.9,,Genx-1B,2,B-209X,29/05/2019,China Southern Airlines,,Active
+63984,850,Boeing 787,787-9,03/06/2019,0.9,,Genx-1B,2,B-20AA,29/06/2019,China Southern Airlines,,Active
+63985,876,Boeing 787,787-9,08/08/2019,0.7,,Genx-1B,2,B-20C6,22/08/2019,China Southern Airlines,,Active
+63986,892,Boeing 787,787-9,23/08/2019,0.6,,Genx-1B,2,B-20CJ,23/09/2019,China Southern Airlines,,Active
+64053,676,Boeing 787,787-9,20/02/2018,2.1,,Genx-1b70/P2G01,2,G-TUIL,16/03/2018,TUI Airways,,Active
+64209,949,Boeing 787,787-9,27/11/2019,0.4,,Genx-1B,2,A7-BHF,27/12/2019,Qatar Airways,Stored 12/2019 to 03/2020,Active
+64210,927,Boeing 787,787-9,11/10/2019,0.5,,Genx-1B,2,A7-BHC,28/12/2019,Qatar Airways,Stored 12/2019 to 03/2020,Active
+64211,951,Boeing 787,787-9,30/11/2019,0.4,,Genx-1B,2,A7-BHG,28/12/2019,Qatar Airways,Stored 12/2019 to 04/2020,Active
+64215,917,Boeing 787,787-9,21/09/2019,0.6,,Genx-1B,2,A7-BHB,26/12/2019,Qatar Airways,Stored 12/2019 to 04/2020,Active
+64216,931,Boeing 787,787-9,18/10/2019,0.5,,Genx-1B,2,A7-BHD,28/12/2019,Qatar Airways,Stored 12/2019 to 03/2020,Active
+64217,909,Boeing 787,787-9,04/09/2019,0.6,,Genx-1B,2,A7-BHA,28/12/2019,Qatar Airways,Stored 12/2019 to 04/2020,Active
+64218,937,Boeing 787,787-9,29/10/2019,0.5,,Genx-1B,2,A7-BHE,28/12/2019,Qatar Airways,Stored 12/2019 to 03/2020,Active
+64249,719,Boeing 787,787-8,29/06/2018,1.8,,RR Trent 1000,2,5H-TCG,07/07/2018,Air Tanzania,Named Kilimanjaro / Hapa Kazi Tu,Active
+64293,916,Boeing 787,787-9,25/10/2019,0.5,,Genx-1b70/P2G01,2,G-TUIN,14/11/2019,TUI Airways,,Active
+64294,932,Boeing 787,787-9,09/11/2019,0.4,,Genx-1b70/P2G01,2,G-TUIO,19/11/2019,TUI Airways,,Active
+64312,758,Boeing 787,787-9,26/09/2018,1.5,,Genx-1B,2,B-1115,20/10/2018,Juneyao Airlines,,Active
+64313,780,Boeing 787,787-9,19/11/2018,1.4,,Genx-1B,2,B-207N,05/12/2018,Juneyao Airlines,,Active
+64314,790,Boeing 787,787-9,06/12/2018,1.3,,Genx-1B,2,B-208A,21/12/2018,Juneyao Airlines,,Active
+64315,825,Boeing 787,787-9,21/03/2019,1.1,,Genx-1B,2,B-209R,29/03/2019,Juneyao Airlines,,Active
+64316,895,Boeing 787,787-9,05/08/2019,0.7,N1009N,Genx-1B,2,B-20D1,30/08/2019,Juneyao Airlines,,Active
+64435,764,Boeing 787,787-8,10/10/2018,1.5,,GEnx-1B,2,UK-001,29/10/2018,Uzbekistan Government,,Active
+64436,821,Boeing 787,787-8,28/02/2019,1.1,,GEnx-1B,2,UK78704,12/04/2019,Uzbekistan Airways,,Active
+64437,867,Boeing 787,787-8,15/06/2019,0.8,,GEnx-1B,2,UK78705,01/07/2019,Uzbekistan Airways,,Active
+64625,783,Boeing 787,787-9,01/12/2018,1.4,,GEnx-1B,2,CN-RAM,11/12/2018,Royal Air Maroc,,Active
+64626,824,Boeing 787,787-9,19/03/2019,1.1,,RR Trent 1000,2,CN-RGX,26/03/2019,Royal Air Maroc,,Active
+64968,747,Boeing 787,787-9,18/09/2018,1.6,,Genx-1B,2,B-1119,27/09/2018,Hainan Airlines,Lsd From Bank Of Communications Leasing,Active
+64969,784,Boeing 787,787-9,18/12/2018,1.3,,GEnx-1B,2,B-207U,29/12/2018,Hainan Airlines,Lsd From Bank Of Communications Leasing,Active
+64974,792,Boeing 787,787-9,05/01/2019,1.3,,Genx-1B,2,C-GUDH,17/01/2019,WestJet Airlines,,Active
+64975,810,Boeing 787,787-9,10/02/2019,1.2,,GEnx-1B,2,C-GURP,19/02/2019,WestJet Airlines,Lsd From Bbam,Active
+64976,815,Boeing 787,787-9,10/02/2019,1.2,,GEnx-1B,2,C-GUDO,14/03/2019,WestJet Airlines,,Active
+64977,959,Boeing 787,787-9,04/01/2020,0.3,N1789B,Genx-1B,2,C-GKKN,06/02/2020,WestJet Airlines,,Active
+64978,994,Boeing 787,787-9,20/03/2020,0.1,,Genx-1B,2,C-GYRS,30/03/2020,WestJet Airlines,,Active
+65086,829,Boeing 787,787-9,13/03/2019,1.1,,RR Trent 1000,2,4X-EDJ,04/04/2019,El Al Israel Airlines,Lsd From Aercap   	Named Kfar Saba,Active
+65087,877,Boeing 787,787-9,11/07/2019,0.8,,RR Trent 1000,2,SU-GEV,23/07/2019,Egyptair,Lsd From Aercap,Active
+65088,919,Boeing 787,787-9,24/09/2019,0.5,,RR Trent 1000,2,ZK-NZR,22/10/2019,Air New Zealand,Lsd From Aercap,Active
+65089,987,Boeing 787,787-9,18/03/2020,0.1,,Genx-1B,2,ET-AXS,27/03/2020,Ethiopian Airlines,Lsd From Aercap,Active
+65092,923,Boeing 787,787-9,02/10/2019,0.5,,GENX-1B76A/P2,2,XA-MFG,01/11/2019,Aeromexico,Lsd From Aercap,Active
+65093,885,Boeing 787,787-9,21/07/2019,0.7,,RR Trent 1000,2,SU-GEW,13/08/2019,Egyptair,Lsd From Aercap,Active
+65094,875,Boeing 787,787-9,01/07/2019,0.8,,RR Trent 1000,2,4X-EDL,13/07/2019,El Al Israel Airlines,Named AkkoLsd From Aercap,Active
+65094,875,Boeing 787,787-9,01/07/2019,0.8,,RR Trent 1000,2,4X-EDL,13/07/2019,El Al Israel Airlines,Named AkkoLsd From Aercap,Active
+65246,836,Boeing 787,787-9,23/04/2019,1,,RR Trent 1000,2,EC-NBM,02/05/2019,Air Europa,Lsd From Boc Aviation,Active
+65247,844,Boeing 787,787-9,02/05/2019,0.9,,RR Trent 1000,2,EC-NBX,22/05/2019,Air Europa,Lsd From Boc Aviation,Active
+65248,904,Boeing 787,787-9,31/08/2019,0.6,,RR Trent 1000,2,EC-NCY,28/09/2019,Air Europa,Lsd From Boc Aviation,Active
+65249,914,Boeing 787,787-9,11/10/2019,0.5,,RR Trent 1000,2,EC-NEI,30/10/2019,Air Europa,Lsd From Boc Aviation,Active
+65313,833,Boeing 787,787-9,18/03/2019,1.1,,GENX-1B76A/P2,2,N128AM,10/04/2019,Aeromexico,Lsd From Alc,Active
+65314,888,Boeing 787,787-9,02/09/2019,0.6,,RR Trent 1000,2,EI-NUA,15/09/2019,Neos,Named Las Americas  Lsd From Alc,Active
+65315,756,Boeing 787,787-8,18/09/2018,1.6,,GEnx-1B,2,N796AV,01/10/2018,Avianca,,Active
+65429,933,Boeing 787,787-9,08/11/2019,0.4,,Genx-1B64,2,B-20DT,21/11/2019,Juneyao Airlines,,Active
+65558,859,Boeing 787,787-9,18/05/2019,0.9,,RR Trent 1000,2,CN-RGY,06/06/2019,Royal Air Maroc,,Active
+65559,857,Boeing 787,787-9,Unknown,0.9,,Genx-1B,2,CN-RGZ,31/05/2019,Royal Air Maroc,,Active
+65801,865,Boeing 787,787-9,12/06/2019,0.8,,Genx-1B,2,TC-LLA,25/06/2019,THY Turkish Airlines,Named Maçka,Active
+65802,873,Boeing 787,787-9,17/06/2019,0.8,,Genx-1B,2,TC-LLB,09/07/2019,THY Turkish Airlines,,Active
+65803,879,Boeing 787,787-9,11/07/2019,0.8,,GEnx-1B,2,TC-LLC,22/07/2019,THY Turkish Airlines,,Active
+65804,883,Boeing 787,787-9,17/07/2019,0.7,,GEnx-1B,2,TC-LLD,26/07/2019,THY Turkish Airlines,,Active
+65805,899,Boeing 787,787-9,02/09/2019,0.6,,GEnx-1B,2,TC-LLE,14/09/2019,THY Turkish Airlines,,Active
+65806,897,Boeing 787,787-9,14/08/2019,0.7,,GEnx-1B,2,TC-LLF,28/08/2019,THY Turkish Airlines,,Active
+65807,953,Boeing 787,787-9,11/01/2020,0.3,,Genx-1B,2,TC-LLG,23/01/2020,THY Turkish Airlines,,Active
+65808,957,Boeing 787,787-9,18/12/2019,0.3,,Genx-1B,2,TC-LLH,19/02/2020,THY Turkish Airlines,,Active
+65809,961,Boeing 787,787-9,11/01/2020,0.3,,Genx-1B,2,TC-LLI,20/02/2020,THY Turkish Airlines,,Active
+65810,977,Boeing 787,787-9,11/02/2020,0.2,,Genx-1B,2,TC-LLJ,05/03/2020,THY Turkish Airlines,,Active
+65811,979,Boeing 787,787-9,18/02/2020,0.1,,Genx-1B,2,TC-LLK,17/03/2020,THY Turkish Airlines,,Active
+65990,981,Boeing 787,787-8,03/03/2020,0.1,,GEnx-1B,2,N870AX,17/03/2020,American Airlines,,Active
+66073,921,Boeing 787,787-9,03/10/2019,0.5,,Genx-1B,2,VH-ZNI,15/10/2019,Qantas,Named Kookaburra,Active
+66074,929,Boeing 787,787-9,29/10/2019,0.5,,GENX-1B70,2,VH-ZNJ,13/11/2019,Qantas,Named Longreach  100th Anniversary Special Livery,Active
+66075,941,Boeing 787,787-9,05/12/2019,0.4,,Genx-1B,2,VH-ZNK,16/12/2019,Qantas,Named Gangurru,Active
+66133,925,Boeing 787,787-8,12/10/2019,0.5,,RR Trent 1000,2,5H-TCJ,25/10/2019,Air Tanzania,Named Rubondo islands,Active
+66134,960,Boeing 787,787-9,13/01/2020,0.2,,Genx-1B,2,N29975,31/01/2020,United Airlines,,Active
+66135,970,Boeing 787,787-9,29/01/2020,0.2,,Genx-1B,2,N24976,12/02/2020,United Airlines,,Active
+66136,974,Boeing 787,787-9,17/02/2020,0.2,,Genx-1B,2,N29977,27/02/2020,United Airlines,,Active
+66526,975,Boeing 787,787-9,11/02/2020,0.2,,Genx-1B,2,VT-TSD,28/02/2020,Vistara,,Active

@@ -1,0 +1,30 @@
+serialNumber,lnNumber,familyType,Type,firstFlight,planeAge,testRegistration,enginesType,enginesNumber,registration,deliveryDate,operator,remark,status
+101,,Comac ARJ21,ARJ21-700,28/11/2008,11.4,B-970L,GE CF34-10A,2,B-970L,28/11/2008,Comac,,Active
+102,,Comac ARJ21,ARJ21-700,01/07/2009,10.8,B-991L,GE CF34-10A,2,B-991L,01/07/2009,Comac,,Active
+103,,Comac ARJ21,ARJ21-700,12/09/2009,10.6,B-992L,GE CF34-10A,2,B-992L,12/09/2009,Comac,,Transferred
+103,,Comac ARJ21,ARJ21-700,12/09/2009,10.6,B-992L,GE CF34-10A,2,B-00NX,01/02/2017,Comac,,Active
+104,,Comac ARJ21,ARJ21-700,13/04/2010,10,B-1110L,GE CF34-10A,2,B-1110L,13/04/2010,Comac,,Active
+105,,Comac ARJ21,ARJ21-700,18/06/2014,5.8,B-938L,GE CF34-10A,2,B-3322,29/09/2016,Chengdu Airlines,,Active
+106,,Comac ARJ21,ARJ21-700,27/10/2014,5.5,B-010L,GE CF34-10A,2,B-3321,26/11/2015,Chengdu Airlines,,Active
+107,,Comac ARJ21,ARJ21-700,22/07/2017,2.7,B-001R,GE CF34-10A,2,B-3386,19/10/2017,Chengdu Airlines,Lsd From Calc,Active
+108,,Comac ARJ21,ARJ21-700,01/11/2017,2.4,B-001S,GE CF34-10A,2,B-3387,28/12/2017,Chengdu Airlines,,Active
+109,,Comac ARJ21,ARJ21-700,Unknown,2,,GE CF34-10A,2,B-3388,29/04/2018,Chengdu Airlines,,Active
+111,,Comac ARJ21,ARJ21-700,24/05/2018,1.9,B-001V,GE CF34-10A,2,B-3328,24/08/2018,Chengdu Airlines,,Active
+112,,Comac ARJ21,ARJ21-700,29/05/2018,1.9,B-001W,GE CF34-10A,2,B-3329,22/09/2018,Chengdu Airlines,Lsd From Icbc,Active
+113,,Comac ARJ21,ARJ21-700,Unknown,1.5,,GE CF34-10A,2,B-602A,15/10/2018,Chengdu Airlines,,Active
+114,,Comac ARJ21,ARJ21-700,Unknown,1,,GE CF34-10A,2,B-602C,27/03/2019,Chengdu Airlines,,Active
+115,,Comac ARJ21,ARJ21-700,Unknown,,B-001Z,GE CF34-10A,2,B-,Due,Urumqi Air,,On order
+116,,Comac ARJ21,ARJ21-700,Unknown,1.1,B-00R,GE CF34-10A,2,B-602S,21/02/2019,Genghis Khan Airlines,,Active
+117,,Comac ARJ21,ARJ21-700,Unknown,0.9,B-001S,GE CF34-10A,2,B-602T,04/06/2019,Genghis Khan Airlines,,Active
+118,,Comac ARJ21,ARJ21-700,Unknown,0.6,B-001U,GE CF34-10A,2,B-602W,05/09/2019,Genghis Khan Airlines,,Active
+119,,Comac ARJ21,ARJ21-700,Unknown,1.3,,GE CF34-10A,2,B-104X,29/12/2018,Chengdu Airlines,,Active
+120,,Comac ARJ21,ARJ21-700,Unknown,1.2,,GE CF34-10A,2,B-603M,26/01/2019,Chengdu Airlines,,Active
+121,,Comac ARJ21,ARJ21-700,27/06/2019,0.8,B-004C,GE CF34-10A,2,B-603N,08/08/2019,Chengdu Airlines,,Active
+123,,Comac ARJ21,ARJ21-700,18/09/2019,0.6,B-001Y,GE CF34-10A,2,B-603P,26/09/2019,Chengdu Airlines,Lsd From Icbc,Active
+124,,Comac ARJ21,ARJ21-700,Unknown,0.5,B-001V,GE CF34-10A,2,B-603Q,28/09/2019,Chengdu Airlines,Lsd From Icbc,Active
+125,,Comac ARJ21,ARJ21-700,Unknown,0.5,B-001V,GE CF34-10A,2,B-605C,30/09/2019,Zhongfei General Aviation,,Active
+126,,Comac ARJ21,ARJ21-700,Unknown,0.6,B-001S,GE CF34-10A,2,B-603Z,22/09/2019,Chengdu Airlines,,Active
+127,,Comac ARJ21,ARJ21-700,Unknown,0.4,B-001X,GE CF34-10A,2,B-604A,30/11/2019,Chengdu Airlines,,Active
+128,,Comac ARJ21,ARJ21-700,03/11/2019,0.4,B-001H,GE CF34-10A,2,B-604C,22/11/2019,Chengdu Airlines,,Active
+129,,Comac ARJ21,ARJ21-700,18/11/2019,0.4,B-001J,GE CF34-10A,2,B-604D,28/12/2019,Chengdu Airlines,Lsd From Spdb Financial,Active
+130,,Comac ARJ21,ARJ21-700,30/10/2019,0.5,,GE CF34-10A,2,B-605V,01/11/2019,Jiangxi Air,,Active

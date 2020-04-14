@@ -1,0 +1,226 @@
+serialNumber,lnNumber,familyType,Type,firstFlight,planeAge,testRegistration,enginesType,enginesNumber,registration,deliveryDate,operator,remark,status
+95001,,Sukhoi SuperJet 100,100-95,19/05/2008,11.9,,SaM146,2,RA-97001,19/05/2008,Sukhoi Civil Aircraft,,Active
+95003,,Sukhoi SuperJet 100,100-95,24/12/2008,11.3,,SaM146,2,RA-97003,24/12/2008,Sukhoi Civil Aircraft,,Active
+95004,,Sukhoi SuperJet 100,100-95,25/07/2009,,,SaM146,2,RA-97004,25/07/2009,Sukhoi Civil Aircraft,,Written off
+95005,,Sukhoi SuperJet 100,100-95,04/02/2010,10.2,97005,SaM146,2,RA-97005,04/02/2010,Sukhoi Civil Aircraft,,Active
+95007,,Sukhoi SuperJet 100,100-95B,04/11/2010,,,SaM146,2,EK95015,19/04/2011,ArmAvia,Named Yuri Gagarin,Stored
+95008,,Sukhoi SuperJet 100,100-95B,31/01/2011,9.2,,SaM146,2,RA-89001,09/06/2011,Aeroflot,Stored 01/2013Named: M. Vodopyanov,Transferred
+95008,,Sukhoi SuperJet 100,100-95B,31/01/2011,9.2,,SaM146,2,RA-89001,23/08/2013,Moskovia Airlines,AOC revoked on 29 Aug. 14,Transferred
+95008,,Sukhoi SuperJet 100,100-95B,31/01/2011,9.2,,SaM146,2,RA-89001,02/04/2015,Red Wings Airlines,Stored 05/2016,Transferred
+95008,,Sukhoi SuperJet 100,100-95B,31/01/2011,9.2,,SaM146,2,RA-89001,19/07/2016,IrAero,lsd from gtlkStored 07/2017 to 10/2019,Active
+95009,,Sukhoi SuperJet 100,100-95B,29/06/2013,6.8,,SaM146,2,RA-89053,10/12/2014,Center-South,,Transferred
+95009,,Sukhoi SuperJet 100,100-95B,29/06/2013,6.8,,SaM146,2,RA-89053,01/09/2015,Rusjet,,Active
+95010,,Sukhoi SuperJet 100,100-95B,11/07/2011,,,SaM146,2,RA-89002,25/08/2011,Aeroflot,Stored 02/2014Named: D. Ezersky  Lsd From Veb-leasing,Transferred
+95010,,Sukhoi SuperJet 100,100-95B,11/07/2011,,,SaM146,2,RA-89002,01/03/2014,Moskovia Airlines,AOC revoked on 29 Aug. 14,Transferred
+95010,,Sukhoi SuperJet 100,100-95B,11/07/2011,,,SaM146,2,RA-89002,06/02/2015,Red Wings Airlines,,Transferred
+95010,,Sukhoi SuperJet 100,100-95B,11/07/2011,,,SaM146,2,RA-89002,10/06/2016,IrAero,Stored 02/2018,Stored
+95011,,Sukhoi SuperJet 100,100-95B,11/09/2011,8.6,,SaM146,2,RA-89003,07/11/2011,Aeroflot,Stored 02/2014Named Ivan Orlovets,Transferred
+95011,,Sukhoi SuperJet 100,100-95B,11/09/2011,8.6,,SaM146,2,RF-89151,01/03/2014,Russian Government,,Active
+95012,,Sukhoi SuperJet 100,100-95B,07/11/2011,,,SaM146,2,RA-89004,28/12/2011,Aeroflot,Stored 02/2014Named: Kh. Tskhovrebov  Lsd From Veb Leasing,Transferred
+95012,,Sukhoi SuperJet 100,100-95B,07/11/2011,,,SaM146,2,RA-89004,21/03/2014,Center-South,Named Oleg Kuprikov,Transferred
+95012,,Sukhoi SuperJet 100,100-95B,07/11/2011,,,SaM146,2,RA-89004,01/04/2016,Bural - Buryat Airlines,To enter in service,On order
+95013,,Sukhoi SuperJet 100,100-95B,15/01/2012,,,SaM146,2,RA-89005,05/03/2012,Aeroflot,Stored 10/2014Lsd From Veb Leasing,Stored
+95014,,Sukhoi SuperJet 100,100-95B,04/04/2012,,,SaM146,2,RA-89006,23/05/2012,Aeroflot,Stored 04/2014Named Yevgeny Barabash  Lsd From Veb Leasing,Stored
+95015,,Sukhoi SuperJet 100,100-95B,10/12/2011,,,SaM146,2,RA-89007,23/01/2012,Aeroflot,Stored 02/2014Named: D. Barilov - Lsd From Veb-leasing,Transferred
+95015,,Sukhoi SuperJet 100,100-95B,10/12/2011,,,SaM146,2,RA-89007,01/02/2014,Center-South,Named Sergey Melnikov,Transferred
+95015,,Sukhoi SuperJet 100,100-95B,10/12/2011,,,SaM146,2,RA-89007,01/03/2016,Bural - Buryat Airlines,To enter in service,On order
+95016,,Sukhoi SuperJet 100,100-95B,02/03/2012,,,SaM146,2,RA-89008,09/04/2012,Aeroflot,Stored 10/2014Named G. Benkunsky,Transferred
+95016,,Sukhoi SuperJet 100,100-95B,02/03/2012,,,SaM146,2,RA-89008,31/07/2015,Red Wings Airlines,Stored 04/2016,Transferred
+95016,,Sukhoi SuperJet 100,100-95B,02/03/2012,,,SaM146,2,RA-89008,01/07/2016,IrAero,Stored 09/2019Lsd From Gtlk,Stored
+95017,,Sukhoi SuperJet 100,100-95B,29/04/2012,,,SaM146,2,RA-89009,28/07/2012,Aeroflot,Stored 10/2014Named V.borisov,Stored
+95018,,Sukhoi SuperJet 100,100-95B,12/07/2012,7.7,,SaM146,2,RA-89010,17/09/2012,Aeroflot,Stored 06/2014lsd from Veb LeasingNamed Boris Bugaev,Transferred
+95018,,Sukhoi SuperJet 100,100-95B,12/07/2012,7.7,,SaM146,2,RA-89010,21/10/2015,Red Wings Airlines,Stored 04/2016,Transferred
+95018,,Sukhoi SuperJet 100,100-95B,12/07/2012,7.7,,SaM146,2,RA-89010,01/07/2016,IrAero,Lsd From Gtlk,Active
+95019,,Sukhoi SuperJet 100,100-95B,13/08/2012,,,SaM146,2,RA-89011,18/12/2012,Yakutia Airlines,,Written off
+95020,,Sukhoi SuperJet 100,100-95B,25/11/2012,7.4,,SaM146,2,RA-89012,31/01/2013,Yakutia Airlines,Stored end 2017 to 05/2019Named  Roman Dmitriev,Active
+95021,,Sukhoi SuperJet 100,100-95B,03/06/2012,7.9,,SaM146,2,RA-89021,09/08/2013,Moskovia Airlines,Named Yuri Sheffer,Transferred
+95021,,Sukhoi SuperJet 100,100-95B,03/06/2012,7.9,,SaM146,2,RA-89021,22/12/2013,Royal Air Maroc,lsd from Moskovia Airlines,Transferred
+95021,,Sukhoi SuperJet 100,100-95B,03/06/2012,7.9,,SaM146,2,RA-89021,05/01/2014,Moskovia Airlines,AOC revoked on 29 Aug. 14,Transferred
+95021,,Sukhoi SuperJet 100,100-95B,03/06/2012,7.9,,SaM146,2,RA-89021,19/01/2015,Red Wings Airlines,Stored 05/2016,Transferred
+95021,,Sukhoi SuperJet 100,100-95B,03/06/2012,7.9,,SaM146,2,RA-89021,01/06/2016,Yakutia Airlines,Lsf Gtlk,Active
+95022,,Sukhoi SuperJet 100,100-95B,20/10/2012,,97006,SaM146,2,PK-ECL,29/12/2012,Sky Aviation Indonesia,Stored,Stored
+95023,,Sukhoi SuperJet 100,100-95B,12/09/2012,,97002,SaM146,2,XA-JLG,22/07/2013,Interjet,Stored 09/2018Stored 05/2017 to 05/2018,Stored
+95024,,Sukhoi SuperJet 100,100-95B,16/12/2012,,,SaM146,2,XA-IJR,02/08/2013,Interjet,Stored 09/2018,Stored
+95025,,Sukhoi SuperJet 100,100-95B,22/02/2013,7.1,,SaM146,2,RA-89014,31/05/2013,Aeroflot,Named Valery Sysovsky,Active
+95026,,Sukhoi SuperJet 100,100-95B,13/12/2012,,97008,SaM146,2,RDPL-34195,15/02/2013,Lao Central Airlines,Stored 11/2014 as RA-89074,Transferred
+95026,,Sukhoi SuperJet 100,100-95B,13/12/2012,,97008,SaM146,2,RA-89074,01/11/2018,IrAero,To enter in service,On order
+95027,,Sukhoi SuperJet 100,100-95B,27/04/2013,,,SaM146,2,PK-ECM,20/08/2013,Sky Aviation Indonesia,Stored 03/2014 as RA-89084,Stored
+95028,,Sukhoi SuperJet 100,100-95B,24/03/2013,,97010,SaM146,2,XA-JLV,05/11/2013,Interjet,Stored 08/2017,Stored
+95029,,Sukhoi SuperJet 100,100-95B,02/07/2013,6.8,,SaM146,2,RA-89015,02/07/2013,Aeroflot,Stored 05/2017 to 08/2018,Active
+95030,,Sukhoi SuperJet 100,100-95B,20/05/2013,6.9,,SaM146,2,RA-89039,13/04/2015,Russian Government,,Active
+95031,,Sukhoi SuperJet 100,100-95B,03/06/2013,,,SaM146,2,PK-ECN,18/12/2013,Sky Aviation Indonesia,Stored,Stored
+95032,,Sukhoi SuperJet 100,100-95LR,12/02/2013,7.2,,SaM146,2,97006,12/02/2015,Sukhoi Civil Aircraft,,Active
+95033,,Sukhoi SuperJet 100,100-95B,09/08/2013,6.7,,SaM146,2,RA-89018,29/08/2013,Gazpromavia,,Active
+95034,,Sukhoi SuperJet 100,100-95B,28/08/2013,,97011,SaM146,2,XA-NSG,01/02/2014,Interjet,Stored 09/2018,Stored
+95035,,Sukhoi SuperJet 100,100-95B,15/09/2013,6.6,,SaM146,2,RA-89017,16/12/2013,Aeroflot,Stored 09/2018 to 06/2019Named Petr Khmelnitsky,Active
+95036,,Sukhoi SuperJet 100,100-95B,20/06/2013,,,SaM146,2,XA-ABM,21/12/2013,Interjet,Stored 08/2019,Stored
+95037,,Sukhoi SuperJet 100,100-95B,27/09/2013,6.5,,SaM146,2,RA-89040,30/06/2016,Russian Government,,Active
+95038,,Sukhoi SuperJet 100,100-95B,06/10/2013,,,SaM146,2,XA-OAA,14/03/2014,Interjet,Stored 10/2018,Stored
+95039,,Sukhoi SuperJet 100,100-95B,18/10/2013,6.5,RA-89022,SaM146,2,RA-89022,30/12/2013,Aeroflot,Named I.Orlovets   Std 02/2015 To 04/2017,Active
+95040,,Sukhoi SuperJet 100,100-95B,02/11/2013,,97007,SaM146,2,XA-PBA,25/04/2014,Interjet,26 oct 2015 - Damaged on ground,Stored
+95041,,Sukhoi SuperJet 100,100-95B,22/11/2013,6.4,,SaM146,2,RA-89023,29/01/2014,Aeroflot,Named P. Mikhaylov   Leased By Veb Leasing,Active
+95042,,Sukhoi SuperJet 100,100-95B,12/11/2013,,,SaM146,2,XA-JLP,07/06/2014,Interjet,Stored 09/2019Stored 10/2016 to 08/2017,Stored
+95043,,Sukhoi SuperJet 100,100-95B,01/12/2013,6.4,,SaM146,2,RA-89032,30/01/2014,Aeroflot,Stored 07/2017 to 03/2019Named D.ezersky  Leased By Veb Leasing,Active
+95044,,Sukhoi SuperJet 100,100-95B,24/01/2014,6.2,,SaM146,2,RA-89024,28/03/2014,Aeroflot,Named: D. Barilov,Active
+95045,,Sukhoi SuperJet 100,100-95B,22/12/2013,,97010,SaM146,2,XA-LME,03/09/2014,Interjet,Stored 05/2018,Stored
+95046,,Sukhoi SuperJet 100,100-95B,27/12/2013,,97013,SaM146,2,XA-ALJ,03/10/2014,Interjet,Stored 06/2018,Stored
+95047,,Sukhoi SuperJet 100,100-95B,19/02/2014,6.1,,SaM146,2,RA-89025,05/05/2014,Aeroflot,Named Khariton Tskhovrebov,Active
+95048,,Sukhoi SuperJet 100,100-95B,29/12/2013,,,SaM146,2,XA-BMO,04/10/2014,Interjet,Stored 08/2018,Stored
+95049,,Sukhoi SuperJet 100,100-95B,19/05/2014,,,SaM146,2,XA-LLV,19/12/2014,Interjet,Stored 12/2018Stored 03/2016 to 09/2016 after incident,Stored
+95050,,Sukhoi SuperJet 100,100-95B,07/02/2015,,97011,SaM146,2,XA-OUI,21/04/2015,Interjet,Stored 01/2019,Stored
+95051,,Sukhoi SuperJet 100,100-95B,05/03/2014,6.1,,SaM146,2,RA-89026,14/05/2014,Aeroflot,Named G.benkunsky,Active
+95052,,Sukhoi SuperJet 100,100-95B,19/03/2014,,97012,SaM146,2,XA-GCD,27/02/2015,Interjet,Stored 09/2018,Stored
+95053,,Sukhoi SuperJet 100,100-95B,08/04/2014,6,,SaM146,2,RA-89027,27/06/2014,Aeroflot,Named V.borisov,Active
+95053,,Sukhoi SuperJet 100,100-95B,08/04/2014,6,,SaM146,2,RA-89027,27/06/2014,Aeroflot,Named V.borisov,Active
+95054,,Sukhoi SuperJet 100,100-95B,29/07/2014,,97014,SaM146,2,XA-BVM,04/07/2015,Interjet,Stored 06/2018,Stored
+95055,,Sukhoi SuperJet 100,100-95LR,09/12/2013,6.3,,SaM146,2,RA-89020,28/01/2014,Gazpromavia,,Active
+95056,,Sukhoi SuperJet 100,100-95LR,13/12/2013,6.3,,SaM146,2,RA-89019,28/01/2014,Gazpromavia,,Active
+95057,,Sukhoi SuperJet 100,100-95LR,10/03/2014,6.1,,SaM146,2,RA-89029,01/04/2014,Gazpromavia,,Active
+95058,,Sukhoi SuperJet 100,100-95LR,31/03/2014,6,,SaM146,2,RA-89030,30/05/2014,Gazpromavia,,Active
+95059,,Sukhoi SuperJet 100,100-95B,17/04/2014,6,,SaM146,2,RA-89028,26/11/2014,Aeroflot,Named B.bugayev,Active
+95060,,Sukhoi SuperJet 100,100-95LR VIP,26/04/2014,6,89033,SaM146,2,9H-SBJ,11/08/2015,Comlux Aviation Malta,,Transferred
+95060,,Sukhoi SuperJet 100,100-95LR VIP,26/04/2014,6,89033,SaM146,2,UP-SJ001,01/02/2017,Comlux Aviation Kazakhstan,,Active
+95061,,Sukhoi SuperJet 100,100-95lR,26/05/2014,5.9,97008,SaM146,2,RA-89066,21/05/2016,MchS,,Active
+95062,,Sukhoi SuperJet 100,100-95LR,07/06/2014,5.8,,SaM146,2,RA-89034,28/03/2016,Yamal Airlines,Stored 03/2017Lsd From Gtlk,Transferred
+95062,,Sukhoi SuperJet 100,100-95LR,07/06/2014,5.8,,SaM146,2,RA-89034,04/08/2017,IrAero,lsd from GTLK  Named Reverend  Seraphim Sarovsky,Active
+95063,,Sukhoi SuperJet 100,100-95B,15/06/2014,5.8,89041,SaM146,2,RA-89041,26/08/2014,Aeroflot,Named M. Vodopyanov,Active
+95064,,Sukhoi SuperJet 100,100-95LR,24/06/2014,5.8,,SaM146,2,RA-89031,26/08/2014,Gazpromavia,,Active
+95065,,Sukhoi SuperJet 100,100-95B,10/07/2014,5.8,,SaM146,2,XA-VAS,15/12/2015,Interjet,,Active
+95066,,Sukhoi SuperJet 100,100-95B,17/07/2014,5.7,97015,SaM146,2,XA-PPY,18/05/2015,Interjet,,Active
+95067,,Sukhoi SuperJet 100,100-95LR,24/07/2014,5.7,89035,SaM146,2,RA-89035,19/05/2016,Yamal Airlines,Stored 08/2019,Transferred
+95067,,Sukhoi SuperJet 100,100-95LR,24/07/2014,5.7,89035,SaM146,2,RA-89035,01/09/2019,Yakutia Airlines,Named Vasily Manchaary  Lsd From Gtlk,Active
+95068,,Sukhoi SuperJet 100,100-95B,04/08/2014,5.7,89042,SaM146,2,RA-89042,04/12/2014,Aeroflot,Stored 07/2016 to 07/2018Named E. Barabash,Active
+95069,,Sukhoi SuperJet 100,100-95LR,18/08/2014,5.6,95069,SaM146,2,RA-89067,21/05/2016,MchS,,Active
+95070,,Sukhoi SuperJet 100,100-95LR,29/08/2014,5.6,89036,SaM146,2,RA-89036,20/05/2016,Yamal Airlines,Stroed 04/2017,Transferred
+95070,,Sukhoi SuperJet 100,100-95LR,29/08/2014,5.6,89036,SaM146,2,RA-89036,13/08/2017,Azimuth,Lsd From Gtlk  Named  Ural,Active
+95071,,Sukhoi SuperJet 100,100-95B,20/09/2014,,,SaM146,2,XA-NGO,08/11/2015,Interjet,Stored 08/2019,Stored
+95072,,Sukhoi SuperJet 100,100-95B,23/12/2014,5.3,97010,SaM146,2,XA-DAS,05/03/2016,Interjet,,Active
+95073,,Sukhoi SuperJet 100,100-95LR,30/09/2014,5.5,,SaM146,2,RA-89048,26/11/2014,Gazpromavia,,Active
+95074,,Sukhoi SuperJet 100,100-95B,10/11/2014,5.4,89043,SaM146,2,RA-89043,24/12/2014,Aeroflot,Named B. Velling,Active
+95076,,Sukhoi SuperJet 100,100-95B,10/10/2014,5.5,89044,SaM146,2,RA-89044,18/12/2014,Aeroflot,Named A. Vitkovsky,Active
+95077,,Sukhoi SuperJet 100,100-95LR,23/10/2014,,,SaM146,2,RA-89037,07/02/2017,Yakutia Airlines,Stored 10/2019lsd from GTLK,Stored
+95078,,Sukhoi SuperJet 100,100-95LR,16/12/2014,5.3,,SaM146,2,RA-89049,16/01/2015,Gazpromavia,,Active
+95079,,Sukhoi SuperJet 100,100-95B,28/10/2014,5.5,89045,SaM146,2,RA-89045,23/12/2014,Aeroflot,Named I. Voedilo  Lsd From Veb Leasing,Active
+95080,,Sukhoi SuperJet 100,100-95LR,21/12/2014,5.3,,SaM146,2,RA-89050,30/06/2015,Gazpromavia,,Active
+95081,,Sukhoi SuperJet 100,100-95B,07/12/2014,5.3,97013,SaM146,2,XA-VER,21/11/2015,Interjet,,Active
+95082,,Sukhoi SuperJet 100,100-95B,15/11/2014,5.4,89046,SaM146,2,RA-89046,19/02/2015,Aeroflot,Named  D. Glinka,Active
+95083,,Sukhoi SuperJet 100,100-95LR,21/11/2014,5.4,89038,SaM146,2,RA-89038,21/10/2016,Yakutia Airlines,Lsd From Gtlk,Active
+95084,,Sukhoi SuperJet 100,100-95B,27/11/2014,5.4,89047,SaM146,2,RA-89047,20/02/2015,Aeroflot,Named  A. Gruzdin   Lsd From Veb-leasing,Active
+95085,,Sukhoi SuperJet 100,100-95B,13/01/2015,,97004,SaM146,2,XA-JBA,01/04/2016,Interjet,Stored 03/2019,Stored
+95086,,Sukhoi SuperJet 100,100-95B,14/02/2015,,,SaM146,2,XA-MRM,19/07/2016,Interjet,Stored 03/2019,Stored
+95088,,Sukhoi SuperJet 100,100-95B,21/01/2015,5.2,89052,SaM146,2,RA-89052,16/04/2015,Aeroflot,Named M. Efimov,Active
+95089,,Sukhoi SuperJet 100,100-95B,18/02/2015,5.1,89051,SaM146,2,RA-89051,25/05/2015,Aeroflot,Named Boris Lakhtin  Lsd From Sberbank Leasing,Active
+95090,,Sukhoi SuperJet 100,100-95B,24/03/2015,5,89061,SaM146,2,RA-89061,28/10/2015,Aeroflot,Named Ivan Ryshkov,Active
+95091,,Sukhoi SuperJet 100,100-95B,10/04/2015,5,89062,SaM146,2,RA-89062,17/11/2015,Aeroflot,Named P. Nesterov,Active
+95092,,Sukhoi SuperJet 100,100-95LR,23/04/2015,5,,SaM146,2,RA-89054,10/07/2015,Gazpromavia,,Active
+95093,,Sukhoi SuperJet 100,100-95VIP,23/10/2015,4.5,,,,60317,28/07/2016,Royal Thai Air Force,,Active
+95094,,Sukhoi SuperJet 100,100-95B,15/04/2015,5,89056,SaM146,2,RA-89056,20/01/2016,Aeroflot,Named N. Rubtsov,Active
+95095,,Sukhoi SuperJet 100,100-95VIP,15/12/2015,4.3,97014,,,60318,07/08/2016,Royal Thai Air Force,,Active
+95096,,Sukhoi SuperJet 100,100-95B,26/02/2016,4.1,,SaM146,2,95100,12/11/2016,Kazakhstan National Security,,Active
+95097,,Sukhoi SuperJet 100,100-95B,08/10/2015,4.5,89057,SaM146,2,RA-89057,29/12/2015,Aeroflot,Stored 07/2017 to 02/2019Named    Sapelkin K.  Lsd From Sberbank Leasing,Active
+95098,,Sukhoi SuperJet 100,100-95B,29/07/2015,4.7,89058,SaM146,2,RA-89058,30/12/2015,Aeroflot,Named  Safronnikov N.  Lsd From Sberbank Leasing,Active
+95099,,Sukhoi SuperJet 100,100-95B,06/11/2015,4.4,89063,SaM146,2,RA-89063,21/01/2016,Aeroflot,Named  N. Novikov,Active
+95100,,Sukhoi SuperJet 100,100-95B,16/09/2015,4.6,89059,SaM146,2,RA-89059,30/12/2015,Aeroflot,Stored 11/2017 to 08/2018Named A.semenkov,Active
+95101,,Sukhoi SuperJet 100,100-95B,10/11/2015,4.4,,SaM146,2,RA-89064,19/04/2016,Aeroflot,Named Yu. Ovsyannikov,Active
+95102,,Sukhoi SuperJet 100,100-95B,11/12/2015,,,SaM146,2,EI-FWA,02/06/2016,CityJet,Stored 01/2019 as 9H-SJA  Lsd From Seraph Aviation  Rj Leasing Limited,Stored
+95103,,Sukhoi SuperJet 100,100-95B,01/12/2015,4.4,,SaM146,2,RA-89060,25/08/2016,Aeroflot,Named M. Stupishin   Lsd From Sberbank Leasing,Active
+95103,,Sukhoi SuperJet 100,100-95B,01/12/2015,4.4,,SaM146,2,RA-89060,25/08/2016,Aeroflot,Named M. Stupishin   Lsd From Sberbank Leasing,Active
+95105,,Sukhoi SuperJet 100,100-95B,19/06/2016,,97004,SaM146,2,EI-FWD,25/03/2017,CityJet,,Transferred
+95105,,Sukhoi SuperJet 100,100-95B,19/06/2016,,97004,SaM146,2,EI-FWD,26/03/2017,Brussels Airlines,lsd from CityJet,Transferred
+95105,,Sukhoi SuperJet 100,100-95B,19/06/2016,,97004,SaM146,2,EI-FWD,03/12/2018,CityJet,Stored 12/2018 as 9H-SJD lsd rj leasing limited  lsd from seraph aviation,Stored
+95107,,Sukhoi SuperJet 100,100-95B,25/03/2016,4,,SaM146,2,RA-89065,01/06/2016,Aeroflot,Named Boris Osipov,Active
+95108,,Sukhoi SuperJet 100,100-95B,15/01/2016,,97016,SaM146,2,EI-FWB,01/07/2016,CityJet,,Transferred
+95108,,Sukhoi SuperJet 100,100-95B,15/01/2016,,97016,SaM146,2,EI-FWB,26/03/2017,Brussels Airlines,lsd from CityJet,Transferred
+95108,,Sukhoi SuperJet 100,100-95B,15/01/2016,,97016,SaM146,2,EI-FWB,08/01/2019,CityJet,Stored 01/2019 as 9H-SJB Rj Leasing Limited,Stored
+95109,,Sukhoi SuperJet 100,100-95LR,11/07/2016,3.7,89068,SaM146,2,RA-89068,07/02/2017,Yamal Airlines,Lsd From Gtlk,Active
+95111,,Sukhoi SuperJet 100,100-95B,31/05/2016,,97011,SaM146,2,EI-FWC,02/11/2016,CityJet,,Transferred
+95111,,Sukhoi SuperJet 100,100-95B,31/05/2016,,97011,SaM146,2,EI-FWC,25/03/2017,Brussels Airlines,Lsd From Cityjet,Transferred
+95111,,Sukhoi SuperJet 100,100-95B,31/05/2016,,97011,SaM146,2,EI-FWC,29/08/2018,CityJet,Stored 08/2018 as 9H-SJC  Rj Leasing Limited,Stored
+95112,,Sukhoi SuperJet 100,100-95LR,27/07/2016,3.7,89069,SaM146,2,RA-89069,09/02/2017,Yamal Airlines,Stored 07/2018 to 12/2019	Lsd From Gtlk,Active
+95113,,Sukhoi SuperJet 100,100-95LR,06/09/2016,3.6,89070,SaM146,2,RA-89070,13/02/2017,Yamal Airlines,Stored 10/2018 to 03//2019	Lsd From Gtlk,Active
+95114,,Sukhoi SuperJet 100,100-95LR,21/09/2016,3.6,89071,SaM146,2,RA-89071,16/02/2017,Yamal Airlines,Stored 05/2018 to 09/2019Lsd From Gtlk,Active
+95115,,Sukhoi SuperJet 100,100-95LR,07/10/2016,3.5,89072,SaM146,2,RA-89072,22/02/2017,Yamal Airlines,Lsd From Gtlk,Active
+95116,,Sukhoi SuperJet 100,100-95LR,25/10/2016,3.5,89073,SaM146,2,RA-89073,22/02/2017,Yamal Airlines,Lsd From Gtlk    Named  Roman Filipov,Active
+95117,,Sukhoi SuperJet 100,100-95B,04/12/2016,,97004,SaM146,2,EI-FWE,08/05/2017,CityJet,,Transferred
+95117,,Sukhoi SuperJet 100,100-95B,04/12/2016,,97004,SaM146,2,EI-FWE,09/05/2017,Brussels Airlines,lsd from CityJet,Transferred
+95117,,Sukhoi SuperJet 100,100-95B,04/12/2016,,97004,SaM146,2,EI-FWE,12/11/2018,CityJet,Stored 11/2018 (lsd RJ leasing limited) as 9H-SJE,Stored
+95118,,Sukhoi SuperJet 100,100-95B,22/11/2016,,97010,SaM146,2,EI-FWF,08/05/2017,CityJet,,Transferred
+95118,,Sukhoi SuperJet 100,100-95B,22/11/2016,,97010,SaM146,2,EI-FWF,01/06/2017,Brussels Airlines,lsd from CityJet,Transferred
+95118,,Sukhoi SuperJet 100,100-95B,22/11/2016,,97010,SaM146,2,EI-FWF,07/01/2019,CityJet,Stored 01/2019 (RJ leasing limited),Stored
+95119,,Sukhoi SuperJet 100,100-95LR,06/12/2016,3.3,89075,SaM146,2,RA-89075,03/04/2017,IrAero,Lsf Gtlk,Active
+95120,,Sukhoi SuperJet 100,100-95B,16/12/2016,,97011,SaM146,2,EI-FWG,Due,Brussels Airlines,lsd from CityJet,Transferred
+95120,,Sukhoi SuperJet 100,100-95B,16/12/2016,,97011,SaM146,2,EI-FWG,29/06/2018,CityJet,,Transferred
+95120,,Sukhoi SuperJet 100,100-95B,16/12/2016,,97011,SaM146,2,EI-FWG,29/06/2018,Brussels Airlines,lsd from CityJet,Transferred
+95120,,Sukhoi SuperJet 100,100-95B,16/12/2016,,97011,SaM146,2,EI-FWG,01/10/2018,CityJet,Stored 10/2018 as 9H-SJI,Stored
+95121,,Sukhoi SuperJet 100,100-95LR,27/12/2016,3.3,89076,SaM146,2,RA-89076,27/04/2017,IrAero,Lsd From Gtlk  Named Alexander Nevsky,Active
+95122,,Sukhoi SuperJet 100,100-95B,18/01/2017,,97012,SaM146,2,EI-,Due,CityJet,,On order
+95123,,Sukhoi SuperJet 100,100-95LR,02/02/2017,3.2,97013,SaM146,2,RA-89085,29/09/2017,Azimuth,lsd from gtlk  Named  Volga,Active
+95124,,Sukhoi SuperJet 100,100-95LR,08/02/2017,3.2,89077,SaM146,2,RA-89077,04/05/2017,IrAero,Lsd From Gtlk,Active
+95125,,Sukhoi SuperJet 100,100-95LR,04/07/2017,2.8,89086,SaM146,2,RA-89086,06/04/2018,Yamal Airlines,Lsd From  Gtlk,Active
+95126,,Sukhoi SuperJet 100,100-95LR,03/03/2017,3.1,89078,SaM146,2,RA-89078,26/06/2017,IrAero,Lsd From Gtlk,Active
+95127,,Sukhoi SuperJet 100,100-95LR,15/02/2018,2.2,,SaM146,2,RA-89087,06/04/2018,Yamal Airlines,Lsd From Gtlk,Active
+95128,,Sukhoi SuperJet 100,100-95LR,23/03/2017,3,89079,SaM146,2,RA-89079,07/07/2017,Azimuth,lsd from GTLK  Named Terek,Active
+95129,,Sukhoi SuperJet 100,100-95LR,06/04/2017,3,89080,SaM146,2,RA-89080,18/07/2017,Azimuth,Lsd From Gtlk  Named  Don,Active
+95130,,Sukhoi SuperJet 100,100-95B,11/04/2017,3,97017,SaM146,2,RA-89088,27/11/2017,Yamal Airlines,Lsd From Gtlk,Active
+95131,,Sukhoi SuperJet 100,100-95LR,21/04/2017,3,95131,SaM146,2,RA-89081,02/11/2017,Yamal Airlines,Lsd From Gtlk,Active
+95132,,Sukhoi SuperJet 100,100-95SBJ,23/05/2017,2.9,97014,,,30319,19/06/2018,Royal Thai Air Force,,Active
+95133,,Sukhoi SuperJet 100,100-95B,25/05/2017,2.9,89097,SaM146,2,RA-89097,20/09/2017,Aeroflot,Named P. Derunov  Lsd From Veb-leasing,Active
+95134,,Sukhoi SuperJet 100,100-95LR,09/06/2017,2.8,89082,SaM146,2,RA-89082,01/04/2018,Yamal Airlines,Lsd From Gtlk,Active
+95135,,Sukhoi SuperJet 100,100-95B,21/06/2017,,89098,SaM146,2,RA-89098,27/09/2017,Aeroflot,,Written off
+95136,,Sukhoi SuperJet 100,100-95LR,05/07/2017,2.8,89089,SaM146,2,RA-89089,21/04/2018,Yamal Airlines,Lsd From Gtlk,Active
+95137,,Sukhoi SuperJet 100,100-95B,12/07/2017,2.7,89099,SaM146,2,RA-89099,19/12/2017,Aeroflot,Named K. Kuliev,Active
+95138,,Sukhoi SuperJet 100,100-95B,19/07/2017,2.7,89100,SaM146,2,RA-89100,18/11/2017,Aeroflot,Named Yuri Israel,Active
+95139,,Sukhoi SuperJet 100,100-95B,25/07/2017,2.7,89101,SaM146,2,RA-89101,07/12/2017,Aeroflot,Named M. Lomonosov,Active
+95140,,Sukhoi SuperJet 100,100-95LR,30/08/2017,2.6,89090,SaM146,2,RA-89090,18/04/2018,Yamal Airlines,Lsd From Gtlk,Active
+95141,,Sukhoi SuperJet 100,100-95B,06/09/2017,2.6,89102,SaM146,2,RA-89102,16/03/2018,Aeroflot,Named S. Dezhnev,Active
+95142,,Sukhoi SuperJet 100,100-95B,15/09/2017,2.6,95142,SaM146,2,RA-89103,30/12/2017,Aeroflot,Named V.bykov,Active
+95143,,Sukhoi SuperJet 100,100-95LR,25/09/2017,2.5,89091,SaM146,2,RA-89091,12/05/2018,Yamal Airlines,lsd from GTLK,Active
+95144,,Sukhoi SuperJet 100,100-95B,03/10/2017,2.5,89104,SaM146,2,RA-89104,30/12/2017,Aeroflot,Named V. Astafiev,Active
+95145,,Sukhoi SuperJet 100,100-95B,11/10/2017,2.5,89105,SaM146,2,RA-89105,29/01/2018,Aeroflot,Named Vasily Zhukovsky,Active
+95146,,Sukhoi SuperJet 100,100-95B,19/10/2017,2.5,89106,SaM146,2,RA-89106,30/01/2018,Aeroflot,Named V. Kaverin,Active
+95147,,Sukhoi SuperJet 100,100-95B,27/10/2017,2.5,89107,SaM146,2,RA-89107,13/02/2018,Aeroflot,Named L. Kassil,Active
+95148,,Sukhoi SuperJet 100,100-95B,06/11/2017,2.4,89108,SaM146,2,RA-89108,01/02/2018,Aeroflot,Named  V. Aksenov,Active
+95149,,Sukhoi SuperJet 100,100-95LR,13/11/2017,2.4,89092,SaM146,2,RA-89092,25/04/2018,Yamal Airlines,Lsd From Gtlk,Active
+95150,,Sukhoi SuperJet 100,100-95LR,23/11/2017,2.4,89093,SaM146,2,RA-89093,12/03/2018,Azimuth,Lsd From Gtlk  Named  Neva,Active
+95151,,Sukhoi SuperJet 100,100-95B,28/11/2017,2.4,89109,SaM146,2,RA-89109,27/08/2018,Aeroflot,Named Vasily Vereshchagin,Active
+95152,,Sukhoi SuperJet 100,100-95LR,06/12/2017,2.3,89096,SaM146,2,RA-89096,11/04/2018,Azimuth,Lsd From Gtlk  Named  Moscow,Active
+95153,,Sukhoi SuperJet 100,100-95LR,14/12/2017,2.3,89094,SaM146,2,RA-89094,30/03/2018,Azimuth,Lsd From Gtlk  Named Kuban,Active
+95153,,Sukhoi SuperJet 100,100-95LR,14/12/2017,2.3,89094,SaM146,2,RA-89094,30/03/2018,Azimuth,Lsd From Gtlk  Named Kuban,Active
+95154,,Sukhoi SuperJet 100,100-95LR,20/12/2017,2.3,97011,SaM146,2,RA-89119,04/01/2019,Severstal,,Active
+95155,,Sukhoi SuperJet 100,100-95LR,09/02/2018,2.2,89095,SaM146,2,RA-89095,18/04/2018,Azimuth,lsd from GTLK  Named  Irtysh,Active
+95156,,Sukhoi SuperJet 100,100-95B,20/02/2018,2.1,89111,SaM146,2,RA-89111,09/06/2018,Aeroflot,Named - Ivan Kozhedub,Active
+95157,,Sukhoi SuperJet 100,100-95B,02/03/2018,,97012,SaM146,2,EI-,Due,CityJet,,On order
+95158,,Sukhoi SuperJet 100,100-95B,15/03/2018,2.1,89112,SaM146,2,RA-89112,22/06/2018,Aeroflot,Named Vladimir Kokkinaki,Active
+95159,,Sukhoi SuperJet 100,100-95LR,26/03/2018,2,95159,SaM146,2,RA-89117,26/12/2018,Severstal,ex 97016Lsd from GTLK,Active
+95160,,Sukhoi SuperJet 100,100-95B,04/04/2018,2,89113,SaM146,2,RA-89113,29/06/2018,Aeroflot,Named Alexey Maresiev,Active
+95161,,Sukhoi SuperJet 100,100-95B,13/04/2018,2,89110,SaM146,2,RA-89110,31/08/2018,Aeroflot,Named Mikhail Gromov,Active
+95162,,Sukhoi SuperJet 100,100-95B,25/04/2018,2,89114,SaM146,2,RA-89114,17/08/2018,Aeroflot,Stored 05/2019 to 09/2019Named Valery Chkalov,Active
+95163,,Sukhoi SuperJet 100,100-95LR,30/05/2018,,97013,SaM146,2,EI-,Due,CityJet,,On order
+95165,,Sukhoi SuperJet 100,100-95B,19/06/2018,1.8,89116,SaM146,2,RA-89116,07/09/2018,Aeroflot,Named Konstantin Rokossovsky,Active
+95166,,Sukhoi SuperJet 100,100-95B,27/06/2018,1.8,89115,SaM146,2,RA-89115,21/09/2018,Aeroflot,Named Vasily Polenov,Active
+95169,,Sukhoi SuperJet 100,100-95LR,30/07/2018,,97002,SaM146,2,EI-,Due,CityJet,,On order
+95172,,Sukhoi SuperJet 100,100-95B,26/09/2018,1.5,89118,SaM146,2,RA-89118,03/01/2019,Severstal,,Active
+95174,,Sukhoi SuperJet 100,100-95B,12/10/2018,1.5,97008,SaM146,2,RA-89120,26/10/2019,Azimuth,Named Oka  Lsd From Gtlk,Active
+95175,,Sukhoi SuperJet 100,100-95B,22/10/2018,1.5,89121,SaM146,2,RA-89121,04/12/2019,Azimuth,Named   Ob,Active
+95176,,Sukhoi SuperJet 100,100-95B,08/11/2018,,97014,SaM146,2,EI-,Due,CityJet,,On order
+95177,,Sukhoi SuperJet 100,100-95LR,28/11/2018,,97016,SaM146,2,RA-89122,Due,Azimuth,,On order
+95179,,Sukhoi SuperJet 100,100-95B,12/12/2018,,97009,SaM146,2,EI,Due,CityJet,,On order
+95180,,Sukhoi SuperJet 100,100-95LR,24/01/2019,1.2,89136,SaM146,2,RA-89136,12/04/2019,Azimuth,Lsd from GTLK  Named Kama,Active
+95181,,Sukhoi SuperJet 100,100-95B,05/02/2019,1.2,89135,SaM146,2,RA-89135,25/12/2019,Severstal,Lsd from GTLK,Active
+95182,,Sukhoi SuperJet 100,100-95B,Unknown,,97016,SaM146,2,Ra-891,Due,Yamal Airlines,,On order
+95183,,Sukhoi SuperJet 100,100-95B,20/02/2019,,97020,SaM146,2,EI-,Due,CityJet,,On order
+95184,,Sukhoi SuperJet 100,100-95B,11/03/2019,,,SaM146,2,RA-891,Due,Yamal Airlines,,On order
+95185,,Sukhoi SuperJet 100,100-95B,25/03/2019,1,89123,SaM146,2,RA-89123,17/01/2020,Aeroflot,Named O. Kutafin   Lsd From Gtlk,Active
+95186,,Sukhoi SuperJet 100,100-95B,05/04/2019,1,89124,SaM146,2,RA-89124,15/01/2020,Aeroflot,Named Yuri Moiseev,Active
+95188,,Sukhoi SuperJet 100,100-95B,28/05/2019,0.9,89125,SaM146,2,RA-89125,21/01/2020,Aeroflot,Named Sergey Utochkin,Active
+95189,,Sukhoi SuperJet 100,100-95B,11/06/2019,0.8,89126,SaM146,2,RA-89126,16/01/2020,Aeroflot,Named Sergey Chaplygin,Active
+95190,,Sukhoi SuperJet 100,100-95B,21/06/2019,0.8,89127,SaM146,2,RA-89127,16/01/2020,Aeroflot,Named Georgy Sedov,Active
+95191,,Sukhoi SuperJet 100,100-95B,11/07/2019,,89128,SaM146,2,RA-89128,Due,Aeroflot,,On order
+95192,,Sukhoi SuperJet 100,100-95B,17/07/2019,,89129,SaM146,2,RA-89129,Due,Aeroflot,,On order
+95193,,Sukhoi SuperJet 100,100-95B,11/09/2019,,89130,SaM146,2,RA-89130,Due,Aeroflot,,On order
+95194,,Sukhoi SuperJet 100,100-95B,24/09/2019,,89131,SaM146,2,RA-89131,Due,Aeroflot,,On order
+95195,,Sukhoi SuperJet 100,100-95B,03/10/2019,,89132,SaM146,2,RA-89132,Due,Aeroflot,Named A. Nikitin,On order
+95197,,Sukhoi SuperJet 100,100-95B,31/10/2019,,89133,SaM146,2,RA-89133,Due,Aeroflot,,On order
+95198,,Sukhoi SuperJet 100,100-95B,20/02/2020,,89134,SaM146,2,RA-89134,Due,Aeroflot,,On order
+95199,,Sukhoi SuperJet 100,100-95B,03/03/2020,,89139,SaM146,2,RA-89139,Due,Aeroflot,,On order
+95200,,Sukhoi SuperJet 100,100-95B,Unknown,,,SaM146,2,RA-891,Due,Aeroflot,,On order
